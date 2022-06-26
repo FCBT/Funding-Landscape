@@ -1,0 +1,4 @@
+Supports research on the magnetized plasma envelope of the outer atmosphere.
+
+Synopsis
+Supports research on the magnetized plasma envelope of the outer atmosphere, including energization by the solar wind; the origin of geomagnetic storms and substorms; the population by solar and ionospheric sources; the origin of electric fields; the coupling among the magnetosphere, ionosphere, and atmosphere; and waves and instabilities in the natural plasma. Also supported are ground-based observational programs at high latitudes and laboratory experiments applicable to the geospace environment. Theoretical research programs may include numerical simulations using a variety of MHD, hybrid and particle codes. The analysis of data from all sources, whether ground-based or from spacecraft, is also supported.

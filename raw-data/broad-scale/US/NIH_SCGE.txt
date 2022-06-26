@@ -1,0 +1,16 @@
+Program Snapshot
+The NIH Common Fund’s Somatic Cell Genome Editing (SCGE) program is working to improve the efficacy and specificity of gene editing approaches to help reduce the burden of common and rare diseases caused by genetic changes. Genome editing technologies present an exciting prospect for treatments and possibly even cures for these diseases. SCGE is developing quality tools to perform and assess effective and safe genome editing in non-reproductive (“somatic”) cells of the body. These research tools will be made widely available to the research community to reduce the time and cost required to develop new therapies.
+
+The SCGE consortium is developing targeted delivery systems for the delivery of editors into somatic cells and improved human gene editing tools. It is exploring new methods for assessing unintended biological effects, including better animal models for testing gene editing tools and delivery systems. Information about these approaches, technologies, and tools will be disseminated in a toolkit through the SCGE dissemination and coordinating center (DCC)(link is external). Click on the thumbnail image above for an overview of the program and how it is working to achieve its goal.  
+
+Less
+Advances in genome editing technologies made over the past decade allow for precise changes to the DNA code inside of live cells. These technologies hold great promise, including the possibility of editing the disease-causing DNA within the non-reproductive (“somatic”) cells of the body. Such changes would not be passed down to future generations.
+
+Nevertheless, many challenges remain before such techniques could be widely used to treat patients with genetic disease. Genome editing tools need to function specifically on the disease gene to minimize unintended consequences. In addition, the editing tools need to be delivered selectively to the cells within the body affected by the disease while avoiding other cells, such as the reproductive cells.
+
+The Somatic Cell Genome Editing program plans to
+
+Expand the number of genome editing tools available to researchers.
+Develop delivery systems that can target the cells of specific organs and tissues in the human body efficiently.
+Design new assays for testing safety and efficacy of editing and delivery tools.
+Distribute the knowledge, methods, and tools that have been developed through this program to the scientific community.

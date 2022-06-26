@@ -1,0 +1,29 @@
+Somatic Mosaicism Across Human Tissues (SMaHT)
+Program Snapshot
+The Somatic Mosaicism across Human Tissues (SMaHT) Network aims to transform our understanding of how somatic mosaicism in human cells influences biology and disease.
+
+We all have personal genomes that are composed of the DNA sequence we inherit and of changes to that DNA sequence in individual cells that occur over our lifetimes. Somatic mosaicism refers to the post-conception changes to our DNA that lead to genetic variation among cells within an individual.
+
+We know that over time, somatic mosaicism can lead to diseases like cancer, but we don’t know how much somatic mosaicism there is in our personal genomes or how much it influences human biology. The goal of the SMaHT Network is to determine how somatic mosaicism impacts human biology and health. By cataloging the extent of somatic mosaicism in different cell types, disease states, and life stages, the SMaHT Network will lead to new understandings of how much somatic mosaicism influences fetal development, disease processes, and aging. This will catalyze research on the contribution of our personal genomes to a wide array of diseases and disorders, including undiagnosed diseases and disorders in the skin, muscle, brain, and immune system.
+
+To realize its goal, the SMaHT Network will systematically document DNA sequence variants within personal genomes by detecting DNA variation in tissues from human donors using state-of-the art sequencing technologies. Somatic mosaicism is challenging to study because low frequency variants are hard to detect, and repetitive regions of DNA are difficult to sequence reliably. The SMaHT Network will spur technological development that will enable researchers to detect different types of variation, including reproductive cell variants and rare mutations. These technological developments will enhance our understanding of how large and small variants contribute to biology and human development.
+
+Key outcomes of the SMaHT Network include:
+
+• A catalog of somatic variants in select tissues from diverse human donors
+
+• Innovative sequencing tools and analysis methods that optimize variant detection
+
+• A SMaHT data workbench that seamlessly integrates with current tools to study DNA sequences, like genome browsers, and combines analysis of somatic variation with the current human genome
+
+• Fundamentally new ways of understanding the contribution of somatic variation to human biology through the development of new technologies, analysis methods, and extensive datasets
+
+Less
+The SMaHT Network includes the following initiatives:
+
+• Somatic Variant Discovery: This initiative will generate a catalog of human somatic variation by sequencing data from 10-15 sets of tissues collected from 150 individuals. This initiative will consist of a Tissue Procurement Center and Genome Analysis Centers.
+
+• Technology and Tool Development: These projects will develop innovative technologies to improve the detection of different types of somatic variation and rare variants.
+
+• Data Analysis and Organization: This initiative consists of Data Analysis Centers and an Organizational Center. The Data Analysis Centers will ensure that the somatic variant catalog is accessible, high-quality, and interoperable. The Organizational Center will coordinate the program’s activities and provide outreach to the research community.
+

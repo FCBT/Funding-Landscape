@@ -1,0 +1,13 @@
+Supports research on the reciprocal interactions — mediated by motor manipulation — between human cognition and embodied and intelligent engineered systems.
+
+Synopsis
+The Mind, Machine and Motor Nexus (M3X) program supports fundamental research at the intersection of mind, machine and motor. A distinguishing characteristic of the program is an integrated treatment of human intent, perception, and behavior in interaction with embodied and intelligent engineered systems and as mediated by motor manipulation. M3X projects should advance the holistic analysis of cognition and of embodiment as present in both human and machine elements. This work will encompass not only how mind interacts with motor function in the manipulation of machines, but also how, in turn, machine response and function may shape and influence both mind and motor function.
+
+The M3X program seeks to support the development of theories, representations, and working models that draw upon and contribute to fundamental understanding within and across diverse fields, including but not limited to systems science and engineering; mechatronics; cognitive, behavioral and perceptual sciences; and applied computing. Research funded through this program is expected to lead to new computable theories and to the physical manifestation of these theories.
+
+Application areas supported by the M3X program span the full breadth of the Division of Civil, Mechanical and Manufacturing Innovation. Methodological innovation is emphasized, as is a focus on engaging new and emerging thematic areas.
+
+The M3X program does not support disaggregated, parallel efforts from individual disciplines or investigators: rather, supported activities must strongly integrate across disciplines to enable discoveries that would not otherwise be possible. Additionally, the M3X program will not consider proposals that do not integrate physical considerations in a fundamental way.  Principal investigators proposing pure artificial intelligence or pure machine learning research are referred to funding opportunities in the Directorate for Computer and Information Science and Engineering.   
+
+ 
+

@@ -1,0 +1,7 @@
+Synopsis
+The GLD Program supports innovative fundamental research into processes that shape and modify earth's landscapes over a variety of length and time scales, with a focus on the Holocene. The program encourages research that quantitatively investigates the coupling and feedback among such processes, their rates, and their relative roles, especially in the contexts of variation in biologic, climatic, and tectonic influences and in light of changes due to human impacts. Such research may involve fieldwork, modeling, experimentation, theoretical development, or combinations thereof. GLD is particularly interested in increasing the participation of underrepresented groups in research and education such as women, persons with disabilities, and underrepresented minorities [1] [2], and those from geographically underrepresented areas in science, technology, engineering, and mathematics (STEM). Proposals submitted in response to this solicitation are strongly encouraged to involve PIs, co-PIs, postdoctoral researchers, students, and other personnel who are members of these groups. Proposers are also strongly encouraged to consider involving veterans of the U.S. Armed Forces as part of NSF’s broader effort to promote veteran involvement in STEM research and education.
+
+[1] https://ncses.nsf.gov/pubs/nsf19304/digest/introduction
+
+[2] https://www.nsf.gov/od/oia/activities/ceose/reports/CEOSE_ReportToCongress_RP_FVmp_508.pdf
+

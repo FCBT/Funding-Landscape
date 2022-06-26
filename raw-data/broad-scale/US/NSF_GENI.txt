@@ -1,0 +1,15 @@
+Synopsis
+GENI Mission & Vision
+
+Funded by CISE / CNS, the Global Environment for Network Innovations (GENI) is a unique virtual laboratory for at-scale networking experimentation envisioning future internets. The GENI mission is to:
+
+Enable repeatable experiments on large, complex, networked systems;
+Open the way for transformative research at the frontiers of network science and engineering; and
+Inspire and accelerate the potential for groundbreaking innovations of significant socio-economic impact.
+About GENI
+
+GENI, a virtual laboratory for exploring future internet technologies and protocols at scale, creates major opportunities to understand, innovate and transform global networks and their interactions with society. Via the flexible and dynamic deployment of experiments onto common infrastructure, GENI re-imagines the methodology of both network system research and of potential early deployments and evaluation.  At-scale demonstrations of transformational ideas increase the opportunities for significant socio-economic impact. GENI will:
+
+Support at-scale experimentation on shared, heterogeneous, highly instrumented infrastructure, including experimentation aimed at demonstrating user acceptance and societal value;
+Enable deep programmability throughout the network, promoting innovations in network science, security, technologies, services and applications; and
+Provide collaborative and exploratory environments for academia, industry, and the public to catalyze groundbreaking discoveries and innovation.

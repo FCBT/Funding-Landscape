@@ -1,0 +1,19 @@
+Supports interdisciplinary research aimed at mechanistic understanding of the structure, function and evolution of cellular and subcellular systems across the tree of life.
+
+Synopsis
+Apply to NSF 21-509
+
+The cluster seeks theory-driven investigations of diverse cellular and subcellular systems. Research proposals are encouraged that use multidisciplinary physical, chemical, mathematical and computational approaches to provide novel techniques and integrative insight into fundamental cellular functions. Innovative proposal using plants, microbes, and nontraditional model species are encouraged. Proposals that rely heavily on descriptive approaches are given lower priority.
+
+The cluster encourages proposals in the following areas:
+
+Predictive understanding of the behavior of living cells through integration of modeling and experimentation.
+Evolutionary approaches to understanding the rules governing cellular functions.
+Integration of function with emerging cellular properties across broad spatiotemporal scales, including ideas that consider cellular organization from the standpoint of soft condensed matter are encouraged.
+The cluster recognizes that technological advancement can have profound and catalytic influences on the field of cell biology. These advances are often the result of technology in one scientific field being borrowed and applied to another in new and creative ways. The cluster encourages proposals to develop or adapt innovative tools with potential to enable new avenues of cellular investigation 
+
+The following NSF priorities might also be of interest to the Cellular Dynamics and Function community
+
+NSF Big Ideas: Understanding Rules of Life, Navigating the New Arctic and NSF Includes
+Industries of the Future: Biotechnology/Bioeconomy, Artificial Intelligence and Advanced Manufacturing.
+Investigators considering submitting proposals to the cluster, especially in the area of technology innovation, should contact a CDF program officer to discuss its suitability before submission.

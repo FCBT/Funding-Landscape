@@ -1,0 +1,32 @@
+Program Snapshot
+The goal of the Gabriella Miller Kids First Pediatric Research Program (Kids First) is to help researchers uncover new insights into the biology of childhood cancer and structural birth defects, including the discovery of shared genetic pathways between these disorders. Children with birth defects have an increased risk of developing childhood cancer. This suggests there are shared genetic pathways underlying some types of childhood cancer and structural birth defects. Kids First is achieving this goal through two initiatives: 1) identifying children with childhood cancer and structural birth defects and their families for whole genome sequencing performed by the Kids First sequencing centers 2) developing the Gabriella Miller Kids First Data Resource,(link is external) a large-scale database of clinical and genetic data from patients with childhood cancers and structural birth defects and their families. Analyzing genetic sequence data from children with childhood cancer and structural birth defects together may lead to the discovery of new genetic pathways.
+
+Over 2015-2021, the program selected 44 childhood cancer and structural birth defects cohorts for whole genome sequencing through a peer-review process, representing and 20,000 patients and 48,000 genomes. The program will select additional cohorts in 2022 pending available funding. Clinical and genetic data from 21 of the Kids First projects are publicly available through the Gabriella Miller Kids First Data Resource Portal(link is external), a cloud-based platform made up of tools to foster analyses and collaborations between childhood cancer and structural birth defect research communities. Kids First is enabling new findings in birth defects and childhood cancers. 
+
+For an overview of the Kids First Program watch the video below:
+
+
+
+
+ 
+
+
+Gabriella Miller Kids First Program graphic identity featuring children with kites
+
+Sign up for the Kids First email listserv to receive periodic updates on program planning and activities
+
+Less
+ 
+ 
+
+Did you know that kids with birth defects are at a higher risk of also developing childhood cancer? This suggests that there are shared genetic pathways underlying some types of childhood cancer and structural birth defects. Analyzing genetic sequence data from children with childhood cancer and structural birth defects together may lead to the discovery of new genetic pathways that would not have been uncovered had the analysis only been performed using childhood cancer data alone, or vice versa. These new pathways may help researchers discover novel treatments. The Kids First Data Resource will allow researchers to perform these types of analyses and hopefully accelerate research toward more effective preventions and therapies. 
+
+
+Pediatric conditions, such as childhood cancers and birth defects, have profound, lifelong effects on patients and their families. In the United States in 2017, an estimated 15,270 new cases of cancer were diagnosed among children from birth to 19 years, and an estimated 1,799 children died from the disease. One in 33 infants born in the United States has a birth defect. Birth defects are the leading cause of death during the first year of life and they account for half of all pediatric hospitalizations. The field of pediatric oncology and the field of developmental biology, which studies disorders like birth defects, have made major discoveries that advanced our understanding of disease and development. However, we still do not fully understand the role of genetics in these areas.
+
+Kids First History
+Prior to her death from cancer in 2013, 10 year-old Gabriella Miller called on Congress to increase support for pediatric research. In 2014, the Gabriella Miller Kids First Research Act was signed into law, authorizing $12.6 million each year for 10 years to support pediatric research within the Common Fund. In fiscal year 2015, in accordance with this Act, Congress appropriated the first installment of $12.6 million to the Common Fund for pediatric research. Pediatric research experts from across the NIH Institutes and Centers developed plans for this program and in January 2015, the NIH Council of Councils, the advisory group that reviews plans for new Common Fund programs, approved a plan for the Gabriella Miller Kids First Pediatric Research program (Kids First). The plan focused on developing a large-scale data resource that will allow researchers everywhere access to vast amounts of childhood cancer and structural birth defects genetics data that will greatly accelerate their research. families impacted by these conditions. Kids First is implementing this plan through three major initiatives:
+
+1.    Cohort identification and DNA sequencing: Identify children with childhood cancer and/or structural birth defects, and their families, for whole genome sequencing. All Kids First data will be deposited in the data resource. 
+2.    Gabriella Miller Kids First Pediatric Data Resource(link is external): A centralized database of well-curated clinical and genetic sequence data from dozens of childhood cancer and structural birth defects cohorts comprising thousands of patients and their families.
+3.    Data Analysis: Data Mining & Demonstration Projects: In the future, Kids First will support analysis of Kids First-generated and non-Kids First-generated data to uncover new insights into the biology of childhood cancer and structural birth defects.

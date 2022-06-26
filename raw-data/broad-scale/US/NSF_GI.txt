@@ -1,0 +1,10 @@
+Supports the development of community cyberinfrastructure to advance research and education in the Earth sciences.
+
+Synopsis
+The Division of Earth Sciences (EAR) will consider proposals for the development of cyberinfrastructure (CI) for the Earth Sciences (Geoinformatics). EAR-supported geoinformatics opportunities will fit into three tracks: Catalytic Track, Facility Track, and Sustainability Track. These tracks broadly support the lifecycle of geoinformatics resource development, from pilots (Catalytic) to broad implementation (Facility) to sunsetting and long-term sustainability (Sustainability).
+
+The GI Catalytic Track will support pilot geoinformatics development efforts that are intended to serve Earth Science research.
+
+The GI Facility Track will support awards for implementation and operation of a cyberinfrastructure resource relied upon by one or more Earth Science communities to address science questions.
+
+The GI Sustainability Track will support development and implementation of sustainable funding models to preserve data and software products of value to Earth Science research.

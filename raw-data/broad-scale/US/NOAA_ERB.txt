@@ -1,0 +1,12 @@
+At the direction of Congress in 2020, NOAA is leading a multi-year research initiative to investigate natural and human activities that might alter the reflectivity of the stratosphere and the marine boundary layer, and the potential impact of those activities on the Earth system. The NOAA Earth’s Radiation Budget (ERB) Initiative aims to:
+
+Improve the understanding of aerosol impacts on the Earth’s energy balance;
+Establish a capability to observe and monitor stratospheric conditions;
+Detect and accurately simulate the impacts of natural and human-caused aerosol injections on radiative forcing, weather, climate, and the Earth system; and
+Apply this improved foundational understanding to Earth system prediction.
+With support from the ERB Initiative, NOAA is expanding its capabilities to measure aerosols and trace gases in the atmosphere and the laboratory, in alignment with the National Academies of Sciences, Engineering and Medicine (NASEM) call for new observations to better constrain models in order to assess potential solar climate intervention approaches. The ERB Program, part of the Climate Program Office's Earth System Science and Modeling Division, is a critical piece of this larger ERB Initiative and supports competitive research awards focused on: 
+
+Improving model representations of stratospheric aerosol processes and the atmospheric chemical, dynamical, and physical responses to aerosol forcing;
+Advancing model treatments of aerosol microphysics, aerosol-cloud interactions and the corresponding impacts on weather, tropospheric chemistry, and climate;
+Assessing with models the efficacy, risks, and Earth System feedbacks of stratospheric aerosol injection (SAI) or marine cloud brightening (MCB).
+The ERB Program’s first round of supported projects will be selected in 2022. More information on the current competition is available here.

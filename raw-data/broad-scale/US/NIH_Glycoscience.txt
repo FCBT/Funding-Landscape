@@ -1,0 +1,19 @@
+Program Snapshot
+
+Image of glycan building blocks and a cartoon showing how glycans cover the outside of cells
+Glycans are complex biomolecules made from sugars. Glycans are an important part of biology and can impact how our cells or proteins work. The Glycoscience program is providing resources so scientists can better understand the role of glycans.
+
+The goal of the Common Fund’s Glycoscience program is to create new resources, tools, and method to make the study of glycans (sugars) more accessible to the broader research community. Glycans play a critical role in nearly all aspects of biology, ranging from how our bodies recognize and fight viruses and bacteria to how proteins are moved throughout our cells to perform different tasks. Despite being an important part to nearly all biological functions, the study of glycans and the roles they play is limited due to the complexity surrounding the chemistry to make, study, and sequence all the different glycans in our body. To combat this, the Glycoscience program has developed a variety of tools, resources, and information for researchers unfamiliar with glycans to incorporate them into their studies. This includes techniques for identifying especially difficult glycans, probes to study glycans in bacterial cell walls, standards for glycan chemical synthesis, methods for high-throughput glycan studies, and glycoscience educational materials.
+
+Less
+Complex multicellular organs and organisms are dependent upon the roles of carbohydrates for assembly. All cells carry an array of sugars or glycans that have the ability to modulate or mediate cellular interactions with other cells, the cellular matrix and molecules that are critical to the development and function of a complex multicellular organism. Nearly all aspects of biology are affected by glycan-mediated events. Certain types of glycans play even more important roles in mediating cellular processes, including communication between synapses and growth of neurons within the central nervous system. Unfortunately, it is not easy to synthesize, sequence and study the biological functions of carbohydrates, so their use of biological targets for drug discovery has been greatly hindered. While there have been a handful of notable successes in carbohydrate-based drug development, the complexity of carbohydrate chemistry makes glycoscience inaccessible to most biomedical researchers.
+
+The NIH Common Fund Glycoscience Program is focused on creating new methodologies and resources to study glycans, and to develop these resources so they may be more easily understood and accessed by the broader biomedical research community.  Achieving this goal will allow investigators to fully explore the roles of carbohydrates in their biological models, pathways, and/or diseases of interest, rather than abandon such discovery due to a lack of tools or expertise. Initiatives of this program have been designed to encourage new strategies and high-risk approaches for methods and tool development with subsequent rapid transition of successful projects to commercialization.
+
+ 
+
+Program Initiatives:
+
+develop methods and technologies for synthesis of biomedically relevant carbohydrates
+develop accessible tools for probing and analyzing carbohydrates and their interaction partners
+develop data integration and analysis tools

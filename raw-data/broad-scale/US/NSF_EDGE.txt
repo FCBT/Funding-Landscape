@@ -1,0 +1,39 @@
+Supports the development of genomic tools and research to uncover the relationships between genes and phenotypes across environmental, developmental, social and genomic contexts.
+
+Synopsis
+Through the Enabling Discovery through GEnomics (EDGE) program, the National Science Foundation (NSF) and the National Institutes for Health (NIH) support research to advance understanding of comparative and functional genomics.  The EDGE program supports the development of innovative tools, technologies, resources, and infrastructure that advance biological research focused on the identification of the causal mechanisms connecting genes and phenotypes. The EDGE program also supports functional genomic research that addresses the mechanistic basis of complex traits in diverse organisms within the context (environmental, developmental, social, and/or genomic) in which they function.  These goals are essential to uncovering the rules that underlie genomes-to-phenomes relationships and predict phenotype, an area relevant to Understanding the Rules of Life: Predicting Phenotype, one of the 10 Big Ideas for NSF investment.  The goals also support the NHGRI priority to establish the roles and relationships of all genes and regulatory elements in pathways, networks, and phenotypes.
+
+Program contacts
+General inquiries regarding this program should be made to:
+
+BIOEDGE@NSF.GOV
+
+For questions about NHGRI interests, contact:
+
+Jennifer Troyer, telephone (301) 312-3276, email: jennifer.troyer@nih.gov
+National Human Genome Research Institute (NHGRI) 
+
+NHGRI will support the development of resources, approaches, and technologies that will accelerate genomic research on the structure of genomes, the biology of genomes, and the biology of disease; that will use genomics to advance the science of medicine; and that will incorporate genomics to improve the effectiveness of healthcare. NHGRI will also support genomic research in several cross-cutting areas, including the ethical, legal and societal implications of genomics and genetics research, bioinformatics, technology development, and research training and career development.
+
+In general, NHGRI supports studies that provide generalizable methods and knowledge.  Applications for studies relevant only to a particular disease or organ system should be directed to the appropriate Institute or Center. NHGRI strongly encourages potential applicants to contact program staff in the early stages of developing your application. The contact information for the three scientific programs are:
+
+Division of Genome Science: https://www.genome.gov/27550609/division-of-genome-sciences-staff/  
+
+Division of Genomic Medicine: https://www.genome.gov/27550610/division-of-genomic-medicine-staff/
+
+Division of Genomics and Society: https://www.genome.gov/27550080/division-of-genomics-and-society/
+
+Theodore J. Morgan
+tmorgan@nsf.gov	(703) 292 7868	BIO/IOS
+Douglas K. (Patrick) Abbot
+dabbot@nsf.gov	(703) 292-7820	BIO/IOS
+Christopher Balakrishnan
+cbalakri@nsf.gov	(703) 292-2331	BIO/DEB
+Steven E. Ellis
+stellis@nsf.gov	(703) 292-7876	BIO/DBI
+Manju M. Hingorani
+mhingora@nsf.gov	(703) 292-7323	BIO/MCB
+Courtney E. Jahn
+cjahn@nsf.gov	(703) 292-7746	BIO/IOS
+Jennifer Troyer
+NIH/NHGRI Program Director	jennifer.troyer@nih.gov	(301) 312-3276

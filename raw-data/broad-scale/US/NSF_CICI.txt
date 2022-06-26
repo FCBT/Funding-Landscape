@@ -1,0 +1,8 @@
+Synopsis
+The objective of the Cybersecurity Innovation for Cyberinfrastructure (CICI) program is to develop, deploy and integrate solutions that benefit the broader scientific community by securing science data, workflows, and infrastructure. CICI recognizes the unique nature of modern, distributed, and rapid collaborative science and the breadth of security expertise, infrastructure and requirements among different practitioners, researchers, and scientific projects. CICI seeks proposals in three program areas:
+
+1.     Usable and Collaborative Security for Science (UCSS):  Projects in this program area should support novel and applied security and usability research that facilitates scientific collaboration, encourages the adoption of security into the scientific workflow, and helps create a holistic, integrated security environment that spans the entire scientific cyberinfrastructure ecosystem.
+
+2.     Reference Scientific Security Datasets (RSSD): Projects in this program area should leverage instrumented cyberinfrastructure to capture scientific workflows and workloads as reference data artifacts that can help support reproducible security research, testing and evaluation.
+
+3.     Transition to Cyberinfrastructure Resilience (TCR): Projects in this program area should improve the robustness and resilience of scientific cyberinfrastructure through testing, evaluation, hardening, validation, and technology transition of novel cybersecurity research.

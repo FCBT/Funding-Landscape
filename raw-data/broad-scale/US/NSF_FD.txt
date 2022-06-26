@@ -1,0 +1,36 @@
+Supports fundamental research on the physics of various fluid dynamics, using experiments, theoretical developments and computational discovery.
+
+Synopsis
+The Fluid Dynamics program is part of the Transport Phenomena cluster, which also includes 1) the Combustion and Fire Systems program; 2) the Particulate and Multiphase Processes program; and 3) the Thermal Transport Processes program.
+
+The Fluid Dynamics program supports fundamental research toward gaining an understanding of the physics of various fluid dynamics phenomena. Proposed research should contribute to basic scientific understanding via experiments, theoretical developments, and computational discovery.
+
+Major areas of interest and activity in the program include:
+
+Turbulence and transition: High Reynolds number experiments; large eddy simulation; direct numerical simulation; transition to turbulence; 3-D boundary layers; separated flows; multi-phase turbulent flows; flow control and drag reduction. A new area of emphasis is high speed boundary layer transition and turbulence; the focus would be for flows at Mach numbers greater than 5 to understand cross-mode interactions leading to boundary layer transition and the ensuing developing and fully developed turbulent boundary layer flows. Combined experiments and simulations are encouraged.
+Bio-fluid physics: Bio-inspired flows; biological flows with emphasis on flow physics.
+Non-Newtonian fluid mechanics: Viscoelastic flows; solutions of macro-molecules.
+Microfluidics and nanofluidics: Micro-and nano-scale flow physics. 
+Wind and ocean energy harvesting: Focused on fundamental fluid dynamics associated with renewal energy.
+Fluid-structure interactions: NSF interests are in general FSI applications across the low- to high-Reynolds number range. In addition an NSF-AFOSR (Air Force Office of Scientific Research) joint funding area is the theory, modeling and/or experiments for hypersonic applications. Proposals will be jointly reviewed by NSF and AFOSR using the NSF merit review process. Actual funding format and agency split for an award (depending on availability of funds) will be determined after the proposal selection process. The AFOSR program that participates in this initiative is the Aerothermodynamics program (program officer: Dr. Sarah Popkin).
+Canonical configurations: Experimental research is encouraged to develop spatiotemporally resolved databases for canonical configurations to either confirm historical results or to provide data in an unexplored parameter region. Fidelity and completeness for theoretical/computational validation are key attributes of the proposed experimental data.
+Artificial intelligence (AI)/machine learning: Innovative AI ideas related to the use of machine learning and other AI approaches in fluid dynamics research to model and control the flows are encouraged. Verifying new models with canonical configurations, when appropriate, is encouraged for the Computational and Data-Enabled Science & Engineering (CDS&E) program.
+Instrumentation and Flow Diagnostics: Instrument development for time-space resolved measurements; shear stress sensors; novel flow imaging; and velocimetry.
+NOTE: Proposals that use fluid flows as a boundary input condition or a driving force in a problem do not fit within the scope of this program. Proposals focused on particulates (including droplets) two-way coupled with fluids, colloids, and multiphase rheology and processes should be directed to the Particulate and Multiphase Processes program (CBET PD-1415). Proposals dealing mainly with materials synthesis, processing and characterization may be more suitable for the Advanced Manufacturing program in the Division of Civil, Mechanical, and Manufacturing Innovation or programs in the Division of Materials Research. Proposals focused on biological systems may be more suitable for Physiological and Structural Systems in the Division of Integrative Organismal Systems.
+
+Innovative proposals outside of these specific interest areas may be considered; however, prior to submission, it is recommended that the PI contact the program director to avoid the possibility of the proposal being returned without review.
+
+INFORMATION COMMON TO MOST CBET PROGRAMS
+
+Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field. Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact on society and/or industry of success in the research. The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal.
+
+The duration of unsolicited proposal awards in CBET is generally up to three years. Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of PI time per year (awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the program director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the ?What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)? link towards the bottom of this page.
+
+Faculty Early Career Development (CAREER) program proposals are strongly encouraged. Award duration is five years. The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description.   
+
+Proposals for Conferences, Workshops, and Supplements: PIs are strongly encouraged to discuss their requests with the program director before submission of the proposal.
+
+Grants for Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER) are also considered when appropriate. Please note that proposals of these types must be discussed with the program director before submission. Grant Opportunities for Academic Liaison with Industry (GOALI) proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged. Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in the Proposal & Award Policies & Procedures Guide (PAPPG), Part 1, Chapter II, Section E: Types of Proposals.
+
+Compliance: Proposals that are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review.
+

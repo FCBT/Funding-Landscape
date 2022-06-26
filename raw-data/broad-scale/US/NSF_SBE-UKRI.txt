@@ -1,0 +1,107 @@
+Special Guidelines for Submitting Collaborative Proposals for SBE-UKRI International Research Partnerships
+
+Synopsis
+SBE-UKRI research proposals may be submitted at any time after acceptance of an initial Expression of Interest (EOI). After acceptance of EOI, invited full proposal submissions must adhere to the due dates and any other requirements of the SBE program that they are being submitted to.
+
+The Social, Behavioral and Economic Sciences Directorate (SBE) of the National Science Foundation (NSF) and United Kingdom Research and Innovation (UKRI) have worked in partnership for many years to support international collaboration under the SBE-UKRI Lead Agency Opportunity. The goal of this activity is to promote transatlantic collaborative research by reducing barriers to conducting international research. The SBE-UKRI Lead Agency Opportunity allows U.S. and UK researchers to submit a single collaborative proposal that will undergo a single merit review process through the lead agency. 
+
+Under the SBE-UKRI Lead Agency Opportunity, proposals may be accepted for collaborative research in areas at the intersection of NSF/SBE’s and UKRI's missions. The UK Research Councils participating in this activity are the Economic and Social Research Council (ESRC), the Arts and Humanities Research Council (AHRC) and the Biotechnology and Biological Sciences Research Council (BBSRC). Proposers should review the programs supported through NSF/SBE and through the relevant UK Research Council(s) for further information on what areas of research are eligible for support through this activity. Proposals are expected to adhere to typical proposal sizes and durations for the relevant UK Research Council(s) and SBE program(s) from which funding is sought. Proposals will be accepted for both interdisciplinary and disciplinary research projects. Please consult this list of participating SBE programs. Please note that this activity is limited to core programs within the SBE divisions; No cross-cutting or agency-wide special programs are eligible. 
+
+This document provides guidelines for the preparation, submission, review and award of SBE-UKRI Collaborative Proposals. 
+
+Proposers are advised that all documents submitted to NSF or UKRI may be shared by secure electronic means with other agencies participating in the NSF/SBE - UKRI Lead Agency Opportunity. 
+
+ 
+
+Proposal Preparation and Submission
+
+All proposals must fall within the mission and funding parameters of both NSF/SBE and at least one of the participating UK Research Councils. Proposals that do not fall within the missions of both funding organizations will not be considered. 
+
+There is a two-stage application process. Stage 1 must be completed prior to Stage 2. Please begin Stage 1 at least three to four weeks prior to your intended proposal submission target date. 
+
+Stage 1: Expression of Interest (EOI) 
+
+Before submitting a proposal, proposers should identify a prospective lead agency (either NSF/SBE or one of the participating UK Research Councils: AHRC, BBSRC or ESRC) based on where the largest proportion of research will occur, and through which institution the greater amount of funding will be requested. 
+
+Proposers must then prepare: (a) a brief description of the proposed research (1000 words or 2 pages in length maximum), including a list of the main objectives of the research, the methodologies to be used and the anticipated broader impacts/outputs and beneficiaries of the project; (b) the names and affiliations of the proposers and (c) bottom line estimates of funding to be requested from NSF and the relevant UK Research Council(s). Although a detailed budget is not required at this time, we strongly encourage proposers to submit a total funding estimate. It is advisable for proposers to consult with their institution's Office of Sponsored Research for budget advice prior to finalizing a total estimate. 
+
+To submit the above information, proposers must complete an Expression of Interest (EOI) form. If NSF is the lead agency, email the completed form to sbe-ukri@nsf.gov and if a UK Research Council is the lead agency, email it to sbeleadagency@ukri.org. Upon receipt of your EOI, both agencies will review the submitted information to check for eligibility (namely whether the proposed research fits within the participating agencies' portfolios and whether the proposed researchers and institutions meet the agencies' funding eligibility requirements). 
+
+Upon confirmation from the lead agency that both agencies have reviewed the EOI and confirmed that the proposed collaborative research is appropriate for review under the NSF/SBE - UKRI Lead Agency Opportunity, the lead agency will contact the proposers to inform them that they may submit a full research proposal to the lead agency. In some cases, an alteration of the budget request may be required in the full proposal submission. 
+
+If this communication has not taken place prior to a proposal submission, the proposal will be returned without review. 
+
+Stage 2: Full Proposal Submission 
+
+The proposal should indicate that it is to be considered under this Lead Agency Opportunity by prefacing the title with "SBE-UKRI:" regardless of which agency will be the lead. 
+
+If NSF is the lead agency: 
+
+Proposers must comply with the proposal preparation requirements outlined in NSF's Proposal & Award Policies & Procedures Guide (PAPPG). The proposal must be submitted to the appropriate standing program within SBE via Research.gov or Grants.gov.  
+
+If using Research.gov and the research collaboration only includes one US institution, please select the option "Single Proposal (with or without subawards)" in Step 4. Proposal Details of the Prepare New Full Proposal wizard in Research.gov. Although SBE-UKRI projects involve collaborative research, proposals are only classified as "collaborative" in Research.gov if they either 1) have subaward(s) or 2) the lead proposal has associated non-lead proposal(s) attached to it. For more information on NSF collaborative proposals, see Chapter II.D.3 of the PAPPG.   
+
+The UK investigator(s) should be included as "non-funded senior personnel". A biographical sketch for each of these individuals should be provided in the "Biographical Sketches" section of the proposal with a format that conforms to the NSF PAPPG guidelines. "Current and Pending Support" information does not have to be provided for UK investigators. However, since this is a required section of an NSF proposal, upload a document that states "UK Investigator - Current and Pending Support information not required" for each UK investigator designated as senior personnel. A "Results of Prior Support" Section is also NOT required for the UK personnel. 
+
+The proposal should only include the U.S. funds requested from NSF on the NSF Budget form. A detailed breakdown of funding requested from the partnering UK Research Council (ESRC, AHRC or BBSRC), using the UK budget form, should be included as a Supplementary Document. This document will be shared with the participating UK Research Council to verify eligibility of funds requested. The Budget Justification should address the full combined project budget (both U.S. and UK funding items). 
+
+If a UK Research Council (ESRC, AHRC or BBSRC) is the lead agency: 
+
+Proposers must comply with the proposal preparation requirements outlined in the Research Funding Guide (or equivalent document) of the appropriate lead UK Research Council and proposals should be submitted via the UK Research Council's Je-S system using the appropriate UK Research Council's Responsive Mode Research Grants scheme. 
+
+The proposal should only include the UK funds requested on the primary UK Research Council's Je-S budget forms. The U.S. collaborating research organization(s) should be included as project partners on the Je-S form, and the funding totals by research organization should be included as project partner contributions. The Justification of Resources section of the proposal should address the full project budget (that is, both the UK and U.S. funding items). In addition, a detailed breakdown of funding requested from NSF should be submitted to the UK Research Council as an "Other Attachment." This document will be shared with NSF/ SBE to verify the eligibility of funds requested. 
+
+The costs of the U.S. and UK organizations must be clearly differentiated in the proposal. Proposals that request duplicative funding from NSF and the partnering UK Research Council (ESRC, AHRC, or BBSRC) will be returned without review. 
+
+An institutional statement in support of the joint submission must be provided by each non-lead country partner organization in the proposal submission. This statement should be in the form of a signed letter from an Authorized Organizational Representative including the following text: "I confirm on behalf of [insert name or institution] that the U.S.-UK collaborative proposal between [insert name of the lead agency PI and institution] and [insert name of the non-lead agency PI and institution] is endorsed and has been submitted by [name of research office]." For NSF, this letter must be included in the "Supplementary Documents" section. For the UK Research Council (ESRC, AHRC, or BBSRC), the letter should be submitted as an "Other Attachment." 
+
+Peer Review 
+
+SBE-UKRI collaborative proposals will be reviewed alongside all other unsolicited or standard research grant proposals received in the same funding round or call and will not undergo a special or separate review process. 
+
+Proposals will be reviewed in accordance with the lead agency's review criteria. While not identical, NSF and UKRI ask reviewers to evaluate research on both its scientific or intellectual merit as well as its broader or societal impacts. 
+
+Funding Decisions 
+
+The lead agency will use its usual internal procedures to determine whether a proposal will be awarded or declined. Funding decisions may be subject to budget limits. 
+
+All proposers will be advised whether their proposal has been recommended for funding or will be declined by the lead funding agency. Proposers will receive copies of the reviewers' unattributed comments and, where applicable, a panel summary. 
+
+Once a proposer has been notified of a pending award, the non-lead researcher(s) associated with the project must submit a copy of the proposal to the non-lead agency so that each agency has complete documentation of the overall proposed research project. Further guidance will be provided to successful proposers at this stage. 
+
+The participating lead and non-lead agency(ies) will coordinate the U.S. and UK award timing as much as possible. However, because the participating agencies have different funding cycles, it is possible that some projects will have delayed start dates in order to wait until funds become available or until all pre-award requirements are met. Wherever possible, agencies will endeavor to hold standard turnaround times for each participating agency, but in exceptional circumstances outcomes could be delayed. 
+
+Post-award Considerations
+
+Grantees will be expected to comply with the award conditions and reporting requirements of the agencies from which they receive funding. 
+
+Grantees will be required to acknowledge both NSF and the relevant UK Research Council in any reports or publications arising from the grant. 
+
+Requests for extensions will be considered by participating agency(ies) using standard procedures. Requests for changes to awards will be discussed with other involved funding agencies before a mutual decision is reached. 
+
+NSF Policy on Research Involving Human Subjects and Vertebrate Animals
+
+For information regarding proposals involving human subjects, see Chapter II.D.5 of the Proposal & Award Policies & Procedures Guide (PAPPG) and the NSF Human Subjects web site. For information regarding proposals involving vertebrate animals, see Chapter II.D.4 of the PAPPG. 
+
+For additional information on the administration of awards involving human subjects, see Chapter XI.B.1 of the PAPPG and for information on the administration of awards involving vertebrate animals see Chapter XI.B.3 of the PAPPG. 
+
+UKRI Research Ethics Policies Concerning Human Participants and Animal Research
+
+The Research Organization is responsible for ensuring that ethical issues relating to the research project are identified and brought to the attention of the relevant approval or regulatory body. Approval to undertake the research must be granted before any work requiring approval begins. Ethical issues should be interpreted broadly and may encompass, among other things, relevant codes of practice, the involvement of human participants, tissue or data in research, the use of animals, research that may result in damage to the environment and the use of sensitive economic, social or personal data. 
+
+Human Participants
+
+Research involving human participants must comply with all relevant legislation. All UK Research and Innovation (UKRI) funding is granted on the absolute condition that researchers ensure that all relevant ethics committee approvals and regulatory requirements are met. For further information, please see: https://www.ukri.org/funding/information-for-award-holders/grant-terms-and-conditions/ (fEC grants full terms and conditions: RGC 2 Research Governance, Research Ethics, Use of Animals in Research etc). 
+
+ESRC requires all funded research to follow its framework for research ethics (https://www.ukri.org/funding/information-for-award-holders/grant-terms-and-conditions/) and more guidance can be found here: (https://esrc.ukri.org/funding/guidance-for-applicants/research-ethics/) 
+
+Animal Research 
+
+Proposed research must follow the expectations of the research councils for using animals in research, as well as additional guidance with respect to conducting research with animals overseas. The relevant section of the Grants Guide is section 4.13 onwards, which provides all details and procedures regarding applications that involve the use of animals. 
+
+The Experimental Design Assistant designed by the National Center for the 3Rs is a useful tool which may assist applicants in considering the full implications of their experimental design. 
+
+Please note that whilst proposals that involve animal research will be considered, the AHRC and ESRC are unable to fund these elements. 
+
+ 
+

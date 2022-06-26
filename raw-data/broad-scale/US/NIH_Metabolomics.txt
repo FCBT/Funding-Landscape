@@ -1,0 +1,47 @@
+Program Snapshot
+The goal of the Common Fund’s Metabolomics program is to inform basic, translational, and clinical research. Metabolomics is the scientific study of the chemical reactions that occur in organisms, cells, or tissues. Each reaction produces small chemicals called metabolites, which play critical roles in keeping our cells healthy and functioning properly. As these different chemical reactions and the metabolites they produce are unique to every individual, by improving metabolomics methods and making them more accessible to different researchers it may allow for more personalized diagnosis of disease and treatment methods moving forward.
+
+In order to catalyze science around the role of metabolomics in human health, the Metabolomics program supports research to:
+
+Establish a long standing national public repository for metabolomic data
+Overcome technical hurdles in analyzing and interpreting metabolomics data, including the ability to determine metabolite identities
+Develop best practices and guidelines with help from the national and international metabolomics communities to promote accuracy, reproducibility, and re-analysis of metabolomics data
+The data repository(link is external) for the Metabolomics program already hosts over 1000 data sets for researchers to explore. The Metabolomics workbench (link is external)also contains experimental protocols, data analysis tools, and other resources to help support metabolomics research.
+
+Learn more about the Metabolomics Program stage II goals
+Metabolomics is the study of low molecular weight molecules or metabolites found within cells and biological systems.  The metabolome is a measure of the inputs and outputs of biological pathways and, as such, is representative of the functional state of a cell.  Common technologies for measuring the metabolome include mass spectrometry (MS) and nuclear magnetic resonance spectroscopy (NMR), which can detect hundreds to thousands of unique chemical entities.
+
+The NIH Common Fund Metabolomics Program has been approved for a second stage of support from FY18-21.  Common Fund’s investment in the Metabolomics Program and parallel efforts have led to widespread use of metabolomics in the greater biomedical community and enhanced the ability to conduct metabolomics analyses.  However, challenges remain that impede the ability to understand metabolomics data, compare it across laboratories and platforms, and re-mine the data for additional insights or confirmation of results. The second stage of the Metabolomics Program will address these challenges through the following program goals:
+
+Goal: Establish a National Metabolomics Data Repository (NMDR), which is widely adopted by the national and international metabolomics community, supports facile data and metadata deposition and access for re-use, and provides a means for citing the data and its provenance
+
+Dr. Shankar Subramaniam and colleagues at the University of California, San Diego will develop and maintain the NMDR during the second stage of the Metabolomics program
+Less
+The NMDR will: 1) transition the cloud-based public metabolomics data repository created in Stage I of the Common Fund Metabolomics Program to one of National prominence where data is stored, searched and re-analyzed by the international biomedical research community; 2) enhance the current technical capabilities of the Metabolomics Data Repository and Coordination Center (Metabolomics Workbench(link is external)) established during stage I, including the ability to accept clinical datasets, accommodate kinetic or flux data and possibly metabolic imaging data, and provide flexible and intuitive data search capabilities; and 3) In collaboration with the SEPCC engage the wider metabolomics community in decisions to improve and expand the repository and to develop and adopt guidelines for data and metadata deposition, access, sharing and citation.
+GOAL: Address key challenges in analyzing and interpreting metabolomics data by catalyzing the field of compound identification to dramatically increase the number of identified biomedically-relevant, metabolites in metabolomics spectra
+
+Awards have been made to the following researchers to help with compound identification development
+Dr. Arthur Edison at the University of Georgia
+Dr. Oliver Fiehn at the University of California at Davis
+Drs. Dean Jones, Gary Miller, Edward Morgan, and Shuzhao Li from Emory University
+Dr. Thomas Metz at Battelle Pacific Northwest Laboratories
+Drs. Alexey Nesvizhskii and Charles Evans at the University of Michigan at Ann Arbor
+Less
+Currently identification of unknown peaks from metabolomic spectra requires extensive effort utilizing multiple biochemical and biophysical approaches often requiring years. It is imperative to develop innovative computational approaches coupled with experimental validation that can identify significant classes of metabolites to reduce the number of possibilities or to generate high-throughput approaches to compound identification. A key aspect of this goal is to decrease the cost and time for compound identification in high throughput metabolomics experiments thus significantly increasing the repertoire of biologically relevant metabolites.
+GOAL: Address key challenges in analyzing and interpreting metabolomics data by developing novel tools to facilitate metabolomics data analysis and interpretation
+
+Awards have been made to the following researchers to develop new analytical tools
+Dr. Xiuxia Du at the University of North Carolina
+Charlotte Dr. Alla Karnovsky at the University of Michigan in Ann Arbor
+Dr. Katherina Kerchris-Mays at the University of Colorado
+Denver Dr. Shuzhao Li at Emory University
+Dr. Gary Patti at Washington University in St. Louis
+Dr. John Weinstein at the University of Texas, MD Anderson Cancer Center
+Dr. Jamey Young at Vanderbilt University
+Less
+There are few analytical tools developed for the various aspects of the metabolomics workflow designed for use by non-bioinformaticians. Accordingly, it is critical to develop new or enhanced computational approaches or tools that can be used by biomedical and metabolomics researchers in the areas of integration of metabolomic data from different platforms or with other ‘omics data; analysis and interpretation of stable isotope-resolved, kinetic or flux analysis; and visualization of data to uncover relationships between metabolites, biochemical pathways and diseases.
+GOAL: Community Engagement and Program Coordination to generate consensus and achieve wide-spread adoption of standards and guidelines for best-practices and data sharing in metabolomics
+
+Dr. Richard Yost and colleagues at the University of Florida will develop and maintain the Stakeholder Engagement and Program Coordination Center (SEPCC)
+Less
+The goal of this initiative is to coordinate the required activities of the Common Fund Metabolomics Program Consortium and engage the national and international metabolomics community to identify and develop strategies to address outstanding concerns in the application of metabolomics to biomedical research. Another important goal is to promote use of Consortium resources by the greater biomedical community. Activities to achieve this goal will be undertaken by the Stakeholder Engagement and Program Coordination Center (SEPCC) with input from the Steering Committee. The SEPCC will address hurdles in the application of metabolomics to biomedical research, such as an assessment of reproducibility in metabolomics data acquisition, identification and dissemination of best practices to improve rigor and reproducibility, data harmonization, and development of standards for data deposition and data sharing in collaboration with the NMDR.

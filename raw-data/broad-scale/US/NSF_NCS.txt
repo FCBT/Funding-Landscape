@@ -1,0 +1,18 @@
+Synopsis
+The complexities of brain and behavior pose fundamental questions in many areas of science and engineering, drawing intense interest across a broad spectrum of disciplinary perspectives while eluding explanation by any one of them. Rapid advances within and across disciplines are leading to an increasingly interwoven fabric of theories, models, empirical methods and findings, and educational approaches, opening new opportunities to understand complex aspects of neural and cognitive systems through integrative multidisciplinary approaches.
+
+This program calls for innovative, convergent, boundary-crossing proposals that can best capture those opportunities and map out new research frontiers. NSF seeks proposals that pursue high-value scientific and technical risks by transcending the perspectives and approaches typical of disciplinary research efforts. This cross-directorate program is one element of NSF’s participation in the Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative (http://www.nsf.gov/brain/). NSF envisions a connected portfolio of transformative, integrative projects that create synergistic links across investigators and communities, yielding novel ways of tackling the challenges of understanding the brain in action and in context.
+
+This solicitation extends the NCS program for three years, from FY2021 through FY2023, including biennial competitions for the FRONTIERS proposal class.
+
+The program focuses on four aspects of neural and cognitive systems that are current targets of converging interdisciplinary interests. NCS projects must advance the foundations of one or more of these focus areas, as described further within the solicitation:
+
+Neuroengineering and Brain-Inspired Concepts and Designs
+Individuality and Variation
+Cognitive and Neural Processes in Realistic, Complex Environments
+Data-Intensive Neuroscience and Cognitive Science
+Proposals must address both risk and reward: high-risk, high-payoff approaches are expected. Proposals must also go beyond the scope of any NSF core program, or they will not be considered responsive to this solicitation.
+
+NCS will consider two classes of proposals. FOUNDATIONS awards will support high-risk, high-payoff projects that advance the foundations of one or more NCS focus areas. FRONTIERS awards (FY2021 and FY2023 competitions only) will support ambitious, highly integrative, interdisciplinary projects that advance and connect multiple integrative research threads to tackle challenges that would be intractable without a high level of collaboration and coordination.
+
+Community-driven efforts such as workshops or synthesis papers are also encouraged, to map out new frontiers at the interface of neuroscience and other disciplines that could reshape brain research and its applications.

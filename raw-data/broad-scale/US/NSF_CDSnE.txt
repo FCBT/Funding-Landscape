@@ -1,0 +1,50 @@
+Synopsis
+Large-scale simulations and the ability to accumulate massive amounts of data have revolutionized science and engineering. The goal of the CDS&E meta-program is to identify and capitalize on opportunities for major scientific and engineering breakthroughs through new computational and data-analysis approaches and best practices. The CDS&E meta-program supports projects that harness computation and data to advance knowledge and accelerate discovery above and beyond the goals of the participating individual programs. The intellectual drivers may be in an individual discipline, or they may cut across more than one discipline in various Divisions and Directorates. A CDS&E proposal should enable and/or utilize development and adaptation of advances in research and infrastructure in computational and data science.
+
+The CDS&E meta-program encourages research that pushes the envelope of science and engineering through computation and data, welcoming proposals in any area of research supported by the participating divisions. A proposal may address topics that develop or enable interactions among theory, computing, experiment, and observation to achieve progress on hitherto intractable science and engineering problems. Areas of emphasis for CDS&E vary by program; and PIs are advised to consult the "related programs" links below before submitting.
+
+The CDS&E meta-program is not intended to replace existing programs that support projects involving computation or the analysis of large or complex data sets using established methods. Rather, proposals submitted to the CDS&E meta-program must have a significant component of computational or data science that goes well beyond what would normally be included in these programs. Any proposal submitted to the CDS&E program that is not responsive to this Program Description may be transferred to or reviewed within the context of an individual program. A proposal that is requesting consideration within the context of CDS&E should begin the title with the identifying acronym "CDS&E:". Supplement requests to existing awards may also be considered. A CDS&E proposal should include substantive research in science, engineering, or computing. Algorithm and pilot software development supporting science and engineering may also be appropriate, depending on the program. Proposers who seek to implement proven, existing methods into robust cyberinfrastructure are referred instead to the program on Cyberinfrastructure for Sustained Scientific Innovation (CSSI).
+
+A CDS&E proposal should be submitted to one of the "Related Programs" or Divisions by the associated submission window, deadline, or target date listed in the table below. In picking the most relevant program, PIs are advised to read program descriptions and solicitations carefully and to consult with cognizant Program Officers in advance of proposal preparation. Proposal submissions outside of the scientific scope of the receiving program may be transferred to a different program or may be returned without review.
+
+Due Dates
+
+Directorate	Division and Program	Submission Window or Target Date
+ENG	Division of Chemical, Bioengineering, Environmental, and Transport Systems	
+  September 01, 2022 - September 15, 2022
+
+  September 01- September 15, Annually Thereafter
+ENG	Division of Civil, Mechanical and Manufacturing Innovation	
+  September 01, 2022 - September 15, 2022
+
+  September 01- September 15, Annually Thereafter
+MPS	Division of Mathematical Sciences	
+  September 01, 2022 - September 15, 2022
+
+  September 01- September 15, Annually Thereafter
+MPS	Division of Chemistry - Chemical Catalysis (CAT), Chemical Structure, Dynamics and Mechanisms-A (CSDM-A), Chemical Structure Dynamics and Mechanisms-B (CSDM-B), Chemical Synthesis (SYN), Chemical Theory, Models and Computational Methods (CTMC)	
+  September 01, 2022 - September 30, 2022
+
+  September 01 - September 30, Annually Thereafter
+MPS	Division of Materials Research	
+  October 17, 2022
+
+  October 15, Annually Thereafter
+MPS	Division of Astronomical Sciences - Advanced Technologies and Instrumentation	
+  October 01, 2022 - November 15, 2022
+
+  October 01 - November 15, Annually Thereafter
+ENG	Division of Electrical, Communications and Cyber Systems	
+  October 01, 2022 - November 01, 2022
+
+  October 01 - October 31, Annually Thereafter
+MPS	Division of Chemistry - Chemical Measurement and Imaging (CMI), Chemistry of Life Processes (CLP), Environmental Chemical Sciences (ECS), and Macromolecular, Supramolecular and Nanochemistry (MSN)	
+  October 01, 2022 - October 31, 2022
+
+  October 1 - October 31, Annually Thereafter
+MPS	Division of Astronomical Sciences - Astronomy and Astrophysics Research Grants	
+  October 01, 2022 - November 15, 2022
+
+  October 01 - November 15, Annually Thereafter
+
+MPS	Division of Physics: Investigator-Initiated Research Projects	  Deadline for the relevant PHY program

@@ -1,0 +1,28 @@
+Supports fundamental engineering research that improves the quality of life of persons with disabilities through development of new technologies. Projects advance knowledge regarding a specific disability, pathological motion, or injury mechanism.
+
+Synopsis
+The Disability and Rehabilitation Engineering program is part of the Engineering Biology and Health cluster, which also includes: 1) the Biophotonics program; 2) the Biosensing program; 3) the Cellular and Biochemical Engineering program; and 4) the Engineering of Biomedical Systems program.
+
+The Disability and Rehabilitation Engineering program supports fundamental engineering research that will improve the quality of life of persons with disabilities through: the development of new technologies, devices, or software combined with advancement of knowledge regarding healthy or pathological human motion, or advancement in understanding of injury mechanisms.
+
+Research may be supported that is directed toward the characterization, restoration, rehabilitation, and/or substitution of human functional ability or cognition, or to the interaction between persons with disabilities and their environment. Areas of particular interest are neuroengineering and rehabilitation robotics. The program will also consider research in the areas of: new engineering approaches to understand healthy or pathological motion, both as a target for rehabilitation and as a means to characterize motion related to disability or injury; understanding injury at the tissue- or system-level such that interventions may be developed to reduce the impact of trauma and subsequent disability; or understanding the role of gut microbiota in modulating disability in the context of rehabilitation.
+
+Emphasis is placed on significant advancement of fundamental engineering knowledge that facilitates transformative outcomes. We encourage high-risk high-reward proposals that surpass incremental technological improvements. 
+
+Innovative proposals outside of the above specific interest areas may be considered. However, prior to submission, it is recommended that the PI contact the Program Director to avoid the possibility of the proposal being returned without review.
+
+NSF does not support clinical trials; however, feasibility studies involving human volunteers may be supported if appropriate to the project objectives. Furthermore, the DARE program does not support proposals having as their central theme commercialization of a product. Small businesses seeking early stage R&D funding for product development are encouraged to contact the NSF SBIR/STTR program in the Division of Industrial Innovation and Partnerships (IIP).
+
+INFORMATION COMMON TO MOST CBET PROGRAMS
+
+Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field.  Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact of success in the research on society and/or industry.  The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal.
+
+The duration of unsolicited proposal awards in CBET is generally up to three years.  Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of principal investigator time per year (awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the Program Director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the “What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)” link towards the bottom of this page.
+
+Faculty Early Career Development (CAREER) program proposals are strongly encouraged.  Award duration is five years.  The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description. 
+
+Proposals for Conferences, Workshops, and Supplements: PIs are strongly encouraged to discuss their requests with the program director before submission of the proposal.
+
+Grants for Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER) are also considered when appropriate.  Please note that proposals of these types must be discussed with the program director before submission.  Grant Opportunities for Academic Liaison with Industry (GOALI) proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged. Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in the Proposal & Award Policies & Procedures Guide (PAPPG), Part 1, Chapter II, Section E: Types of Proposals.  
+
+Compliance: Proposals that are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review.

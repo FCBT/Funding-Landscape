@@ -1,0 +1,8 @@
+Renewal
+
+Supports renewal awards for active Long-term Ecological Research sites.
+
+Synopsis
+To address ecological questions that cannot be resolved with short-term observations or experiments, NSF established the Long-Term Ecological Research Program (LTER) in 1980. Two components differentiate LTER research from projects supported by other NSF programs: 1) the research is located at specific sites chosen to represent major ecosystem types or natural biomes, and 2) it emphasizes the study of ecological phenomena over long periods of time based on data collected in five core areas. Long-term studies are critical to achieve an integrated understanding of how components of ecosystems interact as well as to test ecological theory. Ongoing research at LTER sites is expected to contribute to the development and testing of fundamental ecological theories and significantly advance understanding of the long-term dynamics of populations, communities and ecosystems. It often integrates multiple disciplines and, through cross-site interactions may examine patterns or processes over broad spatial scales. Recognizing that the value of long-term data extends beyond use at any individual site, NSF requires that data collected by all LTER sites be made publicly accessible.
+
+NSF currently supports 28 LTER sites.  The program is on-going and proposals are periodically invited when a need is identified to balance the LTER portfolio or when funding opportunities arise to support new LTERs.  These opportunities are announced through separate solicitations. This solicitation governs submission of renewal proposals for active LTER site awards.

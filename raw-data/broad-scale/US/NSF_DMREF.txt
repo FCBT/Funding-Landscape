@@ -1,0 +1,28 @@
+Synopsis
+Program Title:
+
+Designing Materials to Revolutionize and Engineer our Future   (DMREF)
+
+Synopsis of Program:
+
+DMREF is the primary program by which NSF participates in the Materials Genome Initiative (MGI) for Global Competitiveness. MGI recognizes the importance of materials science and engineering to the well-being and advancement of society and aims to "deploy advanced materials at least twice as fast as possible today, at a fraction of the cost." MGI integrates materials discovery, development, property optimization, and systems design with a shared computational framework. This framework facilitates collaboration and coordination of research activities, analytical tools, experimental results, and critical evaluation in pursuit of the MGI goals. Consistent with the MGI Strategic Plan, DMREF highlights four sets of goals:
+
+· Leading a culture shift in materials science and engineering research to encourage and facilitate an integrated team approach;
+
+· integrating experimentation, computation, data-intensive/-driven approaches, and theory, and equipping the materials science and engineering communities with advanced tools and techniques;
+
+· making digital data findable, accessible, interoperable, and reusable, and useful to the community; and
+
+· creating a world-class materials science and engineering workforce that is trained for careers in academia or industry.
+
+DMREF will accordingly support activities that significantly accelerate materials discovery and development by building the fundamental knowledge base needed to advance the design and development of materials with desirable properties or functionality. This will be accomplished through forming interdisciplinary teams of researchers working synergistically in a "closed loop" fashion, building a vibrant research community, leveraging data science, providing ready access to materials data, and educating the future MGI workforce. Achieving this goal could involve some combination of:
+
+· strategies to advance materials design through testing methodology;
+
+· theory, modeling, and simulation to predict behavior or assist in analysis of multidimensional input data; and
+
+· validation through synthesis, growth, processing, characterization, and/or device demonstration.
+
+This FY 2021 solicitation is open to all materials research topics. DMREF aligns with the President's Council of Advisors on Science and Technology (PCAST) recommendations for strengthening American leadership in Industries of the Future, namely, artificial intelligence (AI), quantum information science, advanced manufacturing, advanced communications, and biotechnology. Furthermore, DMREF aligns with national priorities for defense and homeland security, information technologies and high-performance computing, critical minerals and sustainability, human health and welfare, clean energy, and the development of a diverse science, technology, engineering, and mathematics (STEM) workforce. By facilitating interdisciplinary integrative materials research, DMREF is supportive of the NSF long-range transformative agenda, "Big Ideas for Future NSF Investments".
+
+This solicitation represents a crosscutting activity involving the Directorates for Mathematical and Physical Sciences (MPS), Engineering (ENG), and Computer & Information Science & Engineering (CISE). Additionally, partnership with other federal agencies, specifically the Air Force Research Laboratory (AFRL), including the Air Force Office of Scientific Research (AFOSR), may lead to an interagency effort. Submitted proposals may be shared with interested representatives from AFRL and AFOSR.

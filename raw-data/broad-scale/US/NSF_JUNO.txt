@@ -1,0 +1,16 @@
+R&D for Programmable Networking for next generation core and beyond 5G/6G networks
+
+Synopsis
+The Division of Computer and Network Systems (CNS) within the National Science Foundation's (NSF) Directorate for Computer and Information Science and Engineering (CISE) supports research and education activities that develop a better understanding of the fundamental properties of computer and network systems and create better abstractions and tools for designing, building, analyzing, and measuring future systems.
+
+ 
+
+In this program, NSF and the National Institute of Information and Communications Technology (NICT) of Japan have agreed to embark on a collaborative research program to address compelling research challenges associated with programmable networks for next generation core and beyond 5th Generation/6th Generation mobile networks (beyond 5G/6G). Software-Defined Networking (SDN) has been a particularly successful area of research interest and commercial innovation over the last decade. SDN increases the flexibility of networks, providing greater control of network behavior, performance, monitoring and problem diagnosis. SDN is thus one of the essential technologies for ensuring robust, flexible and high performing wired and wireless beyond 5G/6G networks. The first generation of SDN focused primarily on the implications of control and data plane separation, and control plane programmability. Today the networking research community focus also includes the second generation of SDN – data plane programmability – as enabled at transmission line rates through the relatively recent introduction of programmable layer 2/3 switches, programmable Network Interface Cards (NICs), and increasingly flexible physical layer transmission technologies such as software defined radios and optical transceivers. This program focuses on enabling flexible and scalable programmable networks for next generation core and beyond 5G/6G networks. This calls for creative and innovative ways of approaching the associated challenges and experimental demonstration and verification on research testbeds where appropriate. This program seeks joint Japanese-US research projects that leverage each nation's expertise and address the following topic areas: 
+
+Network architectures/In-network intelligence and programmable network functionality 
+Develop the foundations for next-generation programmable functionality for enhanced core, optical and beyond 5G/6G networks 
+
+ 
+
+Smart services, applications, and experimentation on research testbeds 
+Develop experimental demonstrations of novel future services and essential networking applications on campus, Japan and/or US testbeds

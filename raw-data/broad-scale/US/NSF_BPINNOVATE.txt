@@ -1,0 +1,57 @@
+Dear Colleague:
+
+The National Science Foundation (NSF), through its Science of Science program (PD 19-125Y), encourages research on broadening participation in entrepreneurship and innovation. The purpose of this Dear Colleague Letter (DCL) is to invite proposals identifying contextual factors and mitigation strategies to enhance participation and success of various populations in STEM entrepreneurship and innovation. This DCL is supported by five allied programs from five NSF Directorates and Offices, reflecting the broad support and timeliness of this "BPINNOVATE" effort.
+
+To maintain global competitiveness, the U.S. must develop talent across the Nation. The diversity in the college population within the U.S. is not well represented among entrepreneurs and innovators. People with disabilities, racial and ethnic minorities, women, and innovators in certain parts of the country are an untapped source of talent needed to drive innovation and entrepreneurship and ensure national prosperity. Based on standard reporting tools in the United States, such as R&D analyses and patent filings, women represent an estimated 12 percent of advanced R&D innovators and U.S.-born minorities comprise an estimated 8 percent in aggregate1. Further, more than half of advanced R&D innovators have attained a Ph.D. in a science, technology, engineering, and/or mathematics (STEM) field, and women and minorities are underrepresented among doctoral degree recipients. Currently, only 1 percent of venture capital funds go to minority innovators2. There are also geographic inequalities: the San Francisco Bay area (Calif.) alone accounts for 45 percent of venture capital investment in the U.S., and 80 percent of the investment nationwide goes to just five metro areas3.
+
+To increase national competitiveness and broaden opportunity for our Nation's vast and diverse population of potential entrepreneurs, we seek greater knowledge of how disability, race and ethnicity, gender, sexual orientation, nationality, geography, and other factors relate to innovation and entrepreneurship. This DCL encourages investigators to develop comprehensive studies that use the intersectionality of identities as a framework to examine interventions and phenomena within the innovation and entrepreneurial space and invites submission to the NSF Science of Science program.
+
+The Science of Science program supports research designed to increase the public value of scientific activity. The program focuses on basic research in three fundamental areas: (1) how to create optimal conditions for discovery; (2) how to improve science communication; and (3) how to expand the societal benefits of scientific activity. The program places a high priority on proposals that analyze strategies for diversifying the scientific workforce and where equity and broadening participation activities are built into the research design.
+
+Allied NSF programs that also support opportunities for research on broadening participation in entrepreneurship and innovation are the NSF Innovation Corps (NSF I-Corps™), the Established Program to Stimulate Competitive Research (EPSCoR), the Historically Black Colleges and Universities Undergraduate Program (HBCU-UP), the Improving Undergraduate STEM Education: Hispanic Serving Institutions Program (HSI), and the Tribal Colleges and Universities Program (TCUP) programs.
+
+The I-Corps program uses experiential education to help entrepreneurial researchers reduce the time necessary to translate a promising idea from the laboratory bench to widespread implementation. In addition to accelerating technology translation, NSF seeks to reduce the risk associated with technology development conducted without insight into industry requirements and challenges. A particular area of interest is the development of mechanisms to create a sense of agency and opportunity for minority innovators.
+NSF's EPSCoR program seeks to strengthen STEM capacity and capability by enhancing research competitiveness in targeted jurisdictions. The EPSCoR program is especially interested in studies that use the intersectionality of identities as a framework to understand not only interventions and phenomena within the innovation and entrepreneurship space but how these issues impact economic growth within EPSCoR Jurisdictions.
+The HBCU-UP program is committed to enhancing the quality of undergraduate STEM education and research at Historically Black Colleges and Universities (HBCUs) as a means to broaden participation in the nation's STEM workforce. Understanding and studying the contextual factors and mitigation strategies to enhance participation of African American students and others attending HBCUs in STEM entrepreneurship and innovation is of interest.
+The HSI program's goals are to increase the recruitment, retention, and graduation rates of students pursuing associate's or baccalaureate degrees in STEM, enhance the quality of undergraduate STEM education, and build capacity at HSIs. Additionally, the HSI program promotes fundamental research about what it takes to diversify and broaden participation in STEM effectively and encourages institutional and community transformation. The HSI program seeks to expand students' pathways to continued STEM education and integration into the STEM workforce through innovative and potentially entrepreneurial approaches.
+The TCUP program is designed to support improvements in the scientific, mathematical, engineering and technological education and research infrastructure in (a) tribally-controlled colleges and universities, or (b) those colleges that serve significant numbers of Alaska Natives or Native Hawaiians. TCUP support has allowed participating institutions to increase or broaden their STEM degree offerings; engage faculty and students in discipline-based, community-relevant research, discovery, or design; and provide pathways for Native students to enter the STEM workforce at all levels.
+By partnering together, these programs invite audiences with expertise in modeling diversity in the scientific workforce as it relates to innovation, accounting for sociodemographic characteristics, geography, and other potential sources of difference. Principal Investigators have the option of accessing the publicly available data from previous National I-Corps Teams cohorts to accelerate inquiry.
+
+Potential areas of interest include, but are not limited to, the following as they relate to innovation and entrepreneurship:
+
+Empirical implications of diversity on innovation;
+Fostering inclusive environments within incubators;
+Understanding the impact of rural vs. urban networks on STEM education and entrepreneurship;
+Financial and social capital barriers to entrepreneurship;
+Bias in venture capital and other sources of investment;
+Mechanisms to democratize access to launching scalable businesses (e.g., use of cryptocurrencies, crowdsourcing, etc.);
+Risk tolerance among underrepresented populations; and
+Influence of academic entrepreneurship on the educational experience.
+The isolation of minority STEM entrepreneur communities reveals a need for bridges to be built to increase access to innovation ecosystems and allies who want to engage. NSF invites scholars to partner across disciplines, and with supporting organizations, entrepreneurs, and investors to form research collaborations to investigate the challenges and systemic barriers faced by STEM entrepreneurs from minority populations and EPSCoR jurisdictions and the best practices for overcoming these barriers.
+
+The desired outcome of this DCL is to broaden awareness and gain insight into best practices that promote innovation and entrepreneurship in the science and engineering workforce and within innovation ecosystems across the Nation. NSF encourages the development of tools and datasets that can be widely shared with the community.
+
+This is not a new competition nor a new program. Principal investigators should submit proposals to the Science of Science program via program description (PD) PD 19-125Y in accordance with the NSF Proposal and Award Policies and Procedures (PAPPG). Proposals should contain the acronym "BPINNOVATE" at the beginning of the title, to indicate that they are being submitted pursuant to this DCL. Proposals should be submitted by February 9, 2021.
+
+Questions should be directed to:
+
+Joshua Trapani (jtrapani@nsf.gov), Program Director, Science of Science;
+Chinonye Whitley (cwhitley@nsf.gov), Program Director, EPSCoR;
+Andre Marshall (awmarsha@nsf.gov) and Becky Shearman (rshearma@nsf.gov), Program Directors, I-Corps.
+Sincerely,
+
+Arthur Lupia
+Assistant Director, Social, Behavioral, and Economic Sciences
+
+Karen Marrongelle
+Assistant Director, Education and Human Resources
+
+Dawn M. Tilbury
+Assistant Director, Engineering
+
+Suzanne Iacono
+Office Head, Office of Integrative Activities
+
+Margaret Martonosi
+Assistant Director, Computer and Information Science and Engineering
+

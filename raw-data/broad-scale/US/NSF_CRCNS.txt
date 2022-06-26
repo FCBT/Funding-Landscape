@@ -1,0 +1,20 @@
+Innovative Approaches to Science and Engineering Research on Brain Function
+
+Synopsis
+Computational neuroscience provides a theoretical foundation and a rich set of technical approaches for understanding complex neurobiological systems, building on the theory, methods, and findings of computer science, neuroscience, and numerous other disciplines.
+
+Through the CRCNS program, the U.S. National Science Foundation (NSF), National Institutes of Health (NIH), and Department of Energy (DOE); the German Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung, BMBF); the French National Research Agency (Agence Nationale de la Recherche, ANR); the United States-Israel Binational Science Foundation (BSF); Japan’s National Institute of Information and Communications Technology (NICT); and Spain’s State Research Agency (Agencia Estatal de Investigación, AEI) and National Institute of Health Carlos III (Instituto de Salud Carlos III, ISCIII) support collaborative activities that will advance the understanding of nervous system structure and function, mechanisms underlying nervous system disorders, and computational strategies used by the nervous system.
+
+Two classes of proposals will be considered in response to this solicitation:
+
+Research Proposals describing collaborative research projects, and
+
+Data Sharing Proposals to enable sharing of data and other resources.
+
+Domestic and international projects will be considered. As detailed in the solicitation, international components of collaborative projects may be funded in parallel by the participating agencies. Specific CRCNS opportunities for parallel funding are available for bilateral US-German Research Proposals, US-German Data Sharing Proposals, US-French Research Proposals, US-French Data Sharing Proposals, US-Israeli Research Proposals, US-Israeli Data Sharing Proposals, US-Japanese Research Proposals, US-Japanese Data Sharing Proposals, US-Spanish Research Proposals, US-Spanish Data Sharing Proposals, and multilateral proposals involving the United States and two or more CRCNS partner countries (see Section VIII of the solicitation for country-specific limitations). Collaborating PIs from outside of the United States are referred to Section VIII of the solicitation for further instructions about applying to the appropriate partner funding agency.
+
+Appropriate scientific areas of investigations may be related to the interests of any of the participating funding organizations. Questions concerning a particular project's focus, direction, and relevance to a participating funding organization should be addressed to the appropriate person in the list of agency contacts found in Section VIII of the solicitation.
+
+NSF will coordinate and manage the review of proposals jointly with participating domestic and foreign funding organizations, through a joint panel review process used by all participating funders. Additional information is available in Section VI of the solicitation.
+
+Community-driven efforts such as workshops or synthesis papers are also encouraged, to map out new frontiers at the interface of neuroscience and other disciplines that could reshape brain research and its applications.

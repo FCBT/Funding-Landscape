@@ -1,0 +1,12 @@
+Supports research on living systems at the molecular, subcellular and cellular levels. Core areas supported include cellular dynamics and function; genetic mechanisms; molecular biophysics; and systems and synthetic biology.
+
+Synopsis
+The Division of Molecular and Cellular Biosciences (MCB) supports quantitative, mechanistic, predictive, and theory-driven fundamental research designed to promote understanding of complex living systems at the molecular, subcellular, and cellular levels. While recognizing the need for thorough and accurate descriptions of biological complexes and pathways, the priority of the Division is to support work that advances the field by capturing the predictive power of mechanistic, quantitative, and evolutionary approaches.
+
+Proposals are solicited to support research relevant to the four MCB core clusters:
+
+Cellular Dynamics and Function
+Genetic Mechanisms
+Molecular Biophysics
+Systems and Synthetic Biology
+MCB gives high priority to research projects that use theory, methods, and technologies from life and physical sciences, mathematics, computational sciences, and engineering to address major biological questions that elucidate the rules governing subcellular and cellular processes.  Research supported by MCB uses a range of experimental and computational approaches--including in vivo, in vitro and in silico strategies--and a broad spectrum of model and non-model organisms, including microbes and plants. Typical research supported by MCB integrates theory and experimentation. Projects are particularly welcome that address the emerging areas of: multi-scale integration; transformative methods and resources (when driven by compelling biological questions); molecular and cellular evolution; the synthesis of life-like systems; and the quantitative prediction of the phenome from genomic information. Highest funding priority is given to applications that have outstanding intellectual merit and strong broader impacts, while proposals with weaknesses in either category (or those that are perceived as likely to have an incremental impact) will not be competitive.  Proposals that are motivated by relevance to human health and disease treatment are not appropriate for the Division and will be returned without review.

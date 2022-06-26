@@ -1,0 +1,15 @@
+Synopsis
+SYNOPSIS
+
+The NSF-wide REU Sites program is governed by a single solicitation but administered individually by each NSF Division or Directorate. An REU Site should provide research opportunities with a coherent intellectual theme and may be based in a single discipline or academic department or may be interdisciplinary and multi-departmental.
+
+The NSF-wide Research Experiences for Undergraduates (REU) solicitation governs the overall competition. The following clarifications/explanations are specifically for REU Site proposals submitted to the Division of Astronomical Sciences.
+
+Note that if the planned research activities will be located at a Federal agency or its research labs (including Federally Funded Research and Development Centers [FFRDCs]), the PI must contact the AST REU Program Officer before preparing a proposal for submission, in accordance with PAPPG Chapter I.E.7.
+Interdisciplinary proposals are welcome (these are typically with physics or geosciences) but should be predominantly astronomy-focused. Proposals that have a minor astronomy component should be submitted to the dominant Division with a request for co-review by the Division of Astronomical Sciences.
+It is not necessary to include all potential mentors (for the student researchers) as senior personnel, but the potential mentors and their role should be fully documented in the Project Description.
+With sufficient justification, AST will consider proposals from non-academic sites (e.g., observatories or laboratories) that have a higher cost-per-student than that suggested in the solicitation. Please contact the Program Officer in advance if you anticipate exceeding the cost-per-student guideline.
+Typical awards are for a 3-year duration. Longer durations (up to 5 years) are possible for existing sites, but the proposal should address why the longer duration is appropriate.
+Interested PIs are advised to explore the Online Directory of Astronomy REU Sites to determine the scope and breadth of fields funded under our program.
+
+NOTE:  All AST REU Site applicants should submit their proposals to the NSF-wide REU solicitation and choose "AST - MPS/AST - Special Programs in Astronomy" (Directorate: Directorate for Mathematical & Physical Sciences [MPS]; Division: Division of Astronomical Sciences [AST]) as the appropriate Unit of Consideration.

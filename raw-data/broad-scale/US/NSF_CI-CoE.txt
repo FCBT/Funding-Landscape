@@ -1,0 +1,20 @@
+Synopsis
+The Nation’s advanced research cyberinfrastructure (CI) ecosystem catalyzes discovery and innovation across all areas of science and engineering (S&E) research and education. The increasingly complex and rapidly evolving S&E landscape requires an agile, integrated, robust, trustworthy, and sustainable CI ecosystem that will drive new thinking and transformative discoveries in all areas of research and education.
+
+The success of this vision depends on the ability of the research community to be able to easily and effectively access and use state-of-the-art research CI resources and services in a timely way. This, in turn, drives a set of requirements on the development, operation, and evolution of the CI ecosystem. First, research CI resources and services must be designed to leverage and drive innovations, and they must be user-centric and interoperable to enable the efficient, flexible end-to-end discovery pathways that are increasingly essential for the conduct of research. Second, the information, expertise, and services needed to maximally utilize the CI ecosystem must be disseminated broadly and concertedly to the research community.
+
+The NSF Cyberinfrastructure Centers of Excellence (CI CoE) Program aims to realize the above vision by supporting hubs of expertise and innovation targeting specific areas, aspects, or stakeholder communities of the research CI ecosystem. Supported CI CoEs provide expertise and services related to CI technologies and solutions; gather, develop, and communicate community best practices; and serve as readily-available resources for both the research community and the CI community. A key objective of this program is to support CI CoEs that drive advancements in and positively impact the CI ecosystem through structured but strongly community-engaging and community-serving approaches. Overall, CI CoEs are a means of concentrating resources on a specific area of identified need in support of the broader goal of advancing capabilities and performance of the national CI ecosystem [1].
+
+Activities. Successful CI CoE projects will perform a range of functions such as:
+
+Exploring emerging technologies, disruptions, opportunities, and community needs, and developing proactive design and adoption strategies, practices, and other approaches in response;
+Nurturing communities of stakeholders and experts in their area(s) of focus (foci) with the overall goal of achieving self-sustaining communities of practice; and
+Providing services, training, and outreach to target communities.
+Topics and Pathways. NSF anticipates creating such CI CoEs in response to specific needs and gaps. NSF anticipates issuing Dear Colleague Letters to indicate interest in pilot CI CoE proposals on particular focus areas. NSF may initially invest in two-year pilot CI CoE projects which aim to develop concepts and plans and demonstrate feasibility through pilot activities as preparatory precursors to eventual proposals for establishing full-scale CI CoEs. The level of support for pilot CI CoE projects is expected to vary, based on the topic and range of activities proposed.
+
+Lifecycle and expected endpoint. CI CoEs are typically expected to operate for five years and may be renewed, subject to the outcome of performance reviews, NSF prioritization, continuing demonstrated need for the CI CoE, and availability of funds, consistent with NSF merit review principles.
+
+Guidance to proposers. Individuals interested in submitting a proposal for a CI CoE project are strongly encouraged to discuss their project idea with the cognizant CI CoE Program Director(s) in the relevant areas prior to submission. Additional guidance may be provided in Dear Colleague Letters issued to announce interest in pilot CI CoE proposals on particular focus areas.
+
+
+[1] An example is the NSF Cybersecurity Center of Excellence, Trusted CI, https://trustedci.org.

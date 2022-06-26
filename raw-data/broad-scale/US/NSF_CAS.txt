@@ -1,0 +1,156 @@
+Synopsis
+Economic development and human progress have led to a proliferation of manufactured chemicals and materials made from limited resources found in nature (i.e., minerals and metals, petroleum-based products and natural gas). Long-term sustainability requires consideration of the availability of specific natural resources, energy, and water usage. NSF continues to support efforts that seek to improve the efficiency with which natural resources are used to meet human needs for products and services.  Sustainability research encompasses the design, manufacture and use of efficient, effective, safe and more environmentally-benign products and processes; stimulates innovation across all sectors to design and discover new chemicals and materials, production processes, and product stewardship practices; and, increases performance and value while meeting the goals of protecting and enhancing human health and the environment. 
+
+This program seeks to support basic research through core disciplinary programs aimed at improving the sustainability of resources for future generations while maintaining or improving current products in order to offer technologically-advanced, economically competitive, environmentally-benign and useful materials to a global society. In order to address these challenges, the program aims to identify opportunities for innovation in a wide range of contributing disciplines as well as integrative activities.  This program encourages the development of new experimental and theoretical/modeling approaches that will aid in both reductionist and whole-systems approaches. 
+
+This program welcomes proposals in any area of research supported through the participating divisions that address the topics outlined below. The selected topics are of particular interest to core disciplinary programs in the participating divisions and do not include all funding opportunities and priorities in the area or sustainability at NSF. Proposals are submitted to the relevant core Programs indicated below (links at the bottom) in the participating Divisions, and all questions regarding proposals should be addressed by the cognizant Program Officers to which submission is contemplated. Proposals should be submitted with the "CAS:" prefix in the title.  
+
+The Division of Chemistry (CHE/MPS) welcomes proposals to its Disciplinary Research Programs, including Chemical Catalysis (CAT), Chemical Measurement and Imaging (CMI), Chemical Structure, Dynamics and Mechanisms-A (CSDM-A), Chemical Structure Dynamics and Mechanisms-B (CSDM-B), Chemical Synthesis (SYN), Chemical Theory, Models and Computational Methods (CTMC), Chemistry of Life Processes (CLP), Environmental Chemical Sciences (ECS), and Macromolecular, Supramolecular and Nanochemistry (MSN). All proposals must be on chemical aspects of sustainability.
+
+·        The design, preparation and reactivity studies associated with new catalysts and catalytic processes that employ earth-abundant and benign elements and raw materials; advanced catalytic methods for the reduction of dinitrogen to ammonia and water splitting are also invited; Grant Opportunities for Academic Liaison with Industry (GOALI) proposals, where such advances are connected directly to industrial considerations, are also encouraged.
+
+·        Understanding the molecular mechanisms of the two-way communication between the environment and living systems as well as between organisms situated in changing environments; design and test methods that could confer resilience and/or could foster adaptability of living systems subject to changing environments.
+
+·        Innovative measurement and imaging approaches that can improve the efficiency of manufacturing processes, including advances in separation science targeting reduced energy consumption or generation of less waste.
+
+·        Fundamental studies related to sustainable energy such as chromophores based on earth abundant elements, advanced electrolytes for battery, water splitting, and carbon dioxide conversions.
+
+·        Understanding the environmental chemical degradation of contaminants, including emerging contaminants.
+
+·        Transformative approaches to efficient and inexpensive synthesis of polymers or nanostructures using renewable feedstocks or earth abundant elements; and innovative research that enhances the understanding of efficient use and recycling of polymers and critical elements or the conversion of energy from renewable sources.
+
+·        The development of new synthetic methods using earth-abundant and inexpensive chemicals, fundamental studies that improve our understanding of rare earth elements; the conversion of non-petroleum-based resources into useful building blocks; and new environmentally-friendly chemical syntheses that improve on current practice by requiring less energy, fresh water, reagents, and/or organic solvents.
+
+·        Other CHE programs also welcome proposals on this general topic, as long as the proposals fit the scope of the program.
+
+All questions regarding proposals to CHE should be addressed to the cognizant Program Officers for the Program to which submission is contemplated (see CHE Program webpages, https://www.nsf.gov/funding/programs.jsp?org=CHE).
+
+The Division of Materials Research (DMR/MPS) welcomes proposals to its Topical Materials Research Programs, including Biomaterials (BMAT), Ceramics (CER), Condensed Matter and Materials Theory (CMMT), Condensed Matter Physics (CMP), Electronic and Photonic Materials (EPM), Metals and Metallic Nanostructures (MMN), Polymers (POL), and Solid State and Materials Chemistry (SSMC).  All proposals must be on materials aspects of sustainability and focused on fundamental materials-research approaches.
+
+·        CER, CMMT, EPM, and SSMC will consider proposals on all materials aspects of sustainability.  
+
+·        BMAT encourages proposals that take advantage of synthetic biology or other innovative and sustainable approaches (e.g., renewable, recyclable, biodegradable, and/or environmentally benign) materials.  
+
+·        CMP encourages proposals on replacing rare-earth elements in magnetic materials with more abundant and accessible elements; also proposals exploring materials alternatives to oxides for nuclear reactor fuel, aiming at improved stability and properties (e.g., thermal conductivity) and decreased environmental impact. 
+
+·        MMN encourages proposals on preventing corrosion of metals and alloys under extreme conditions, reducing pollution or enhancing clean energy through innovative metallic nanostructures, or replacing expensive technology-critical metals and alloys with more sustainable alternatives. 
+
+·        POL welcomes proposals that address sustainability in the spirit of circular economy, e.g. plastics waste accumulation through innovative materials approaches and environmentally benign polymeric materials having properties exceeding those of current commercial plastics.
+
+·        All proposals must be submitted through one of the active solicitations of the DMR Topical Materials Research Programs (currently NSF 20-582, 20-588, and 20-589 ) and must follow the deadlines, instructions, and limitations of these solicitations.  Proposals that are not in accordance with these guidelines or that fall outside the scope of DMR and its Topical Materials Research Programs will be returned without review. 
+
+All questions regarding proposals to DMR should be addressed to the cognizant Program Officers for the Program to which submission is contemplated (see DMR Program webpages, https://www.nsf.gov/funding/programs.jsp?org=DMR).
+
+The Chemical, Bioengineering, Environmental and Transport Systems Division (CBET/ENG) has several core programs that review proposals on research topics related to sustainability, including Interfacial engineering (IfE), Biosensing, Environmental Sustainability (EnvS), Nanoscale Interactions (NanoInt), Combustion and Fire Systems (CFS), and Particulate and Multiphase Processes (PMP).  Within these programs, as noted, the following topics are of particular interest:
+
+·        Understanding the fundamental combustion properties of sustainable aviation fuels under engine relevant conditions. (CFS)
+
+·        Fundamental studies leading to effective methods of processing multiphase fluid systems that minimize waste, avoid contamination, enhance purity, or lead to novel materials that benefit efficient energy utilization. (PMP)
+
+·        The development of innovative separation mechanisms, mass separating agents, or engineering processes that aim to substantially reduce energy and/or material consumption in the chemical process industries. (IfE)
+
+·        Fundamental mechanistic investigations for the development, sustainable production and use of nanomaterials, nanoparticles, nanodevices and nanosystems. (NanoInt)
+
+·        Biosensing systems with inherent capabilities of artificial intelligence, machine learning, and decision making for applications in real time monitoring of environmental and living systems and in evaluating environmentally benign chemicals and materials. (Biosensing)
+
+·        Industrial Ecology: Topics of interest in Industrial Ecology include advancements in modeling such as life cycle assessment, materials flow analysis, input/output economic models, and novel metrics for measuring sustainable systems. Innovations in industrial ecology are encouraged. (EnvS)
+
+·        Green Engineering: Research is encouraged to advance the sustainability of manufacturing processes, green buildings, and infrastructure. Improvements in distribution and collection systems that will advance smart growth strategies and ameliorate effects of growth are supported. Innovations in management of storm water, recycling and reuse of drinking water, and other green engineering techniques to support sustainability may also be fruitful areas for research. (EnvS)
+
+·        Ecological Engineering: Topics should focus on the engineering aspects of restoring ecological function to natural systems. Engineering research in the enhancement of natural capital to foster sustainable development is encouraged. (EnvS) 
+
+·        Earth Systems Engineering: Earth systems engineering considers aspects of large scale engineering research that involve mitigation of greenhouse gas emissions, adaptation to climate change, and other global scale concerns. (EnvS) 
+
+All questions regarding proposals to CBET should be addressed to the cognizant Program Officers for the participating Program to which submission is contemplated (see CBET Program webpages, https://www.nsf.gov/funding/programs.jsp?org=CBET).
+
+For the Division of Civil, Mechanical and Manufacturing Innovation (CMMI/ENG), proposals addressing sustainable materials processing are welcome. Of interest are manufacturing processes with reduced use of toxic components, such as solvents, carbon emissions, and pollutants; processes under ambient conditions, as opposed to extreme temperatures, pressures or other harsh conditions; and increased conservation of natural resources, such as water, raw material, and energy. Proposals to CMMI must be submitted to the Advanced Manufacturing (AM) Program and align with the scope of the program. 
+
+All questions regarding proposals to CMMI should be addressed to the cognizant Program Officers for the participating Program to which submission is contemplated (see CMMI Program webpages, https://www.nsf.gov/funding/programs.jsp?org=CMMI).
+
+The Division of Earth Sciences (EAR/GEO) welcomes fundamental and transformational geosciences projects addressing the distribution of Critical Minerals and Materials in the Earth. The following programs in the division support research on this topic:  Petrology and Geochemistry (CH), Geobiology and Low-Temperature Geochemistry (GG), and Frontier Research in Earth Sciences (FRES).  
+
+Topics of particular interest include fundamental studies of the geochemistry of Critical Earth Minerals and Materials (CMM), such as:
+
+·        Identifying new sources of critical minerals on the Earth’s surface;
+
+·        Understanding their pathways in the natural environment and their concentration by Earth and geobiological processes; and
+
+·        Developing methods for sustainable exploration of these CMMs.  Studies can be based on laboratory, field, or modeling efforts, and should have a strong emphasis on training the next generation of geoscientists and educating the public on the importance of CMM. 
+
+Proposals must be submitted through one of the active solicitations of the three programs and must follow the deadlines and guidelines of these solicitations.
+
+All questions regarding proposals to EAR should be addressed to the cognizant Program Officers for the participating Program to which submission is contemplated (see EAR Program webpages, https://www.nsf.gov/funding/programs.jsp?org=EAR).
+
+The Division of Environmental Biology (DEB/BIO) welcomes proposals to its core programs in Systematics and Biodiversity Science (SBS), Evolutionary Processes (EP), Population and Community Ecology (PCE), and Ecosystem Science (ES) that address evolutionary and ecological processes acting at the level of populations, species, communities, and ecosystems.
+
+·     SBS supports research that advances understanding of the diversity, systematics, and evolutionary history of extant or extinct organisms in natural systems. 
+
+ ·     EP supports research that draws inferences about micro- and macro-evolutionary processes and their consequences, over any addressable spatial or temporal scale.
+
+ ·     PCE supports research that advances the conceptual or theoretical understanding of population ecology, species interactions, and community dynamics in terrestrial and aquatic habitats. 
+
+ ·     ES supports research on ecosystem structure and function across a diversity of spatial and temporal scales to advance understanding of biogeochemical fluxes and transformations.
+
+Within these core programs, the following topics have particular relevance to sustainability on a changing planet suitable for research proposals:
+
+·     Fundamental controls on carbon dynamics and cycling in natural and managed ecosystems
+
+·     Strategies for ecosystem restoration to reduce greenhouse gas emissions or sequester carbon
+
+·     Community and ecosystem responses to complex interactions of climate and greenhouse gases
+
+·     Advances in understanding of species adaptations and resilience to a rapidly changing climate
+
+·     Feedback dynamics between biodiversity, climate, and sustainable natural systems
+
+·     Direct and indirect roles of biodiversity in climate solutions including carbon sequestration
+
+Applications to DEB should address the intellectual merits as well as the broader impacts of the proposed work. Societal impacts include not only addressing key problems such as effects of greenhouse gas emissions on a sustainable planet but also creation of a diverse scientific workforce. Questions regarding proposals to DEB should be addressed to a cognizant Program Officer for the core program to which submission is contemplated (see DEB Program webpages, https://www.nsf.gov/bio/deb/about.jsp).
+
+The Division of Integrative Organismal Systems (IOS/BIO) welcomes proposals to its core programs in the Physiological and Structural Systems Cluster (PSS), Behavioral Systems Cluster (BSC), Developmental Systems Cluster (DSC), Neural Systems Cluster (NSC), and the Plant Genome Research Program (PGRP) that address conceptual and theoretical insights and testable predictions about integrated organismal properties, including the relationship between genotypes and phenotypes.
+
+·     PSS supports research aimed at identifying fundamental design principles of physiological and structural systems; understanding why particular morphological and physiological mechanisms have evolved; and how they are integrated at the level of the whole organism. 
+
+·     BSC supports research to understand how and why individuals and groups of animals do what they do in nature.
+
+·     DSC supports research aimed at understanding how interacting developmental processes give rise to the emergent properties of organisms.
+
+·     NCS supports mechanistic studies in neuroscience that span multiple levels of analysis ranging from the molecular and cellular to the complex behavioral aspects of organisms.
+
+·     PGRP supports genome-scale research in plants that uncovers fundamental biological principles, contributes to understanding the rules of life, and develops the cutting-edge tools and resources to generate basic knowledge that can be applied to plants of economic importance and beyond.
+
+Within these core programs, the following topics have particular relevance to sustainability on a changing planet suitable for research proposals:
+
+·     Plant functional traits that determine rates of carbon fixation and cycling in natural and managed ecosystems
+
+·     Genomic and functional traits to enhance organismal roles in capture and sequestration of carbon and reduction of greenhouse gas emissions
+
+·     Natural and domesticated species phenotypic and genotypic responses to complex interactions of climate and greenhouse gases
+
+·     Advances in understanding of organismal adaptation and resilience to a rapidly changing climate
+
+·     Feedback dynamics between organismal traits, climate, and sustainable natural and agricultural systems
+
+·     Direct and indirect roles of biodiversity in climate solutions including carbon sequestration
+
+·     Multi-omic based predictive models to understand persistence, speciation and extinction dynamics as related to changing climates, including adaptation, migration and resiliency
+
+Applications to IOS should address the intellectual merits as well as the broader impacts of the proposed work. Societal impacts include not only addressing key problems such as effects of climate change on organisms but also creation of a diverse scientific workforce. Questions regarding proposals to IOS should be addressed to a cognizant Program Officer for the core program to which submission is contemplated (see IOS Program webpages, https://nsf.gov/bio/ios/about.jsp.
+
+The Molecular and Cellular Biosciences Division (MCB/BIO) welcomes proposals to its core programs Cellular Dynamics and Function (CDF), Genetic Mechanisms (GM), Molecular Biophysics (MB), and Systems and Synthetic Biology (SSB) that address biomolecular and cellular sciences, using interdisciplinary approaches to advance sustainability.  Within these programs, the following topics are of particular interest:
+
+·        Advances in plant synthetic biology, engineered plant symbionts or plant microbiomes that enhance carbon capture and storage, reduce nitrogen/phosphorus fertilizer usage and/or reduce water usage.
+
+·        Advances in systems biology of plants or microbes that enhance the scientific understanding of the biogeocycling of C, N, P and water. 
+
+·        Advances in the understanding of relationships among genotype, phenotype and environment to inform systems and synthetic biology approaches to the above problems. 
+
+·        Novel biological approaches to sequester carbon, exploring the potential of synthetic symbiosis to sequester carbon in aquatic or terrestrial environments where long-term stable carbon storage may be possible.
+
+·        Novel biological approaches to capture greenhouse gases.  Exploration of metabolism of diverse organisms that can utilize C1 gases.  Development of synthetic biology tools to enable the genetic modification of these diverse organisms such that they can be better used in applications that support a circular bioeconomy.
+
+·        Advances in systems analysis and modeling of the molecular evolution and adaptation of genetically-engineered organisms released to mitigate greenhouse gases or to create a circular bioeconomy.
+
+·        Quantitative, predictive approaches to novel molecular or cellular biology solutions to other problems related to sustainability such as the circular bioeconomy.
+
+Applications to MCB should address the social, ethical and/or biosafety/security issues associated with the proposed work.  This may be one of the aims under intellectual merit or may be part of broader impacts.  Societal impacts include not only addressing key problems such as greenhouse gas emissions but also creation of a diverse scientific workforce.  Proposals should be submitted to the Systems and Synthetic Biology cluster to be shared across the Division.  All questions regarding proposals to MCB should be addressed to the cognizant Program Officers for the participating Program to which submission is contemplated (see MCB Program webpages, https://www.nsf.gov/funding/programs.jsp?org=MCB).

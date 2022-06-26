@@ -1,0 +1,37 @@
+Synopsis
+The RINGS program seeks to accelerate research in areas that will potentially have significant impact on emerging Next Generation (NextG) wireless and mobile communication, networking, sensing, and computing systems, along with global-scale services, with a focus on greatly improving the resiliency of such networked systems among other performance metrics. Modern communication devices, systems, and networks are expected to support a broad range of critical and essential services, incorporating computation, coordination, and intelligent decision making. Resiliency of such systems, which subsumes security, adaptability, and autonomy, will be a key driving factor for future NextG network systems. Resiliency in both design and operations ensures robust network and computing capabilities that exhibit graceful performance- and service-degradation with rapid adaptability under even extreme operating scenarios. The RINGS program seeks innovations to enhance both resiliency as well as performance across the various aspects of NextG communications, networking and computing systems. This program seeks to go beyond the current research portfolio within the individual participating directorates by simultaneously emphasizing gains in resiliency (through security, adaptability and/or autonomy) across all layers of the networking protocol and computation stacks as well as in throughput, latency, and connection density.
+
+In this program, NSF is partnering with the Office of the Under Secretary of Defense for Research and Engineering (OUSD R&E), the National Institute of Standards and Technology (NIST) and a number of industry partners shown above. This program seeks to fund collaborative team research that transcends the traditional boundaries of individual disciplines to achieve the program goals.
+
+ 
+
+SELECTED LIST OF ACRONYMS
+
+
+AI              Artificial Intelligence  
+
+AR             Augmented Reality
+
+Gbps          Giga-bit per second.
+
+IoT            Internet of Things
+
+MHz           MegaHertz
+
+MIMO         Multiple-Input and Multiple-Output
+
+ms             Millisecond
+
+NextG        Next Generation Wireless Broadband Networks
+
+PAWR         Platform on Advanced Wireless Research
+
+RF             Radio Frequency
+
+RV             Research Vector
+
+THz            TeraHertz
+
+UAS           Unmanned Aircraft Systems
+
+VR             Virtual Reality

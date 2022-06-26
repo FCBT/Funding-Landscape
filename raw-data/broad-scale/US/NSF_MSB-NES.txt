@@ -1,0 +1,8 @@
+Research on Biological Systems at Regional to Continental Scales
+
+Supports research and training focused on biosphere processes and their complex interactions with climate, land use, and changes in species distribution at regional to continental scales.
+
+Synopsis
+The Macrosystems Biology and NEON-Enabled Science (MSB-NES): Research on Biological Systems at Regional to Continental Scales program will support quantitative, interdisciplinary, systems-oriented research on biosphere processes and their complex interactions with climate, land use, and changes in species distribution at regional to continental scales as well as training activities to broaden participation of researchers in Macrosystems Biology and NEON-Enabled Science.
+
+MSB-NES projects that use data and/or resources from the National Ecological Observatory Network (NEON) are encouraged. Substantive NEON-enabled projects rely on data and/or samples collected by NEON and/or co-locate research activities at NEON sites. Projects may develop tools that will explicitly enhance the processing, use, and/or analysis of NEON data or collections, in the context of addressing a specific research question or hypothesis. However, proposals primarily focused on tool development that can be used for a broad class of research questions or for topics that meet the needs of a community of researchers should be directed toward the Infrastructure Innovation for Biological Research (Innovation) or Infrastructure Capacity for Biological Research (Capacity) programs in the Division of Biological Infrastructure.

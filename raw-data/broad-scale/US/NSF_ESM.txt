@@ -1,0 +1,24 @@
+Synopsis
+The objective of Electromagnetic Spectrum Management (ESM) is to ensure the access of the scientific community to portions of the radio spectrum that are needed for research purposes. ESM does this by representing the interests of the NSF and the scientific community in the field of telecommunications management and regulation, by:
+
+Participating in the establishment of radio regulations, operating procedures and technical standards related to government uses of the radio spectrum through representing the NSF on the Interdepartment Radio Advisory Committee (IRAC), which advises the National Telecommunications and Information Administration (NTIA) on the spectrum requirements of government agencies, and on the subcommittees and ad-hoc committees of the IRAC;
+Participating in the establishment of radio regulations, operating procedures and technical standards related to private sector uses of the radio spectrum, by providing input into Federal Communications Commission (FCC) proceedings, directly or through NTIA; and
+Participating in the establishment of international radio regulations (the Radio Regulations), by providing input into U .S. Govt. preparations for World Radiocommunication Conferences through the Radio Conference Subcommittee (RCS) of the IRAC, and serving as technical advisor to U.S. delegations to World Radiocommunication Conferences, when appropriate.
+Other ESM activities consist of:
+
+Maintaining liaison with the Committee on Radio Frequencies (CORF) of the National Academy of Sciences (NAS), the US National Committee of the International Radio Science Union (USNC-URSI) and the Committee on Radio Astronomy Frequencies (CRAF) of the European Science Foundation (ESF);
+Assisting with national and international registration of radio telescopes. In the U.S, use of the spectrum by radio telescopes may be registered with the NTIA and entered in the Government Master File (GMF). Internationally, radio telescopes may be registered with the ITU. For details, see: Registration of radio telescopes;
+Obtaining spectrum support for NSF radio communications systems and radio research instruments, such as, e.g. weather radars, when required. For spectrum certification and frequency assignments, please contact the Electromagnetic Spectrum Management Unit at the NSF by e-mail at esm@nsf.gov; and
+Working with the appropriate Study Groups (SGs), Working Parties (WPs) and Task Groups (TGs) of the Radiocommunication Sector (ITU-R) of the International Telecommunication Union (ITU), such as SG 7 (Science Services) and WP 7D (Radio astronomy); chairing the corresponding U.S. group (US WP7D) within the International Telecommunication Advisory Committee - Radio (ITAC-R), chartered by the Department of State; and serving on U.S. delegations to appropriate ITU-R meetings to ensure that technical and regulatory requirements of the radio astronomy community are adequately represented.  US WP 7D activities and documentation may be accessed through the US SG7 website.
+ 
+
+Additional Information:
+
+JASON Report
+
+National Science Foundation's Future Spectrum Requirements
+
+ 
+
+NSF Workshop on the Shielded Zone of the Moon: Presentations
+

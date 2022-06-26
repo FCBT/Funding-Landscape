@@ -1,0 +1,18 @@
+Synopsis
+The Cyberinfrastructure for Emerging Science and Engineering Research (CESER) program aims to catalyze new science and engineering discovery pathways through early-stage collaborative activities between disciplinary scientists and engineers as well as developers/implementers of innovative cyberinfrastructure (CI) capabilities, services, and approaches.  
+
+Beginning in FY 2017, the CESER program replaced the Strategic Technologies for Cyberinfrastructure (STCI) program. CESER has retained STCI's focus on supporting innovation across the CI ecosystem with increased emphasis on addressing and enabling emerging areas of potentially transformative research, including NSF priority areas, national strategic directions, and international collaborative research.
+
+CESER accepts proposals pursuant to this Program Description year-round. From time to time, NSF may also issue Dear Colleague Letters pursuant to CESER to signal special thematic interests and opportunities. CESER employs existing NSF funding mechanisms to accomplish the program's goals.
+
+GUIDANCE TO POTENTIAL PROPOSERS
+
+Science/engineering-driven collaboration. A central feature of successful CESER projects is a strong, mutually-dependent collaborative team comprising expertise in the target science/engineering discipline(s) and expertise in CI development and implementation. Such a collaborative approach is critical to informing and guiding the development of requirements towards the eventual development and deployment of user-centric innovative CI that fosters new pathways to discovery. Proposals pursuant to CESER should clearly identify and describe the science and engineering goals and rationale, and explain and support the potential for transformative impacts on science/engineering research and broader impacts. Proposals for technical efforts that are not well-tied to identified science and engineering research challenges as well as utilization scenarios are unlikely to be supported.
+
+Exploratory and pilot activities. CESER supports early-stage exploratory efforts that may comprise analysis, community planning, and pilot-level activities that are preparatory or informative for eventual future development and deployment of science/engineering-driven CI. Proposals for full-scale technical efforts leading to development/deployment should be directed to other appropriate NSF programs.
+
+Integrative and accelerative approaches. Proposals are particularly welcomed that address identified common needs across multiple research disciplines; leverage and accelerate the impact of existing CI investments in resources and services in one or more application domains; aim to reduce barriers to broader adoption of CI-enabled science/engineering approaches; and integrate different aspects and elements of CI to achieve holistic solutions with transformative science/engineering impact.
+
+Requirement to contact NSF Cognizant Program Officers. CESER is an inherently collaborative science/engineering-CI program. Successful CESER projects typically involve co-funding from the relevant disciplinary research programs within NSF. Consequently, before submitting a proposal to CESER, proposers must discuss their project idea with a cognizant CESER Program Officer and with the relevant NSF disciplinary research program(s) to ensure that CESER is the appropriate venue and that there is adequate disciplinary interest in the proposed effort.
+
+Proposals that have been declined by CESER or any other NSF program may not be resubmitted to CESER without substantial revision. Proposals that do not align with CESER program objectives and guidance may be returned without review.

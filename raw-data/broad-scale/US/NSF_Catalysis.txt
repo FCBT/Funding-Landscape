@@ -1,0 +1,48 @@
+Supports research on catalytic materials and reactions that uses synthetic, theoretical and experimental approaches.
+
+Synopsis
+The Catalysis program is part of the Chemical Process Systems cluster, which also includes: 1) the Electrochemical Systems program; 2) the Interfacial Engineering program; and 3) the Process Systems, Reaction Engineering, and Molecular Thermodynamics program.
+
+The goals of the Catalysis program are to increase fundamental understanding in catalytic engineering science and to advance the development of catalytic materials and reactions that are beneficial to society.  Research in this program should focus on new concepts for catalytic materials and reactions, utilizing synthetic, theoretical, and experimental approaches.  Target applications include fuels, specialty and bulk chemicals, environmental catalysis, biomass conversion to fuels and chemicals, conversion of greenhouse gases, and generation of solar hydrogen, as well as efficient routes to energy utilization.
+
+Heterogeneous catalysis represents the main thrust of the program.  Proposals related to both gas-solid and liquid-solid heterogeneous catalysis are welcome, as are proposals that incorporate concepts from homogeneous catalysis. 
+
+Topic areas that are of particular interest include:
+
+·         Renewable energy-related catalysis with applications in electrocatalysis, photocatalysis, and catalytic conversion of biomass-derived chemicals. Catalysis aimed at closing the carbon cycle (especially conversion of CO2, methane, and natural gas to fuels and chemical intermediates).
+
+·         Catalytic alternatives to traditionally non-catalytic reaction processes, as well as new catalyst designs for established catalytic processes.  
+
+·         Environmental catalysis (including energy-efficient and green routes to fuels and chemicals).
+
+·         Catalytic remediation of feedstocks, process streams, products, or effluents.
+
+·         Commercially scalable methods of catalyst synthesis.
+
+·         New catalytic materials and architectures (especially those substituting earth-abundant materials for precious and noble metal catalysts).
+
+·         Basic understanding of catalytic materials, reaction pathways, kinetics, and surface mechanisms.
+
+·         Durable, poison-resistant, and easily regenerable catalyst formulations and designs.
+
+·         Advances in tools for catalyst characterization and theoretical/computational catalysis.
+
+Proposals that deal with new catalytic materials, especially materials for photocatalysts, with their inherent complexity, will be enhanced by including plans to assess: 1) reproducibility and repeatability of data, 2) stability under realistic operating conditions including start-up and shut-down cycles, 3) performance relative to standard or well-known reference materials, and 4) quantitative, well-accepted measures of catalyst activity and catalytic efficiency, such as turnover frequencies and turnover numbers, quantum and/or photon yields of photocatalysts, and detailed product analyses and mass balances for the targeted application.
+
+NOTE: Proposals focused on biocatalytic processes, including proposals focusing on enzyme engineering, cellular and biomolecular processes, should now be submitted to the Cellular and Biochemical Engineering program (CBET 1491).  If the proposal focuses on reaction engineering aspects of catalytic processes, submit to the Process Systems, Reaction Engineering, and Molecular Thermodynamics program (CBET 1403). Projects that are interdisciplinary in nature may be jointly funded with other CBET and NSF programs. Program directors will review the submissions and may transfer your proposal to give it the best review situation.
+
+Innovative proposals outside of these specific interest areas may be considered.  However, prior to submission, it is recommended that the PI contact the program director to avoid the possibility of the proposal being returned without review.
+
+INFORMATION COMMON TO MOST CBET PROGRAMS
+
+Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field. Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact on society and/or industry of success in the research. The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal.
+
+The duration of unsolicited proposal awards in CBET is generally up to three years.  Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of principal investigator time per year (awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the program director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the “What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)” link towards the bottom of this page.
+
+Faculty Early Career Development (CAREER) program proposals are strongly encouraged. Award duration is five years. The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description. 
+
+Proposals for Conferences, Workshops, and Supplements: PIs are strongly encouraged to discuss their requests with the rogram director before submission of the proposal.
+
+Grants for Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER) are also considered when appropriate. Please note that proposals of these types must be discussed with the program director before submission. Grant Opportunities for Academic Liaison with Industry (GOALI) proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged. Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in theProposal & Award Policies & Procedures Guide (PAPPG), Part 1, Chapter II, Section E: Types of Proposals.
+
+COMPLIANCE: Proposals which are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review.

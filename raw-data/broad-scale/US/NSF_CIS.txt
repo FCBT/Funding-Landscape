@@ -1,0 +1,9 @@
+Supports fundamental research focused on the design and management of infrastructure, such as transportation, power, water and pipelines. Projects will support the creation of smart, sustainable national and international communities.
+
+Synopsis
+The Civil Infrastructure Systems (CIS) program supports fundamental and innovative research in the design, operation and management of civil infrastructure that contributes to creating smart, sustainable and resilient communities at local, national and international scales. This program focuses on civil infrastructure as a system in which interactions between spatially- and functionally- distributed components and intersystem connections exist. All critical civil infrastructure systems are of interest, including transportation, power, water, pipelines and others.
+
+The CIS program encourages potentially disruptive ideas that will open new frontiers and significantly broaden and transform relevant research communities. The program particularly welcomes research that addresses novel system and service design, system integration, big data analytics, and socio-technological-infrastructure connections. The program values diverse theoretical, scientific, mathematical, or computational contributions from a broad set of disciplines.
+
+While component-level, subject-matter knowledge may be crucial in many research efforts, the program does not support research with a primary contribution pertaining to individual infrastructure components such as materials, sensor technology, extreme event analysis, human factors, climate modeling, structural, geotechnical, hydrologic or environmental engineering.
+

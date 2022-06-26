@@ -1,0 +1,4 @@
+Synopsis
+CISE’s Division of Computer and Network Systems (CNS) supports research and education projects that take a system-oriented approach to the development of novel computing and networking technologies, or to the enhancement of existing systems in any of several dimensions, or that explore new ways to make use of existing technologies. This solicitation invites proposals tackling ambitious problems in computing and networking that are well suited to an integrated systems-oriented approach. Teams should consist of two or more investigators (PI, co-PI(s), or other Senior Personnel) with complementary skillsets, and a team of students and/or postdoctoral researchers. 
+
+Proposals can have total budgets from $1,200,001 - $3,000,000 with durations up to five years.  

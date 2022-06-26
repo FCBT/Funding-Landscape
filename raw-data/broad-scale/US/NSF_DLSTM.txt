@@ -1,0 +1,27 @@
+The National Science Foundation (NSF) wishes to notify the community of its intention to support workshops for future manufacturing (FM) science and technology in support of the goals and vision of the report “Strategy for American Leadership in Advanced Manufacturing” by the National Science and Technology Council (NSTC). Such workshops are typically identified as conferences in the NSF Proposal & Award Policies & Procedures Guide (PAPPG) and will hereafter be referred to as conferences. The conferences should identify areas and thrusts for fundamental research that will enable future manufacturing: manufacturing that is either entirely new or that can be done today but not at a sufficient scale to make it viable. Conferences should explore new, potentially transformative, manufacturing capabilities rather than aiming to improve current manufacturing or make incremental improvements over existing Advanced Manufacturing technologies.
+
+Recent developments in artificial intelligence/machine learning, robotics, the Internet of Things, critical materials, and biomanufacturing, among other areas, have opened significant opportunities for fundamental research to enable new manufacturing which can address societal challenges in agriculture, bioengineering, climate, energy, health, security, space, and civil infrastructures.
+
+NSF invites conference proposals on future manufacturing areas that have the potential to profoundly transform manufacturing, create new manufacturing capabilities, and significantly benefit society. A conference should take a convergent approach and explore long-term science and technology strategies for a future manufacturing ecosystem. A conference should also explore relevant education and workforce development, as well as ways of broadening participation in future manufacturing. A conference should build a community of US and international multidisciplinary researchers, educators and stakeholders who will collectively promote future manufacturing research and education. It should also identify and develop directions for fundamental research to enable new manufacturing, so that work in those areas might be encouraged in upcoming NSF program solicitations.
+
+Proposal Preparation and Submission:
+Proposals for conferences must be prepared and submitted in accordance with the guidance for Conference Proposals specified in Chapter II.E.7 of the PAPPG. Proposals should name a confirmed organizing committee composed of members drawn from multiple disciplines and organizations, including institutions of higher education, industry, national laboratories, and professional societies. The organizing committee will formulate, execute, and report on the conference events. A principal investigator (PI) or co-PI may only submit one proposal in response to this Dear Colleague Letter (DCL). In the event that an investigator exceeds this limit, proposals received within the limit will be accepted based on earliest date and time of proposal submission. The remainder will be returned without review. This limitation includes proposals submitted by a lead organization and any subawardees included as part of a proposal.
+
+A proposal's budget may be up to $100,000 for a period up to 12 months. It is envisioned that reports from the conferences will provide guidance to NSF and the community about research opportunities, educational initiatives, and workforce development in FM.
+
+The title of a proposal should begin with "FM-DCL:". The Project Summary should indicate which NSF program(s) most closely align(s) with the proposed area of inquiry. For administrative purposes, proposals are to be submitted to the Advanced Manufacturing (AM) program in ENG/CMMI, responsive to the PAPPG. The AM program will determine which NSF program will conduct the review.
+
+Proposals may be submitted at any time, and they will be reviewed as they are received. To have a proposal reviewed in Fiscal Year 2020, it should be submitted before June 30, 2020.
+
+Up to 10 conferences in different areas of FM may be supported by this DCL, contingent on proposal quality, relevance, and availability of funds.
+
+Proposers are encouraged to contact one of the program directors listed below to discuss their ideas before submitting a proposal. Additional questions may be submitted to FutureManufacturing@nsf.gov, and/or to one of the program directors listed below.
+
+William Olbricht (ENG/CBET), telephone: (703) 292-4842, email: wolbrich@nsf.gov
+Andrew B. Wells (ENG/CMMI), telephone: (703) 292-7225, email: awells@nsf.gov
+
+Sincerely,
+
+Dawn Tilbury
+Assistant Director, Directorate for Engineering (ENG).
+
