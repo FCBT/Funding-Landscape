@@ -1,0 +1,23 @@
+ICAR - National Agricultural Science Fund(NASF)
+
+Strategic Areas:
+
+    Biotechnology, genomics and allele mining in plants, animals and fisheries:
+    Genomics, transgenics, genome editing (CRISPR), genomic selection,animal cloning, gene/ QTLs mapping and tagging,nutrigenomics,Enriching the diversity of genetic resources,Allele mining:
+
+    Abiotic and biotic stresses and, quality traits in plants, animals and fisheries
+
+
+    Precision agriculture and management of natural resources; and application of sensors in crops, animals and Fisheries:
+    Conservation Agriculture, climate change, water quality and productivity, soil health, vertical farming, protected agriculture, Block chain technology, Robotics, VRT, Image analysers, sensor technology and post-harvest management
+
+    Nanotechnology in Agriculture:
+    Nano-diagnostics and monitoring systems, design and fabrication of nano-agri inputs, nano food systems, nano remediation and biosafety of agri-nano products
+
+    Metabolomics in Agriculture
+
+
+    Farm Mechanization and energy:
+    Mechanization in agriculture, farm machinery, sources and utilization of energy, alternate sources of energy, post-harvest and value addition, food processing, health food, use of agricultural wastes
+
+    Social Sciences and policy in agriculture 
