@@ -8,7 +8,10 @@ This contains all relevant code/data/results for quantifying gaps in the current
 
 ```raw-data/broad-scale/metadata.csv``` - detailed information of the raw data collected at broad scale: what country/funding body it refers to, where/when it was found online, where it is stored and who collected it. 
 
-```raw-data/broad-scale/'country'/*.csv``` - each file contains the raw data on research councils funding topics and scope for STEM per funding body.
+```raw-data/broad-scale/'country'/*.txt``` - each file contains the raw data on research councils funding topics and scope for STEM per funding body.
+
+Note: for UKRI data, a general overview of each research council's remit and priorities can be found in the ```ukri/<council>.txt``` file. A more extensive 'list' of each council's areas of investment can be found in the ```ukri/<council>-research-areas.txt``` file, as sourced from https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/.
+
 
 ```raw-data/fine-scale/metadata.csv``` - detailed information of the raw data collected at fine scale: what country/funding body/funded project it refers to, where/when/how it was found online, where it is stored and who collected it.
 
