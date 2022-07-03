@@ -1,0 +1,22 @@
+Synopsis
+Proposals submitted to this program (including individual and collaborative proposals, GOALIs) must be submitted to the CHE Disciplinary Research Programs solicitation.
+
+Exceptions:
+
+RUI proposals must be submitted to the RUI Solicitation during the regular proposal submission window for this program.
+Proposals submitted in response to another solicitation (CAREER) should follow the solicitation guidelines (e.g. CAREER)
+Conference, workshop, EAGER, RAPID or RAISE proposals must be discussed with a Program Officer before submission, and then should only be submitted as instructed.
+
+
+The Macromolecular, Supramolecular, and Nanochemistry (MSN) Program focuses on basic research that addresses fundamental questions and advances knowledge regarding the chemistry of macromolecular, supramolecular, and nanoscopic structures. Research of interest to this program will explore novel chemistry concepts including, but not limited to: synthesis of macromolecular, supramolecular, and nanoscopic structures; surface functionalization methodologies; surface monolayer chemistry; and template-directed synthesis; inter- and intra-molecular interactions that give rise to macromolecular, supramolecular, or nanoparticulate self-assembly into discrete structures; and chemical dynamics that are responsible for spatial organization in discrete organic, inorganic, or hybrid systems (excluding extended solids). Also included are advanced experimental or computational methods to delineate or to predict the chemical structure, unique chemical and physicochemical properties, and chemical reactivity that result from macromolecular, supramolecular, and nanoscopic structures, including systems that exhibit quantum confinement and other non-classical effects. Projects that demonstrate synergy between experiment and theory are of special interest.
+
+Through the Critical Aspects of Sustainability (CAS) program, the Division of Chemistry looks to support basic research aimed at improving the sustainability of resources for future generations while maintaining or improving current products within a global society. Submissions that advance MSN chemistry knowledge in sustainability are may include, but are not limited to: transformative approaches to efficient and inexpensive synthesis using renewable feedstocks or earth abundant elements; and innovative research that enhances the understanding of efficient use and recycling of critical elements or the conversion of energy from renewable sources.
+
+PIs are encouraged to monitor current funding priorities identified by the Foundation and the Executive and Legislative Branches, and to highlight relevant synergies in their Project Summaries and Program Descriptions.
+
+Proposals for which the primary focus is on single molecules, extended solids (including metal organic frameworks), materials research, fate of nanoparticles in the environment, device properties, engineering, biological properties (including toxicity), drug delivery, or selection or genetic engineering of enzymes are not of interest in the MSN Program. Investigators interested in these areas are encouraged to approach other, more closely aligned programs, such as those in the Divisions of Materials Research (DMR), Physics (PHY), and Chemical, Bioengineering, Environmental, and Transport Systems (CBET).
+
+For recent awards made by the program, search NSF award database with the Program Element Code 6885.
+
+What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)
+Map of Recent Awards Made Through This Program

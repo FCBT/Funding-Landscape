@@ -1,0 +1,438 @@
+1. Introduction
+The Canadian Space Agency (CSA) would like to support the definition of new science investigations as potential contributions to future space exploration missions through the award of Science Definition Studies.
+
+Science Definition Studies are part of the CSA's portfolio of Space Exploration Preparatory Activities. These studies support the earliest stage of development of new ideas, where there are clear science goals and promising ideas for new observations and approaches to address them.
+
+For the development of new science instruments and missions, Science Definition Studies provide an opportunity to advance promising and innovative new ideas in academia to enable effective collaboration with industry in a later Concept Study phase. The target for such Science Definition Studies is to help teams achieve Science Readiness Level 2 on the CSA Space Exploration Science Readiness Level scale,Footnote2 which represents the maturity of science objectives and science requirements expected at the beginning of a Concept Study.
+
+This Announcement of Opportunity (AO) is consistent with the terms and conditions of the CSA Class Grant and Contribution (G&C) Program to Support Research, Awareness and Learning in Space Science and Technology – Research Component.
+
+Applicants are asked to read the following AO thoroughly before submitting their applications. This AO was prepared to help applicants complete the application process, and outlines key elements, including mandatory criteria for eligibility, details on eligible projects and the selection process. In the event of any discrepancies between this AO and the individual funding agreements governing a project, the latter document(s) will take precedence.
+
+2. Objectives of the AO
+The objective of this AO, which is linked to the CSA Grants & Contribution Program objectives, is to support Canadian university research projects to define new science investigations that could be potential contributions to future space exploration missions.
+
+Specifically, the objective is to make grants available to scientists at Canadian universities, who are eligible as per Section 3, to undertake Science Definition Studies in the Space Exploration Priority Research Area as described in Section 3.3.
+
+A second objective is to foster the continuing development of a critical mass of researchers and highly qualified people in Canada with expertise relevant to CSA Space Exploration Areas of Priority.
+
+3. Eligibility Criteria
+3.1 Eligible Recipients
+For this AO, only Canadian universities are eligible.
+3.2 Eligible Projects
+Eligible projects must be linked to the CSA Priority Research Area identified in Section 3.3 and Class G&C Program Objectives as identified in Section 3.4, and may involve one or more of the following activities, as relevant to the research priority:
+
+Fieldwork at analogue sites
+Analysis of planetary or astrophysical data
+Analysis of astromaterials
+Laboratory research
+Modelling and simulations
+Instrument breadboarding
+Other research activities as relevant to the research priority
+All development phases necessary for a project are eligible. Any logical breakdown or combination of these phases can constitute a funded project. However, breaking down a project into numerous phases to obtain more than the maximum grant or contribution is not allowed. Furthermore, even if the maximum funding for one project is not reached, the completion of a funded phase does not automatically guarantee funding of the remaining phases.
+
+3.3 Links to CSA Priorities
+To be eligible, projects supported under this AO must address the CSA Space Exploration Priority Research Area identified in Table 1.
+
+Table 1. CSA Space Exploration Priority Research Area for Eligible Projects for this AO
+Number	CSA Space Exploration Priority Area	Detailed Description
+1	Mars Sample Return (MSR) Sample Analysis Approaches	Please see Appendix B
+3.4 Links to the Class G&C Program Objectives
+To be eligible, projects supported under this AO must contribute to the achievement of the following objectives:
+
+To support the development of science and technology relevant to the priorities of the CSA; and
+To foster the continuing development of a critical mass of researchers and highly qualified people in Canada in areas relevant to the priorities of the CSA.
+4. Applications
+4.1 Required Documentation
+The application must include the following:
+
+A completed original application form signed by the duly authorized representative;
+A copy of the document(s) confirming the legal name of the applicant;
+A copy of the application (identical to the signed paper copy) in a standard electronic media format (USB flash drive, CD or DVD). If there is any discrepancy between the hard and the soft copies, the hard copy takes precedence;
+Letters from other funding contributors confirming their contributions, if applicable;
+Declaration on Confidentiality, Access to Information Act and Privacy Act signed by the duly authorized representative (refer to the application form); and
+For organizations in Quebec, M-30 Supporting Documentation form completed and signed by the duly authorized representative (refer to the application form).
+It is the applicant's responsibility to ensure that the application complies with all relevant federal, provincial and territorial legislation and municipal bylaws.
+
+Applications must be mailed to the CSA at the following address:
+
+Science Definition Studies 2016
+c/o Dr. Victoria Hipkin
+Space Exploration Development
+Canadian Space Agency
+6767 Route de l'Aéroport
+Saint-Hubert, Quebec J3Y 8Y9
+
+Proposals must be received at the CSA no later than 5:00 p.m. (EDT), Monday, March 14, 2016.
+Applications sent by email will not be accepted.
+Incomplete applications shall not be considered.
+Questions and answers related to this AO will be posted on the CSA website in the Frequently Asked Questions (FAQ) (Section 9).
+
+4.2 Service Standards – Complete Applications
+Applicants will be notified in writing of decisions regarding their application. Selected applications will be announced on the CSA website. The CSA has set the following service standards for processing times, acknowledgement of receipt, funding decisions and payment procedures.
+
+Acknowledgement: The CSA's goal is to acknowledge receipt of proposals within 2 weeks of receiving the completed application package.
+
+Decision: The CSA's goal is to respond to the proposal within 2 weeks of the AO's closing date and to send a grant agreement for signature within 2 weeks after formal approval of the proposal.
+
+Payment: Grant: The CSA's goal is to issue payment within 4 weeks of the successful fulfillment of the requirements outlined in the grant agreement.
+
+Compliance with these service standards is a shared responsibility. Applicants must submit all required documentation in a timely fashion. Service standards may vary by AO.
+
+5. Evaluation
+5.1 Eligibility Criteria
+Represents an eligible recipient as defined in Section 3.1;
+Represents an eligible project as defined in Sections 3.2, 3.3 and 3.4; and
+Meets program funding provisions in Section 6.1.
+5.2 Evaluation Criteria
+Applications will be evaluated according to the following criteria:
+
+Benefits to Canada
+Advancement of scientific knowledge relevant to the CSA Exploration Program
+Results
+Publication and science dissemination plan
+Enhancement of pool of space experts
+Resources
+Quality and experience of the principal investigator (PI) and investigation team
+Project Feasibility
+Research plan, schedule and budget
+Access to other funding sources and resources
+Risk and mitigation strategies
+5.3 Evaluation Process
+Only applications that have passed the eligibility assessment listed in Section 5.1 will be given further consideration.
+
+Once the eligibility criteria are confirmed, evaluators will assess the screened applications according to the criteria listed in Section 5.2. Evaluators shall be experts in the fields relevant to the applications and may include representatives of Canada and other countries, and representatives of other government and non-government agencies and organizations. If applicable, a multidisciplinary evaluation committee will be formed when applications from several different disciplines are competing in order to provide a uniform final score and ranking of proposals.
+
+Before a final decision is made, the CSA's Program Manager responsible for this AO may seek input and advice from other organizations, including (but not limited to) federal, provincial, territorial and municipal government agencies and organizations.
+
+6. Funding
+6.1 Available Funding and Duration
+Information about available funding and duration for the CSA Space Exploration Priority Research Area is given in Table 2.
+
+Table 2: Anticipated Number of Funded Projects, Maximum Funding, and Funding Duration by CSA Space Exploration Priority Research Area
+CSA Space Exploration Priority Research Area	Anticipated number of funded projects	Maximum funding per project per year	Duration of awards	Possible extension
+MSR Sample Analysis Approaches	2	$35,000	1 year	Yes
+The number of projects funded under this AO will depend on funding availability.
+
+The applicant is asked to plan for the possibility of extension of the Science Definition Study for an additional one (1) year of funding, subject to continuing eligibility, CSA budget availability, and approval of an annual progress report.
+
+The CSA reserves the right to reject any proposals or reduce the amount of the grants or the contributions at its entire discretion.
+
+Approved proposals will be eligible for a total amount of government assistance (federal, provincial, territorial and municipal) of up to 100% of total project costs.
+
+To determine the amount of funding to be allocated, consideration will be given to the availability of CSA funds, the total cost of the project, and the other confirmed sources of funds provided by other stakeholders and the applicant.
+
+Applicants must identify all sources of funding in their applications and confirm this information in a funding agreement if the project is selected for funding. Upon completion of a project, the recipient must also disclose all sources of funding.
+
+6.2 Eligible Costs
+Eligible costs are direct expenses that are associated with the delivery of the approved project and that are required to achieve the expected results of the project. Expenses will be covered subject to the applicant signing a funding agreement, in the form of a grant with the CSA.
+
+Eligible costs for grants under this AO are the following:
+
+Access fees;
+Accommodation and meal allowances;
+Acquisition, development and printing of materials;
+Acquisition or rental of equipment;
+Bursaries;
+Consultant services;
+Costs for carrying out environmental screening and/or impact studies;
+Costs related to obtaining security clearance;
+Data acquisition;
+Data management;
+Laboratory analysis services;
+Licence and permit fees;
+Marketing and printing services;
+Materials and supplies;
+Overhead (administrative) costs (not to exceed 10% of eligible costs);
+Participation fees at conferences, committees and events;
+Publication and communications services;
+Registration fees;
+Salaries and benefits;
+Training;
+Translation services; and
+Travel.
+7. Funding Agreements
+7.1 Payments
+The CSA and each successful applicant (the recipient) will sign a funding agreement. This is a condition for any payment made by the CSA with respect to the approved project.
+
+For grant agreements, payments will be made in a lump sum or instalments as described in the signed agreement. Grant funding agreements will include a clause stipulating the recipient's obligation to confirm—once a year in the case of multi-year agreements—their eligibility for the G&C Program – Research Component and inform the CSA in writing of any changes to the conditions used in determining their eligibility for this component.
+
+7.2 Audit
+The recipient of a funding agreement shall keep proper records of all documentation related to the funded project, for the duration of the project and for six (6) years after the completion date of the project, in the event of an audit. This documentation shall be available upon request.
+
+7.3 Conflict of Interest
+In the funding agreement, the recipient will certify that any current or former public office holder or public servant it employs complies with the provisions of the relevant Conflict of Interest and Post-Employment Code for Public Office Holders and the Values and Ethics Code for the Public Sector respectively.
+
+7.4 Intellectual Property
+All intellectual property developed by the recipient in the course of the project shall vest in the recipient.
+
+7.5 Organizations in Quebec
+An organization in Quebec whose operations are partially or fully funded by the province of Quebec may be subject to the Act Respecting the Ministère du Conseil exécutif, R.S.Q., Chapter M-30.
+
+Under Sections 3.11 and 3.12 of this Act, certain entities/organizations, as defined in the meaning of the Act, such as municipal bodies, school bodies, or public agencies, must obtain authorization from the Secrétariat aux affaires intergouvernementales canadiennes du Québec (SAIC), as indicated by the Act, before signing any funding agreement with the Government of Canada, its departments or agencies, or a federal public agency.
+
+Consequently, any entity that is subject to the Act is responsible for obtaining such authorization before signing any funding agreement with the Government of Canada.
+
+Quebec applicants must complete, sign and include the M-30 Supporting Documentation form with their application.
+
+7.6 Performance Measurement
+The CSA will ask the recipients to report on certain aspects of their projects such as:
+
+Knowledge Creation
+Knowledge production (including publications)
+Presentations
+Intellectual property (including patents)
+Capacity Building
+Project's research team (including highly qualified personnel supported)
+Collaboration
+Partners' contributions
+Partnerships
+Multidisciplinarity
+As a courtesy, the CSA would like to receive a copy of publications arising from the work, and to be informed in advance of significant press releases or possible media interest resulting from the work.
+
+8. Privacy Notice Statement
+The CSA will comply with the federal Access to Information Act and Privacy Act with respect to applications received. By submitting personal information, an applicant is consenting to its collection, use and disclosure in accordance with the following Privacy Notice Statement, which explains how the applicant's information will be managed.
+
+Necessary measures have been taken to protect the confidentiality of the information provided by the applicant. This information is collected under the authority of the CSA Class G&C Program to Support Research, Awareness and Learning in Space Science and Technology – Research Component, and will be used for the evaluation and selection of proposals. Personal information (such as contact information and biographical information) included in the rejected proposals will be stored in a CSA Personal Information Bank for five (5) years and then destroyed (Personal Information File no. ASC PPU045). Personal information included in the successful proposals will be kept along with the proposal results for historical purposes. These data are protected under the Privacy Act. According to the Privacy Act, the data associated with an individual and included in the proposal being evaluated can be accessed by the specific concerned individual who has rights with respect to this information. This individual may, upon request,
+
+be given access to his/her data, and
+have incorrect information corrected or have a notation attached.
+Applicants shall note that for all agreements over $25,000, information related to the funding agreement (amount, grant or contribution, name of the recipient and project location) will be made available to the public on the CSA website.
+
+For additional information on privacy matters prior to submitting a proposal, please contact:
+
+Access to Information and Privacy
+Canadian Space Agency
+Telephone: 450-926-4866
+Email: aiprp-atip@asc-csa.gc.ca
+
+9. Frequently Asked Questions (FAQ)
+It is the responsibility of the applicants to obtain clarification of the requirements contained herein, if necessary, before submitting an application.
+
+For any questions related to the AO, applicants shall use the following generic email address lecedessetc-thegandccoe@asc-csa.gc.ca. Questions and answers related to this AO will be posted on the CSA website in the FAQ section of this AO. The CSA will respond to questions received before February 19, 2016.
+
+At any point, applicants are welcome to share with the CSA their comments or suggestions regarding the AO, the program or the process. Applicants may either use the generic email address or the generic web-based Comments and Suggestions Box.
+
+Question 1: My research group is thinking of applying for this AO and have the following questions indicated below. We would be proposing the development and testing of Nanopore MinION sequencing device to look for biosignatures (DNA) in the samples retreived from the Utah inverted river bed site both from a life detection and from a planetary protection respective (forward contamination during sample acquisition).
+
+Would the above fall within the objectives of this AO?
+Would project personal be required to go on the field investigation or could we simple ask for a suite of samples be provided from the field expedition? We would have HQP in the CSA HQ remote science operations site during the field trip to help direct sample acquisition.
+Answer 1:
+
+Investigations that address science and knowledge gaps for MSR are sought. While the planned Mars 2020 will search for biosignatures preserved in rock representing ancient life, developing methods to assess DNA (representing extant life) in samples can be useful in three ways: tracer studies to better understand forward contamination (though these would be most effective using prototype space hardware); a life detection protocol is needed before returned samples can be released on Earth to ensure no backward contamination, and, if signs of ancient life are found, it may be an interesting science investigation to see whether those biosignatures are consistent with microbes that remain active today. Hence, yes, such an investigation, focussed on MSR would be eligible.
+The AO asks that project personnel are provided for field collection of the samples. The rationale for this is that the project will have the expertise needed to ensure, for example, that samples are collected asceptically, should that be needed. This AO is designed to help ensure that samples collected in the field are of science quality.
+Appendix A - Evaluation Grid Form
+Scoring and weights
+A numerical weight is associated with each criterion. It is strongly recommended that applicants draft their proposals by providing information related to each highest score.
+
+Table A1: Maximum and Minimum Score: Overall and by Criterion
+Criterion	Description	Maximum score	Minimum score to pass criterion
+1	Benefits to Canada – Advancement of scientific knowledge relevant to the CSA Exploration Program	40	30
+2	Results	15	7
+2.1 Publication and science dissemination plan	7
+2.2 Enhancement of pool of space experts	8
+3	Resources – Quality and experience of the PI and investigation team	20	10
+4	Project Feasibility	20	7
+4.1 Research plan, schedule and budget	15
+4.2 Access to other funding sources and resources	5
+5	Risk and mitigation strategies	5	3
+Total overall maximum score	100	 
+Minimum overall score to be funded		65
+1. Benefits to Canada: Advancement of scientific knowledge relevant to the CSA Exploration Program.
+Benefits to Canada criterion score
+
+Max. 40
+Min. 30
+This criterion evaluates the relevance of the investigation to the CSA Space Exploration Priority Research Area as identified in this AO. It also evaluates to what extent the objectives identified in the Priority Research Area will be advanced by the investigation, and how the work is anticipated to enhance Canada's reputation for planetary science or space astronomy.
+
+How significant an advance would be made?
+If the work were disseminated, would it significantly enhance the reputation of Canada in the Priority Research Area? Would it be recognized as a Canadian strength or niche area?
+Poor. The investigation does not address science objectives identified in the Priority Research Area and/or will not contribute to advancement of new knowledge. (Score: D=0)
+
+Average. The investigation addresses the science objectives identified in the Priority Research Area in a general way and could advance knowledge but is largely derivative of previous work. (Score: C=20)
+
+Good. The investigation addresses the science objectives identified in the Priority Research Area, and the probable results are likely to advance knowledge central to those objectives. The investigation involves novel or original concepts or methods, and/or builds on recent Canadian research advances, as evidenced by a literature survey. (Score: B=30)
+
+Excellent. The investigation fully addresses the science objectives identified in the Priority Research Area, and the probable results have a broad, long-term impact beyond the immediate field of study. The proposal is distinguished by highly novel or original concepts or methods, builds on recent Canadian research advances, and is likely to significantly enhance the reputation of Canada in the Priority Research Area, as evidenced by a literature survey. (Score: A=40)
+
+2. Results in terms of science dissemination and contribution to the training of Highly qualified personnel (HQP)
+Results criterion score
+
+Max. 15
+Min. 7
+2.1 Publication and science dissemination plan
+
+This criterion evaluates the applicant's commitment to sharing data and disseminating results from the investigation.
+
+Does the proposal include a plan to share data (or samples) within a broader mission science team and/or with the public, through for example a public archive?
+Does the proposal include a plan to disseminate results (conference presentations, public talks, website, etc.)?
+Will a large and diverse audience be reached by the dissemination plan?
+Poor. The proposal does not include reference to data sharing or science dissemination. (Score: D=0)
+
+Average. The proposal indicates some science dissemination, but few details are provided. (Score: C=2)
+
+Good. The proposal includes an explicit plan to share data and for science dissemination targeting the scientific community and the public. (Score: B=5)
+
+Excellent. The proposal includes an explicit plan to share data and a well-thought-out and structured scientific publications and science dissemination plan that involves novel approaches and that is likely to raise Canada's profile in the Priority Research Area considerably. (Score: A=7)
+
+2.2 Enhancement of pool of space experts
+
+This criterion evaluates the level of involvement of students and post-docs and the training they will receive to become HQP in areas of Canadian Scientific Priorities and for roles in future Exploration missions.
+
+Will Canadian students or post-docs be involved in the project?
+What is the students' or post-docs' contribution to the project? How important is their contribution to the success of the project?
+What training will they receive?
+Is there collaboration with foreign researchers that will further enhance the training received by students?
+Poor. No student or post-doc involvement is described in the proposal. (Score: D=0)
+
+Average. One or more students or post-docs will be involved in the project, but there is a lack of details on their level and type of involvement. (Score: C=2)
+
+Good. One or more students or post-docs are involved in the project, and there is a good description on how they will benefit from their participation in the project. Student involvement is important for the success of the project. (Score: B=5)
+
+Excellent. One or more students or post-docs are involved in the project, and there is a detailed description on how they will benefit from their participation in the project. Student involvement is important for the success of the project. They will receive training in a key area of Canadian scientific priority that is relevant to future Exploration missions. The applicant demonstrates a good track record in training students. There is collaboration with one or more foreign researcher(s). (Score: A=8)
+
+3. Resources: Quality and experience of the PI and investigation team
+Resources criterion score
+
+Max. 20
+Min. 10
+This criterion evaluates the qualifications and past performance of the PI and team.
+
+Do they possess the scientific expertise required to undertake the proposed project?
+Has the PI demonstrated the ability to manage and complete similar projects?
+Does the PI or team have experience in space science missions (science team membership, mission review board participation, or mission advisory board membership), increasing confidence that science investigations defined through this work will be relevant to future space exploration missions?
+Poor. The PI has limited or no experience and expertise in the field of study. (Score: D=2)
+
+Average. The PI has some experience in the field of study. The PI has some experience in the management and completion of similar projects. (Score: C=10)
+
+Good. The PI has demonstrated experience in the field of study and in managing similar projects. Any co-investigators (Co-Is) and collaborators included in the proposal have well-defined roles and are critical to the success of the investigation. The PI or team has some experience in space science missions. (Score: B=15)
+
+Excellent. The PI and any Co-Is and collaborators have extensive experience in the field of study, and one or more members are recognized internationally. All Co-Is and collaborators included in the proposal have well-defined roles and are critical to the success of the investigation. The PI has demonstrated the ability to manage and complete more than two similar projects. The PI or team has experience in space science missions highly relevant to the Priority Research Area. (Score: A=20)
+
+4. Feasibility
+Feasibility criterion score
+
+Max. 20
+Min. 7
+4.1 Research plan, schedule and budget
+
+This criterion evaluates the appropriateness of the research plan and budget.
+
+Are the investigation tasks well defined with clear schedule milestones, and are they well connected to the investigation objectives?
+Is the budget well justified by the investigation tasks?
+Is a detailed budget breakdown provided, and is the budget appropriate?
+Poor. The research plan does not include clear tasks and schedule milestones and/or the budget is missing important information or is inappropriate. (Score: D=0)
+
+Average. The research plan appears reasonable, but some relevant information is missing. Information is provided to justify the budget, but some details are missing or some budget items appear under- or over-estimated. (Score: C=5)
+
+Good. The research plan is well defined and includes schedule milestones. A clear and well-justified budget is provided which appears appropriate and includes the elements required by the AO. (Score: B=10)
+
+Excellent. The research plan is well defined with clear tasks for which time allocations for team members are provided, schedule milestones, and traceability to the investigation objectives. The budget is detailed, well justified and appropriate, and gives high confidence in the budget feasibility of the investigation. For travel items, the people travelling are clearly identified, and convincing rationale for their travel is provided. (Score: A=15)
+
+4.2 Access to other funding sources and resources
+
+This criterion evaluates the confirmed funding and in-kind contribution from the applicants and other organizations. Funding from organizations other than the CSA must be confirmed if it exceeds 25% of the project budget. The application includes letters from funding sources confirming their level of funding.
+
+Does the project include financial and/or in-kind contribution? If so, by whom? At which level?
+Does the applicant provide in-kind contribution such as access to their laboratories, field sites, or instruments? If so, what is the value of such contribution?
+Is this contribution vital for the project? What is the justification for such contribution?
+Do other organizations confirm their funding or in-kind contribution?
+Poor. There is no funding leveraged or in-kind contribution from the applicant or from other organizations. (Score: D=0)
+
+Average. Funds may come from an organization other than the CSA but have yet to be confirmed. There are in-kind contributions to be provided by the applicant and/or other organizations, but such contributions are neither significant nor important for the success of the project. (Score: C=2)
+
+Good. There is some leveraging of funds. In-kind contributions or funding from other organizations are important for the success of the project. Funds to be provided by other organizations have been confirmed or represent less than 25% of the project budget. (Score: B=3)
+
+Excellent. Leveraging of funds is significant. Funds from other organizations as well as in-kind contributions are vital for the success of the project. Funds from organizations other than the CSA represent more than 25% and are all confirmed. (Score: A=5)
+
+5. Risk and mitigation strategies – Project risks (financial, managerial, environmental and technical) and mitigation strategies.
+Risk and mitigation strategies criterion score
+
+Max. 5
+Min. 3
+This criterion evaluates key risks associated with the project and the mitigation strategies for each risk. It includes a thorough analysis of the project's financial, technical, managerial and environmental risks.
+
+Has the applicant identified and described in detail the risks associated with the project, including, but not limited to, financial, environmental, technical, managerial?
+Are the mitigation strategies for each risk correctly addressed and realistic? What is the probability that such risks would occur?
+Poor. The proposal does not identify any key risks or mitigation strategies, or some risks are identified but related mitigation strategies are missing. (Score: D=0)
+
+Average. Some, but not all, key risks and their mitigation strategies are defined. (Score: C=3)
+
+Good. Key financial, technical, managerial, US export law (if applicable) and environmental risks and their mitigation strategies are defined, but there are few details on the risk evaluation occurrence probability presented. (Score: B=4)
+
+Excellent. Key financial, technical, managerial, US export law (if applicable) and environmental risks and their mitigation strategies are well described. The risk evaluation occurrence probability is deemed realistic. (Score: A=5)
+
+Evaluation score
+Total Max. 100
+Total Min. 65
+Appendix B - Priority Areas
+B.1 MSR Sample Analysis Approaches
+MSR is a goal of the international Mars Exploration Program. Numerous studiesFootnote3 have considered the advantages of returning samples from known context on Mars for analysis in state-of-the-art laboratories on Earth. The broad science objectives of a first MSR mission are to understand Mars history and its past habitability.
+
+This Science Definition Studies AO solicits proposals for the definition of protocolsFootnote4 to be performed on samples selected and returned from a MSR mission, and analysis approaches to achieve MSR science objectives. The anticipated outcome of these studies is to enhance the expertise of Canadian scientists in preparation for MSR, and advance understanding of how the different elements of MSR science planning—science operations decision making; contamination control approaches; and sample receiving facility capabilities—might be used to enhance eventual science results. New knowledge related to preservation and identification of biosignatures would also be a welcome outcome.
+
+The focus of this AO is on a sample suite from an ancient subaqueous environment acquired through a CSA-coordinated MSR Analogue Mission deployment in November 2016.
+
+For the purposes of this investigation, it should be assumed that samples are acquired by the applicant using hand-carried equipment provided by the applicant. The applicant may use flight-like prototype systems if provided by the applicant's team, though the applicant should be prepared to participate in a Fast Motion Field Test where two or more samples may be targeted each day. The CSA encourages collaborative research activities involving foreign researchers.
+
+Investigations proposed in this priority area must address:
+
+The overall MSR science objectives for sample suite analysis: to determine the habitability of an ancient environment; assess the biosignature preservation potential within that environment; and seek signs of ancient life within the geologic record;
+Current knowledge gaps related to MSR protocol development, as identified by the applicant and justified through a literature review. The focus can be on science analysis needs and/or planetary protection needs, and should include both considerations of approaches and requirements during science operations and sample acquisition on Mars, and approaches and requirements after the sample has been returned to a sample receiving facility on Earth, including science analysis and identification of biosignatures; and
+The analogue site (see Figures B.1 and B.2) and schedule of the CSA-led MSR Analogue Mission deployment, as described below (see Table B.1).
+The CSA-coordinated MSR Analogue Mission deployment is planned for three weeks in November 2016 and will take place at a site of inverted stream beds in Utah, USA.
+
+It is anticipated that there will be international participation and that the detailed analogue mission scenarios will be planned with input from all participants, including any teams selected under this AO.
+
+Proposals must include for the first funded year:
+
+Participation in CSA mission planning and coordination activities
+Participation in MSR analogue mission science operations and science team sample target selection
+Resources and equipment for acquisition of sample coresFootnote5 at the field site and shipping back to the proposed laboratory
+of quality necessary to achieve the degree of contamination control required for the proposed Investigation
+of quantity necessary to acquire a sample core from each of up to 12 science targets for broad science team use in addition to the number of validation samples needed to achieve the proposed Investigation
+Measurements for preliminary examination of samples "returned to Earth" following the analogue campaign, according to proposed Investigation protocol
+Documentation of preliminary examination results with target rationale and context data acquired during science operations
+Participation in post-analogue mission science team meetings
+Plan for dissemination of results
+Proposals may include additional activities for a possible one-year grant extension, should funding be available, including:
+
+Detailed analysis of the acquired samples according to the proposed sample Investigation
+Additional field or laboratory validation activities
+Dissemination of results
+Proposers of sample analysis approaches investigations must be willing to share data with other team members, and should be prepared to publish initial results in a 'mission special issue'.
+
+Table B.1: Key Schedule Dates and Needs for Planning Purposes
+Date	Activity	Purpose	Investigation team to support
+April/May 2016	Analogue Mission kick-off meeting	To present investigations selected through this process and those of other partners. To share detailed information on the site and mission planning process.	
+Participation in the meeting (at CSA HQ, or by WebEx).
+
+CSA to provide: A template to capture investigation requirements. A document with detailed analogue site information. A detailed schedule for planning activities. First version of spreadsheets that will be used for science operations. Template for information needed by the CSA for field permit acquisition.
+
+June to September 2016	Monthly planning telecons	To develop the analogue scenario.	Participation in telecons by WebEx.
+September 2016	Science operations training	1-2 days of training for team members who will participate in remote science operations.	Participation in science operations training (assumed for planning purposes to be at CSA HQ, or by WebEx).
+October 2016	Analogue Mission Readiness Review	To ensure all teams are ready for the field deployment.	
+Participation in the meeting (at CSA HQ or by WebEx).
+
+CSA to provide: Final analogue mission scenario. Field safety handbook.
+
+November 2016	Analogue Mission field deployment	Implementation of field element of investigations.	
+3 weeks in the field with 1 week for setup, and 2 weeks of science operations in the coordinated analogue mission.
+
+At least one team member to participate in a remote science operations centre (assumed for planning purposes to be either at CSA HQ or in London, Ontario).
+
+December 2016	Debrief	To capture lessons learned from all participants from field element of mission.	Participation in debrief at CSA HQ (in person or by WebEx).
+March 2017	Science workshop	To capture lessons learned from preliminary examination of returned samples.	Venue TBD – may be held as a side meeting to LPSC.
+Site information:
+Figure B.1: The field site is situated near Hanksville, Utah, USA, in the area of Kissing Camel Ridge. Basic amenities such as hotels, restaurants, supermarket and hardware store are available in Hanksville, and it is assumed that field teams will seek accommodation there. The nearest airport is Grand Junction, CO (via Denver, CO).
+
+
+Figure B.2: An inverted channel in the region
+
+Inverted channels = fossilized river beds
+
+Ancient channels filled and lithified
+Differential erosion results in positive relief
+Indicative of sedimentary environment
+Suggestion of similar features on Mars
+Kissing Camel site mineralogy includes carbonates, sulfates and clays

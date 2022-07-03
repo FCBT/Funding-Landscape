@@ -1,0 +1,17 @@
+Supports doctoral research on human language — encompassing investigations of the properties of individual human languages and natural language in general — and the intersections of linguistics with cognition, society and other areas of science.
+
+Synopsis
+The Linguistics Program supports basic science in the domain of human language, encompassing investigations of the grammatical properties of individual human languages, and of natural language in general. Research areas include syntax, linguistic semantics and pragmatics, morphology, phonetics, and phonology.
+
+The program encourages projects that are interdisciplinary in methodological or theoretical perspective, and that address questions that cross disciplinary boundaries, such as (but not limited to):
+
+What are the psychological processes involved in the production, perception, and comprehension of language?
+What are the computational properties of language and/or the language processor that make fluent production, incremental comprehension or rapid learning possible?
+How do the acoustic and physiological properties of speech inform our theories of language and/or language processing?
+What role does human neurobiology play in shaping the various components of our linguistic capacities?
+How does language develop in children?
+What social and cultural factors underlie language variation and change?
+The Linguistics Program does not make awards to support clinical research projects, nor does it support work to develop or assess pedagogical methods or tools for language instruction.
+
+DDRI proposals to document the linguistic properties of endangered languages should be submitted to the Dynamic Language Infrastructure (DLI-DDRI) Program:  https://www.nsf.gov/pubs/2019/nsf19607/nsf19607.htm.
+

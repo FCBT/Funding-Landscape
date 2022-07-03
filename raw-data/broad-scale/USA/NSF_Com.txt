@@ -1,0 +1,6 @@
+Synopsis
+The Combinatorics program supports research on discrete structures and includes algebraic, enumerative, existential, extremal, geometric, and probabilistic combinatorics, including graph theory.
+
+Conferences
+
+Principal Investigators should carefully read the program solicitation "Conferences and Workshops in the Mathematical Sciences" (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities.  Conference proposals must be submitted at least six months in advance of the conference, and in the same fiscal year (which begins October 1) if possible.

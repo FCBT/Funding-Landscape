@@ -1,0 +1,11 @@
+Programa 5: Programa Nacional de Informação de Pesquisa para a Gestão da Ciência, Tecnologia e Inovação 
+
+Meta 32 Articulação com instituições que fazem gestão da informação de pesquisa científica, tecnológica e de inovação. 
+
+Meta 33 Compatibilização do Sistema BRCRIS a sistemas de gestão de dados de pesquisa. 
+
+Meta 34 Estudo de padrões de interoperabilidade do Sistema BRCRIS com aderência às práticas internacionais. 
+
+Meta 35 Elaborar e disseminar padrões normativos para sistemas do tipo CRIS. 
+
+Meta 36 Realizar estudos relativos às tabelas de classificação utilizadas em sistemas do tipo CRIS. 

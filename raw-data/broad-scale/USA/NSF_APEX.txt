@@ -1,0 +1,80 @@
+A Supplemental Funding Opportunity for Allowable Patent Expenses (APEX) in the Partnerships for Innovation (PFI) Program
+March 17, 2022
+Encourages requests from current Partnerships for Innovation awardees for supplemental funding for Allowable Patent EXpenses, especially from populations underserved in STEM or those at institutions that lack strong technology-transfer mechanisms.
+Dear Colleagues:
+
+The National Science Foundation (NSF) has a long history of supporting world-class research resulting in strong societal and economic outcomes. Stemming from discoveries in fundamental science and engineering, startups and small businesses constitute one of these outcomes. For these organizations, intellectual property is a cornerstone, often protected by patents. A patent represents a significant financial investment for individuals and organizations alike and can be viewed as prohibitive, limiting the ability of less well-resourced researchers to protect their innovations and enter the entrepreneurial community. The investment needed at institutions of higher education (IHEs) to foster entrepreneurship is significant and high risk, with long payoff cycles, thus leading to disparities across IHEs: while talent in the design and development of new products and services may be equally distributed across the Nation, patent budgets at IHEs can vary significantly. This is particularly concerning for investigators, innovators, and potential entrepreneurs from populations traditionally underserved in science and engineering (including but not limited to Blacks/African Americans, Latino/Hispanic Americans, American Indians, Alaska Natives, Native Hawaiians and Other Pacific Islanders, women, and persons with disabilities), those at Minority-Serving Institutions (MSIs), and those located in Established Program to Stimulate Competitive Research (EPSCoR) jurisdictions. The enormous differential in patent protection resources exacerbates and prolongs differences in outcomes such as growth in entrepreneurship and small business endeavors, job creation, and financial success and independence. Therefore, with this Dear Colleague Letter (DCL), NSF aims to provide supplements to existing NSF Partnerships for Innovation (PFI) awardees for Allowable Patent EXpenses (APEX). APEX supplemental funding requests are especially encouraged from PFI awardees in the aforementioned groups, particularly those at IHEs that lack strong technology-transfer mechanisms.
+
+Specifically, the APEX supplemental funding opportunity enables an awardee to: a) defray internal costs incurred by their technology transfer office (TTO) during the evaluation and protection of intellectual property reduced to practice with PFI funding, or b) secure the services of one or more third-party service providers to assist in the evaluation and protection of the intellectual property. Filing expenses for both provisional and non-provisional patents are appropriate for this supplemental funding opportunity.
+
+This APEX supplemental funding opportunity is intended to encourage and enable current PFI awardees to move towards technology commercialization and the creation of startups that subsequently may apply to the NSF Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) program. The APEX supplemental funding opportunity facilitates the protection of intellectual property generated during the performance of PFI-funded technology development and prototyping activities. Ultimately, the APEX supplemental funding opportunity is expected to result in the reduction or elimination of intellectual property fees paid by PFI awardees in conjunction with the licensing of PFI-funded inventions.
+
+Supplemental Funding Opportunity
+The PFI program offers to researchers from all NSF-funded science and engineering disciplines the opportunity to perform translational research and technology development, catalyze partnerships, and accelerate the transition and commercialization of discoveries from the laboratory to the marketplace for societal benefit.
+
+The expected goals of the APEX supplemental funding opportunity are to:
+
+Protect intellectual property that is created as a direct result of the PFI award and that has the potential for accelerated commercialization;
+Accelerate the transfer and commercialization of technology from the lab bench to the marketplace; and
+Contribute to the professional development, mentoring, and understanding of deep technology-based business of the next generation workforce through the participation in the patenting process.
+Eligibility
+Because the patenting process must be driven by insight by the marketplace, only PFI awardees who have participated in a National I-Corps Teams cohort are eligible to apply for APEX supplemental funding.
+
+Supplemental Funding Request Preparation Instructions
+APEX supplemental funding is subject to the availability of funds, the good standing of the parent PFI award, and the quality of the supplemental funding request. Prior to submission of an APEX supplemental funding request, Principal Investigators (PIs) must provide to their cognizant PFI Program Director a two-page (maximum) summary of their APEX-related plans and obtain prior approval from the cognizant PFI Program Director for submitting the APEX supplemental funding request to NSF. This email approval should be included as a Supplementary Document in the supplemental funding request. APEX supplemental funding requests submitted without prior approval from the cognizant PFI Program Director will be returned without review.
+
+The APEX supplemental funding request must include the following components:
+
+In the Justification for Supplement section:
+The NSF award number of the PFI parent award, the I-Corps Team number, and description of cohort (for example, "Chicago summer 2019").
+Dates of participation in I-Corps and key learnings, including a description of the envisioned use case, customer segment, and value proposition. If the team is currently registered for, or participating in, a National I-Corps Teams cohort, the team must complete the training prior to submission of an APEX supplement.
+If requesting to defray internal costs to be incurred into by their TTO, the PI must provide a discussion of the work to be performed to evaluate and protect the PFI-funded invention.
+Summary (three-page maximum) that describes the PFI project for which patenting costs are requested. The Program Director's review will focus on the commercialization objectives in the supplemental funding request and the PI’s understanding of the marketplace.
+In the Budget Justification section:
+If requesting APEX funds to reimburse or secure the services of one or more third-party service providers to assist in the evaluation and protection of the PFI-funded invention, the PI must provide a description of the services provided or to be provided and a brief profile of the service provider, including a discussion of the provider’s qualifications.
+If requesting reimbursement of retroactive filing fees, the PI must provide disclosure or filing dates and evidence of payment to the U.S. Patent and Trademark Office.
+In the Other Supplementary Documents section, the PI must provide:
+Signed statement of work from the TTO or third-party service provider, as applicable, describing the services to be provided, costs for the services, and clearly defined, agreed-upon deliverables with measurable success metrics; and
+An email from the cognizant PFI Program Director approving submission of the APEX supplemental funding request.
+Additional information about the preparation and submission of supplemental funding requests is contained in Chapter VI.E.4 of the NSF Proposal & Award Policies & Procedures Guide (PAPPG).
+
+Supplemental Funding Request Details
+The maximum request for an APEX supplemental funding request is 20% of the original PFI award or $50,000, whichever is less. Only one APEX supplemental funding request can be submitted per PFI award. The receipt of other supplemental funding does not preclude submission of an APEX supplemental funding request.
+
+Supplemental funding must be used for legal expenses paid to a registered patent attorney and/or agent, and filing fees for provisional and full patent costs.
+When the patent attorney and/or agent is an employee of the awardee’s TTO, only freedom to operate, patentability analysis or filling fees can be requested.
+Filing fees must be paid only to the U.S. Patent and Trademark Office (no foreign filing expenses are allowed using APEX supplemental funding).
+The PFI PI or other senior project personnel must have participated in a National I-Corps Teams cohort to validate the PFI-funded technology that is the subject of the invention.
+Salary costs for organizational administrative professionals, including technology transfer officers, are subject to the policies of PAPPG Chapter II.g.(i.)(b.).
+The PI must comply with all organizational policies regarding the management of intellectual property rights, including government funded inventions. In the budget justification, please justify funds requested. Costs requested for third-party service providers must be entered on line G.6 of the budget.
+PIs may request reimbursement of costs incurred by awardee institution in the protection of the PFI-funded technology since the start date of the PFI award.
+NSF grantees are required to report inventions in the iEdison database.
+PIs and organizations should be aware that patent applications are subject to the Bayh-Dole Act (P.L. 96-517, Patent and Trademark Act Amendments of 1980), the Leahy-Smith America Invents Act (P.L. 112–29), and associated regulations.
+The following expenses are NOT allowable for reimbursement by the APEX supplement:
+
+Expenses incurred by licensees and industrial partners;
+Patenting expenses incurred prior to the effective date or after the date of termination of the PFI award;
+Patenting expenses related to inventions not directly related to PFI funds;
+Patenting or filing expenses incurred outside the United States or its territories; and
+Trademark or copyright search or filing expenses.
+Intended Submission Dates and Review Process
+APEX supplemental funding requests may be submitted at any time. However, PIs are requested to submit supplemental funding requests by May 15 for consideration during a given federal fiscal year.
+
+All supplemental funding requests will be internally reviewed by the cognizant PFI Program Director.
+
+Reporting Requirements
+The activities undertaken and results obtained under the APEX supplement must be reported in the annual and final project reports for the PFI award.
+
+Cognizant Program Directors
+Jesus Soriano, Program Director, pfi@nsf.gov; (703) 292-7795
+Katie Bratlie, Program Director, pfi@nsf.gov; (703) 292-2638
+Samir Iqbal, Program Director, pfi@nsf.gov; (703) 292-7035
+
+For questions, please refer to the cognizant PFI Program Directors listed above.
+
+Sincerely,
+
+Erwin Gianchandani
+Assistant Director
+Directorate for Technology, Innovation and Partnerships
+

@@ -1,0 +1,22 @@
+Synopsis
+Proposals submitted to this program (including individual and collaborative proposals, GOALIs) must be submitted to the CHE Disciplinary Research Programs solicitation.
+
+Exceptions:
+
+RUI proposals must be submitted to the RUI Solicitation during the regular proposal submission window for this program.
+Proposals submitted in response to another solicitation (CAREER) should follow the solicitation guidelines (e.g. CAREER)
+Conference, workshop, EAGER, RAPID or RAISE proposals must be discussed with a Program Officer before submission, and then should only be submitted as instructed.
+
+
+The Chemical Catalysis (CAT) Program supports experimental and computational research directed towards the fundamental understanding of the chemistry of catalytic processes.  The CAT Program accepts proposals on catalytic approaches, which facilitate, direct, and accelerate efficient chemical transformations. The program scope includes the design and synthesis of catalytic species on the molecular, supramolecular, and nanometer scales as well as mechanistic studies primarily focused on discovery, development, or improvement of homogeneous and heterogeneous catalytic processes. The CAT Program also considers (but is not limited to) the following: polymerization catalysis, single site catalysis, organocatalysis, inorganic, organometallic, and photoredox catalysis, electrocatalysis, and biologically-inspired catalysis. Applications of modeling, theory, and simulation to catalytic processes are also relevant. Fundamental studies of energy-related catalytic processes (such as in water splitting and fuel cells) and photocatalysis (such as in solar energy conversion) are welcome in the CAT Program. 
+
+Through the Critical Aspects of Sustainability (CAS) program, the Division of Chemistry looks to support basic research aimed at improving the sustainability of resources for future generations while maintaining or improving current products within a global society. Examples of sustainable chemistry appropriate for the Chemical Catalysis (CAT) Program include, but are not limited to: the design, preparation and reactivity studies associated with new catalysts and catalytic processes to replace rare, and/or toxic compounds with earth-abundant and benign alternatives and advanced catalytic methods for the reduction of dinitrogen to ammonia that will permit reductions in the energy requirements and greenhouse gas emissions. Grant Opportunities for Academic Liaison with Industry (GOALI) proposals, where such advances are connected directly to industrial considerations, are also encouraged. 
+
+PIs are encouraged to monitor current funding priorities identified by the Foundation and the Executive and Legislative Branches, and to highlight relevant synergies in their Project Summaries and Program Descriptions.
+
+The CAT Program does not support applied catalysis research focusing on engineering aspects of catalysis such as scale-up, processing, transport dynamics, and long-term stability. Researchers contemplating proposals in these areas are directed to the NSF Division of Chemical, Bioengineering, Environmental, and Transport Systems (CBET). Researchers focused on enzymatic or cellular catalysis should consult the Chemistry of Life Processes (CLP) Program. Catalysis research with immediate objectives in the synthesis of complex natural products using established catalysts should be submitted to the Chemical Synthesis (SYN) Program. Finally, research primarily targeted at catalytic reaction mechanisms are most appropriate for submission to the Chemical Structures, Dynamics and Mechanisms-B (CSDM-B) Program.
+
+For recent awards made by the program, search NSF award database with the Program Element Code 6884. 
+
+What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)
+Map of Recent Awards Made Through This Program

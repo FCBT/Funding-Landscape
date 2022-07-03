@@ -1,0 +1,23 @@
+Synopsis
+Vera C. Rubin Observatory is a joint NSF and Department of Energy (DOE) project that was ranked as the top large ground-based astronomy project recommended by the National Academies of Sciences, Engineering, and Medicine 2010 Astronomy and Astrophysics decadal survey: New Worlds, New Horizons in Astronomy and Astrophysics.  Rubin Observatory's mission is to build a well-understood system that provides a vast astronomical data set for unprecedented discovery of the deep and dynamic Universe.  Currently under construction on Cerro Pachón in Chile, Rubin Observatory consists of an 8.4-meter wide-field ground-based telescope, a 3.2 gigapixel camera, an automated data processing system, and a public engagement platform.  This integrated survey system is designed to conduct a deep, wide, fast time-domain survey of nearly half the sky.
+
+ 
+
+With a cadence enabling repeat observation of each survey field approximately twice weekly for the first ten years of operation, Rubin Observatory will perform the Legacy Survey of Space and Time (LSST) using the Rubin Observatory LSST Camera and the Simonyi Survey Telescope.  During that time Rubin will acquire, process, and make available a collection of over 5 million images and catalogues with more than 37 billion astronomical objects and 7 trillion sources.  Tens of billions of time-domain events will be detected and alerted upon in real time.  The survey is expected to begin in FY 2024.
+
+ 
+
+The requirements for Rubin Observatory and the survey were set by considering four key science areas: (1) the physics of dark energy and dark matter; (2) a census of small bodies in the Solar System, including potentially hazardous Near-Earth Objects (NEOs); (3) the structure and contents of the Milky Way Galaxy; and (4) the nature of transient astronomical objects on time scales ranging from seconds to years.  By satisfying the requirements defined by these science areas, Rubin Observatory’s initial survey will result in a comprehensive data set that will enable hundreds of fundamental astrophysical studies by the entire research community on these and other topics.  As a result, Rubin Observatory has the potential to advance every field of astronomical study, from the inner Solar System to the large-scale structure of the Universe.
+
+ 
+
+Not only will Rubin Observatory serve every area of astronomy and astrophysics research and education, but it will also serve studies in massive data analysis, high speed computing, high-bandwidth networking, and real-time analysis of large throughput time-variable data.  With ongoing concerns about the danger posed by natural NEOs, the survey capability of Rubin Observatory is of significant interest beyond the scientific disciplines.
+
+ 
+
+The responsible awardee for Rubin Observatory construction is the Association of Universities for Research in Astronomy, Inc. (AURA), a non-profit science management corporation.  AURA is also the responsible awardee for Rubin Observatory pre-operations ramp-up activity that began in October 2018.  Rubin pre-operations activity is fully integrated into NSF’s National Optical-Infrared Astronomy Research Laboratory (NOIRLab).
+
+ 
+
+The Rubin Observatory Project is a partnership between NSF and the U.S. Department of Energy (DOE) Office of High Energy Physics with NSF as the lead agency.  DOE is providing the world-leading digital camera and is contributing to design, development, installation, commissioning, operations, and scientific research support.  The DOE-funded effort is managed by the SLAC National Accelerator Laboratory.
+

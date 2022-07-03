@@ -1,0 +1,72 @@
+Program Background
+The Smart Grid Program is one of Natural Resource Canada’s targeted national programs addressing key infrastructure to advance the goals of the Pan Canadian Framework on Clean Growth and Climate Change. Up to $100 million is being invested for utility-led projects to reduce GHG emissions, better utilize existing electricity assets and foster innovation and clean jobs for:
+
+demonstration of smart grid technologies
+deployment of smart grid integrated systems
+Why is Canada investing in Smart Grids?
+Smart grids modernize the safe and secure delivery of electricity, provide foundations for new market structures and a higher quality of service for customers. They are a key enabler for GHG mitigation as they increase the hosting capacity of renewable generation, leverage more from the electricity infrastructure we have, and increase resiliency.
+
+Benefits of smart grids
+Better utilizing existing capacity of electricity assets
+
+
+Increasing the penetration of renewable generation
+
+
+Increasing the reliability, resiliency and flexibility of the power system
+
+
+Maintaining cyber
+security
+
+
+Reducing greenhouse gas emissions
+
+
+Creating
+jobs
+
+
+Smart Grid Program Timeline
+The smart grid program funds $100M over four years. During the program, recipients report on the deployment and grid impacts of their projects up-to-5 years following project investment. NRCan uses this information for analysis of grid impacts and program lessons to inform future program and policy development.
+
+program timeline
+Smart Grid program timeline - text version
+Smart Grid Program Brochure
+
+The Smart Grid Program Overview (PDF, 2 MB) lists projects funded by the Program.
+Once implemented, the projects will reduce greenhouse gas emissions and have an impact in reducing the long-term economic impact to the customer.
+
+Supported Projects
+For a general listing of all projects currently funded by NRCan you can visit the Current Investments webpage. Filter for Smart Grid Program projects by selecting Smart grid and energy storage technology area and the Green Infrastructure Program. The individual projects are listed below.
+
+Map of projects funded by the Smart Grid Program
+
+
+Table 1. List of projects funded by the Smart Grid Program
+Number	Recipient	Project Title	Project Type	System category
+1	Yukon Energy	Residential Demand Response Program (RDRP)	Demonstration	DERMS
+2	EPCOR	EPCOR Smart Grid System (ESGS)	Deployment	DERMS, Microgrid, Distributed energy storage
+3	EQUS REA	Canada’s 1st Member-Owned Rural Smart Grid Project	Deployment	DERMS
+4	ENMAX Power	Integrating Distributed Generation into Secondary Networks in Large Urban Centres	Demonstration	Grid monitoring and automation
+5	FortisAlberta Inc.	FortisAlberta Waterton Energy Storage Project	Demonstration	Microgrid-connected
+6	City of Lethbridge	Conservation Voltage Reduction (CVR) Deployment in Lethbridge Electricity Utility (LEU) Distribution Network	Demonstration	Grid monitoring and automation
+7	SaskPower	SaskPower Distribution Modernization Program	Deployment	Grid monitoring and automation
+8	SSM PUC	Sault Smart Grid	Deployment	Grid monitoring and automation
+9	Entegrus Powerlines Inc.	Conservation Voltage Reduction	Deployment	Grid monitoring and automation
+10	Bracebridge	Smart, Proactive, Enabled, Energy Distribution; Intelligent, Efficiently, Responsive (SPEEDIER) Project	Hybrid	DERMS
+11	London Hydro	West 5 Smart Grid Project	Hybrid	DERMS
+12	Alectra Utilities	Power.House Hybrid: Minimizing GHGs and Maximizing Grid Benefits	Demonstration	DERMS
+13	Alectra Utilities	GridExchange	Demonstration	DERMS
+14	Independent Electricity System Operator (IESO)	York Region Non-Wires Alternatives Demonstration Project	Demonstration	New markets & rate options (NRO)
+15	Lakefront Utilities	Digital Utility Platform	Deployment	Grid monitoring and automation
+16	Hydro-Quebec	Smart Grid Deployment of Off-Grid Networks	Deployment	Microgrid off-grid, grid monitoring, automation and storage off-grid
+17	Hydro-Quebec	Lac-Megantic Microgrid	Hybrid	Microgrid-connected
+18	Saint John Energy	Integrated Dispatchable Resource Network for Local Electric Distribution Utility	Hybrid	DERMS
+19	New Brunswick Power	Collaborative Grid Innovation for Atlantic Smart Energy Communities	Hybrid	DERMS
+20	Nova Scotia Power	Collaborative Grid Innovation for Atlantic Smart Energy Communities	Hybrid	DERMS
+21	PEI Energy	Slemon Park Microgrid Project	Deployment	Microgrid, DERMS
+Legend: DERMS– Distributed Energy Resource Management
+Investing in Canada: Canada's Long-Term Infrastructure Plan
+
+As part of the Invest in Canada infrastructure plan, the Government of Canada is investing more than $ 180 billion over 12 years in transit, green infrastructure, social infrastructure, trade and tourism projects. Canada's rural and northern communities.

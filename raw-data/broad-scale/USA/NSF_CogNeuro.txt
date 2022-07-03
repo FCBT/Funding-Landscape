@@ -1,0 +1,23 @@
+Supports research aimed at increasing understanding of the neural mechanisms of human cognition, including attention, learning, memory, decision making, language, social cognition and emotions.
+
+Synopsis
+The National Science Foundation announces the area of Cognitive Neuroscience within the Division of Behavioral and Cognitive Sciences in the Directorate for Social, Behavioral, and Economic Sciences. 
+
+INTRODUCTION
+
+Cognitive neuroscience is an interdisciplinary field of research to understand the neural basis of human cognition. The cognitive neuroscience program therefore seeks to fund highly innovative proposals that employ brain-based measurements in order to advance our understanding of the neural systems that mediate cognitive processes. Human cognitive science encompasses a wide range of topics, including attention, learning, memory, decision-making, language, social cognition, and emotions. Proposals will be considered that investigate a particular cognitive process using human brain data. 
+
+PROGRAM DESCRIPTION
+
+New frontiers in cognitive neuroscience research have emerged from investigations that integrate data at different spatial and temporal scales. A wide range of neuroimaging techniques are employed by cognitive neuroscientists for measuring or inferring neural activity, as well as techniques for determining neuroanatomical structure-function relationships (e.g., fMRI, EEG, MEG, TMS). Electrocorticography (ECoG) and experimental interventions in human neural function, including stimulation and manipulation techniques combined with neuroimaging, have advanced the field.  Additional recent methodological advances include machine-learning and multivariate analysis methods, resting-state and task-based connectomics and large-scale data analysis used to investigate and infer functional mechanisms, as well as multimodal neuroimaging and model-based approaches, wherein computational cognitive models may directly inform neuroimaging results.  
+
+The Cognitive Neuroscience Program seeks highly innovative proposals aimed at advancing a rigorous understanding of the neural mechanisms of human cognition. Central research topics for consideration by the program include attention, learning, memory, decision-making, language, social cognition, and emotions. Proposals with animal models are appropriate only if they include a comparative element with human subjects.    
+
+Proposals focused on behavioral, clinical or molecular mechanisms will not be considered for this program.  Additionally, proposals directed at understanding low-level sensorimotor processes or restricted to model-based simulations of neural data will not be considered, unless they are embedded in a cognitive question related to one of the central research topics listed above. 
+
+Investigators are highly encouraged to contact the program director before submitting a proposal regarding the appropriateness of their project for the Cognitive Neuroscience Program. Please include a one-page summary with an overview of your research and statements of intellectual merit and broader impacts, the two NSF review criteria. See the Merit Review Fact Sheet for more important facts about the NSF merit review process.
+
+Currently, the average award size is ~$175K per year (including both direct and indirect costs) and the average duration is 3 years. See the Listing of Active Cognitive Neuroscience Awards for additional award information.
+
+Declined proposals are ineligible for resubmission until a minimum of one year has passed since their initial submission. This moratorium allows investigators the time required to digest the results of the merit review and revise their proposal accordingly. A proposal that has not been substantially revised will be returned without review as per the NSF Proposal & Award Policies & Procedures Guide (PAPPG).
+

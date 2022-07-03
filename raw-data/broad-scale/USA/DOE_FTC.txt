@@ -1,0 +1,33 @@
+Preparing for Tomorrow’s Energy Demands
+Powerful imperatives drive the continued need for nuclear power, among them the need for reliable, baseload electricity and the threat of global climate change. As the only large-scale source of nearly greenhouse gas-free energy, nuclear power is an essential part of our all-of-the-above energy strategy, generating about 20 percent of our nation’s electricity and more than 60 percent of our low-carbon energy.
+
+Facing Challenges
+Despite its prominent role, nuclear energy’s use presents challenges, such as mounting stockpiles of used nuclear fuel (UNF) and high-level waste (HLW) and a potential for proliferation. The March 2011 events at the Fukushima Daiichi nuclear power plant underscored the urgency behind enhancing accident tolerance of the existing reactor fleet. The United States must address these challenges in order to meet our goals for energy, environmental and economic security. In response, the U.S. Department of Energy, Office of Nuclear Energy (DOE- NE) established the Fuel Cycle Technologies (FCT) program.
+
+Finding Solutions
+Long-term resolution of these challenges entails developing sustainable systems that reduce waste while improving resource utilization and safety. To identify potential solutions, the FCT program adopted a results-oriented, science-based approach toward research and development (R&D) that takes advantage of advances in high-performance computing to integrate theory and experiment with modeling and simulation.
+
+In addition, FCT is forging and strengthening collaborations with experts both within and outside the traditional nuclear arena to develop tomorrow’s nuclear fuel cycle. Embracing the astonishing advances in other scientific fields, such as nanoscience, unleashes the potential for transformational breakthroughs. Universities provide a wellspring of innovative ideas, while the national laboratories and their international counterparts provide considerable expertise, as well as access to critical R&D facilities. Finally, industry is a necessary partner, as the most revolutionary ideas are moot if they cannot be put into commercial practice.
+
+Organizing Research and Development
+To achieve its goals and objectives and to provide policymakers the tools to make informed decisions, the FCT program has established five R&D campaigns:
+
+Fuel Cycle Options is developing systematic, transparent, and objective processes to screen and evaluate a wide variety of proposed fuel cycles to identify potential solutions.
+Advanced Fuels supports both exiting and next- generation reactors by developing accident-tolerant light water reactor fuel and advanced proliferation-resistant fuels for sustainable fuel cycles.
+Separations and Waste Forms is developing innovative processes to recover uranium and other materials from UNF while improving proliferation resistance, reducing losses, and minimizing waste. This campaign also seeks transformational breakthroughs in waste forms suitable for geologic repository environments.
+Used Fuel Disposition is building the scientific foundation and technology for long-term interim storage, transportation, and permanent disposal of UNF and HLW.
+Material Protection, Control, and Accountability Technologies supports security and safeguards by developing tools and techniques to prevent the misuse of nuclear material.
+Establishing Objectives
+Sustainable fuel cycles improve uranium utilization and maximize energy generation while minimizing waste, improving safety, and limiting proliferation risk. 
+
+The FCT program mission is multi-faceted, tackling current issues with the nation’s UNF inventory and maximizing performance and safety of the existing nuclear fleet, while also developing advanced systems for the future that will ensure nuclear energy’s continued role as a clean and sustainable energy source.NEAR-TERM GOALS
+Strengthen the technical and scientific basis for extended storage of UNF and HLW, and work with industry to develop and demonstrate solutions.
+Identify and test options to enhance accident tolerance of the current reactor fleet.
+Identify and select preferred fuel cycle options that address key challenges, including deployment of advanced uranium enrichment technologies to enhance national energy security.
+MEDIUM-TERM GOALS
+Deploy the selected extended storage solution while developing the scientific basis for permanent disposal options in a geologic repository.
+Demonstrate and deploy the selected enhancements for accident tolerance.
+Conduct science-based, engineering-driven research to fully evaluate and characterize the selected sustainable fuel cycle options.
+LONG-TERM GOALS
+Implement safe strategies for management of UNF and HLW, including both storage and permanent disposal solutions.
+Deploy advanced nuclear systems for affordable, safe, and secure nuclear-generated electricity while continuing to test enabling technologies for future deployment.

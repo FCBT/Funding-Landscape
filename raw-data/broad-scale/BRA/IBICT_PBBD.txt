@@ -1,0 +1,27 @@
+Programa 2: Programa Brasileiro de Bibliografia e Documentação 
+
+Meta 6 Desenvolver e implantar, até 2020, 1 (um) sistema para organização e preservação da Memória Técnica-Científica do IBICT. 
+
+Meta 7 Desenvolver e implantar, até 2019, nova estrutura no sistema da Biblioteca do IBICT, incluindo serviço para o gerenciamento de obras eletrônicas para empréstimo aos usuários. 
+
+Meta 8 Desenvolver e implantar, até 2020, o Catálogo Brasileiro de Registros Bibliográficos (PINAKES) com a participação inicial de 30 bibliotecas brasileiras. 
+
+Meta 9 Estruturar, até 2018, o Catálogo Integrador da Rede de Bibliotecas das Unidades de Pesquisa do Ministério da Ciência, Tecnologia, Inovações e Comunicações (RBP). 
+
+Meta 10 Implantar, até 2020, o Catálogo Integrador da Rede de Bibliotecas das Unidades de Pesquisa do Ministério da Ciência, Tecnologia, Inovações e Comunicações (RBP) com a participação de 10 Unidades de Pesquisa. 
+
+Meta 11 Estruturar, até 2019, o novo sistema do Catálogo Coletivo Nacional de Publicações Seriadas (CCN). 
+
+Meta 12 Implantar, até 2021, o novo sistema do Catálogo Coletivo Nacional de Publicações Seriadas (CCN) com a integração inicial de 20 instituições brasileiras. 
+
+Meta 13 Estruturar, até 2019, o novo sistema da Rede Bibliodata. 
+
+Meta 14 Implantar, até 2022, o novo sistema da Rede Bibliodata com a integração inicial de 20 instituições brasileiras. 
+
+Meta 15 Estruturar, até 2019, o sistema de informação do Centro Brasileiro do ISSN (CBISSN) para consulta pública. 
+
+Meta 16 Implantar, até 2021, o sistema de informação do Centro Brasileiro do ISSN (CBISSN) com a carga inicial de 1.000 (mil) registros. 
+
+Meta 17 Impulsionar a participação de instituições públicas brasileiras para o depósito de suas publicações oficiais no Portal do Livro Aberto em CT&I. 
+
+Meta 18 Até, 2021, reestruturar o Programa de Comutação Bibliográfica, com a revisão de seus componentes tecnológicos, parcerias e políticas de gestão do serviço. 
