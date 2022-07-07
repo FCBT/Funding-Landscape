@@ -39,3 +39,6 @@ TBD
 ### src
 
 packages.R - use ```src/packages.R``` at the beginning of scripts to load (and install) any packages needed.
+
+### conda environment
+packages used for text processing and running the LDA models
