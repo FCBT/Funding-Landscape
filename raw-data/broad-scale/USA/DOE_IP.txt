@@ -1,0 +1,33 @@
+About
+The DOE Isotope Program (DOE IP), and its predecessor organizations, has been at the forefront of the development and production of radioactive and stable isotopes that are used worldwide.  The Program supplies isotopes and related services to the Nation under the Atomic Energy Act of 1954 and has the sole authority within DOE to produce isotopes for sale and distribution. 
+
+The DOE IP produces critical radioactive and stable isotopes in short supply for the nation or that no domestic entity has the infrastructure or core competency to produce.  The Program is typically the only, or one of few, global producers for these novel isotopes. Isotopes are high-priority commodities of strategic importance for the nation and are essential in medical diagnosis and treatment, discovery science, national security, industrial processes and manufacturing, space exploration and communications, biology, archeology, quantum science and other fields. Isotopes can directly enable emerging technology, and contribute to the economic, technical and scientific strength of the United States.
+
+The mission of the DOE IP is to:
+
+
+
+The DOE IP utilizes particle accelerators, nuclear reactors, enrichment technologies, and radiochemical processing capabilities throughout the national laboratory complex and at universities that it stewards, or leverages capabilities stewarded by other federal programs or academic institutions to most cost effectively utilize national capabilities to meet the requirements of the nation in isotope demand. The DOE IP works closely with U.S. industry to ensure availability of adequate, high quality isotope supply for continued stability and planned growth and facilitates commercialization of isotope production to the domestic private sector.
+
+The DOE IP supports world-leading research and development (R&D) associated with creating novel and more efficient isotope production and processing techniques. The R&D activities provide collateral benefits for training, workforce development, and promotion of a future U.S.-based expertise relevant to nuclear energy, accelerator science, nuclear engineering, nuclear physics, isotope enrichment, and nuclear chemistry and radiochemistry. These disciplines are foundational, not only to isotope production and processing, but underpin many critical aspects of basic and applied nuclear and radiochemical science.
+
+The DOE IP manages federal inventories of key isotopes, such as helium-3 for cryogenics and other applications, and the national repository for all stable isotopes that were created by calutrons (electromagnetic ion separation) that were developed as part of the Manhattan Project; the calutrons ceased operations in 1998. The U.S. inventory of stable isotopes is limited or has even been depleted in some cases, causing the U.S. to be dependent on foreign sources for certain stable isotopes. The DOE IP has developed and implemented modern stable isotope enrichment capabilities to replenish supplies and promote U.S. independence from foreign supply. The DOE IP also considers DOE-owned legacy waste or inventories and extracts isotopes of interest to re-purpose unwanted or excess materials.
+
+The National Isotope Development Center (NIDC) is located at Oak Ridge National Laboratory (ORNL) and is responsible for the day-to-day business operations of the Program, including sales, contract negotiation, marketing assessment, public outreach, quality control, and packaging and transportation.
+
+Some examples of produced isotopes are:
+
+actinium-225, actinium-227, tungsten-188, lutetium-177, strontium-89, strontium-90, and cobalt-60 for cancer therapy;
+americium-241 and californium-252 for oil/gas exploration and production well logging;
+bismuth-213, lead-212, astatine-211, copper-67, thorium-227, and radium-223 for cancer and infectious disease therapy and research;
+cadmium-109 for X-ray fluorescence imaging and environmental research;
+berkelium-249, americium-243, plutonium-242, californium-251, einsteinium-255, and curium-248 for use as targets for discovery of new super heavy elements;
+fermium-257 for heavy element chemistry research;
+selenium-75 for industrial radiography;
+nickel-63 for explosives detection;
+lithium-6 and helium-3 for neutron detectors for homeland security applications;
+promethium-147 for nuclear batteries; and
+arsenic-73, iron-52, and zinc-65 as tracers in metabolic studies.
+It can take decades for an economically and technically viable commercial market to be formed for any novel isotope. The DOE IP works closely with industry to commercialize technology and promote domestic independent producers in a smooth transition that does not disrupt supply and or prohibit research; at that point, the DOE IP stops production so as to not compete with the domestic industry.
+
+While the DOE IP is not responsible for the production of molybdenum-99 (Mo-99), the most widely used isotope in diagnostic medical imaging in the Nation, it works closely with NNSA, the lead entity responsible for domestic Mo-99 production, offering technical and management support.  The DOE IP is also not responsible for plutonium-238 production (which is under the Office of Nuclear Energy

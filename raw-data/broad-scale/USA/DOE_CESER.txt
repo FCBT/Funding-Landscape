@@ -1,0 +1,15 @@
+CESER is focused on bringing the best ideas of the federal government, partners in the Energy Sector, the cybersecurity community, academia, state and local governments, and the National Laboratories to bear to reduce the risk of energy disruptions due to cyber events. Working closely with these partners through the research and development (R&D) cycle, CESER’s focus is on game-changing projects that enhance the speed and effectiveness of threat and vulnerability information sharing, accelerates the mitigation of cyber incidents in today’s systems, and enhances resilience while reducing risk in a quantifiable manner.
+
+CESER approaches its mission of enhancing the security and survivability of the Nation’s energy infrastructure through both near- and long-term Research and Development solutions to solve the problems of today and tomorrow. To produce tools and technologies able to help energy delivery systems detect, reject, mitigate, and withstand cyber incidents, CESER employs a robust, purposeful investment strategy that targets gaps in the sector’s capabilities. Accounting for both the urgency of challenges and the unmet needs of the sector, CESER prioritizes partnerships in a way that balances the accelerated development of tools and technologies needed to address vulnerabilities today with research into solutions that anticipate challenges in the future. This includes developing tools and/or technologies that can
+
+prevent a cyber incident by decreasing the cyberattack surface of systems and their components;
+block attempted misuse of energy delivery systems;
+distinguish an incident-caused disruption from one with a different cause; and
+adapt energy delivery systems to survive a cyberattack through an automated response to attempted intrusions.
+CESER’s R&D program aligns with Federal priorities, as well as the strategy and milestones articulated in the U.S. Department of Energy’s Multiyear Plan for Energy Sector Cybersecurity, which follows the sector’s vision of resilient energy delivery control systems designed, installed, operated, and maintained to withstand a cyber incident while sustaining critical functions.
+
+Through its partnerships, CESER has developed and transitioned more than 70 technologies to the Energy Sector to-date. Utilities nationwide have purchased risk-reducing technologies developed through CESER-funded research.
+
+If you’d like to learn more about current and past projects supported by the CEDS Tools & Technologies group, please visit the CEDS Fact Sheets webpage.
+
+When R&D funding opportunities become available, an application can be found at the National Energy Technology Laboratory’s Solicitations and Funding Opportunities webpage.

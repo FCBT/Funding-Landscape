@@ -1,0 +1,25 @@
+Synopsis
+Focused Research Hubs in Theoretical Physics (FRHTP) are designed to enhance significant breakthroughs at an intellectual frontier of physics by providing resources beyond those available to individual investigators, so as to promote a collaborative approach to a focused topic while promoting the preparation of scientists at the beginning of their independent scientific careers. Although interdisciplinary aspects may be included, the bulk of the effort must fall within the purview of the Division of Physics.  The successful hub will demonstrate: (1) the potential to advance science; (2) the enhancement of the development of early career scientists; (3) creative, substantive activities aimed at enhancing education, diversity, and public outreach; (4) potential for broader impacts, e.g., impacts on other field(s) and benefits to society; (5) a synergy or value-added rationale that justifies a group approach.
+
+The FRHTP will be funded for an initial duration of five years. The intent is that the research topics proposed are at the stage that the scientific goals of the hub can be achieved in the first five years of the project. The FRHTP awards will provide support only for postdoctoral researchers plus general support for hub-related activities. The FRHTP are not intended to provide additional support for senior personnel (individual PIs), graduate or undergraduate students. Instead, the FRHTP is intended to support postdoctoral researchers and enable collaborative interactions via support for travel, collaboration meetings and workshops.
+
+Topics for the FY 2021 competition:
+
+Proposals may only be submitted in the specific topic(s) listed in this solicitation, which define particular areas in theoretical physics in which the Division of Physics sees a need for a focused research hub. Future versions of this solicitation will allow response on different theoretical physics topics. It is expected that one award will be funded in each hub topic.
+
+The specific hub topics for this solicitation are:
+
+1. Theoretical Atomic, Molecular and Optical Physics (TAMOP)
+
+The TAMOP focused research hub will support theoretical work to advance theoretical AMO physics and lead in motivating and explaining new experimental work in AMO and other areas of science within the purview of the Division of Physics.
+
+2. Quantum Information Science (QIS)
+
+The QIS focused research hub will support theoretical work to explore quantum applications that will push the frontiers of quantum-based information, transmission, and manipulation within the purview of the Division of Physics. This activity will advance the goals of the “Quantum Leap”, one of the NSF 10 Big Ideas for Future NSF Investment.
+
+3. Theoretical Nuclear Physics (TNP)
+
+The TNP focused research hub will support theoretical work in the area of Models and Simulations for Nuclear Astrophysics relevant to research within the purview of the Division of Physics. This activity will advance the goals of the “Windows on the Universe”, one of the NSF 10 Big Ideas for Future NSF Investment.
+
+It is strongly recommended that prospective PIs contact the FRHTP Program Officer(s) to ascertain that the focus and budget of their proposed FRHTP are appropriate for this solicitation.
+

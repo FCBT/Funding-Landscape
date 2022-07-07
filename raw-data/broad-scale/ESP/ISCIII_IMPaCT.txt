@@ -1,0 +1,18 @@
+El Plan Estratégico de IMPaCT se configura en torno a tres ejes estratégicos y dos líneas estratégicas transversales. Los ejes estratégicos responden a cada uno de los tres programas y, a su vez, se disponen en acciones y paquetes de trabajo específicos, con indicadores de cumplimiento que deberán permitir comprobar la efectividad del despliegue de la infraestructura. De forma complementaria, las dos líneas estratégicas transversales permiten aportar coherencia interna a aquellos aspectos tales como la ética de los datos y la internacionalización de la plataforma, que son comunes a los tres ejes estratégicos.
+
+Tres ejes estratégicos
+EJE 1. MEDICINA PREDICTIVA – Aborda el diseño y establecimiento de una cohorte de base poblacional representativa de la población residente en España, su variabilidad étnica, diversidad geográfica y ambiental, con la participación de todas las CC.AA. y seguimiento prospectivo. Todo ello con el objetivo de contribuir al diseño de estrategias de precisión y modelos predictivos en la prevención primaria, diagnóstico precoz y tratamiento temprano de las principales enfermedades.
+ 
+
+EJE 2. CIENCIA DE DATOS – Se orienta al desarrollo y validación de un entorno de integración y análisis conjunto de datos clínicos, moleculares y genéticos, para su uso secundario de forma coordinada con los ejes estratégicos 1 y 3. De igual manera, este eje generará modelos que permitan responder de forma eficiente a preguntas relevantes para el SNS promoviendo la generación de conocimiento de alto nivel basado en estas aproximaciones.
+
+
+
+EJE 3. MEDICINA GENOMICA – Promueve el establecimiento de una infraestructura cooperativa distribuida en varios nodos para la realización de estudios genéticos de alta complejidad basado en tecnologías del ámbito de la investigación. Las capacidades científicas se orientarán inicialmente a contribuir al diagnóstico de enfermedades raras y otras enfermedades sin diagnóstico de forma coordinada con las estructuras asistenciales del SNS y el Ministerio de Sanidad, atender las necesidades de secuenciación de la cohorte poblacional IMPaCT y a contribuir a la iniciativa europea "1M+ Million Genomes".
+
+ 
+
+Dos líneas estratégicas transversales
+LINEA ESTRATÉGICA TRANSVERSAL 1. ETICA E INTEGRIDAD CIENTIFICA –  Comprende las actuaciones para garantizar el cumplimiento de los principios de integridad científica y normas éticas, tanto en el tratamiento de datos y muestras biológicas como en la presentación de resultados.
+
+LINEA ESTRATEGICA TRANSVERSAL 2. INTERNACIONALIZACIÓN – Abarca las acciones dirigidas a posicionar a España como referente internacional en el ámbito de la Medicina de Precisión, favoreciendo la participación y liderazgo de los grupos de investigación e instituciones de I+D+I en las actuaciones e infraestructuras europeas e internacionales en este ámbito.

@@ -1,0 +1,195 @@
+
+Research area selection in Je-S
+
+NERC’s research areas are grouped within higher-level research subjects within the UKRI research classification. NERC applicants can also select (a minority of) research areas related to the remits of other research councils. This facilitates reporting of multidisciplinary research.
+
+Applicants can choose up to five research areas on their Joint Electronic Submission (Je-S) system proposal form, and associate a percentage (totalling 100%). Many research areas are now structured on three levels and you should try to select terms at the lowest appropriate level to describe the subject area.
+
+If you have any queries about NERC’s remit, please contact nercremit@nerc.ukri.org.
+
+The list of research subjects and the NERC research areas which are associated with them are listed alphabetically.
+Archaeology
+Palaeobiology
+
+The study of fossil organisms, their occurrence and modes of preservation. Biostratigraphy and palaeobiogeography. Fossils as a diagnostic and interpretative tool.
+Science-based archaeology
+
+The application of physical, chemical and biological techniques to aid scientific archaeological and geoarchaeological investigations. Development and application to archaeology of dating, analytical, statistical and modelling techniques relating to human ecology and evolutionary history; archaeological conservation; archaeological prospecting; materials analysis.
+Atmospheric physics and chemistry
+Atmospheric kinetics
+
+Reaction rates for atmospheric chemical processes as a function of temperature and pressure. Atmospheric cross-sections and photo-dissociation yields of atmospheric gases.
+Boundary layer meteorology
+
+Models of local and regional airflow and dispersion. Understanding of airflow over complex surfaces. Urban meteorology; links to air pollutant formation and dispersion.
+Land – atmosphere interactions
+
+Quantification and modelling of the fluxes and transformations of material and energy between the land (including the biosphere) and the atmosphere. Variability of these interactions in time and space.
+Large scale atmospheric dynamics and transport
+
+Global circulation of the troposphere and stratosphere, including time variability, wave motions (from small-scale gravity waves to large-scale planetary waves and equatorial waves) and their effect on the radiation balance, large scale transport and mixing processes in the free troposphere and stratosphere.
+Ocean – atmosphere interactions
+
+Quantification and modelling of the fluxes and transformations of material and energy between the marine and atmospheric environments. Feedback mechanisms. Coupled ocean/atmosphere models. Variability of these interactions in time and space.
+Radiative processes and effects
+
+Observations and modelling of radiation from the ultra-violet to the infrared and microwave. Field, laboratory and modelling studies of radiation and its effects on the environment.
+Stratospheric processes
+
+Measurements, analysis, modelling and theoretical understanding of stratospheric physics and chemistry.
+Tropospheric processes
+
+Understanding chemical reactions and spatial distribution of tropospheric gaseous constituents, and the formation of secondary pollutants. Tropospheric model validation incorporating chemistry and atmospheric transport.
+Upper atmosphere processes and geospace
+
+The physics and chemistry of the atmosphere above 50 km, including the coupling of energy, momentum and chemistry between the mesosphere and the stratosphere and thermosphere. Magnetosphere, ionosphere and solar-terrestrial science.
+Water in the atmosphere
+
+The distribution and transport of water in the climate system. Fluxes of momentum, heat and precipitation at or near the Earth’s surface – measurement and model representation. The microphysical properties of clouds.
+Climate and climate change
+Climate and climate change
+
+Modelling and analysis of current and past climate, variability and causes of change on all timescales. Understanding and modelling future climate change, detection and attribution of past change. Prediction of impacts of climate change on the environment.
+Palaeoenvironments
+
+Investigation of past environments and causes of change. Reconstruction of environmental change in the pre-Quaternary past.
+Regional weather and extreme events
+
+Studies of weather in the context of environmental impact. Observation, simulation and forecasting of extreme events, such as hurricanes, tornadoes, and dispersion of volcanic plumes.
+Ecology, biodiversity and systematics
+Behavioural ecology
+
+Behavioural strategies used by organisms in their natural environment to maximise fitness. Foraging, social and reproductive (including parental care, sexual selection and mate choice) behaviour. Behavioural responses to predators, communication, migration and homing.
+Community ecology
+
+The structure, composition and dynamics of ecological assemblages. Relationship between species assemblages and their environments, trophic structure; succession, stability, biodiversity, coexistence and competitive exclusion, spatial structure and relative abundance of component species.
+Conservation ecology
+
+Science underpinning the restoration and conservation of species and communities and their natural habitat.
+Population ecology
+
+Understanding of population dynamics, including trophic interactions. Demography of populations. Extinction processes. Spatial processes and metapopulation dynamics.
+Systematics and taxonomy
+
+Morphological, numerical and molecular methods of identifying and classifying living and fossil organisms in projects of ecological relevance. Reconstruction of phylogenies.
+Genetics and development
+Population genetics and evolution
+
+Speciation and population genetics, gene flow/population structure, hybrid zones, island populations, genetic drift and conservation genetics. Adaptation and the evolution of life histories.
+Geosciences
+Earth engineering
+
+Engineering geology. Geotechnical aspects of civil engineering, the construction and extraction industries.
+Earth resources
+
+Studies of the origins, location, identification, and science underpinning the exploration and exploitation of natural Earth resource materials (other than water).
+Geohazards
+
+The prediction, monitoring, environmental effects, risks and mitigation of long-term, extreme and catastrophic natural geological events including landslips, earthquakes and volcanic eruptions. Assessment of frequency and magnitude of triggers and events.
+Glacial and cryospheric systems
+
+Origins, processes of formation, characteristics and impacts of glacial, ice cap, shelf ice and sea ice features. Physical, chemical and biological processes in the cryosphere. Glacial tectonics and ice deformation. Periglacial processes. Determination of glacial events from the geological record. Interactions between the cryosphere and the atmosphere, terrestrial and aquatic environments.
+Hydrogeology
+
+The physical, chemical and biological processes which occur at the interface between rock and water at or below the Earth’s surface at all scales. Water-related geological processes beneath oceans. Aquifers and groundwater resources. Response of aquifers to environmental change.
+Hydrological processes
+
+Measurement and modelling of the factors influencing the flow of water in and to freshwater, estuarine and coastal environments. Surface water resources. Hydrological extremes including prediction methods for flood forecasting.
+Mantle and core processes
+
+Studies of the processes which determine the behaviour and composition of the Earth’s mantle and core.
+Physics and chemistry of Earth materials
+
+Physical and chemical characteristics of naturally occurring minerals and Earth materials. Experimental petrology and geochemistry under simulated natural conditions. Origins and transformations of minerals.
+Quaternary science
+
+Studies of the environment and environmental change during the Quaternary period.
+Sediments and sedimentary processes
+
+Provenance, transport, depositional processes, diagenesis, preservation, erosion and interpretation of modern and preserved sediments in marine, coastal, estuarine, fluvial, lacustrine and terrestrial environments. Stratigraphy. Basin analysis, hydrocarbon reservoirs.
+Tectonic processes
+
+Processes affecting the large scale movement and deformation of the Earth’s crust. Orogenesis, faulting, earthquakes and seismicity; neotectonics; tectonic control of sedimentation.
+Volcanic processes
+
+Origin of ancient and modern volcanoes and vulcanicity. The location, history and structure of volcanoes, their emissions and deposits. Reconstruction of these characteristics and of Earth history from studies of volcanic materials and their impacts in the geological record.
+Marine environments
+Biogeochemical cycles
+
+Fluxes and cycling of matter within and between the biosphere and the physical environment.
+Ecosystem-scale processes and land use
+
+Large-scale ecology (including marine ecosystems). Catchment and regional studies. Landscape ecology. Interactions between ecology and land use patterns.
+Land – ocean interactions
+
+Quantification and modelling of the fluxes and transformations of material and energy between the terrestrial and marine environments. Variability of these interactions in time and space.
+Ocean – atmosphere interactions
+
+Quantification and modelling of the fluxes and transformations of material and energy between the marine and atmospheric environments. Feedback mechanisms. Coupled ocean/atmosphere models. Variability of these interactions in time and space.
+Ocean circulation
+
+Studies of water circulation in seas and oceans on a variety of temporal and spatial scales based on modelling and/or observations. Extreme water circulation events.
+Medical and health interface
+Environment and health
+
+The relationship between environmental variables and human health. Sources, sinks and pathways of potentially harmful chemicals and organisms present in the natural environment that may have an effect on human health.
+Microbial sciences
+Environmental microbiology
+
+All aspects of environmental influence on, and effects of, microbial systems; bioremediation; microbial diversity.
+Omic sciences and technologies
+Environmental genomics
+
+Understanding the response of organisms to their natural environment at the level of the genome.
+Planetary science
+Planetary Surfaces and Geology
+
+Measurement of the Earth and its gravitational field. Techniques and data derived from studying other extraterrestrial bodies specifically to enhance understanding of the Earth System.
+Plant and crop science
+Environmental physiology
+
+Studies of the physiological responses of plants and animals to the environment; homeostasis, stress and physiological responses; survival strategies.
+Pollution, waste and resources
+Ecotoxicology
+
+Diagnostics, tolerance and adaption in relation to natural and anthropogenic toxic substances.
+Pollution
+
+Production, transport, transformation, interaction and effects of substances which are present at concentrations above those normally expected in a clean environment. Understanding the long-term availability and fate of pollutants and waste materials.
+Terrestrial and freshwater environments
+Biogeochemical cycles
+
+Fluxes and cycling of matter within and between the biosphere and the physical environment.
+Earth surface processes
+
+Evolution of the landscape, landforms and coasts through natural processes. Geomorphology. Physical and chemical weathering.
+Ecosystem-scale processes and land use
+
+Large-scale ecology (including marine ecosystems). Catchment and regional studies. Landscape ecology. Interactions between ecology and land use patterns.
+Land – atmosphere interactions
+
+Quantification and modelling of the fluxes and transformations of material and energy between the land (including the biosphere) and the atmosphere. Variability of these interactions in time and space.
+Land – ocean interactions
+
+Quantification and modelling of the fluxes and transformations of material and energy between the terrestrial and marine environments. Variability of these interactions in time and space.
+Soil Science
+
+Physical, chemical, biological properties and processes in soils. Geographical distribution. Decomposition processes, transfer and transport of heat, water, nutrients and contaminants. Soil organisms.
+Water quality
+
+Measurement and modelling of processes that control water quality (on or below the surface) in standing and flowing water.
+Tools, technology and methods
+Environmental biotechnology
+
+Development of sustainable insect pest management strategies. Environmental impacts of GMOs. Understanding and controlling zoonotic diseases. Novel approaches to the identification, quantification and exploitation of disease-related genes in the environment. Biological tools for the monitoring, transformation and amelioration of the environment
+Environmental informatics
+
+Research and system development focusing on the environmental sciences relating to the creation, collection, storage, processing, modelling, interpretation, display and dissemination of data and information.
+Survey and monitoring
+
+Environmental survey, mapping and monitoring (as the primary purpose of the activity, rather than as a tool).
+Technology for environmental applications
+
+Development of new, and the adaption of existing, technology and techniques with actual or potential generic or specific environmental applications.
+
+Last updated: 6 December 2021

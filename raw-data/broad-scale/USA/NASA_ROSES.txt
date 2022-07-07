@@ -1,0 +1,29 @@
+The NASA Science Mission Directorate (SMD) annual NASA Research Announcement, Research Opportunities in Space and Earth Sciences (ROSES) - 2022 will be released on or about February 14, 2022.
+
+ROSES is an omnibus solicitation with many individual program elements, each with its own due dates and topics. Table 2 and Table 3 of this NRA, which will be posted at https://solicitation.nasaprs.com/ROSES2022table2 and https://solicitation.nasaprs.com/ROSES2022table3, respectively, provide proposal due dates and hypertext links to descriptions of the solicited program elements in the Appendices of this NRA. Together, these program elements cover the wide range of basic and applied supporting research and technology in space and Earth sciences supported by SMD.
+
+The ROSES NRA is written to allow any individual program element to issue any type of award but, at the time of release, all elements are written so that extramural awards will be grants. Contracts are excluded because it would not be appropriate for the nature of the work solicited. Organizations of every type, domestic and foreign, Government and private, for profit and not-for-profit, may submit proposals without restriction on teaming arrangements. Note that it is NASA policy that all research involving non-U.S. organizations will no exchange of funds.
+
+Awards range from under $100K per year for focused, limited efforts (e.g., data analysis) to more than $1M per year for extensive activities (e.g., development of hardware for science experiments and/or flight). Periods of performance are typically three years, but some programs may allow up to five years and others specify shorter periods.
+
+The funds available and the anticipated number of awards are given in each program element and range from less than one to several million dollars, which allows for selection from a few to as many as several dozen proposals.
+
+Electronic submission of proposals is required by the respective due dates for each program element and must be submitted by an authorized official of the proposing organization. Electronic proposals may be submitted via the NASA proposal data system NSPIRES or via Grants.gov.
+
+Every organization that intends to submit a proposal in response to ROSES-2022 must be registered with NSPIRES; organizations that intend to submit proposals via Grants.gov must be registered with Grants.gov in addition to being registered with NSPIRES. Such registration must identify the authorized organizational representative(s) (AOR) who will submit the electronic proposal. All proposal team members must be registered in NSPIRES regardless of the submission system so we may perform automatic organizational conflict of interest checking of reviewers. Potential proposers and proposing organizations are urged to access the system(s) well in advance of the proposal due date(s) of interest to familiarize themselves with its structure and to enter the requested information.
+
+Notices of intent to propose and Step-1 Proposals will be due starting in April 2022 and Full (Step-2) Proposals will be due no earlier than May 16, 2022, through no later than May 12, 2023, by which time it is expected that the first full (Step-2) proposal due dates for next ROSES solicitation will begin.
+
+Potential proposers are strongly encouraged to read Section I(d) of the ROSES Summary of Solicitation that lists Significant Changes from Recent ROSES.
+
+At the time of release, many ROSES elements are merely TBD placeholders, for which final text will be released later, by amendment to ROSES, typically 90 days in advance of the proposal due date. To learn of the addition of new program elements and all amendments to this NRA, proposers may:
+
+Subscribe to the SMD mailing lists (by logging in at https://nspires.nasaprs.com/ and checking the appropriate boxes under "Account Management" and "Email Subscriptions").
+Get automatic updates of due dates using the ROSES-2022 due date Google calendar. Instructions will be available shortly after release at https://science.nasa.gov/researchers/sara/library-and-useful-links (link from the words due date calendar).
+Check the ROSES-2022 Blog at https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2022/.
+
+Frequently asked questions about ROSES-2022 will be posted at https://science.nasa.gov/researchers/sara/faqs/ shortly after release. FAQ#1 will cover what is new in ROSES this year.
+
+Questions concerning the individual program elements in ROSES should be directed to the point(s) of contact in the Summary Table of Key Information at the end of the program element and at https://science.nasa.gov/researchers/sara/program-officers-list/.
+
+Subject matter experts are encouraged to sign up to be a volunteer reviewer at https://science.nasa.gov/researchers/volunteer-review-panels.

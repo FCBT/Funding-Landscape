@@ -1,0 +1,2 @@
+Synopsis
+The Algorithms for Threat Detection (ATD) program will support research projects to develop the next generation of mathematical and statistical algorithms for analysis of large spatiotemporal datasets with application to quantitative models of human dynamics. The program is a partnership between the Division of Mathematical Sciences (DMS) at the National Science Foundation (NSF) and the National Geospatial Intelligence Agency (NGA).

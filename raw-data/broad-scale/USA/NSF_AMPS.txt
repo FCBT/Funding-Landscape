@@ -1,0 +1,2 @@
+Synopsis
+The Algorithms for Modern Power Systems (AMPS) program will support research projects to develop the next generation of mathematical and statistical algorithms for improvement of the security, reliability, and efficiency of the modern power grid. The program is a partnership between the Division of Mathematical Sciences (DMS) at the National Science Foundation (NSF) and the Office of Electricity Delivery & Energy Reliability (OE) at the U.S. Department of Energy (DOE).

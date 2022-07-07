@@ -1,0 +1,23 @@
+Programa 9: Programa de Estímulo ao Uso de Tecnologias 
+
+Meta 57 Implantação de cursos de curta duração, para o desenvolvimento contínuo de novas metodologias e de competências em informação. 
+
+Meta 58 Atualizar a infraestrutura tecnológica do Laboratório de Comunicação Científica (LABCOM/COEPE/IBICT) e do Laboratório Interdisciplinar sobre Informação e Conhecimento (LIINC). 
+
+Meta 59 Implantar o Laboratório em Rede de Humanidades Digitais (Larhud/ COEPE/ IBICT). 
+
+Meta 60 Melhorias e inovação no sistema de informação de apoio ao MID (Sismid). 
+
+Meta 61 Atualização das informações sobre os PIDs (MID). 
+
+Meta 62 Lançamento do Visão. 
+
+Meta 63 Atualização da arquitetura tecnológica e de gestão de dados do Visão. 
+
+Meta 64 Adição de bases de dados públicas com dados para pesquisa (Visão). 
+
+Meta 65 Desenvolver um modelo de acessibilidade para sistemas de gerenciamento de publicações. 
+
+Meta 66 Desenvolver documentação técnica voltada à transferência de pelo menos 3 (três) tecnologias aplicadas à ICT. 
+
+Meta 67 Desenvolver e aplicar 3 (três) cursos presenciais e quatro (4) a distância sobre tecnologias para gestão da informação suportadas pelo IBICT. 

@@ -1,0 +1,82 @@
+Sistema Nacional de Información Ambiental y de Recursos Naturales
+Bases de datos estadísticos, cartográficas y documentales que recopilan, organizan y difunden la información sobre los recursos naturales.
+Secretaría de Medio Ambiente y Recursos Naturales | 14 de marzo de 2022
+
+logo sniarn
+Sistema Nacional de Información Ambiental y de Recursos Naturales
+BASE DE DATOS ESTADÍSTICOS - BADESNIARN
+Presenta la información estadística sobre temas relacionados con el ambiente, resultado de la colaboración con las distintas áreas de la Secretaría, de sus órganos desconcentrados y descentralizados; así como con otros organismos y dependencias que producen información estadística.
+
+Consulta temática
+Puede encontrar la información de la Badesniarn organizada por temas y presentada en reportes tabulares. Los reportes tabulares contienen todas las desagregaciones temáticas, temporales y espaciales aplicables en cada caso, de manera que, al usuario se le presenta la mayor cantidad de información disponible sobre el tema consultado.
+
+Consulta por estados
+Presenta la información de la Badesniarn para consulta por Estado. Al seleccionar el Estado de interés, se presenta la lista de temas de la Badesniarn que contienen información para él. El usuario podrá consultar los reportes tabulares con las desagregaciones temáticas, temporales y espaciales aplicables para cada entidad.
+
+Consulta por años
+Muestra la información disponible en la Badesniarn organizada por año. Al seleccionar alguna de las barras mostradas en la gráfica, se puede acceder a los temas con información para el año seleccionado. El resultado final será un reporte tabular con varias opciones de descarga
+._____________________________________________________________
+
+ESPACIO DIGITAL GEOGRÁFICO - ESDIG
+Contiene mapas sobre las características ambientales del país en temas como vegetación, uso del suelo, cuerpos de agua, clima, programas ambientales y sociales, entre otros. Los mapas son desplegados en un visor de mapas en línea que permite al usuario desplegar y consultar la información e integra además los Atlas Geográficos de Medio Ambiente y Recursos Naturales, y diversas herramientas geográficas que apoyan al usuario en la consulta de información geográfica del sector.
+
+Mapas en línea
+Por medio de un mapa interactivo explora los recursos naturales, realiza búsquedas de sitios prioritarios para el ambiente y descubre la interacción de diversos temas por medio de la superposición dinámica de capas para obtener mapas temáticos, que permiten analizar de forma conjunta las condiciones regionales de alguna zona del territorio mexicano.
+
+Mapas estatales
+Son mapas en línea, que abordan temas específicos para obtener información geoespacial de proyectos ambientales elaborados en los estados. 
+
+Atlas geográfico del medio ambiente y recursos naturales
+
+Los Atlas de Medio Ambiente y Recursos Naturales contribuyen al conocimiento geográfico del país mediante mapas generales con información disponible sobre orografía, población, ecosistemas, suelos, biodiversidad, atmósfera y la situación del recurso agua; acompañados de textos y gráficas que complementan la información incluida en el mapa.
+
+Diccionario geográfico
+Aborda las principales temáticas de los recursos naturales por medio de términos, conceptos y definiciones comúnmente utilizados en los sistemas geográficos.
+
+Subsistema de Información del Inventario Nacional de Emisiones de Contaminantes Criterio (SIINEM)
+Es una herramienta dirigida al público en general para la difusión y consulta de los resultados del Inventario Nacional de Emisiones de Contaminantes Criterio del 2016 (INEM). Facilita los procesos de búsqueda, interpretación, presentación y comparación de la información del INEM entre los estados y municipios del país. Representa de manera espacial las emisiones por sector y actividad económica en cada municipio en México. Permite obtener reportes de las consultas realizadas por medio de la navegación directa, mediante la selección de las consultas de interés espacial, por contaminante y actividad.
+
+Subsistema de Información sobre el Ordenamiento Ecológico (SIORE)
+El Subsistema de Información sobre el Ordenamiento Ecológico (SIORE) está dirigido a la sociedad en general para la difusión y consulta de los Programas de Ordenamiento Ecológico Generales, Regionales y Locales decretados en el territorio nacional. Integra información proporcionada por los Gobiernos Estatales, Municipales y por la Secretaría de Medio Ambiente y Recursos Naturales. Mediante una interfaz gráfica, representa un mosaico de mapas con herramientas para la consulta de los atributos asociados a las unidades de gestión ambiental (UGA) de cada ordenamiento ecológico. Permite obtener reportes de las consultas realizadas por medio de la navegación directa o mediante la introducción de coordenadas o polígonos de interés. Asimismo, es posible visualizar y superponer capas de información relevantes para la conservación y la gestión ambiental, que forman parte del acervo de mapas digitales del Sistema Nacional de Información Ambiental y de Recursos Naturales.
+
+Visor de la región de la Península de Yucatán
+Es una plataforma tecnológica que forma parte del Sistema Nacional de Información Ambiental y de Recursos Naturales, que reúne en un solo lugar información sobre el medio ambiente, la población, las actividades del sector ambiental y otras dependencias del Gobierno de México en el territorio de la Península de Yucatán.
+
+Río ATOYAC
+Visor de mapas con información relevante que informa a la sociedad acerca de la calidad del agua del Río Atoyac.
+
+_____________________________________________________________
+
+SISTEMA NACIONAL DE INDICADORES AMBIENTALES - SNIA
+Ofrece, a través de distintos conjuntos de indicadores, una visión breve de los cambios y la situación actual del medio ambiente y los recursos naturales del país, así como de las presiones y las respuestas institucionales encaminadas a su conservación, recuperación y uso sustentable.
+
+Conjunto básico del desempeño ambiental
+Tiene como principal objetivo brindar información que describa las tendencias de cambio y la situación actual del medio ambiente y los recursos naturales del país, así como las presiones que los amenazan y las respuestas institucionales que atienden su problemática. En este sitio se encuentra la versión más actualizada de los indicadores.
+
+Conjunto de indicadores clave
+Está integrado por 14 indicadores que pretenden, por un lado, mostrar al público en general y a los tomadores de decisiones una descripción fácilmente comprensible de los principales temas ambientales de la agenda nacional, y por otro, ser útiles para evaluar los avances en materia de conservación y uso sustentable del medio ambiente y los recursos naturales en el país.
+
+Conjunto de indicadores de crecimiento verde
+Este conjunto pretende ser un apoyo para seguir el tránsito de nuestro país hacia un desarrollo más verde. Sus 69 indicadores permiten a los usuarios tener información actualizada clave respecto a las condiciones sociales, el entorno económico, la productividad de los recursos naturales, la situación del capital natural y de las actividades de innovación, las oportunidades económicas y las políticas públicas encaminadas para alcanzar el desarrollo sustentable.
+
+Conjuntos de indicadores estatales
+Integran los indicadores de desempeño ambiental de los estados del país. En su estructura, responden a las necesidades y características del estado al que analizan y son desarrollados por los organismos encargados del medio ambiente y los recursos naturales de los gobiernos estatales en colaboración o asesoría de la Semarnat.
+
+Indicadores ambientales del estado de Hidalgo
+Indicadores ambientales del estado de Hidalgo 2003
+Conjuntos de indicadores regionales
+Estos indicadores atienden iniciativas en regiones con alguna problemática en común, ya sea sólo dentro de México o incluso con alguna porción de territorio extranjero. Tal es el caso de la frontera norte, que debido a su complejidad social, económica y ambiental ha requerido la atención de un programa particular que incluye indicadores.
+
+Programa Frontera XXI México - Estados Unidos
+Programa Frontera 2012 - Situación de la región fronteriza 2010 (Español) (Inglés)
+Metadatos 2010 (Español) (Inglés)
+Programa Frontera 2012 - Situación de la región fronteriza 2005
+Conjunto de indicadores internacionales
+Los conjuntos de indicadores internacionales incluidos dentro del SNIA corresponden a las iniciativas de organismos internacionales en las que México participa. Dentro de ellas destacan la Iniciativa Latinoamericana y Caribeña para el Desarrollo Sostenible (ILAC), los Indicadores de los Objetivos de Desarrollo del Milenio (específicamente el Objetivo 7) y los Indicadores Ambientales de la Organización para la Cooperación y Desarrollo Económico (OCDE).
+
+Iniciativa latinoamericana y caribeña para el desarrollo sostenible
+Objetivos de desarrollo del milenio - Informe de avances 2015
+Objetivos de desarrollo del milenio - Informe de avances 2013
+Objetivos de desarrollo del milenio - Informe de avances 2010
+Objetivos de desarrollo del milenio - Informe de avances 2006
+Objetivos de desarrollo del milenio - Informe de avances 2005

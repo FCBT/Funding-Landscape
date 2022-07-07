@@ -1,0 +1,6 @@
+Synopsis
+The Probability Program supports research on the theory and applications of probability. Subfields include discrete probability, stochastic processes, limit theory, interacting particle systems, stochastic differential and partial differential equations, and Markov processes. Research in probability which involves applications to other areas of science and engineering is especially encouraged.
+
+Conferences
+
+Principal Investigators should carefully read the program solicitation "Conferences and Workshops in the Mathematical Sciences" (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities.  Conference and workshop proposals should be submitted eight months before the requested start date.

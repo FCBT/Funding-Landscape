@@ -1,0 +1,48 @@
+The Department of Energy (DOE) and its predecessors have provided radioisotope power systems that have safely enabled deep space exploration and national security missions for five decades.
+
+Radioisotope power systems (RPSs) convert the heat from the decay of the radioactive isotope plutonium-238 (Pu-238) into electricity. RPSs are capable of producing heat and electricity under the harsh conditions encountered in deep space for decades. They have proven safe, reliable, and maintenance-free in missions to study the moon and all of the planets in the solar system except Mercury. The RPS-powered New Horizons spacecraft transited the Pluto system on July 14, 2015, and will continue on to explore other objects in the Kuiper belt.
+
+DOE maintains the infrastructure to develop, manufacture, test, analyze, and deliver RPSs for space exploration and national security missions. DOE provides two general types of systems – power systems that provide electricity, such as radioisotope thermoelectric generators (RTGs), and small heat sources called radioisotope heater units (RHUs) that keep spacecraft components warm in harsh environments. DOE also maintains responsibility for nuclear safety throughout all aspects of the missions and performs a detailed analysis in support of those missions.
+
+SPACE AND DEFENSE INFRASTRUCTURE
+DOE has successfully accomplished nuclear power system missions by maintaining a unique set of capabilities through highly skilled engineers and technicians and specialized facilities at DOE national laboratories. Oak Ridge National Laboratory provides unique materials and hardware. Plutonium-238 is purified and encapsulated at Los Alamos National Laboratory. Idaho National Laboratory assembles the encapsulated fuel into a heat source designed to contain the fuel in potential accident situations, integrates the heat source and power conversion system into the final power system, and assures their final delivery. DOE maintains unique shipping containers and trailers to safely transport components and power systems across the DOE complex and to user agencies. DOE also maintains the unique ability to evaluate and characterize the safety of these systems. Sandia National Laboratories leads the development and maintenance of the required analytical tools, database, and capabilities.  Power system design, development, manufacturing, and non-nuclear testing are performed by competitively selected system integration contractors.
+
+RELATED DOCUMENTS
+VIEW ALL
+INFOGRAPHIC: Powering Deep Space Missions
+Explore the power of nuclear and DOE's role in support deep space exploration.
+OCTOBER 23, 2018
+Learn more
+DOE and NASA Sign MOU on Radioisotope Power Systems
+DOE and NASA agree to collaborate on the development and flight of radioisotope power systems.
+OCTOBER 31, 2016
+Learn more
+Assessment of Small Modular Reactor Suitability for Use On or Near Air Force Space Command Installations SAND 2016-2600
+Assessment of Small Modular Reactor Suitability for Use On or Near Air Force Space Command Installations SAND 2016-2600
+MARCH 31, 2016
+Learn more
+Memorandum of Understanding Between DOE and NASA Concerning RPS for Space Missions
+The purpose of this agreement is to delineate the authorities and responsibilities of the Department of Energy (DOE) and the National Aeronautics and Space Administration (NASA) (the parties) in the research, technology development, design, production ...
+AUGUST 5, 2015
+Learn more
+Radioisotope Thermoelectric Generators (RTGs) — The RTG systems are ideal for applications where solar panels cannot supply adequate power, such as for spacecraft surveying planets far from the sun. RTGs have been used on many National Aeronautics and Space Administration (NASA) missions, including the following.
+
+Mars Science Laboratory Mission, Curiosity Rover
+
+The Mars Science Laboratory rover, named Curiosity, launched on November 26, 2011, and landed successfully on Mars on August 5, 2012. It is the first NASA mission to use the Multi-Mission Radioisotope Thermoelectric Generator (MMRTG). Curiosity is collecting Martian soil samples and rock cores, and is analyzing them for organic compounds and environmental conditions that could have supported microbial life now or in the past. Curiosity is the fourth rover the United States has sent to Mars and the largest, most capable rover ever sent to study a planet other than Earth.
+
+New Horizons Mission to Pluto
+
+The New Horizons spacecraft was launched on January 19, 2006. The fastest spacecraft to ever leave Earth, New Horizons has returned images and scientific data from Jupiter and will continue its journey of three billion miles to study Pluto and its moon, Charon, in 2015. It may also go on to study one or more objects in the vast Kuiper Belt, the largest structure in our planetary system. DOE supplied the RTG that provides electrical power and heat to the spacecraft and its science instruments.
+
+Cassini Mission Orbiting Saturn
+
+In July 2004, the Cassini mission entered the orbit of Saturn. Launched in October 1997, the Cassini spacecraft uses three DOE-supplied RTGs and is the largest spacecraft ever launched to explore the outer planets. It is successfully returning data and images of Saturn and its surrounding moons, using a broad range of scientific instruments. This mission requires RTGs because of the long distance from the sun, which makes the use of solar arrays impractical. The RTGs have allowed the mission to be extended twice; the mission is expected to last at least until 2017.
+
+Voyager Mission to Jupiter, Saturn, Uranus, Neptune and the Edge of the Solar System
+
+In the summer of 1977, Voyager 1 and 2 left Earth and began their grand tour of the outer planets. Both spacecraft use two RTGs supplied by DOE to generate electricity. In 1979, the spacecraft passed by Jupiter; in 1981, it passed by Saturn. Voyager 2 was the first spacecraft to encounter Uranus (1986) and Neptune (1989).  Voyager 1 is currently exploring interstellar space. Voyager 2 is slightly closer to the sun and is currently exploring the heliosheath on the boundary of interstellar space. Voyager 1 is presently the farthest human-made object from Earth. It is currently more than 11 billion miles from earth. Both spacecraft remain operational and are sending back useful scientific data after over 35 years of operation. The RTGs are expected to continue producing enough power for spacecraft operations through 2025, 47 years after launch.
+
+Radioisotope Heater Units (RHUs) — RHUs use the heat generated by Pu-238 to keep a spacecraft’s instruments within their designed operating temperatures.
+
+In June and July 2003, NASA launched the Mars exploration rovers, Spirit and Opportunity, to explore evidence of water on Mars. Each rover has eight RHUs to keep the rover instruments warm during the cold Martian nights. The rovers landed at separate sites on Mars in January 2004 on a planned 90-day mission. Spirit roved the surface of Mars for over 6 years until it became stuck in a sand trap. Opportunity is still exploring the Martian surface and transmitting data after 7 years of operation. NASA has also identified several new missions potentially requiring RHUs. 

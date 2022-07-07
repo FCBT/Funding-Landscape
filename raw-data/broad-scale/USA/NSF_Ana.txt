@@ -1,0 +1,13 @@
+Synopsis
+The Analysis Program supports research in analysis. Areas of current activity include complex, harmonic, and real analysis; dynamical systems and ergodic theory; functional analysis; mathematical physics; operator theory and operator algebras; partial differential equations and calculus of variations.
+
+Conferences
+
+Proposals to the Analysis Program for conferences or workshops must be submitted through the program solicitation "Conferences and Workshops in the Mathematical Sciences" (link below). Principal Investigators should carefully read the solicitation to obtain important information regarding the substance of proposals for conferences, workshops, and similar activities.
+
+To facilitate timely notification of the availability of support, the following requirements are in effect: for support of an event that has a starting date between March 1 and September 30 during a given year, the proposal must be submitted between September 16 and September 30 in the previous year; for support of an event that has a starting date between October 1 in a given year and the last day of February in the following year, the proposal must be submitted between May 16 and May 30 of that year.
+
+Conference proposals to the Analysis Program whose submission dates do not conform with the requirements described above will be returned without review.
+
+Prospective PIs of proposals for conferences, workshops, etc., whose budget requests exceed $50,000 are reminded that such proposals will, in general, require external review and hence are subject to significantly longer processing times.
+

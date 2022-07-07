@@ -1,0 +1,245 @@
+BSB Biological Sciences and Biotechnology
+    
+
+30 AGRICULTURAL, VETERINARY AND FOOD SCIENCES, 
+3001    Agricultural biotechnology
+3002    Agriculture, land and farm management
+3003    Animal production
+3004    Crop and pasture production
+3005    Fisheries sciences
+3006    Food sciences
+3007    Forestry sciences
+3008    Horticultural production
+3009    Veterinary sciences
+3099    Other agricultural, veterinary and food sciences
+31 BIOLOGICAL SCIENCES,
+3101    Biochemistry and cell biology
+3102    Bioinformatics and computational biology
+3103    Ecology
+3104    Evolutionary biology
+3105    Genetics
+3106    Industrial biotechnology
+3107    Microbiology
+3108    Plant biology
+3109    Zoology
+3199    Other biological sciences 
+32 BIOMEDICAL AND CLINICAL SCIENCES, 
+3201    Cardiovascular medicine and haematology
+3202    Clinical sciences
+3203    Dentistry
+3204    Immunology
+3205    Medical biochemistry and metabolomics
+3206    Medical biotechnology
+3207    Medical microbiology
+3208    Medical physiology
+3209    Neurosciences
+3210    Nutrition and dietetics
+3211    Oncology and carcinogenesis
+3212    Ophthalmology and optometry
+3213    Paediatrics
+3214    Pharmacology and pharmaceutical sciences
+3215    Reproductive medicine
+3299    Other biomedical and clinical sciences
+41 ENVIRONMENTAL SCIENCES, 
+4101    Climate change impacts and adaptation
+4102    Ecological applications
+4103    Environmental biotechnology
+4104    Environmental management
+4105    Pollution and contamination
+4106    Soil sciences
+4199    Other environmental sciences
+4201 Allied health and rehabilitation science, 
+4207 Sports science and exercise, 
+4208 Traditional, complementary and integrative medicine, 
+4299 Other health sciences, 
+4503 Aboriginal and Torres Strait Islander environmental knowledges and management, 
+4509 Ngā mātauranga taiao o te Māori (Māori environmental knowledges), 
+4515 Pacific Peoples environmental knowledges
+
+
+
+EIC Engineering, Information and Computing Sciences
+    
+
+3302 Building, 
+3303 Design, 
+40 ENGINEERING,
+4001    Aerospace engineering
+4002    Automotive engineering
+4003    Biomedical engineering
+4004    Chemical engineering
+4005    Civil engineering
+4006    Communications engineering
+4007    Control engineering, mechatronics and robotics
+4008    Electrical engineering
+4009    Electronics, sensors and digital hardware
+4010    Engineering practice and education
+4011    Environmental engineering
+4012    Fluid mechanics and thermal engineering
+4013    Geomatic engineering
+4014    Manufacturing engineering
+4015    Maritime engineering
+4016    Materials engineering
+4017    Mechanical engineering
+4018    Nanotechnology
+4019    Resources engineering and extractive metallurgy
+4099    Other engineering 
+4506 Aboriginal and Torres Strait Islander sciences, 
+4512 Ngā pūtaiao Māori (Māori sciences), 
+4517 Pacific Peoples sciences, 
+46 INFORMATION AND COMPUTING SCIENCES
+
+
+
+HCA Humanities and Creative Arts
+    
+
+3301 Architecture, 
+3399 Other built environment and design, 
+36 CREATIVE ARTS AND WRITING, 
+3601    Art history, theory and criticism
+3602    Creative and professional writing
+3603    Music
+3604    Performing arts
+3605    Screen and digital media
+3606    Visual arts
+3699    Other creative arts and writing
+43 HISTORY, HERITAGE AND ARCHAEOLOGY, 
+4301    Archaeology
+4302    Heritage, archive and museum studies
+4303    Historical studies
+4399    Other history, heritage and archaeology
+4401 Anthropology, 
+4405 Gender studies, 
+4499 Other human society, 
+4501 Aboriginal and Torres Strait Islander culture, language and history, 
+4507 Te ahurea, reo me te hītori o te Māori (Māori culture, language and history), 
+4513 Pacific Peoples culture, language and history, 
+4519 Other Indigenous data, methodologies and global Indigenous studies, 
+4599 Other Indigenous studies, 
+47 LANGUAGE, COMMUNICATION AND CULTURE,
+4701    Communication and media studies
+4702    Cultural studies
+4703    Language studies
+4704    Linguistics
+4705    Literary studies
+4799    Other language, communication and culture
+48 LAW AND LEGAL STUDIES, 
+4801    Commercial law
+4802    Environmental and resources law
+4803    International and comparative law
+4804    Law in context
+4805    Legal systems
+4806    Private law and civil obligations
+4807    Public law
+4899    Other law and legal studies
+50 PHILOSOPHY AND RELIGIOUS STUDIES
+5001    Applied ethics
+5002    History and philosophy of specific fields
+5003    Philosophy
+5004    Religious studies
+5005    Theology
+5099    Other philosophy and religious studies
+
+
+MPCE Mathematics, Physics, Chemistry and Earth Sciences
+    
+
+34 CHEMICAL SCIENCES, 
+3401    Analytical chemistry
+3402    Inorganic chemistry
+3403    Macromolecular and materials chemistry
+3404    Medicinal and biomolecular chemistry
+3405    Organic chemistry
+3406    Physical chemistry
+3407    Theoretical and computational chemistry
+3499    Other chemical sciences
+37 EARTH SCIENCES,
+3701    Atmospheric sciences
+3702    Climate change science
+3703    Geochemistry
+3704    Geoinformatics
+3705    Geology
+3706    Geophysics
+3707    Hydrology
+3708    Oceanography
+3709    Physical geography and environmental geoscience
+3799    Other earth sciences 
+49 MATHEMATICAL SCIENCES, 
+4901    Applied mathematics
+4902    Mathematical physics
+4903    Numerical and computational mathematics
+4904    Pure mathematics
+4905    Statistics
+4999    Other mathematical sciences
+51 PHYSICAL SCIENCES
+5101    Astronomical sciences
+5102    Atomic, molecular and optical physics
+5103    Classical physics
+5104    Condensed matter physics
+5105    Medical and biological physics
+5106    Nuclear and plasma physics
+5107    Particle and high energy physics
+5108    Quantum physics
+5109    Space sciences
+5110    Synchrotrons and accelerators
+5199    Other physical sciences
+
+
+SBE Social, Behavioural and Economic Sciences
+    
+
+3304 Urban and regional planning, 
+35 COMMERCE, MANAGEMENT, TOURISM AND SERVICES, 
+3501    Accounting, auditing and accountability
+3502    Banking, finance and investment
+3503    Business systems in context
+3504    Commercial services
+3505    Human resources and industrial relations
+3506    Marketing
+3507    Strategy, management and organisational behaviour
+3508    Tourism
+3509    Transportation, logistics and supply chains
+3599    Other commerce, management, tourism and services
+38 ECONOMICS, 
+3801    Applied economics
+3802    Econometrics
+3803    Economic theory
+3899    Other economics
+39 EDUCATION,
+3901    Curriculum and pedagogy
+3902    Education policy, sociology and philosophy
+3903    Education systems
+3904    Specialist studies in education
+3999    Other education 
+4202 Epidemiology, 
+4203 Health services and systems, 
+4204 Midwifery, 
+4205 Nursing, 
+4206 Public health, 
+4402 Criminology, 
+4403 Demography, 
+4404 Development studies, 
+4406 Human geography, 
+4407 Policy and administration, 
+4408 Political science, 
+4409 Social work, 
+4410 Sociology, 
+4502 Aboriginal and Torres Strait Islander education, 
+4504 Aboriginal and Torres Strait Islander health and wellbeing, 
+4505 Aboriginal and Torres Strait Islander peoples, society and community, 
+4508 Mātauranga Māori (Māori education), 
+4510 Te hauora me te oranga o te Māori (Māori health and wellbeing), 
+4511 Ngā tāngata, te porihanga me ngā hapori o te Māori (Māori peoples, society and community), 
+4514 Pacific Peoples education, 
+4516 Pacific Peoples health and wellbeing, 
+4518 Pacific Peoples society and community, 
+52 PSYCHOLOGY
+5201    Applied and developmental psychology
+5202    Biological psychology
+5203    Clinical and health psychology
+5204    Cognitive and computational psychology
+5205    Social and personality psychology
+5299    Other psychology
+
+Disciplines: BSB – Biological Sciences and Biotechnology; EIC – Engineering, Information and Computing Sciences, HCA – Humanities and Creative Arts; MPCE – Mathematics, Physics, Chemistry and Earth Sciences; SBE – Social, Behavioural and Economic Sciences.

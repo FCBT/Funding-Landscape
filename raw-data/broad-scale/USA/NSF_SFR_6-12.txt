@@ -1,0 +1,65 @@
+Encourages supplemental funding requests from awardees in four specified programs to support data science education for grade 6-12 students and teachers.
+Dear Colleagues:
+
+With this Dear Colleague Letter (DCL), the National Science Foundation notifies the community of a collaboration with Schmidt Futures to offer supplemental funding supporting data science education for grade 6-12 students and teachers.
+
+This opportunity is open only to organizations with active data science education awards in the following programs:
+
+Harnessing the Data Revolution (HDR): Data Science Corps (DSC) Program (NSF 21-523 and NSF 19-518)
+CS for All: Research and RPPs: Computer Science for All (NSF 20-539)
+DRK-12: Discovery Research PreK-12 (NSF 20-572)
+ITEST: Innovative Technology Experiences for Students and Teachers (NSF 19-583)
+This DCL seeks to expand data science partnerships among academia, industry, and other communities of practice to provide educational experiences for grade 6-12 students and/or teachers. These partnerships will strengthen grade 6-12 data science educational curricula, classroom activities, and teacher professional development opportunities, to broaden student awareness of, and participation in, data science. It is additionally expected that these partnerships will deepen data science researchers' understanding of current grade 6-12 curricula, pedagogy, classroom practices, student needs, and educational environments.
+
+This supplemental funding opportunity supports the development of a diverse, globally competitive STEM workforce and enhanced infrastructure for research and education. Additionally supporting NSF's mission to broaden opportunities and expand the participation of groups, institutions, and geographic regions that are underrepresented in STEM disciplines, this DCL encourages partnerships that are situated and address long-standing disparities across racial, ethnic, and socio-economic groups.
+
+The original award must be in one of the programs listed above and must address data science education, in any educational setting. These supplemental funding requests should not exceed 20% of the original award size or $200,000, whichever is smaller. Funded supplements will provide support for periods of up to two years. If the award to which the supplement applies expires within a year after the start date of the proposed supplemental activity, the Principal Investigator (PI) should provide this information at the time of submission to HDR-DSC@nsf.gov as well as to the cognizant Program Director for the original award.
+
+Each supplemental funding request must follow the guidance specified in PAPPG Chapter VI.E.5.
+
+PIs must address the following areas in no more than five pages:
+
+Summary of the active award, including original research vision, goals, activities, and accomplishments, spanning Intellectual Merit and Broader Impacts
+Compelling justification for why there is a need for supplemental funding
+Summary of the proposed extension of the active award to conduct the proposed activities in response to this DCL
+Detailed description of the proposed activities
+Work plan describing the proposed activities, along with the goals, milestones, and predicted outcomes, including a description of how these activities will address the needed capabilities and lead to potential impact and the appropriateness of the supplemental funding request to the proposed scope and scale of the work; and
+Evaluation plan outlining tangible metrics to assess the outcomes of the proposed activities
+PIs interested in submitting supplemental funding requests (or with other questions pertaining to this DCL) are strongly encouraged to contact HDR-DSC@nsf.gov prior to submitting.
+
+PIs should note that supplemental funding requests in response to this DCL should be submitted to the original NSF program associated with the active research award for which supplemental funding is requested. After the submission of their supplemental funding request, PIs should alert the cognizant Program Directors by sending an email to HDR-DSC@nsf.gov with the proposal number assigned to the submission of their supplemental request. In addition, if the award to which the supplement applies expires within a year after the start date of the proposed supplemental activity, the PI should provide this information at the time of submission to HDR-DSC@nsf.gov and the cognizant Program Director for the original award.
+
+Supplemental funding requests submitted in response to this DCL will be subject to internal NSF review only, unless they require external review as mandated by the PAPPG. Relevant information about the supplemental funding requests which are under consideration for funding, along with the corresponding reviews, may be shared with representatives from Schmidt Futures as appropriate.
+
+Supplemental funding requests should be submitted by the following deadline:
+June 7, 2022
+
+Sincerely,
+
+Joanne S. Tornow
+Assistant Director, Biological Sciences
+
+Margaret Martonosi
+Assistant Director, Computer and Information Science and Engineering
+
+Sylvia Butterfield
+Assistant Director (Acting), Education and Human Resources
+
+Susan Margulies
+Assistant Director, Engineering
+
+Alexandra R. Isern
+Assistant Director, Geosciences
+
+Sean L. Jones
+Assistant Director, Mathematical and Physical Sciences
+
+Kellina M. Craig-Henderson
+Assistant Director (Acting), Social, Behavioral, and Economic Sciences
+
+Alicia Knoedler
+Office Head, Office of Integrative Activities
+
+Erwin Gianchandani
+Assistant Director, Technology, Innovation and Partnerships
+
