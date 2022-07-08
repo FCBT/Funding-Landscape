@@ -1,0 +1,304 @@
+
+1. What are innovation focus areas?
+
+Whilst the Open Call welcomes a wide range of innovative ideas to solve problems faced by our defence and security customers, DASA is keen to share insight on specific topics of interest. Innovative solutions for any innovation focus area should be channelled via the Open Call for Innovation.
+
+Each innovation focus area has a unique identifier to help us ensure that your innovation is seen by the appropriate parts of Government. You will be able to choose this identifier when you submit your bid and should use it in all communications with DASA.
+
+Details of past innovation focus areas are listed here.
+1.1 What should be included in your proposal?
+
+Find out about the Cyber Risk Assessment requirements, the Open Call Competition process and assessment and Open Call Cycle Dates.
+
+Sign up for alerts
+
+This page will be changed as new innovation focus areas are added, old ones amended or removed, in response to the evolving needs of our defence and security stakeholders. It is therefore recommended that you set up an alert for this page so you are aware of when such changes are made.
+
+Open Call competition category ‘Emerging Innovations’ is currently not available for submission however we are accepting submissions for Security and Defence Rapid Impact and any Innovation Focus Area.
+1.2 Countering IEDs by Novel Technology and Techniques
+
+Unique Identifier: IFA034
+
+This DASA IFA is seeking proposals that can rapidly accelerate and enhance electronic capabilities which can counter Improvised Explosive Devices (IEDs). We are looking for novel methods which either use the Radio Frequency (RF) spectrum or provide an understanding of the RF spectrum in order to detect and disrupt the functionality of IEDs.
+
+An important part of countering an IED threat is the detection of devices along with understanding the electromagnetic environment to inform situational awareness, to decide threat from non-threat and to inform the configuration of other countermeasures.
+
+The innovations generated through this call will support a crucial capability for UK military and security users, protecting our service personnel, emergency services and the public using RF techniques to counter IEDs and outpace threat evolution.
+
+An IED is an explosive device fabricated in an improvised manner, but with varying degrees of professionalism. An IED typically comprises of the following component types:
+
+    a power source
+    wires
+    electronic circuitry
+    an explosive initiator
+    an explosives charge
+    shrapnel products to increase fragmentation
+    a trigger mechanism
+    various enclosures
+
+The trigger mechanisms used to initiate IEDs are often adapted from commercial products. Examples could include modified Radio Controlled (RC) toys or the use of communication networks. These RF links, and associated components, are considered the primary objective for this call. Other initiation methods could include command wires, timers and victim operated mechanisms, but these are outside the scope of this call unless there is an RF element used in the denial or detection of them.
+
+We are interested in innovative ways to develop and expand the variety of capabilities used for UK Defence and Security. The aim of the IFA is to provide a range of successful solutions that can be developed for front line use. Electronic Counter Measures (ECM) and Electronic Support Measures (ESM) systems need to counter an evolving range of electromagnetic technologies operating across the RF Spectrum, using an ever growing and diverse range of signalling schemes. As possible threat technology types in this area are constantly changing, front line operators need to have a wide variety of options at their disposal to mitigate emerging problems quickly and effectively.
+
+Examples of ECM and ESM use cases include those that:
+
+    can be carried by a service person on long patrols to deliver an immediate effect against IEDs.
+    can be attached to a vehicle in a static and/or moving scenario to deliver an immediate effect against unknown IEDs.
+    can be used to provide protection at a fixed location while delivering an immediate effect against an unknown IED.
+    can provide targeted protection without being co-located with the protected element.
+    are suitable for use in an urban, suburban and/or rural context with the associated variety of environmental conditions and spectrum conditions.
+
+Your proposal must meet at least one of the three challenges, but we welcome bids that address more than one.
+
+Challenge 1 - To capture and analyse RF signals using novel spectrum survey techniques, which may include, but is not limited to:
+
+    signal analysis techniques and classification algorithms, which identify and distinguish between multiple technology standards and protocols, while being able to operate across a wide spectrum in real time.
+    generating methods or data analysis techniques to provide an understanding of the RF environment, which can be used to inform tactical decisions; for instance, the ability to identify abnormal changes in the environment.
+
+Challenge 2 - Approaches to permanently or temporarily disable commercial communications links and/or the electronics within a Remote Controlled Explosive Device. Examples include techniques that:
+
+    disable communications links to prevent a trigger signal being received. Examples of communication links of interest include those used by push-to-talk radios, wireless doorbells, cellular devices, Wi-Fi and any other readily available communication devices. This may include approaches against the RF signal or the wireless transceivers themselves.
+    disable multiple communication types simultaneously across a wide spectrum, preventing devices from switching to alternative RF bearers that they may have access to.
+    disable the electronics within a Remote Controlled Explosive Device, preventing its detonation. Examples include RF techniques to affect the operation of microcontrollers or cause permanent damage.
+
+Challenge 3 - New or novel hardware and ancillaries (system components), which may include but is not limited to:
+
+    novel antenna concepts to improve performance and lower the RF and visual signature of the service person or vehicle with respect to the ECM system and its ancillaries.
+    advancements in hardware design, such as tuneable filters, efficient ultra-wide band amplifier designs.
+    optimisations in size, weight, or power, or efficiency optimisations in wideband RF signal generation technologies (in the order of several GHz).
+    novel signal and data processing hardware technologies and techniques, that offer advancements in efficiency, parallelism or dynamic configurability.
+
+We are seeking proposals that:
+
+    show an innovative or a creative approach
+    clearly demonstrate how the proposed work applies to the challenges outlined
+    have been proven or matured for another application or domain, and need adaptation to develop as a viable counter IED solution
+    will demonstrate solutions at a minimum of Technology Readiness Levels (TRLs) 5/6
+    are short to medium-term, nominally between 6 to 18 months, with a funding amount between circa £150k and £400k per project
+    include a potential delivery roadmap indicating how the technology could be developed over a 2 to 3 year timeframe (beyond the scope of this IFA)
+
+We are not seeking proposals that:
+
+    are an identical resubmission of a previous bid to DASA or MOD without modification
+    are off-the-shelf products with no additional innovation/adaptation to the applications mentioned above
+    have no long-term prospect of providing a counter IED effect under real world conditions
+    simply focus on a discussion of current capability gaps, whether perceived or actual
+    offer detailed prediction of effects/benefits that are likely to be seen under a given scenario - this information can be built up over the period of the proposed work
+
+Successful proposals may be exploited and developed further through the Defence Science and Technology Laboratory (Dstl) Future Land Force Protection and Explosive Ordnance Disposal (EOD) ECM Capability projects. These projects provide technical support and guidance to personnel in UK Strategic Command, the British Army, and Defence Equipment & Support. There is potential for wider exploitation of options developed within this IFA to support future capability requirements across the MOD and wider government.
+
+Find out more about how to apply
+
+Contact a DASA Innovation Partner if you have an idea but are not sure if it is what we are looking for
+
+Submit a proposal
+1.3 Human Augmentation
+
+Unique Identifier: IFA033
+
+Human Augmentation (HA) is the use of Science and Technology (S&T) to temporarily or permanently modify human performance. It includes optimisation, enhancement, degradation (reducing the impact of stresses, such as working in extreme climates) and restoration of individuals. HA encompasses a range of technologies, these include exoskeletons, implantables, genetics, brain interfaces, pharmaceuticals, and bioinformatics[footnote 1]. Recent advances in S&T have led to a considerable variety of technologies (at various levels of technical maturity and readiness) that could be considered to directly or indirectly augment the human. As the battlefield becomes more complex, and more advanced technologies become available, the operational demands and technical challenges on our defence and security personnel will increase. If HA technologies can be harnessed safely, legally and ethically to develop enhanced levels of operator (and system) performance it is possible they could afford improvements in military and security capability.
+
+This IFA is seeking proposals which present Generation-After-Next (GAN)[footnote 2] solutions to operational challenges for UK Defence and Security where the human performance is the limiting factor for delivering operational effect. This IFA aims to facilitate the generation of new, innovative or radical approaches that will enable appropriate application of Human Augmentation as a solution to an operational challenge or as a means to achieve a competitive advantage in the defence and security environment.
+
+We are interested in GAN technologies that deliver a competitive advantage to UK Defence and Security by:
+
+    Optimising physical and/or psychological performance
+    Enhancing physical and/or psychological performance
+    Enabling an individual to work for longer at a desired level (baseline)of performance
+    Supporting performance restoration[footnote 3]
+
+Examples of candidate HA technologies include, but are not limited to:
+
+    Wearable assistive devices[footnote 4] (e.g. exoskeletons and technologies to enhance senses)
+    Sensory enhancement technologies
+    Nutritional supplements
+    Pharmacological interventions
+    Manipulation of the microbiomes
+    Neurotechnologies
+    Novel materials
+    Implantable devices
+    Synthetic biology
+    Cross reality
+    Robotics
+    Artificial Intelligence
+
+This IFA is open for submissions within the DASA Open Call. See Para 9.1. Further cycles may be advertised. This IFA expects proposals to deliver a proof of concept at around Technical Readiness Level (TRL) 3 by the end of their projects. DASA expects to fund proposals to a value around £70K which provide a proof of concept within a 6 month contract.
+
+We are not seeking proposals that:
+
+    Provide existing, commercially available products
+    Offer demonstrations of commercial-off-the-shelf products requiring no experimental development (unless applied in a novel way to this IFA)
+    Offer no real long-term prospect of integration into defence or security capabilities
+    Technologies that are not focussed on GAN
+    Provide no improvements or benefits to existing systems
+
+Within the proposal you should consider the following:
+
+    All proposals must consider research ethics, specifically JSP536. For more information, please click here
+    An indication of how the technology can be integrated into future defence or security capabilities
+    What gaps/challenges there are in the types of technology (or the science that is needed to support them)
+    Detail a long-term vision (readiness now, and its future direction) of the technology/ idea and how it can be applied within a system to achieve competitive advantage
+    Demonstrate how it will provide the human with advanced capability and/or greater performance reach (focusing on the outcome and what defence or security may achieve through application of the innovation). This must demonstrate an advantage to defence that is attributed to the human component
+
+Exploitation of successful proposals will be leveraged through the Defence Science and Technology Laboratory (Dstl) HA Science and Technology (S&T) project to support a long-term vision for understanding the application of HA technologies in defence and security. There is potential for wider exploitation of options developed within this IFA to support future capability requirements across the MOD and wider government.
+
+Find out more about how to apply
+
+Contact a DASA Innovation Partner if you have an idea but are not sure if it is what we are looking for
+
+Submit a proposal
+1.4 Double Act: National Security Technologies
+
+Unique Identifier IFA032
+
+Closing date: 14 September 2022
+
+This Innovation Focus Area (IFA) is seeking evolving and state-of-the-art technologies that have the potential for integration into the NSTiX Operational Tech Co-Creation Centre (CCC) research programme. It is run on behalf of the NSTiX Operational Tech CCC, established by the National Security Technology and Innovation Exchange (NSTIx).
+
+The IFA will focus on a specific challenge area for at least cycle 2 and 3 in FY2022-2023, before closing and moving on to another challenge when necessary. Over the course of the IFA, new challenges will be drawn from the National Security Strategic Investment Fund (NSSIF) areas of interest which can be found here. The next potential IFA challenge area is highlighted at the end of this document for awareness.
+
+The first challenge area is to mature existing developments, beginning at Technology Readiness Level (TRL) 4/5 and completing at TRL 6/7. Successful suppliers will be offered the support of the NSTiX Operational Tech CCC who can provide access to a manufacturing facility, including rapid prototyping as well as support with testing and trialling. If you wish to access the Co-Creation Centre during your project, please detail what facilities or support are required in your proposal so it can be considered as Government Furnish Asset (GFX) during the assessment process. Whilst your proposal may include requests for GFX, DASA cannot guarantee its availability and you should include an alternative plan in your proposal.
+Challenge area 1- Audio and Visual capture
+
+Challenge area 1 of this IFA is focused on Audio and Visual capture. This includes hardware and software to capture, store, transfer and tag audio, visual and audio/visual evidence.
+
+Proposed solutions need to produce high-quality data and need to process and analyse the natural language contained in the data.
+
+Examples of particular interest include, but are not limited to:
+
+    new durable storage methods utilising ultra-low power with a low bit error
+    ultra low power[footnote 5] edge analytics for both audio and visual data
+    data analytics for low-resolution images, at scale, on a low bandwidth
+    sensor technologies for imagery, i.e. sensors that can operate in low or very low light environment but still generate high-resolution images.
+
+This is not an exhaustive list and we welcome ideas outside the scope of the above examples.
+
+We are seeking proposals that:
+
+    look to pivot technology from one sector to another
+    are broadly mature in their development (TRL 4/5) or that require adjustment from the existing sector
+    can be developed in approximately 3-6 months, ready for testing & trialling
+    seek funding in the region of £75,000, with an upper limit £100,000
+
+We are not seeking:
+
+    literature reviews
+    ideas that offer no real long-term prospect of integration into defence and security capabilities
+    ideas that offer no real prospect of out-competing existing technological solutions
+    demonstrations of off-the-shelf products requiring no experimental development (unless developed and applied in a novel way to the challenge)
+
+There is potential for successful proposals to work within the NSTiX Operational Tech CCC during the contracts. This centre can provide access to a test space that is focussed on technology for non-visible/ covert use. The Co-Creation Centre space also offers an opportunity for successful suppliers to engage with the end users and there is potential for further progression and integration into the NSTiX Operational Tech CCC research programme.
+
+We expect that the next IFA challenge to be released will focus on data analytics and artificial intelligence, such as autonomously processing data captured.
+
+Please note, this IFA falls under the Security Rapid Impact competition. A submitted Innovation Outline is required prior to full proposal submission. To submit an Innovation outline, please follow guidance here. The additional Testing and Trialling phase of the Security Rapid Impact competition is not applicable to this IFA.
+
+Find out more about how to apply
+
+Contact a DASA Innovation Partner if you have an idea but are not sure if it is what we are looking for
+
+Submit a proposal
+1.5 Simulating Future Battlespace Complexity
+
+Unique Identifier IFA024
+
+Current live exercises cannot represent many modern offensive and defensive systems and the anticipated complexity of the battlefield. Using live platforms also places a demand on scarce resources and implies a financial and environmental cost through the use of fuel and other consumables.
+
+We must therefore endeavour to create more effective training environments through the use of simulation and synthetic environments which will enable more frequent training, greater challenge and greater availability. There is a requirement to work with civil partners to pursue technologies and approaches to training within a simulated environment that is compatible with the constraints of our budgets, training facilities and legislation.
+
+We seek novel ideas that can be used by UK Defence to do one, or several, of the below:
+
+    Apply procedures and solutions that provide effective training and evaluation capabilities
+    Integration and fusion of data from, and between, distributed training and experimentation systems
+    Provide training for operators to perform in complex or high stress environments
+    Adoption of Virtual Reality or Augmented Reality into training
+    Capture and exploitation of performance information collected during training
+
+All proposals should be created with the aim of enabling faster insertion of new capability and must inform and be informed by wargames and simulations investigating emerging threats.
+
+Find out more about how to apply
+
+Contact a DASA Innovation Partner if you have an idea but are not sure if it is what we are looking for
+
+Submit a proposal
+1.6 Defence People – Skills, Knowledge and Experience
+
+Unique Identifier IFA023
+
+In the current environment it is increasingly important to ensure we have access to people with the skills, knowledge and experience to exploit information and allow us to adopt cutting edge technologies. This will involve a collaborative approach where we work with other parties, be it other government departments, academia, industry or internationally to ensure we have Suitably Qualified and Experienced Personnel (SQEP) across science, technology, engineering and mathematics.
+
+We are seeking proposals which exploit novel contracts and employment models and consider that individuals may need to learn new skills many times in their careers.
+
+We seek novel ideas which could be used by UK Defence to do one, or several, of the below:
+
+    Attract and retain SQEP with niche specialities and technical skills.
+    Tracking and managing important skillsets across the workforce
+    Provide technologies/services and other opportunities to improve welfare standards, workforce health and wellbeing
+    Provide alternative approaches to contracting or seconding specialist staff
+    Identify and collaborate with organisations with experience in the above areas
+    Suggest novel approaches to improve the sharing and assimilation of knowledge across organisational boundaries, whilst respecting intellectual properties considerations
+
+All proposals should consider the use of simulation to personalise training, maximise human potential and create realistic operational environments.
+
+Find out more about how to apply
+
+Contact a DASA Innovation Partner if you have an idea but are not sure if it is what we are looking for
+
+Submit a proposal
+1.7 Operate and Deliver Effects in Contested Domains
+
+Unique Identifier IFA022
+
+UK Armed Forces currently face heavily contested environments across the air, land, sea, and particularly the space and cyber domains, which is of significant threat to the security of our information and could lead to disruption in the use of our space-based capabilities.
+
+Freedom to use our information networks and the electromagnetic spectrum is essential as this is the medium for communication between forces during operations and for our most effective sensors. These mediums can be used by adversaries as a source of information and can also leave us at a tactical disadvantage were they to be disrupted or disabled.
+
+Proposals should consider we need to be robust and resilient and have the ability to disrupt/degrade adversary capabilities. We seek novel ideas which could be used by the UK Armed Forces to do one, or several, of the below:
+
+    Communicate and synchronise activities in contested environments
+    Monitor contested environments
+    Manufacture methods and design concepts to deliver alternate explosive/electromagnetic/chemical effects and protection from these effects
+    Manage fleets of remote or autonomous systems and use these systems to undertake tasks normally completed by human operators
+
+Find out more about how to apply
+
+Contact a DASA Innovation Partner if you have an idea but are not sure if it is what we are looking for
+
+Submit a proposal
+1.8 Delivering Agile Command and Control
+
+Unique Identifier IFA021
+
+Mission Command is a style of command historically used by the UK Armed Forces to plan and orchestrate operations effectively to achieve desired outcomes. Mission Command is essential to achieving the adaptability required to respond quickly to the complexity in the modern environment, allows delegation and operational awareness across all levels of seniority, and enables personnel to carry out missions with the maximum freedom of action.
+
+In order to achieve a more agile Command and Control process we are looking for proposals which promote a shift from more traditional chains of command to more dynamic, lateral networks, with greater delegation of authority and allow exploitation of relevant information at speed.
+
+We seek novel ideas that could be used by the UK Armed Forces to do one, or several, of the below:
+
+    Technology based data analysis e.g. use of machine learning
+    Collaboration between human and technology based decision making processes
+    Systems and processes to analyse and visualise real-time data
+    Merging in-house and commercially available information services to establish situational awareness
+
+All proposals should be created with the aim of transforming military capabilities to be information centric, which will enable future forces and platforms to be designed around an information architecture to enable widespread access to and sharing of information.
+
+Find out more about how to apply
+
+Contact a DASA Innovation Partner if you have an idea but are not sure if it is what we are looking for
+
+Submit a proposal
+1.9 Integrate Information and Physical Activity Across all Domains
+
+Unique Identifier IFA020
+
+Our Armed Forces have a requirement to be better integrated: with each other, with other government departments and with new and existing international allies and partners. Integration will enable units to work together harmoniously to deliver winning impact across several domains; sea, land, air, space, and cyber.
+
+Communication capabilities underpin all aspects of modern military operations as they allow multiple operators to coordinate in order to maximise their combined effectiveness. Ultimately, all communications are vulnerable to adversary disruption which introduces significant operational risk.
+
+We are seeking proposals which provide field communication capabilities that are resistant to attack, but continue to perform if degraded and are secure. We seek novel ideas that could be used by the Armed Forces to do one, or several, of the below:
+
+    Manage significant volumes of data from remote or autonomous systems
+    Information services that integrate formatted or unformatted data
+    Collaborative data sharing internationally with classified information
+
+All proposals should be created with the aim of increasing our ability to orchestrate activity, provide protection to military personnel and their equipment and in doing so, deter hostile action by our adversaries.

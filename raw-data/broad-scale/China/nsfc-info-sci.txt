@@ -1,0 +1,181 @@
+Department of Information Sciences
+The Department funds researches in areas of the generation of signals, acquisition, storage,
+transmission, processing and utilization of information. Information science is based on informatics,
+control theory and system theory, and its main method is information methodology, and its main
+platform and means of research are computer, integrated circuity and photo electric devices.
+Based on the trends of disciplinary development and social progress, the Department gives
+priorities on funding research on electronics, communication and network, electric devices and
+integrated circuit, computer science, automation, AI, photo electronics and microelectronics,
+network security, quantum information. Preferential support will be given to basic researches that
+meet national demands and have far-reaching importance in promoting the national economic and
+disciplinary development.
+Scientific and technical issues in information sciences are increasingly interdisciplinary in
+nature. Therefore, the Department pays great attention to proposals for interdisciplinary researches
+between information science and mathematics, physics, chemistry, life sciences, medical sciences,
+materials sciences, engineering, geo-sciences and management sciences, and so on. The
+Department encourages cooperative research among scientists with different backgrounds and
+knowledge to put forward cross-disciplinary research proposals in smart city, smart agriculture,
+health, service and education information technology sciences. It also encourages scientists to
+combine theory with practice and explore basic theory and key technical issues that have important
+application potentials for national economy and security. Encourage research on basic theory and
+key technology driven by national need, and promote deep integration of industry and research.
+The Department will continue to encourage scientists to conduct substantial international
+National Natural Science Fund Guide to Programs 2021
+74
+cooperative research with scientists abroad in frontier areas of information sciences.
+In 2021, the Department encourages creative basic research that is different from traditional
+research ideas, and welcomes researchers to conduct discussions and studies on new concepts, new
+theories, new methods and new technologies.
+In 2020, the Department received 12,348 applications for General Program, and funded
+2,064 projects with a total direct cost funding of 1.19680 billion yuan, and a funding rate of 16.72%.
+Among them, 270 applications were received for education information sciences, and 45 projects
+were funded, with average direct cost funding 480,000 yuan per project, and a funding rate of
+16.67%. In 2020, the Department received 9,559 applications for Young Scientists Program, and
+funded 2,152 projects with direct cost of 513.12 million yuan. The success rate was 22.51%. In
+2020, the Department received 1,577 applications for Fund for Less Developed Regions, and
+funded 248 projects with direct cost of 87.69 million yuan. The success rate was 15.73%.
+Funding in Department of Information Sciences in 2020
+Unit: 10,000 yuan
+Divisions
+General Program Young Scientists Fund Fund for Less Developed
+Regions
+Projects Direct
+cost
+Success
+rate (%) Projects Direct
+cost
+Success
+rate (%) Projects Direct
+cost
+Success
+rate (%)
+I
+Electronics and technology 170 9,942 16.43 189 4,512 22.61 18 648 15.79
+Information and
+communication system 175 10,234 17.11 170 4,024 22.67 14 517 15.05
+Information acquisition and
+processing 159 9,123 16.67 169 4,016 22.44 19 676 15.83
+II
+Theoretical computer science,
+computer software and
+hardware
+94 5,287 17.18 77 1,848 22.32 10 359 15.15
+Computer applications 189 10,746 17.03 152 3,624 22.52 29 1,043 15.68
+Network and information
+security 207 11,769 16.97 170 4,064 22.55 32 1,115 16.33
+III
+Control theory and control
+engineering 346 20,191 16.74 382 9,136 22.43 36 1,296 15.52
+Systems science and system
+engineering 263 15,379 16.72 257 6,136 22.43 49 1,764 15.71
+Artificial intelligence and
+intelligent systems 45 2,160 16.67 30 720 22.39 9 324 15.79
+IV
+Semiconductor science and
+information devices 168 10,029 16.33 231 5,480 22.71 13 463 16.05
+Information optics and
+photoelectric devices 105 6,240 16.67 122 2,888 22.89 8 285 15.38
+Laser and technical optics 143 8,580 16.07 203 4,864 22.23 11 390 15.94
+Total or average 2,064 119,680 16.72 2,152 51,312 22.51 248 8,880 15.73
+Direct cost per project 57.98 — 35.81
+Division I of Information Sciences
+Electronic Science and Information System (F01)
+The Division mainly funds basic research in areas of electronic science and technology,
+information and information system, information acquisition and processing and related
+Funding Scope and Instructions
+75
+interdisciplinary areas.
+Researches funded in areas of electronic science and technology include circuit and system,
+electronic science and technology, magnetic field and wave, as well as electronics and applications.
+Researches funded in information and information system include the theory and key technologies
+for information transmission, exchange and application in fields information of and communication.
+Researches funded in information acquisition and processing include the theory, methods and
+applied technology of information sensing, acquisition and processing.
+In 2021, the Division will continue to support researches in areas of basic theory and key
+technologies that are significant to the national security in areas of new method of circuit and
+system design, wave transmission and antenna, microwave and millimeter wave integrated circuit,
+acquisition of electromagnetic energy, tetra hertz device and system, magnetic electronics, micro
+wave photon radar, new sensor mechanism and design method, bio data analysis, medical image
+processing, space, sea and land information network, mobile internet, vehicle internet, smart
+communication, communication system security and wireless connection security, optical
+communication, underwater communication and sensor network, new principle and method of
+radar, detection and imaging, remote sensing image processing, multimedia information processing,
+space information acquisition and processing, underwater information acquisition and processing.
+The innovative and cross-disciplinary research and exploratory studies with good prospects will be
+supported; preferential funding will be given to the projects which have scored outstanding
+achievements in previous research. Preferential support will be given and encouraged to the
+combination of theory and practice to focus on innovation and to study and solve basic problems in
+important application areas, so as to improve China’s research capabilities in this discipline.
+Division II of Information Sciences
+Computer Science (F02)
+The Division mainly funds researches in areas of basic theories, basic methods and key
+techniques related to computer science and technology and relevant interdisciplinary areas.
+Computer science and technology is one of the most active, fast-growing and widely influential
+areas in information sciences. The important trend of computer science and technology
+development is to obtain super speed, large storage, high performance, high reliability, easy
+interaction, intelligent, networking, universal and mobile applicability. Applicants are
+recommended to pay attention to these new features in this Division.
+In 2021, the Division welcomes research proposals with creative ideas and reasonable plans
+in basic and farsighted areas and interdisciplinary subjects. The Division continues to support
+collaborations with researchers in areas of life sciences, medical sciences, mathematics, earth
+sciences, management and economics and social sciences to make joint explorations on new
+theories, new method and technology in interdisciplinary areas so as to promote the mutual
+development of computer science and other sciences. The Division especially encourages and
+support scientists to focus on strategic national goals and address those basic issues that are well
+known internationally for their complexity and significance and of strong exploratory nature, so as
+to increase the level and international impact of computer science research in China.
+National Natural Science Fund Guide to Programs 2021
+76
+Division III of Information Sciences
+The Division mainly funds basic research and far-sighted research for the national economy
+and national security in areas of automation, artificial intelligence, and information science in
+interdisciplinary areas.
+Automation (F03)
+The Discipline focuses on automation includes control theory and technology, control
+system, system modeling and emulation, bio medical information analysis and technology,
+navigation, guidance and control, smart manufacturing and automation system theory and
+technology, robotics and intelligent system.
+Artificial Intelligence (F06)
+The Discipline focuses on key scientific issues and technology in AI research. The Division
+supports close cooperation between AI researchers and those in other disciplines and humanities
+and social sciences to explore new concepts, theory, method and technology. The Division
+especially encourages researches to explore basic issues of great difficulties and great impacts.
+Education Information Science and Technology (F0701)
+The Discipline focuses on knowledge generation, cognition laws and learning mechanism,
+and original, fundamental, far-sighted and interdisciplinary research, encourage research on basic
+theory and method of AI driven education, education assessment method and models supported by
+big-data, online and mobile learning environment and key technology. The Division encourages
+collaborations with other disciplines including social science disciplines to explore new concept,
+theory, method and technology to solve education problems in China.
+In 2021, the Division gives priorities on funding research in biomedical information system,
+intelligent manufacturing automation theory, industrial internet, autopilot, complex science and AI
+theory, natural language processing, and cognitive and neural science inspired AI.
+Division IV of Information Sciences
+The funding scope of the Division covers two disciplines, namely, semiconductor science
+and information devices, and optics and photo-electronics.
+Semiconductor Science and Information Devices (F04)
+The Discipline mainly supports semiconductor electronic and photo electric material and
+devices, IC design, fabrication, packaging and EDA tools, and micro and nano mechanical and
+electrical devices and control system.
+Optics and Photo Electronics (F05)
+The Discipline mainly supports optical information acquisition, display and processing,
+photoelectric devices and integration, inferred and tetra-hertz physics, nonlinear optics, laser,
+spectrum technology, applied optics, micro nano mechanical electronic devices and control
+Funding Scope and Instructions
+77
+systems.
+Since application codes under the category of F04 and F075 in the Division are revised,
+please check before making applications.
+The Discipline will give priority to researches on high performance light source, low power
+consumption integrated circuit and radio frequency chips, new types of sensor materials and
+devices and technology, tetra hertz devices, micro and nano device and technology, new types of
+optical field control technology and devices, quantum optics and quantum devices, quantum
+communication and quantum computation, optical information processing and display technology,
+photon electronic devices and photonic integration, wide gap semiconductor materials and devices,
+semiconductor integrated circuit system, energy photonics, new types of laser technology and
+devices, new optical imaging method and technology, biomedical optics, new spectrum technology,
+and space and astronomical optics, environment and marine optics, etc. The Discipline will
+encourage studies to improve device performance (both yield and reliability) including scientific
+issues in device physics, structure and technology development. The Division also encourages
+interdisciplinary studies with physics, chemistry, materials, life and medical sciences, and promote
+creative research on new information devices such as brain-like chips.

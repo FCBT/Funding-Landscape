@@ -1,0 +1,393 @@
+Department of Earth Sciences
+Earth science studies the formation and evolution of the planetary earth system, including
+geography science, Geology, Geochemistry, Geophysics and Space Physics, Atmospheric Science,
+Marine Science, and Environmental Geosciences, and other related interdisciplinary subjects.
+Through the support of General Programs, the Department encourages original innovations,
+expands scientific frontiers, matches national demands, pushes disciplinary crosses, and lays a
+comprehensive and solid foundation for the balanced, coordinated, and sustainable development of
+all earth sciences disciplines. In 2021, the selection of General Programs will follow the principles:
+(1) The innovation and academic value of the program; (2) The research ability of applicant; (3)
+The rationality of the idea and the clarity of the scientific issue in the application; (4) Research
+basis and conditions. Program proposal selection attaches great importance to basic and traditional
+disciplines, and focuses on primary data accumulation; effectively enhances the research in weak
+and “endangered” disciplines, and promotes the fields development of relatively weak in China but
+predominant in the world; strengthens the research in frontier disciplines, and encourages
+disciplinary cross, integration and infiltration, especially the intersection of earth sciences and other
+disciplines; maintains the international status of dominant disciplines and fields in China; supports
+the development of sub-disciplines closely related to experiment, observation, data integration and
+simulation. Pay attention to the accumulation of research work while advocating innovative
+research. For the General Program proposal applying for continued support, which have had a good
+accumulation in previous studies and a high-quality completion of recent research, preferential
+support will be given under the same conditions. Applicants are required to address the relation
+between the proposed research work and their accomplished programs. Based on the exploratory,
+unpredictable, and long-term characteristics of basic research, general program encourages
+scientists to face the most challenging scientific issues and actively carry out exploratory research.
+One of the most important goals of the NSFC is to nurture and support excellent young
+scientist continuously and steadily. The Young Scientists Fund mainly plays the role of
+“cultivation”, shifts the funding focus forward, and provides timely funding for early-career young
+scholars who are about to independently carry out basic scientific research. The Young Scientist
+Fund supports them in the critical period of the individual development to help them grow up as
+quickly as possible.
+In 2020, the Department received 8,678 General Program applications with 851 applicant
+institutions in total; of these, 2,000 were funded with a funding cost (direct cost, and hereinafter) of
+1,162.76 million yuan in total and 581,400 yuan in average, and the average funding rate is 23.05%.
+Among the funded projects in 2020, 1,315 (65.75%) were from colleges and universities, and 664
+(33.20%) were from scientific institutes. The PIs of 1,511 projects (75.55%) were under 45 years
+old. There were 131 inter-department and 268 interdisciplinary projects funded. The average
+funding cost for General Programs in 2021 is expected to keep the same as that in 2020.
+In 2020, the Department received 8,321 Young Scientist Fund applications with 1,031
+applicant institutions in total; of these, 5,431 (65.27%) were from colleges and universities, and
+2,536 (30.48%) were from scientific institutes. 1,730 were funded with a funding cost of 411,12
+million yuan in total and 237,600 yuan in average, and the average funding rate is 20.79%. Among
+the funded projects in 2020, 1,145 (66.18%) were from colleges and universities, and 553 were
+applied from scientific institutes.
+In 2020, the Department received 1,301 Fund for Less Developed Regions applications with
+168 applicant institutions in total; of these, 1,156 (88.85%) were from colleges and universities,
+and 107 (8.22%) were from scientific institutes. 204 were funded with a direct cost of 72,12 million
+yuan in total and 353,500 yuan in average, and the average funding rate is 15.68%. Among the
+funded projects in 2020, 187 (91.67%) were applied from colleges and universities, and 11 (5.39%)
+were applied from scientific institutes. The average funding cost for fund for Less Developed
+Regions in 2021 is expected to keep the same as that in 2020.
+Notes:
+(1) In 2021, the Department will carry out a new trial system of two-grade
+application code. Please carefully read the application code list and the
+instruction in this Guide, and select the application code well matched the content
+of the application. The filled-in application code should generally be refined to the
+secondary application code.
+(2) Please carefully read and abide by the requirements of scientific integrity
+Funding Scope and Instructions
+53
+in this Guide. Do not list academic papers at the submission stage in the
+application.
+(3) The application to the Department of Earth Sciences involving ethics
+should refer to the related regulations of the Department of Life Sciences and the
+Department of Health Sciences in this Guide.
+Funding in Department of Earth Sciences in 2020
+Unit: 10,000 yuan
+Division
+General Program Young Scientists Fund Fund for Less Development
+Regions
+Projects Direct
+cost
+Success
+rate (%) Projects Direct
+cost
+Success
+rate (%) Projects Direct
+cost
+Success
+rate (%)
+I Geography 455 25,156 21.98 417 9,992 20.81 77 2,695 15.75
+II
+Geology 345 21,131 24.50 311 7,392 20.79 21 735 15.22
+Geochemistry 82 5,000 24.19 67 1,520 20.94 9 315 15.52
+III
+Geophysics
+and Space
+Physics
+226 13,379 25.68 158 3,728 20.82 9 315 15.25
+Environmental
+Geoscience 456 26,108 21.12 433 10,280 20.79 70 2,522 15.73
+IV Marine
+Science 243 14,250 23.55 200 4,760 20.75 7 245 15.91
+V Atmospheric
+Science 193 11,252 24.43 144 3,440 20.72 11 385 16.18
+Total or average 2,000 116,276 23.05 1,730 41,112 20.79 204 7,212 15.68
+Direct cost per project 58.14 — 35.35
+Division I of Earth Sciences
+Geography (D01)
+Funding of this Discipline is available for research on geography science. This mainly
+includes Physical Geography (i.e., D0101 Geomorphology, D0102 Hydrology and Climatology,
+D0103 Biogeography and Soil Geography, D0104 Environmental Geography and Disaster
+Geography, D0105 Landscape Geography and Integrated Physical Geography, D0106 Cryospheric
+Science, D0107 Geographical Environmental Change and Civilization Evolution), Human
+Geography (i.e., D0108 Economic Geography, D0109 Urban Geography and Rural Geography,
+D0110 Human Geography, D0111 Land Science and Natural Resource Management, D0112
+Regional Sustainable Development), Geographic Information Science (i.e., D0113 Remote Sensing,
+D0114 Geographic Information Science, D0115 Cartography and Geodesy, D0116 Geographic Big
+Data and Spatial Intelligence), and approaches and tools for observations, simulation and analysis
+in Geographical Science (i.e., D0117 Geographical Observation and Simulation Technology).
+The geography science focuses on the spatial distribution, temporal evolution and regional
+features of the physical and human elements, geographical information and geocomplexes.
+The object of the geography science research is the earth surface system, which is formed
+from the interactions and interpenetrations of the lithosphere, hydrosphere, atmosphere, biosphere,
+cryosphere, and anthroposphere. The earth surface system (also known as the
+“water-soil-air-biology-human” complex) should be considered in its entirety in the geography
+National Natural Science Fund Guide to Programs 2021
+54
+science research.
+The core of the geography science is the interrelationships between human and nature, and
+their interaction mechanisms in the earth surface system. Owing to the comprehensive,
+intersectional, and regional characteristics, the geography science must be studied systematically
+and comprehensively from the spatio-temporal scale-dependent multi-dimensional and dynamic
+perspectives.
+This Discipline encourages the applications of comprehensive, exploratory, and prospective
+projects, urges the earth surface process research using the theories, methods and technologies of
+mathematics, physics, chemistry, biology, and information science, and promotes interdisciplinary
+frontier research on national priorities such as “Ecological Civilization Construction”, “The Belt
+and Road Initiative”, and “Rural Revitalization”.
+In response to the changes in the scientific research paradigm caused by the big data and
+artificial intelligence, the Discipline encourages the research on the geographical intelligence
+theories, methods and technologies combining big data, artificial intelligence and geographical
+issues, aiming to enhance our understanding and prediction capabilities of geographical issues and
+to establish the scientific paradigm and technology system for the spatio-temporal big data analysis.
+In front of the frontier sciences such as comprehensive research on terrestrial surface system,
+global change and sustainable development, the Discipline encourages to focus on the development,
+reuse and integration of the geographical observation technologies and simulation methods, and
+promotes the construction of the scientific research facilities such as the comprehensive
+geographical modeling and simulation systems, and the decision support system for sustainable
+development, realizing the integration of the geographical data, geographical mechanism,
+geographical pattern, and geographic decision-making.
+Division II of Earth Sciences
+Geology (D02)
+Geology is the discipline studying the composition, structure, and evolution of the Earth
+(planets). Geology aims to disclose the structure and composition of the Earth, to explain the
+mechanism controlling the transition of Earth materials, to elucidate the Earth’s environment and
+life evolution recorded in these materials, to reveal the agents and processes which modify the
+Earth’s surface, to apply the knowledge of geology to explore the utilizable energy, mineral and
+water resources, to uncover the relationship between geological processes, life evolution and
+human activities, to protect the Earth environment, and to prevent (or give early warning) and
+mitigate geo-hazards.
+The development of geology is based on the advancement of the fundamental theory and
+technology. The theory of plate tectonic has brought about revolutionary changes to the
+understanding of the Earth. The disclosure of the complexity of continental dynamics and the
+tectonic schemes predating the plate systems are raising new themes for the advancement of plate
+tectonic theory. Due to the emerging new framework of Earth system science, the correlation
+between deep processes and surface impacts of the Earth has become the frontier for geological
+sciences. The enhancement of abilities to obtain and to analyze data has become a major driving
+force for promoting the development of geological sciences. The implementation of high precision,
+in-situ and real-time analytical methods for the composition and structure of Earth materials has
+enhanced the capability to constrain the composition and evolution of the Earth. The developments
+of geophysical exploration, space-based observation, and geological drilling technology had
+Funding Scope and Instructions
+55
+increased the integrity and accuracy of understanding of the Earth’s structure. New high-tech
+approaches such as information systems, the internet of things and photoelectron technology have
+helped to realize real-time monitoring of crustal movements, earthquakes, and volcanic activities.
+The reproduction and prediction of important geological processes have been made possible
+through the development of computer simulation and high-temperature/high-pressure experiments.
+This geological program encourages basic researches on fundamental theory based on field
+and site observations by using the abundant materials and data recently acquired and accumulated
+by geology-related agencies and institutions. Multidisciplinary approaches, such as the application
+of theory, technology and methodology of mathematics, physics, chemistry, bioscience, and
+computer science, are encouraged to study geological issues. International collaborations are also
+advocated for promoting geological researches and theory advancement with a global scientific
+view.
+Geochemistry (D03)
+Geochemistry is the science to investigate the chemical compositions, evolutionary
+processes, and interaction of different spheres of the Earth, and the distribution, state, migration,
+transformation, cycle, and fate of the substances of the Earth surface system affected by
+anthropogenic and natural forcing, both in modern times and in Earth’s history. It is based on the
+principles of element geochemistry and isotope geochemistry, and makes use of the tools of modern
+analytical techniques, theoretical calculations, and experimental simulations.
+Specifically, the research fields of geochemistry include the processes, mechanisms, impacts
+and regulations of the chemical compositions, chemical reaction and chemical evolution of celestial
+bodies (planets), rocks, sediments, soil, waters, atmosphere, ore bodies, oil and gas, living
+organisms, volatiles in Earth’s interior and surface, etc.
+The characteristics of modern geochemistry studies include: (1) In the field of research
+methods and techniques, dynamically quantitative simulation has gradually replaced statically
+qualitative descriptions. The advantages of in-situ micro-analytical techniques and high
+temperature and high-pressure experiments have been valued. The rule of four-dimensional
+time-space evolution has been emphasized. The development and application of new isotopic
+systems have been paid great attention. Combined with new methods of big data and artificial
+intelligence, the multi-dimensional information of geochemical data is deeply mined. (2) In the
+field of solid geochemistry, the research topics have expanded from the chemical composition,
+structures, and reactions of the materials in Earth’s interior to the interactions of different Earth’s
+layers and the corresponding effects of resources and environment. The relationship between these
+interactions and plate tectonics and global change has drawn much attention. The research objects
+have expanded from the Earth itself to celestial bodies and other cosmic materials. (3) In the field
+of Earth surface system geochemistry, it pays attention not only to the reconstruction of geologic
+events on long time scales, but also to the descriptions of physical, chemical, and biological
+processes on short time scales and the prediction and simulation of environment changes in the
+future.
+Geochemistry is not only a basic discipline to cognize the Earth and the universe, but also
+an applied discipline to solve the problems faced by human to survive and develop, such as natural
+resources, ecological environment, and geologic hazards. A new application code scheme of
+geochemical discipline has been proposed in 2020, which has a framework comprising three layers:
+fundamental theories, analytical techniques, and applications. The objectives of optimizing the
+codes within the applications area are to develop a theoretical system, expand applications and
+enhance the use of geochemistry for national needs, in order to achieve “in line with the internal
+logic and structure of knowledge system, realize the unity of knowledge level and application
+National Natural Science Fund Guide to Programs 2021
+56
+field”.
+Division III of Earth Sciences
+Geophysics and Space Physics (D04)
+Geophysics, space physics, and geodesy are disciplines which are based on the theories and
+methods of physics and related disciplines, and combine observation and experimental means, to
+understand the basic laws of the space structure and evolution of the Earth and planets, to explore
+the internal resources of the Earth and planets, and to reveal the characteristics of the Earth and
+space environment, and draw out the variation of human livable residential environment.
+Geophysics, through direct observation and experimental and theoretical studies on the basic
+geophysical fields of the Earth and planets, is to reveal the internal structures of the Earth and
+planets and their components and dynamic processes, to effectively understand the mechanism of
+earthquake and geological disasters and mineralization and accumulation, to develop the
+foundation of new methods and technologies of geophysical data collection, processing, inversion
+and interpretation, to provide theoretical and scientific support for resource exploration,
+engineering exploration, disaster prevention and reduction.
+Space physics is based on space borne or ground-based detection and experiment,
+theoretical research, and numerical simulation, to reveal physical phenomena and their variation
+laws of upper atmosphere, ionosphere, magnetosphere of the Earth and planets, and interactions of
+solar atmosphere, heliosphere, and interplanetary space, to provide scientific support for astronautic
+activities, communication, and navigation.
+Geodesy, through the study of geodetic theory, with the help of space and ground geometry
+and physical quantity observation, is to determine the precise location of the surface of the earth
+and its outer space point, to accurately measure the geometry and deformation filed and gravity
+field, the motion state of mobile carrier and the shape and deformation of large buildings
+(structures), to provide space datum, elevation datum, gravity datum and time datum guarantee for
+the national economy and national defense.
+Geophysics and space physics attach importance to basic theoretical research, experiment,
+and observation. According to the development trend of earth science and space science, encourage
+will be focused on core scientific issues of deep earth, deep sea, deep space, and the Earth system
+(“three deep and one system”), more efforts will be given to new growth and pioneering studies, as
+well as the deep cross integration with other disciplines. In order to provide technical support for
+the development of earth science and space science, attention will be given to develop new
+technologies and methods and detection instruments.
+Environmental Geosciences (D07)
+With the rapid development of the economy and society, environmental problems including
+shortage of water and land resources, aggravation of environmental pollution, degradation of
+ecosystems, and frequent occurrence of disasters are becoming more and more severe and
+threatening the ecosystem and sustainable development of human society. The goal of developing
+research in environmental geosciences is to solve various environmental problems in a scientific
+way.
+Environmental geosciences is the subject that studies the Earth’s surface system. Based on
+the principles of geological and environmental sciences, interdisciplinary approaches are often
+adopted to investigate the pedosphere, the hydrosphere, the surface lithosphere, the atmosphere,
+Funding Scope and Instructions
+57
+and the biosphere; and to investigate their interactions including physical, chemical, and biological
+processes and the coupling mechanisms. The subject is also to reveal the changes of geological
+environment and the rules of the occurrence and development of geohazards, to establish the
+systematic methodology for risk assessment, control and management, to investigate the regional
+environmental quality, to predict and respond to environmental changes, to reveal the
+multiphase/interphase behaviors and effects of pollutants and the underlying mechanisms, to
+determine environmental baseline and elucidate fundamental scientific questions regarding
+environmental restoration and ecosystem rehabilitation.
+According to the NSFC’s guidance on the subject reformation and optimization to deal with
+the challenges from the developments of theories, technologies and subject paradigm, the codes for
+application are adjusted, and the subject structure is established, including four fundamental
+subjects, i.e., soil science, environmental water science, environmental atmosphere science and
+environmental biology; four interdisciplinary subjects, i.e., engineering geoenvironment and
+geohazard, environmental geology, environmental geochemistry, and ecotoxicology; four
+cutting-edge areas, i.e., environmental behaviors and effects of pollutants, environmental and
+health risks, quaternary environments, and environmental information and forecast. New
+technologies and methodologies are pivotal supports for the development of the Environmental
+Geosciences. Regional environmental quality/safety and environmental protection/sustainability are
+the primary national needs and interests. Due to the large number of applications under Soil
+Science and to advance the subject development, the second order of application codes are further
+divided into three categories, i.e., fundamental soil science, soil fertility and erosion, and
+environmental soil science. Based on the features and advantages that serve the national interests,
+the Discipline focuses on environmental studies relevant to pollution, ecology, hazards, and health.
+For national strategic interests, the discipline encourages novel, interdisciplinary, and
+cutting-edge researches to answer fundamental scientific questions; encourages new theories, ideas,
+methodologies, and technologies for innovative application and to nurse the growth of the subject;
+encourages scientific researches focusing on sustainable and habitable Earth system, which lead to
+major breakthroughs and enable the flourish of the discipline.
+Division IV of Earth Sciences
+Marine Science (D06)
+The scope of funding includes marine science and polar science.
+Marine science is a knowledge system that studies the natural phenomena and changing
+rules of the ocean and its interaction with atmosphere, lithosphere, biosphere, pedosphere, and
+cryosphere, as well as the development, utilization, and protection of the ocean. It is a
+comprehensive discipline including both the study of the Earth’s natural processes (e.g., physical,
+chemical, biological, and geological processes) and the study of marine social attributes (e.g.,
+resources, environment, economy, national defense, culture, international relations, etc.).
+Meanwhile, marine science is increasingly integrated with marine engineering technology and
+marine space development and utilization. It has to be recognized that marine science has multiple
+attributes such as science, technology, and sociology, and there is an increasingly trend of
+large-span cross-discipline study guided by basic scientific issues. However, there is still
+insufficient attention to the comprehensive characteristics of marine science. It is urgent to
+strengthen the interdisciplinary research and to improve the cognitive level of marine science.
+Marine science is a data-intensive discipline based on observations, and the promotion of its
+National Natural Science Fund Guide to Programs 2021
+58
+academic thoughts and research abilities depends on long-term observation and data accumulation.
+To meet the demands of research projects in ocean observation, NSFC implemented the Ship-time
+Sharing Project (NSFC Open Research Cruise, NORC). For those applications that require field
+sampling and observations, they need elaborate the cruise plan and observation content during the
+project implementation and combined with the technical route in the proposal. The guidelines for
+the Ship-time Sharing Project will be announced separately, and please pay close attention to the
+relevant notice from the Department.
+Polar science is a discipline studying various natural phenomena, including the processes
+and changing rules peculiarly in polar region, as well as its interaction with other components of
+the earth system. It includes polar space, polar weather and climate, polar ocean, polar ecosystem,
+polar biogeochemical process, polar resources, polar cryosphere, polar solid earth, polar
+observation and detection technology, polar engineering and environment, relationship of
+environment change among the three polars of the earth, and polar protection and utilization. The
+development of polar science would deepen the understanding of the interaction of the earth’s
+sphere and enhance the ability of polar protection and utilization.
+For the past few years, polar science in China has been facing important development
+opportunities; meanwhile significant progress has been achieved in international polar research.
+However, it is still the weakest area in earth science. Aiming at the key scientific issues of current
+global change and sustainable development, the main development trend of earth science is to focus
+on the integrated research for the characteristics and interactions of the different spheres of the
+earth system, as well as the interactions between the polar and other regions on the Earth.
+In order to promote the research level of marine and polar sciences in China as well as to
+achieve continuous support and leadership of cutting-edge research in marine and polar science, it
+is necessary to improve the scientific funding structure, and expand cross-disciplinary integration,
+as well as promote the building of research talents. It is encouraged that carrying out marine and
+polar research with coupled nature and social scientific aspects. To deepen the understanding of the
+Earth system, we need integrate the researches of earth process and the resource and environmental
+effects. It is necessary to provide stable and reliable support for the major research subjects of
+marine and polar science and accelerate sharing the information and data of marine scientific
+investigation. The research aspects include physical, chemical, biological, ecological, and
+geological processes of the oceans and polar regions; interaction between marine systems and
+climate change; interaction between human activities and marine space utilization; environmental
+protection of marine and polar regions; processes of marine disaster and its prevention and
+mitigation; formation, evolution, development and utilization of marine energy resources;
+ecological security and sustainability of marine biological resources; environmental protection of
+marine and polar region, land and sea coordination and global sustainable development; remote
+sensing and information sciences; observation and detection technology; marine and polar
+engineering and its environmental effects.
+Division V of Earth Sciences
+Atmospheric Science (D05)
+The scope of funding: meteorology, atmospheric physics, atmospheric chemistry and the
+atmospheric environment, and other branch disciplines, as well as their corresponding supporting
+technologies and development fields.
+Atmospheric science is the study of various phenomena and their changes in Earth’s
+Funding Scope and Instructions
+59
+atmosphere and other planets’ atmospheres so as to serve the mankind. The atmosphere is one of
+the most active spheres of the Earth system. Its changes are affected and controlled by other
+spheres of the system and celestial bodies such as the Sun. At the same time, changes in the
+atmosphere can directly or indirectly impact oceans, the terrestrial surface, the cryosphere, as well
+as the ecosystem of the Earth. The atmosphere plays an important role in the interactions among
+different spheres of the Earth system and regulates the functions of the Earth system and its
+interactions with the other spheres. Besides studying dynamical, physical, chemical, and biological
+processes within the atmosphere, atmospheric science currently involves comprehensive
+investigations into the mechanisms underlying atmospheric variations and their interactions with
+the hydrosphere, lithosphere, cryosphere, biosphere, human activities, and global climate; the
+regularity of weather, the climate system and theories of climate change and its prediction and
+projection methods; technologies and measures affecting weather and climate; the impact of human
+activities on weather, climate, and environmental systems; and the impact of weather, climate, and
+environmental system changes on human society. Attention should also be paid to studying the
+occurrence, variation, mechanisms, and predictions of various disastrous events of weather, climate,
+and the environment; studying the issues of global climate and environmental changes and their
+impacts, adaptation, and mitigation; comprehensive understanding, integration, systematic
+observation and modeling of various processes; and interdisciplinary studies which could lay the
+scientific foundation for improving the quality of life and the sustainable development of society.
+In 2021, the Atmospheric Division will continue to solicit proposals for exploratory, original
+and frontier studies in the following areas: the various phenomena, processes, and mechanisms of
+the atmosphere, and physical, chemical, and biological processes taking place in the atmosphere,
+and exchanges and interactions of energy and momentum between the atmosphere and other
+spheres by applying novel ideas, methods, and advanced observation technologies to study synoptic
+meteorology, climatology, atmospheric dynamics, hydrometeorology, atmospheric physics,
+atmospheric chemistry, the atmospheric environment, atmospheric in situ observations and remote
+sensing, the boundary layer, stratosphere, and mesosphere; climate change, extreme weather and
+major climatic events; new theories and methods for weather forecasting, climate prediction,
+assessment of various complex disasters; new theories and methods for numerical modeling and
+data assimilation; basic research on satellite and radar meteorology; analysis and applied studies on
+the data acquired from major scientific experiments and scientific initiatives that have been
+conducted and ongoing ones, as well as from large observation networks established in China and
+around the world; the principles and methods of meteorological observation, development of
+meteorological instruments, data analysis, and applications; interdisciplinary studies of such key
+national interests as defense, agriculture, energy, transportation, forestry, hydrology, health,
+economy, ecology, among others, as well as national strategic needs such as the Belt and Road
+Initiatives and support of major engineering projects, serving the livelihood and sustainable
+development of society.
+“D0509 Atmospheric Observation Techniques”, “D0510 Atmospheric Data and
+Information Techniques”, “D0511 Atmospheric Numerical Model Development”, and “D0512
+Earth System Model Development” are suitable for the research of new technologies and
+methods in the field of atmospheric science. The project application based on the existing
+technology for theory and application research is not suitable for selecting such application
+codes
