@@ -1,0 +1,2 @@
+country	funding_body	url_source	API	date	collected_by	file_path	description
+UK	UKRI	https://gtr.ukri.org/search/project?term=*	NA	27/06/2022	Flavia	UK/UKRI_general.csv	"csv file directly downloaded from url with info on research concil, project ID(used to collect data with the API), title, university, value in pounds, etc. "

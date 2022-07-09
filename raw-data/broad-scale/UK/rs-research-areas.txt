@@ -1,0 +1,154 @@
+Subject Group   Subject Area
+Computer Science    Systems, including networking 
+Artificial intelligence 
+Machine learning 
+Vision 
+Databases 
+Programming languages and verification 
+Numerical computing 
+Human-computer interaction 
+New computational paradigms (quantum, biological) 
+Security and privacy 
+Pure and Applied Mathematics 
+    Mechanics (Theoretical and Applied) 
+Applied Mathematics and Theoretical Physics 
+Pure Mathematics 
+Statistics and Operational Research 
+Astronomy and Physics 
+Theoretical Physics 
+Applied Physics     Astronomy 
+Astrophysics 
+Biophysics 
+Computational Physics 
+Condensed Matter (incl. soft matter, liquids and nano-materials) 
+Cosmic Radiation 
+Cosmology 
+Crystallography 
+Elementary Particle Physics 
+Gravitation 
+Interstellar Medium 
+Lasers and Optoelectronics 
+Low Temperature Physics 
+Magnetism 
+Mathematical and Theoretical Physics 
+Mathematical Astronomy 
+Mathematical Astrophysics 
+Mathematical Cosmology 
+Mathematical Gravitation 
+Nuclear Atomic and Molecular Physics 
+Planetary Science 
+Plasma Physics 
+Quantum Theory 
+Semi-conductors 
+Solar Physics 
+Statistical 
+Physics (Applied) 
+Physics (Experimental) 
+Chemistry 
+Applied Chemistry 
+Theoretical Chemistry 
+    Chemistry, general 
+Chemistry, organic 
+Chemistry, inorganic 
+Chemistry, physical 
+Chemistry, applied 
+Chemistry, theoretical 
+Chemistry, biological 
+Chemistry, materials 
+Engineering 
+Technology 
+Instrumentation 
+Material Science 
+Experimental Fluid Dynamics 
+    General Engineering 
+Civil Engineering 
+Structural Engineering 
+Environmental Engineering 
+Mechanical Engineering 
+Chemical Engineering 
+Aeronautical Engineering 
+Electrical Engineering 
+Electronics 
+Opto-electronics (incl. lasers, optical microscopy, optical imaging, fibre optic components and optical computing devices) 
+Semi-conductors 
+Space Technology 
+Communications (incl. information theory) 
+Computer engineering (incl. software) 
+Control (incl. robotics) 
+Medical 
+Nuclear Technology 
+Fluid Dynamics 
+Materials Science (incl. materials engineering) 
+Instrumentation 
+Electric Power 
+Earth Sciences 
+Environmental Physical Sciences 
+    Archaeology 
+Mineralogy 
+Physical Geography 
+Atmospheric Physics and Meteorology 
+Atmospheric Chemistry 
+Climate Science 
+Hydrology 
+Physical Oceanography 
+Chemical Oceanography 
+Limnology 
+Geology 
+Geodesy 
+Geochemistry 
+Geophysics 
+Seismology 
+Biochemistry 
+Structural Biology 
+Molecular Cell Biology 
+    Biochemistry and Molecular Biology 
+Biophysics and Structural Biology 
+Molecular Immunology 
+Molecular Microbiology 
+Cell Biology (incl. molecular cell biology) 
+Developmental Biology 
+Genetics (excl. population genetics) 
+Immunology 
+Microbiology (excl. medical microbiology) 
+    Developmental Biology 
+General Microbiology (incl. bacteriology and virology) 
+Cellular and Humoral Immunology 
+Cellular Pathology 
+Genetics (excl. population genetics) 
+Cytogenetics 
+Immunology 
+Epidemiology (non-clinical) 
+Anatomy 
+Physiology 
+Neurosciences 
+    Animal and Human Physiology, and Anatomy 
+Physiology and Medicine (non-clinical) 
+Pharmacology (non-clinical) 
+Physiology (non-clinical, incl. biophysics of cells) 
+Endocrinology and Reproduction (non-clinical) 
+Experimental Psychology 
+Behavioral Neuroscience 
+Development and Control of Behaviour 
+Cellular Neuroscience               
+Organismal Biology 
+Evolutionary and Ecological Science (incl. soils and agriculture) 
+    Organismal animal biology (incl. invertebrate and vertebrate zoology) 
+Plant Sciences/Botany 
+Ethology 
+Evolution 
+Ecology (incl. behavioural ecology) 
+Taxonomy and Systematics 
+Population Genetics 
+Agricultural Science 
+Environmental Biology 
+Biological Modelling 
+Biological Statistics 
+Soil Science 
+Entomology 
+Paleozoology 
+Parasitology 
+Health and Human Sciences   Molecular Medicine 
+Medical Microbiology 
+Nutrition 
+Medical Statistics and Demography 
+Medical Instrumentation

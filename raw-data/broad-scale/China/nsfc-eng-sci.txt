@@ -1,0 +1,673 @@
+Department of Engineering and Materials Sciences
+Engineering and materials sciences deliver scientific and technical supports to national
+security, the sustainable development of the society and economy, and the improvement of people’s
+living standard. Aiming at cutting-edge areas and meeting the national strategic demands of social
+and economic development, and starting from the organic combination of national goal orientation
+and frontier exploration, the Department promotes the combination of basic research and its
+engineering application, strengthens original innovation, commits to discoveries, inventions and
+innovations, enhances the sustainable development of interdisciplinary integration, in order to
+achieve a higher level of sustainable development and broad international impact in the field of
+engineering and materials.
+In 2020, under the work guideline of “feature first, appropriate size, dynamic optimization,
+serving the management”, the Department adjusted its discipline layout and optimized the
+application codes, wherein the third-level application codes were cancelled. The application codes
+were then optimized, in the hope that through the integration of funding fields, the features and
+developing patterns of engineering and materials sciences can be fully appreciated, so as to
+promote the cross-integration of disciplines, to realize the organic integration of the discipline
+frontiers and the major national needs, to elevate the scientific funding management level and the
+funding productivity, to promote the high-quality development of basic research in engineering
+science and materials science.
+In 2020, the Department received 20,740 General Program proposals, increased by 15.91%,
+and among them 3,309 were supported with a total direct cost of 1,923,980,000 yuan. The average
+direct cost is 581,400 yuan per project and the success rate is 15.95% (18.23% in 2019).
+In 2020, the Department received 18,771 Young Scientists Fund proposals, increased by
+14.04%, and among them 3,127 were supported with a total direct cost of 745,600,000 yuan. The
+average direct cost is 238,400 yuan per project and the success rate is 16.66% (18.96% in 2019).
+In 2020, the Department received 2,703 proposals for the Fund for Less Developed Regions,
+increased by 2.43%, and among them 393 were supported with a total direct cost of 137,500,000
+yuan. The average direct cost is 349,900 yuan per project and the success rate is 14.54% (13.04%
+in 2019).
+In 2021, the Department will continue to optimize the discipline layout on the basis of
+summarization and optimization of the pilot work of application code adjusting. The applications
+will be regulated according to the adjusted architecture of “application code”, “research direction”
+and “key words”, therefore the applicants should carefully check the corresponding application
+code and select the appropriate secondary application code. The Department encourages
+interdisciplinary and cutting-edge researches, especially the original innovation researches which
+focus on extracting critic scientific issues and condense basic research content from the practice of
+engineering applications, with such great significance and relevance of our country’s conditions
+that industrial development could be promoted and international competitiveness could be raised.
+Priority is given to researches with important scientific research value and potential application
+prospects, and potentials of being new knowledge growth points, and to researches that can lead the
+development of disciplines, and have the potential to obtain independent intellectual properties
+suitable for national conditions. The Department will further strengthen the construction of
+academic discipline and create a good academic ecological environment.
+Attention:
+(1) In accordance with the NSFC requirements for the application code adjustment, the
+application code published by the Department contains only the first- and second-level application
+Funding Scope and Instructions
+61
+code, wherein the third-level application code was cancelled (i.e., the original six-digit application
+code). Applicants should carefully read the relevant instructions and be aware of the scope of
+funding, accurately select an appropriate secondary application code and the corresponding
+research direction and keywords.
+(2) The applicants have the obligation to ensure the accuracy and completeness of all
+information in the application. Attention should be paid to correctly fill in the personal information
+of the applicants and other main participants, history of received project funding and academic
+paper publications. In particular, when filling in the representative works, the applicants must
+comply with the instruction and writing outline of the application form, and refer to the scientific
+integrity requirements in the application rules of this guide. The department will strictly review the
+representative works provided in the proposals by the applicants, and any items with falsely marked
+information will be dealt according to the severity of the problem.
+(3) Interdisciplinary researches will be encouraged so as to promote the progress of the cross
+disciplines involved. Applicants should put forward new conceptions and ideas as creative as
+possible with specific scientific issues.
+Funding in Department of Engineering and Materials Sciences in 2020
+Unit: 10,000 yuan
+Divisions
+General Program Young Scientists Fund Fund for Less Developed
+Regions
+Projects Direct
+Cost
+Success
+rate (%) Projects Direct
+Cost
+Success
+rate (%) Projects Direct
+Cost
+Success
+rate (%)
+Metallic materials 240 13,935 16.43 246 5,864 16.27 40 1,388 14.08
+Inorganic
+nonmetallic
+materials
+316 18,407 16.67 333 7,936 17.26 38 1,337 14.67
+Organic polymer
+materials 222 12,957 16.91 241 5,720 17.17 21 746 15.33
+Mining and
+metallurgy
+engineering
+366 21,296 15.60 343 8,176 16.66 49 1,720 14.85
+Mechanic design
+and manufacture 561 32,550 16.23 523 12,512 16.99 66 2,297 14.32
+Engineering
+thermophysics and
+energy utilization
+219 12,739 16.29 250 5,968 16.73 17 597 17.17
+Electrical science
+and engineering 223 13,000 15.65 200 4,712 16.22 21 743 14.79
+Architecture and
+civil engineering 509 29,537 15.47 414 9,888 16.56 68 2,371 13.71
+Hydraulic
+engineering 151 8,780 15.73 149 3,552 17.17 29 1,025 14.65
+Environmental
+engineering 196 11,390 16.18 187 4,472 15.73 23 790 15.03
+Ocean engineering 110 6,415 13.65 94 2,256 15.14 2 71 13.33
+Traffic and
+transportation
+engineering
+102 5,916 15.96 81 1,944 16.60 10 350 15.15
+New concept and
+general science of
+materials
+94 5,476 15.88 66 1,560 16.71 9 315 14.29
+Total or average 3,309 192,398 15.95 3 127 74,560 16.66 393 13,750 14.54
+Direct cost per
+project 58.14 — 34.99
+National Natural Science Fund Guide to Programs 2021
+62
+(4) The fundamentality and innovation should be fully discussed in proposals. Applicants
+should pay attention to proposing key scientific issues, concentrating research contents and
+highlighting research focus. For different types of projects, please refer to the relevant project
+administrative policies, and put forward proposals according to the requirements.
+(5) Applicants are required to provide the research achievements of the previous completed
+project(s), and list the scientific papers published in domestic or foreign academic journals. The
+provided information must be objective and accurate; otherwise it will be treated as a research
+integrity issue.
+(6) Please refer to the funding amount of different projects, and put forward proposals with a
+reasonable budget plan according to actual demands of various expenses.
+Metallic Materials (E01)
+The Discipline supports fundamental researches on metallic materials. Research proposals
+should present the merits of the proposed fundamental research clearly, including clear objectives
+and scientific significance of the project, and the suitability of the methods to be employed.
+Proposals should target either to advance the materials science in cutting-edge areas or to promote
+development in the relevant areas that meet the national demands.
+The funding scope of the Discipline covers compositions, microstructures, phases, surfaces and
+interfaces, scales effect, impurities and defects in metals, alloys, metal matrix composites, inter
+metallic compounds, metal-like materials and metamaterials, and their influence on mechanical,
+physical and chemical properties and performance; theories, calculation methods, modern analysis
+and testing techniques, big data and artificial intelligence analysis methods of material research;
+basic issues in the preparation and processing of metallic materials, including melt composition
+control, solidification and crystal growth, casting, heat treatment, forging, welding, forming,
+additive manufacturing and powder metallurgy; service behaviors such as corrosion and protection,
+friction and wear, fatigue and fracture, creep; the interaction between materials and service
+environment, functional degradation and failure, recycling mechanism and related basis; the
+behavior of metals under extreme conditions such as irradiation, high temperature, high pressure,
+high strain rate, strong electric field and magnetic field; the microstructure, structure and properties
+of metal surface; surface modification and coating; strengthening and toughening, deformation and
+fracture of metals; mechanical and functional properties and structural design of metal matrix
+composites; mechanical and functional characteristics, interaction mechanism of material and
+structure, matching optimization design, preparation and processing of structural-functional
+integrated materials; metallic amorphous, quasicrystal and metastable materials; low dimensional
+metallic materials; optical, electrical, magnetic, acoustic and thermal functional metallic materials;
+energy, environmental and catalytic materials; metallic materials used in information generation,
+transmission and storage, conversion and processing; biological, intelligent and bionic materials.
+It is encouraged to concentrate on common key scientific issues beyond materials systems.
+Researchers should pay attention not only to the frontiers and the hot areas, but also new
+understandings of the basic scientific problems in traditional materials. Applications with a
+cross-disciplinary background should focus on issues within the funding spectrum of the
+Discipline
+Inorganic non-metallic materials (E02)
+The Discipline supports fundamental researches with various inorganic non-metallic
+materials as the main research subject. Along with the development of the basic theory of materials
+and the innovation in preparation technologies, new inorganic non-metallic materials continue to
+emerge, including two-dimensional materials, smart materials, biomaterials, and new energy
+Funding Scope and Instructions
+63
+materials, etc. The researches on inorganic non-metallic materials are becoming more and more
+active. At present, in the researches of inorganic non-metallic materials, functional materials are
+developing in the direction of high performance, high reliability, high sensitivity, smartness, and
+functional integration; and structural materials are improving in respect of strength and toughness,
+functionalization, extreme environment endurance, eco-friendly preparation, and high reliability.
+While developing new materials, conventional inorganic non-metallic materials are constantly
+being remolded, upgraded, and developed as well. More and more attentions have been given to the
+applications of inorganic non-metallic materials in various engineering sciences and technologies
+including information technology, life science, energy and environmental science, aerospace
+technology, and so on.
+According to the proposals submitted in the past 3 years, the researches on inorganic
+non-metallic materials involve various areas with a broad interdisciplinary range. Among the
+proposals, the researches on functional materials accounted for 67.8%, which was the most active
+field, forming many subject hotspots including energy conversion and storage materials,
+semiconductor and information functional materials, low-dimensional carbon and two-dimensional
+materials, multiferroic and lead-free piezoelectric materials, biomedical materials, and so on.
+Among them, the proposals on energy conversion and storage materials (about 26.3% of the total in
+the year 2020) ranked above all the others. The proposals in the field of structural materials were
+relatively concentrated among some institutions, and the corresponding proposals accounted for
+32.2% of the total. There were also a large number of proposals for composite materials based on
+inorganic non-metallic materials, among which the number of the proposals on functional
+composite materials has increased compared with the past. However, in terms of the quality, quite a
+number of them were of follow-up, low-level repetition, lack of innovation ideas and features.
+This Discipline supports the research projects with innovative ideas, as well as substantive
+interdisciplinary researches of inorganic non-metallic materials cross-cutting with other related
+disciplines. The Discipline encourages and supports the following areas: exploration of new
+inorganic non-metallic material systems based on domestic resource status; researches on
+preparation sciences and new technologies, new theories, new effects, new characterization
+technologies and methods for inorganic non-metallic materials; applied basic researches on novel
+inorganic functional materials and smartness materials, advanced structural materials, photoelectric
+information functional materials, low-dimensional carbon and two-dimensional materials,
+biomedical materials, new energy materials, ecological and sustainable environment materials, etc.;
+researches on the surface, interface, and composite design of materials; basic researches on
+“structure-function” integrated composite materials; and applied basic researches on the
+improvement and remolding of conventional inorganic non-metallic materials using new theories,
+new techniques, and new processes.
+Organic Polymer Materials (E03)
+The Discipline mainly supports the following areas in the field of organic and polymeric
+materials science: synthesis and preparation of organic and polymeric materials; physics of
+polymeric materials; processing of polymeric materials; general polymer materials (plastics,
+rubbers, fibers, coatings, adhesives, etc.); polymer-based composite/hybrid materials; polymeric
+materials related to ecological environment; intelligent and biomimetic polymer materials;
+biomedical organic and polymeric materials; organic and polymeric materials with photo, electro or
+magnetic functions; other organic and polymeric functional materials (such as separation and
+adsorption materials, flexible electronic materials and devices, low-dimensional functional
+materials, battery related organic and polymeric materials, information polymer materials, porous
+materials, COFs and MOFs, catalytic materials, self-assembly functional materials, photonic
+National Natural Science Fund Guide to Programs 2021
+64
+crystals, organic-inorganic functional composite materials); special polymer materials.
+The Discipline encourages interdisciplinary basic and applied basic researches involved
+with mathematics, chemistry, physics, life science, medical science, information science, energy,
+environment, mechanical and manufacturing science, transport and aerospace science, and
+oceanography, etc., which lead to creativity and innovation. To be specific, the researches in the
+following areas are encouraged: scientific issues in the preparation of polymeric materials,
+including high efficient and controllable synthetic methods of polymeric materials, synthetic
+chemistry of polymer materials with high performance, including new monomers, new routes and
+new technologies, the preparation of functional polymer materials, new method and theory in
+polymer processing, the relationship between the aggregation structures and the properties of
+polymeric materials and their composite materials; the method and theory in the implementation of
+the high performance and functional properties of general polymer materials; low-cost and green
+method in the preparation of functional organic and polymeric materials, the structure-property
+relationship and the implementation of their stability; performance-directed biomedical polymer
+materials and the evaluation method of their application; design and preparation of
+function-directed organic and polymeric materials with photo, electro, magnetic or information
+functions, and study on the implementation of high performance and the stability of their devices;
+new concept in the design theory and preparation method of smart and biomimetic polymer
+materials; the controllable preparation and assembly methods of supramolecules and polymer
+materials with multilevel structures and their functionalization, eco-environmental polymer
+materials, including the structures, properties and efficient utilization of natural polymers, as well
+as the design theory and preparation method of environment-friendly polymer materials, the
+recycling and utilization of polymeric materials; polymeric materials for environmental control and
+improvement in water, soil and air pollution, and the stability and aging of polymeric materials.
+The Discipline also encourages enhancing the design of polymer materials with the
+guidance of theories; basic research aiming at the difficult problems existing in the preparation,
+modification and processing of the main assortments of domestic polymer materials; basic research
+aiming at new organic and polymeric materials and new technologies in polymer processing for the
+national strategical objective; research on the basic issues of the “Key & Core Technology” related
+organic and polymeric materials.
+Mining and Metallurgical Engineering (E04)
+The Discipline supports the fundamental researches on mining and metallurgical
+engineering, involving mainly natural resources exploitation (petroleum, natural gas, and mineral
+ores), safety science and engineering, mineral engineering and separation science of substances,
+ferrous and nonferrous metallurgy, materials preparation and processing, resource recycling and
+utilization, ecological environment, etc.
+In recent years, benefited by continuous financial supports, and driven by major national
+needs, mining and metallurgy engineering science in China has obtained great progresses through
+continuous innovations. The research capability has improved, and some researches have reached
+international frontiers. Many significant research results have been achieved. The main
+developmental trends of the Discipline include: (1) Discipline deepening and extension. The theory
+of the Discipline is much deepened and improved by continuously assimilating novel methods and
+techniques with the changes and expands of demands for resources, environment, and mineral and
+metallic materials. (2) Interdisciplinary and integration. Basic disciplines such as mathematics,
+physics, chemistry, mechanics and electromagnetism are involved in this discipline more deeply,
+and the integration within this discipline is closer. New research areas have emerged one after
+another due to further development of interdisciplinary. (3) Combination of fundamental research
+Funding Scope and Instructions
+65
+and application. The applications, such as in the fields of mining and metallurgical equipment,
+system monitoring and control, metallurgical reaction engineering and systems engineering,
+ecological technology of mining and metallurgy, engineering and safety, pay more attention to the
+depth of basic research and the update of basic knowledge. The obvious characteristics include
+“process integration, technology integration and disciplinary integration”. Therefore, it is getting
+faster and faster in integration, interaction and transformation of science and technology. At present,
+the Discipline is in the focal point of resource, energy, environment and safety. Due to gap between
+demand and development, upgrading of traditional industries and improvement of ecological
+environment, the developmental concepts including “innovation, coordination, green, open, and
+sharing” should be put into practice in upgrading traditional industries and improving ecosystem to
+fulfill new meaning of industrial upgrading promoted by the fundamental research.
+Hot research topics of the Discipline include complex oil and natural gas exploitation,
+intelligent green mines, environmental management and ecological restoration of mining and
+metallurgy, basic science of engineering safety, accurate control of mineral separation process,
+preparation of high value-added mineral materials, intellectualization, greenization, refinement of
+material metallurgical process engineering, high-clean and high-homogeneous metal materials
+metallurgy, precision hot forging for light alloy, resource circulation and utilization, integration of
+mining, metallurgy and materials, etc.
+Focusing on engineering science, the Discipline will continuously enhance interdisciplinary
+research, explore new methods, pay close attention to new theory, concepts and methods, and their
+creative applications. The Discipline will attach importance to ensuring the development of the
+national economy and improving the quality of people’s lives. The aim is to enhance the levels of
+basic research on promoting the core competitiveness in China’s petroleum, mining industry,
+metallurgy, and materials preparation and processing, and engineering safety by providing
+problem-oriented solutions to meet the major national needs. In the aspect of natural resources
+exploitation, research will focus on the intellectualization, greenization, refinement of engineering
+and scientific issues, encourage reengineering technology to improve mining efficiency and safety,
+emphasize source controlling, cyclic utilization and environmental protection, and finally achieve
+both economic and environmental benefits. In the aspect of techniques, process, and equipment,
+emphases will be placed on structure optimization and adjustment, process intensification, the
+scientific law of engineering and basic research of big data and artificial intelligence application. In
+terms of selecting research topics, priority should be given to the funding of the basic researches
+that have great theoretical significance, have potential applications and foresights, are likely to
+become the growth point of new knowledge, and are involved in many research fields. Priority
+should be especially given to the funding of youth scientific research projects with original ideas,
+and with cooperation at home and abroad. Researchers are encouraged to conduct long-term
+research and boldly put forward their own hypotheses to form their own research features. Research
+teams and innovation groups are encouraged, and continuous support are provided to integrate
+talents in certain fields to solve technical bottlenecks and promote industrial upgrading in the main
+industrial chain, which can truly reflect the role of basic engineering science research.
+The following research fields are encouraged: (1) new theory and method to enhance
+recovery of oil and natural gas; (2) theory of safe and efficient development in drilling and
+production for complex oil and gas resources in deeper formation and deeper sea; (3) theory of safe
+and efficient operation of oil and gas pipeline network; (4) theory of high-efficient mining of
+geothermal resources in deeper formation, and safe, green and intelligent mining of deep mineral
+resources; (5) theory of rock mechanics and strata control under multiple fields; (6) theory of
+prevention and emergency of major disasters and accidents in the production process; (7) theory of
+mine ecological environment and occupational hazards; (8) theory of green separation for mining
+National Natural Science Fund Guide to Programs 2021
+66
+and metallurgy; (9) clean and efficient extraction of mineral resources; (10) thermodynamic basis
+and metallurgical theory for the production of high quality metal materials; (11) theory of
+formation, transportation and control of pollutants produced in the metallurgical process; (12)
+theory of efficient fabrication, processing and fine forming of metal materials and special materials;
+(13) theory of information acquisition and data processing of mining and metallurgy,
+intellectualization of mining and metallurgy process and materials preparation; (14) theory of green
+metallurgy, new theory, new method and new technology for metallurgical process efficiency; (15)
+theory of efficient cycle and utilization of secondary resources.
+Mechanical Design and Manufacturing (E05)
+The Discipline supports fundamental research in the fields of mechanical and manufacturing
+science.
+Mechanical science is a fundamental discipline that involves the study of functional
+synthesis, quantitative representation, performance control for various mechanical products, and the
+development of novel design theories and methodologies by applying related knowledge and
+technologies regarding mechanical systems. It mainly includes robotics and mechanism,
+transmission and drive, mechanical system dynamics, strength theory for mechanical structures,
+mechanical tribology and surface technology, mechanical design, and mechanical bionics.
+Manufacturing science primarily involves studying theories, methods, technologies, processes,
+equipment, and systems concerned with production manufacturing of high-efficiency, low-cost,
+intelligent, and high-performance. It mainly includes biomanufacturing, forming, machining,
+manufacturing systems and intelligence, mechanical measurement and test theory, and
+micro/nanomechanical systems.
+The particular focuses of the support in this Discipline are: fundamental researches
+concerning national strategic priorities, the cutting-edge sciences of mechanics, and significant
+application potential for industrial applications; researches aimed at the eco-friendly,
+resource-saving, and energy-efficient integration of sustainable design and manufacturing;
+researches concerning innovative design, new manufacturing principles and process optimization,
+and measurement theories and equipment prototype for ultrahigh-precision, extreme loading, and in
+particular, large or heavy equipment and instruments; methodologies for designing, manufacturing
+and testing under extreme working conditions, for instance, parameters ranging from conventional
+to extraordinary or extreme conditions, and scale ranging from macroscale to mesoscale,
+microscale, nanoscale, and multiscale. In 2021, priority funding will be provided under equal
+conditions by the General Program to groups in two areas, mechanical design under extreme
+working conditions (E0506), and integrated theoretical method and technology of measurement and
+machining (E0509, E0511). For the two types of proposals mentioned above, applicants should
+indicate the project group in the Explanatory Notes of application cover.
+Based on the basic tasks of mechanical design and manufacturing, the Discipline encourages
+continual in-depth research in specific fields and high-risk exploratory research for original
+breakthroughs and disruptive innovation. The research that has yielded innovative achievements
+and is expected to achieve significant breakthroughs will be preferentially supported; moreover,
+substantial and profound interdisciplinary research with natural science and other engineering
+science is also welcome. However, it should be noted that applications should not deviate from the
+funding scope of the Discipline.
+The Discipline insists on project performance evaluation. New applications from
+high-quality executed project leaders will be given priority funding under equal conditions; new
+applications submitted by the person in charge of a poorly executed project will be strictly
+controlled.
+Engineering Thermophysics and Energy Utilization (E06)
+The Discipline of engineering thermophysics and energy utilization supports the
+fundamental researches on basic principles and the application technology theory in the processes
+of energy conversion, transfer and utilization. The traditional research mainly focuses on the basic
+laws of conventional energy conversion and utilization in the form of heat and work. At present, it
+has been extended to the researches on the conversion, storage and utilization of a variety of energy
+including renewable energy and new energy by using the basic principles of engineering
+thermophysics. The supports involve in engineering thermodynamics, refrigeration and cryogenics
+and dynamic characteristics of thermodynamic systems, aerothermodynamics, heat and mass
+transfer, multi-phase flow, combustion, thermo-physical properties and measurement, and
+renewable energy utilization, as well as other fundamental and innovative researches related to
+engineering thermo-physics and energy utilization.
+The main development trends of the Discipline are as follows: (1) research on the basic
+issues has been deepen from macro-level to meso-level and micro/nano-level, from isolated studies
+to coupled studies, from common parameters to parameters under ultra- or extreme conditions,
+from routine thermo-physical problems to random, unsteady, multi-dimension, multi-phase and
+complicated thermo-physical problems and intercrossing research in the Discipline; moreover,
+research becomes more quantitative and precise; (2) research themes have been crossed over
+traditional disciplinary borders and integrated with related disciplines, for example, physics,
+chemistry, life science, information science, materials science, environment and safety. Researches
+in the following areas are active: the mechanism of new type thermodynamic cycles and
+non-equilibrium thermal dynamics, refrigeration and low temperature engineering, dynamics,
+optimization and control of complicated systems, turbulence properties of internal flows and
+properties and control of unsteady flows, porous media and micro-scale heat and mass transfer,
+radiation and heat exchange by phase transformation, clean, supersonic and micro-scale
+combustion, thermo-physical problems in the prevention of disasters, mechanism of interaction
+between phases and thermo-physical model in multi-phase flow, new principles and methods in
+thermo-physical measurement, and new thermo-physical principles in energy conservation,
+renewable energy transformation and utilization, energy and environment.
+The Discipline will give priority to fundamental researches with theoretical significance,
+potential application and prior prospect, which might be the new fields for knowledge production,
+continuously promote interdisciplinary studies and the exploration of novel methods, and
+encourage original ideas and creations. The Discipline will continue supporting the researches with
+interdisciplinary nature, or international cooperation background or excellent achievements in the
+completed projects. It is expected to produce original research results with independent intellectual
+property rights in China, and to promote the continuous development of fundamental researches in
+the field of engineering thermo-physics and energy utilization.
+Electrical Science and Engineering (E07)
+The Discipline includes two main fields: electric (magnetic) energy science and the
+interaction between electromagnetic field and matter. The key areas of funding include the basic
+research and applied basic research with objects or means of electric (magnetic) phenomenon and
+principle, the related scientific problems in electric (magnetic) energy generation, transformation,
+conversion, transmission and utilization, as well as the mechanism and laws of the interaction
+between electromagnetic field and matter. This Discipline is based on electromagnetic field, circuit
+(electric network), electrical materials, and other fields of electrical science. It focuses on electric
+machine and its system, power and integrated energy system, high voltage and insulation, electrical
+apparatus, pulse power, discharge plasma, power electronics, electric energy storage and
+National Natural Science Fund Guide to Programs 2021
+68
+application, superconducting electrotechnics, bio-electromagnetics, and other electrical engineering
+fields. Researches on new phenomena, new theories, new models, new methods, new devices and
+new equipment are encouraged.
+The areas of electromagnetic field and circuit mainly include: electromagnetic field, circuit
+(electric network), static electricity, electromagnetic measurement and sensing, new energy
+conversion and power transmission technology, electromagnetic environment, and electromagnetic
+compatibility. The areas of superconducting and electrical materials mainly include:
+superconducting conductor and magnet, superconducting power technology, engineering dielectrics,
+conductor/semiconductor/insulation/magnetic/energy storage/sensing materials and other new
+electrical materials. The areas of electric machine and its system mainly include: analysis and
+design of electric machine, conversion and control of electric machine system, integration of
+electric machine system, and electric drive. The areas of power and integrated energy system
+mainly include: power system analysis, power system control, power system protection, electricity
+market, electricity information, integrated energy system and energy internet. The areas of high
+voltage and discharge mainly include: high voltage and large current, electrical equipment
+insulation, overvoltage and its protection, arc and electric contact, electrical apparatus, pulse power
+technology, discharge plasma technology. The areas of power electronics include: power electronic
+device and its application, and power electronic system and its control. The areas of electric energy
+storage and application mainly include: principles of electric energy storage and conversion, as
+well as device, equipment and system of electric energy storage. The areas of bio-electromagnetic
+technology mainly include: bio-electromagnetic phenomenon and mechanism, biological effect of
+electromagnetic field, electromagnetic diagnosis and treatment of disease.
+In recent years, electrical science and engineering presents a new trend of development: (1)
+The scope of researches is constantly enriched. For example, the integrated energy system,
+independent power system, the electrical materials, devices and equipment under extraordinary
+environment and extreme condition and so on. (2) The application fields are expanding
+continuously. For instance, the electric machines used in robots and servo systems, electrified
+traffic, new energy transport equipment, more electric ships and aircrafts, the power supply, storage,
+conversion, power transmission and drive (propulsion) in aeronautics and astronautics,
+electromagnetic launch, electromagnetic metallurgy, electromagnetic environmental protection
+technology, and etc. (3) The interdisciplinary becomes more noticeable. For instance, smart grid,
+energy and electricity market, electrical safety, intellisense, electric energy storage, pulse power,
+plasma and bio-electromagnetic technology have been intercrossed deeply with the fields like
+physics, chemistry, materials, information, management and biomedicine.
+For electrical science and engineering discipline, free exploration and interdisciplinary,
+tracking and leading the frontiers of the Discipline, and solving the scientific problems existing in
+the technical bottlenecks are encouraged, the researches about interdisciplinary basic theory and
+key technology, in aspects of interaction between electromagnetic energy and materials, electrical
+equipment, power electronic devices, bio-electromagnetic technology and medical electromagnetic
+equipment, are particularly encouraged.
+In 2020, the application codes of electrical science and engineering discipline were
+optimized. The applicants should fully understand the funding scope of this discipline, and
+correctly choose or fill in the application codes, as well as the corresponding research areas and
+keywords.
+Architecture and Civil Engineering (E08)
+The Discipline covers the fundamentals of both architectural and civil engineering. The
+development trend of architectural area relates to both human and environment simultaneously.
+Funding Scope and Instructions
+69
+Based on the development of urban and rural areas and the concepts of sustainability and green
+engineering, the fundamental theory, design, and construction of architecture can be advanced. The
+civil engineering should focus on the needs of quality construction, operation, and maintenance of
+major national projects and infrastructures; study the basic theory; develop the key technology; and
+solve the cross-discipline issues. The architecture and civil engineering features advanced testing,
+AI applications, and the combination of innovative material, structural system, and construction.
+The related disciplines to the area of architecture include three secondary application codes:
+architecture, urban and rural planning, and building physics. The related disciplines to the area of
+civil engineering include seven secondary application codes: engineering structures, engineering
+materials, engineering construction and service, geotechnical and foundation engineering,
+underground and tunneling engineering, transportation and railway engineering, and civil
+engineering disaster prevention. In 2020, the architecture and civil engineering made partial
+revision and adjustment to the application codes. Please carefully select the application codes and
+the corresponding research areas and keywords to avoid incorrect submission. If the key scientific
+issues and main research contents are not within the scope of funding for the Discipline, another
+discipline area may be recommended.
+The area of architecture should emphasize on the new scientific issues, including the
+scientific methods for architectural design and urban and rural planning, and the innovation in
+building physics, building environment control, and energy conservation theory, with the
+encouragement given to the innovative research on the relevant scientific issues in the priority field
+of “design principles and technologies in architecture and urban-human habitat environment”. In
+the area of civil engineering, more attention should be paid to the innovative research on the
+combined design of high-performance material with high-performance structure, maintenance and
+functionality improvement of existing structures, and stability and control of geotechnical and
+foundation engineering in complex environments. The following four key topics are encouraged:
+basic theory on the integration of material and structure, failure mechanism and performance
+control of structures under severe loading or environment, advanced experimental and numerical
+simulation methods, and AI applications in civil engineering.
+Hydraulic Engineering (E09)
+This Discipline includes two research fields: hydro-science and hydraulic engineering, and
+geo-mechanics and geo-engineering as well as hydro-power engineering. The funding scope covers
+engineering hydrology and water resources utilization, agricultural water conservancy and rural
+water conservancy, hydraulics and river dynamics, hydro-machinery and systems, geo-mechanics
+and geo-engineering, and hydraulic structures. The research content in the above funding scope
+includes not only the mechanics and physics process at different scales in the Discipline, but also
+their extension towards and combination with chemical and biological processes.
+Engineering hydrology and water resources utilization include: monitoring and modeling of
+hydrological processes and interactions with associated processes, basin water systems, flood and
+drought disasters, water resources, and integrated basin management. Hydraulics and fluvial
+dynamics include: fluid mechanics and applications, mixed transport of contaminants, organic
+matters, and aquatic organisms, erosion, transport, and deposition of sediment, processes and laws
+of river systems, regulation and protection, and integrated management of water, sediment, and
+ecosystems in river basins. Hydraulic geotechnical engineering includes: rock and soil mechanics,
+common basic characteristics of geotechnical engineering, geotechnical engineering oriented
+toward hydraulic engineering and ocean engineering.
+Major development trends of the discipline include the following six aspects. On
+engineering hydrology and water resources utilization: hydrological processes under a changing
+National Natural Science Fund Guide to Programs 2021
+70
+environment and mechanisms of generation and evolution of basin water resources; water disaster
+prevention, rational allocation of water resources, and sustainable development and utilization of
+water resources. On agricultural and rural water conservancy: agricultural and rural water resources,
+water and soil environment and agroecosystem, zoning of agricultural water conservancy, planning
+of irrigation and drainage systems, and water supply and drainage systems in towns and villages,
+degradation of irrigated land and losses of water and soil; smart irrigation districts and
+modernization of rural water conservancy. On hydraulics and fluvial dynamics: hydrodynamics and
+engineering applications, transport of sediment and environmental substances in open waters and
+management, interactions between aquatic biology and environmental conditions, integrated
+management of rivers, lakes and watersheds. On hydraulic machinery and systems: flow inside
+hydraulic machinery, cavitation and erosion, wear and abrasion, multiphase flow, vibration and
+noise, flow control, energy dissipation, thermoelastic flow, fluid-solid-magneto-thermo-acoustic
+multi-fields coupling, anti-wear material, composite material, failure diagnosis, intelligent control,
+and system of power station and pump station. On hydraulic geotechnical engineering: constitutive
+relationship of geomaterial, numerical simulation, laboratory and in situ testing, investigation, and
+observation, geotechnical structure deformation and stability; geotechnical problems in dam
+foundation, foundation, slope, embankment, tunnel, underground space and underground structure.
+On hydraulic structure: Hydropower complex, water diversion project, embankment project, design,
+construction and operation of hydropower stations, navigation and fish passing structures, as well
+as river channel protection and treatment measures.
+Environmental Engineering (E10)
+The Discipline is an emerging interdiscipline developed on the basis of natural science,
+engineering science, humanities and social science, aiming at better understanding and solving
+environmental problems. Its main research targets cover the fundamental theories, technologies and
+management methods for environmental pollution control, remediation of contaminated
+environment, restoration of damaged ecosystem and recycling of wastes. With distinct
+problem-orientation and cross-discipline, the Discipline is of key importance for sustainable
+development of human society.
+The research areas of the Discipline have been expanded to nine 2nd-level application codes,
+including drinking water supply and treatment, urban wastewater treatment and resource recovery,
+industrial wastewater treatment and reuse, urban and rural water system and ecological recycling,
+air pollution control, solid waste recycling and safe disposal, environmental pollution control and
+remediation, regional and urban eco-environment system engineering, and ecological and
+environmental risk control. To avoid errors in application, the applicants should carefully
+understand the scope of discipline funding, and correctly select or fill in the application code and
+the corresponding research direction as well as keywords. For key scientific issues and main
+research content outside the funding scope of this discipline, please apply for other relevant
+disciplines. It encourages the use of new theories, technologies and methodologies from other
+disciplines to address environmental engineering-related problems.
+The Discipline emphasizes the identification, analysis and resolution of key scientific
+problems encountered in the environmental pollution control process; encourages the development
+of innovative fundamental theories and technologies for high-efficiency, low-cost pollution control
+processes, especially for the research fields of “urban wastewater reclamation and resource
+recovery”, “environmental quality improvement and ecological remediation” and “ecological and
+environmental risk control and health and safety”.
+Ocean Engineering (E11)
+The Discipline includes four research fields, which are coastal and ocean engineering, ship
+engineering, marine technology, navigation and maritime technology. The funding scope covers (1)
+fundamental theories of coastal and ocean engineering, port and waterway engineering, debouche
+sand coasts (estuarine coast) and delta engineering, subsea engineering, offshore and deep-sea
+engineering, polar engineering, offshore equipment and system, exploitation and utilization of
+ocean resources; (2) surface ships, underwater vehicles, unmanned vehicles, ship equipment and
+systems, new energy for ships and energy-saving-and-emission-reducing technology; (3)
+environment perception and target detection technology, positioning and navigation technology,
+information assurance for offshore operations, special marine materials and surface technology; (4)
+fundamental theories of navigation and maritime technology, risk control and safety of navigation,
+intelligent shipping and polar transportation.
+The statistics of the approved grants and the applications in 2020 show increasingly wider
+coverage of disciplines and stronger interdisciplines. The fields of coastal and ocean engineering,
+and ship engineering have received more grants as well as applications. The fields of marine
+technology, navigation and maritime engineering have received less applications and grants. In
+2021, the following two research fields are emphatically encouraged: (1) intelligent ships and
+navigations; (2) exploitation and utilization of deep sea resources. The applications falling in the
+above two categories are to be labeled in the first line of the proposal “the present application falls
+in the encouraged research fields listed in the General Program Guidelines”.
+The main development trends in the Discipline are: The trend in the field of coastal and
+ocean engineering refers to port and waterway engineering and underwater engineering, protection
+and utilization of coastal zone resources, disaster prevention and mitigation in extreme cases, safety
+and smart operations in port, waterway and coastal engineering, marine rock and soil engineering
+and exploration of subsea minerals; polar engineering equipment and technology, research and
+development of island engineering equipment, deep-sea fishery equipment and technology,
+exploitation and utilization of new ocean energy, development and design technology of deep sea
+engineering equipment, and key technologies of deep-sea space station. The trend in the field of
+ship engineering refers to the design and manufacture of green and intelligent ships, extreme
+environments and ship safety, intelligentization and informatization of ship equipment, unmanned
+marine vehicles, new marine power systems, special auxiliary devices and systems. The trend in the
+field of marine technology includes marine environmental characteristics, marine special sensors,
+acoustic and non-acoustic environment perception and target recognition, underwater
+communication, positioning and navigation, offshore operations and information assurance, marine
+special materials. The trend in the field of navigation and maritime technology refers to navigation
+and maritime management, maritime warning and rescue salvage, maritime safety and
+environmental protection, and ship intelligent navigation, autonomous surface transportation
+systems.
+Transportation and Vehicle Engineering (E12)
+The discipline deals with the operational characteristics, principles, and the interconnections
+between different modes of transportation (highway, rail, aeronautical and aerospace, waterway,
+etc.) as well as various types of vehicles, and supports fundamental research in the field of traffic
+engineering and vehicle engineering. Specifically, this discipline studies transportation planning
+and design, control, and operation, and focuses on the fundamental theories of design, performance
+optimization, and safe operation of vehicles. With the help of theoretical research and
+breakthroughs in core technologies, this discipline aims to achieve safety, intelligence, efficiency,
+energy saving, and environmental protection in all modes of transportation and for the integrated
+National Natural Science Fund Guide to Programs 2021
+72
+transportation system.
+Transportation engineering deals with the integrated transportation system composed of
+transportation participants, vehicles, facilities, environment, and other elements within different
+transportation modes, as well as the principles and interactions between these elements of the
+system. Its study areas include the operational characteristics and principles of vehicles and
+pedestrians as individuals or groups in different transportation facilities and transportation
+environments to improve the transportation system analysis theory, the planning and design
+methods and operation safety of the integrated transportation system, facilities and spaces, hubs and
+stations to achieve intelligent transportation planning and design; the core technologies of operation
+control of different transportation modes with the help of modern computational and statistical
+analysis methods, and network technology to achieve safe and reliable control; the preventative
+mechanisms of traffic accidents, safety evaluation, pollution causes, and other theories. There are
+four second-level codes in this field, including traffic system analysis theory, traffic planning and
+design, traffic information and control, and traffic safety and environment.
+Vehicle engineering deals with the fundamental design theory, performance optimization,
+safe operation, and intelligent technologies of road vehicles, non-road vehicles, rail transportation
+systems, shipping systems, aeronautical aerospace vehicles. By improving the fundament theories
+of innovative design and manufacture of the vehicle systems, this discipline is dedicated to: explore
+the dynamic control theory of complex vehicle systems; make breakthroughs in core intelligent
+vehicle technologies related to perception, decision making, planning, and collaboration; master the
+coupling mechanisms of the human-machine-environment and inclusiveness design methods of
+vehicles; develop safety and reliability technologies of comprehensive applications, collaborative
+management, operation and maintenance and other supportive technologies for the vehicle systems.
+There are four second-level codes in this field, including fundamentals of vehicle design, the
+dynamics of the vehicle system, intelligentization of the vehicle system, and operation engineering
+of the vehicle system.
+This discipline is newly established to accommodate the needs from the advancements of
+transportation systems and vehicle technologies and the interdisciplinary developments. The
+discipline will focus on supporting theoretically significant, forward-looking, and exploratory
+fundamental research, and encourage interdisciplinary research of transportation and vehicle
+engineering. This discipline does not support applications of product development or
+management-type projects.
+New Conceptual Materials and Common Science of Materials (E13)
+The Discipline mainly supports research in the areas of new methods of material design and
+characterization, new material preparation technology and digital manufacturing, multi-functional
+integration of materials and devices, new composite and hybrid materials, new conceptual materials,
+key materials of advanced manufacturing, key engineering materials, etc.
+With the rapid development of materials science and constant evolution of new theories and
+technologies, the research and application of materials are no longer rigidly adhered to the current
+material system. It has now become a general trend to develop new conceptual materials and
+cross-fused material systems to meet higher requirements put forwarded to the properties and
+functions of materials. In the paradigm of fundamental research of materials science, it is highly
+desired to resolve some pending common scientific problems facing new materials, such as the
+design, preparation, characterization, performance regulation and fracture characteristics. At the
+same time, many key bottleneck issues encountered in national major engineering are expected to
+be solved by developing new conceptual materials and coordination of multi-material systems.
+Therefore, to meet the strong demand of national major industrial technology for pure, superior,
+Funding Scope and Instructions
+73
+unique and new materials, this Discipline will focus on the key common science issues of materials
+science, as well as the new conceptual and revolutionary materials leading future technology, to
+advance the integrated development of materials and engineering technology.
+This Discipline focuses on supporting fundamental research and applied fundamental
+research in three aspects: leading cross materials, key commonalities and technical support.
+Specifically, (1) it focuses on leading materials and interdisciplinary research, such as new
+conceptual materials, new composite and hybrid materials, multi-functional integration of materials
+and devices. It encourages initiating projects to develop new materials with unique property and
+more superior performance to traditional materials; design multi-functional integrated materials and
+devices facing intelligence and information, and reveal the principles of collective response and
+cooperative function of materials, structures and systems; develop composite and hybrid materials
+with multi-scale, multi-dimensional, and multi-degree-of-freedom interaction. (2) It focuses on
+supporting the research on key commonality of materials, including new methods of material
+design and characterization, new material preparation technology and digital manufacturing, etc. It
+encourages initiating projects to establish theories and models for the materials design and
+performance prediction, explore new paradigm for material preparation and digital manufacturing,
+and develop advanced in-situ and ex-situ material characterization techniques to probe the
+electronic structure, surface and interface, defects, etc. (3) It focuses on supportive materials
+research, including key materials for advanced manufacturing and engineering. It encourages
+initiating projects to develop new materials facing high-end manufacturing and national major
+engineering, seek breakthrough of key materials and technologies, and improve the whole chain
+connection, cross integration and practical application of new materials in key fields of national
+advanced manufacturing and engineering.

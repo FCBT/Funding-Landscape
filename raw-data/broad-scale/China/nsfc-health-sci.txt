@@ -1,0 +1,1110 @@
+Department of Health Sciences
+The Department adheres to target the global science frontiers, serve the main economic
+battlefield, strive to fulfill the significant needs of the country, and benefit people’s lives and health.
+It mainly supports the basic research that aims at scientific issues in disease prevention, control and
+treatment, and focuses on the structural, functional, developmental, genetic and immune
+abnormalities of human body, as well as the occurrence, development, outcome, diagnosis,
+treatment and prevention of disease. It also supports researchers to conduct innovative research in
+basic medicine, clinical medicine, preventive medicine, materia medica, pharmacology, traditional
+Chinese medicine, Chinese materia medica and interdisciplinary fields of medicine and engineering,
+so as to improve the level of medical scientific research in China.
+Basic research is the activity to realize natural phenomena, reveal natural laws, put forward
+and resolve scientific issues. The Department encourages research areas as follows: innovative
+academic thinking and methodological research on the scientific issues emerging from clinical
+practices; systematic and indigenous research on key scientific issues; translational medical
+research combining basic medicine with clinical medicine; integrative medical research on the
+occurrence, development and regression of diseases at various levels from molecular, cellular,
+Funding Scope and Instructions
+83
+tissue level to organ, individual and population level by using new multidisciplinary and
+comprehensive techniques or methods; in-depth research on the basis of existing findings and
+previous research evidence; interdisciplinary research integrated in other fields; substantive
+international joint research. The Department will give priority to funding basic research on major
+diseases that are important to the national economy and people’s livelihood, sudden/emerging
+public health problems, and common and frequently occurring diseases that severely endanger
+people’s health. The Department will also highlight research in distinctive fields, support relatively
+weak research fields, and ensure balanced, coordinated and sustainable development of all fields.
+Instructions:
+1. Specific instructions for applicants
+(1) Applicants are encouraged to carry out in-depth basic research toward scientific issues,
+especially the original research. Applications with solid previously accumulated research work are
+encouraged to carry out further systematic research. Those tracking others’ without innovative
+scientific ideas, or applications merely pursuing new high-technology rather than scientific novelty
+will not be in consideration for grant.
+(2) Applicants are expected to elaborate the scientific and potential clinical values of the
+anticipated research results in detail. Applicants are suggested to propose a defined scientific issue
+or a specific hypothesis based on analysis of the relevant latest literatures and research progress in
+the field. Furthermore, elucidation of theoretical and applicable value of the research is needed.
+(3) Applicants are expected to elaborate whether the proposed research will possibly solve
+the specific scientific problems or verify the hypothesis, and the proposed research is supposed to
+be specific, feasible and logical. Furthermore, applicants are expected to propose adequate research
+content, detailed research design, clear research method and reasonable budget.
+(4) Applicants are expected to provide detailed information about relevant previous research.
+In case of extension of previously funded project, the innovative ideas and further scientific
+problems of research are expected to be elaborated in detail. Besides, all the relevant published
+papers are expected to be listed, and relevant unpublished results including experimental data,
+tables or graphics, etc., are suggested to be provided.
+(5) Applicants are expected to provide true and accurate information in their applications,
+including the resume of applicant and major participants, previous grant information and relevant
+publications. Please fill in the published academic papers according to the instructions and outlines
+of application form. Patents and awards should also be listed according to the format and
+requirements of the application form.
+(6) Applicants are expected to provide a signed institutional certification or approval (the
+scanning copy should be attached to the electronic proposal) to meet the related ethical or informed
+consent requirement if applications are involved in special medical research objects such as human
+tissues. Applications that do not provide certification or approval as required above will not be
+funded.
+(7) Applicants are expected to follow all appropriate guidelines for the use and handling of
+pathogenic microorganisms, including the guideline “Bio-safety Administrative Rules of
+Pathogenic Microorganism in Lab” released by the State Council of China and the ethical and
+bio-safety regulations by other governmental agencies. If applications were involved in human
+genetic resources, applicants should strictly follow “Regulations on Management of Human
+Genetic Resources”. Additionally, a commitment letter to guarantee bio-safety should be provided
+by the research institutions when applications were involved in the study of highly pathogenic
+microorganisms. Applications that do not provide certification or approval as required above will
+not be funded.
+National Natural Science Fund Guide to Programs 2021
+84
+(8) Applicants with good performance records in their previous grants will be given priority
+on equal conditions.
+(9) Applicants are expected to notice that: in 2021, the Department will generally not give
+further funding for General Program to applicants who either have got intensive funding in 2020
+from NSFC (such as Key Program, Key International (Regional) Joint Research Program, Major
+Program, Key Program of Major Research Plan or Programs of Joint Funds, Special Fund for
+Research on National Major Research Instruments), or are applying for repetitive or similar
+research to their ongoing national scientific projects funded by other governmental agencies.
+(10) Applicants are expected to provide PDF copies of no more than 5 representative papers
+in their electronic applications (Applicant’s papers only).
+2. General overview of applications in the Department in recent years and instructions
+to host institutions
+The number of applications has been increasing in the Department ever since its
+establishment. In 2020, the number of applications was 85,029 from 1094 research institutions,
+accounting for 30.24% of the total applications (281,170) in NSFC, including 33,691 applications
+for General Program which account for 29.85% of the total applications (112,885), 38,363
+applications for Young Scientists Fund which account for 34.06% of the total applications
+(112,642), and 8,170 applications for Fund for Less Developed Regions which account for 36.77%
+of the total applications (22,222). To enable the healthy, stable and sustainable development of both
+science foundation and medical research in China, the research institutions are required to further
+strengthen their management in the process of NSFC grant applications, and make efforts to further
+improve the scientific quality of applications (rather than increasing the number of applications)
+under the guidance of “Requirements of NSFC for Host Institutions to Improve Management of
+Scientific Projects”.
+3. Specific explanations on application codes
+The application codes of Department of Health Sciences are composed of 35 primary
+application codes (H01 to H35) and many relevant secondary codes. The basic characteristics of the
+application codes are as following: (1) the primary application codes, which are mainly arranged in
+the order of organs or systems, include research areas relevant to both basic and clinical research, in
+an effort to ensure that applications on similar scientific issues from different disciplines are
+reviewed in the same reviewing system; (2) the secondary application codes, which are arranged in
+the order from basic to clinical research and from structural, functional and developmental
+abnormalities to diseases, cover both basic and clinical research relevant to the given organ or
+system.
+The applicants are expected to carefully choose the primary application code and the
+relevant secondary one. For more details, please refer to the following contents in the Guide of
+each division of the Department.
+Special instructions for applicants are as follows:
+The Department sets up the oncology discipline separately. Please select the
+corresponding secondary application code under Oncology (H18) for all kinds of
+tumor-related medical scientific researches except for hematological tumor, epidemiology of
+tumor, oncological pharmacology, medical imaging of tumor and tumor traditional Chinese
+medicine. The proposals on hematological tumor should be submitted to the corresponding
+secondary application code under Hematological System (H08); the proposals on tumor
+epidemiology should be submitted to the Epidemiology of Noncommunicable Diseases (H3010);
+the proposals on oncological pharmacology should be submitted to Anti-tumor Pharmacology
+(H3505); the proposals on medical imaging and biomedical engineering of tumor should be
+submitted to the corresponding secondary application code under Medical Imaging/Nuclear
+Funding Scope and Instructions
+85
+Medicine (H27) and Biomedical Engineering/Regeneration Medicine (H28); the proposals on
+traditional Chinese medicine tumor research should be submitted to Traditional Chinese Medicine
+(H31), Chinese Materia Medica (H32), or Integrated Chinese and Western Medicine (H33).
+The field of Radiation Medicine (H29) mainly covers the research of radiology toxicology
+and pathology, radiological hygiene and protection, and non-oncology radiotherapy, and does not
+fund applications of radiodiagnostics and oncology radiotherapy. For the applications of
+radiodiagnostics, please select the appropriate secondary application code under Medical
+Imaging/Nuclear Medicine (H27). For the applications of tumor radiotherapy, please select the
+application code (H1816).
+The field of Gerontology (H19) only funds research on the pathogenesis and intervention of
+diseases related to the mechanisms of aging. Applications that focus on age-associated diseases that
+do not involve pathophysiological mechanisms of aging should be submitted to other proper
+divisions.
+Applications that focus on neonatal diseases should be submitted to Reproductive
+System/Perinatology/Neonatology (H04). For other scientific issues in pediatrics, please select the
+application code of the corresponding system.
+Applications that focus on sexually transmitted diseases should be submitted to the
+application code (H2208) under Human Pathogens and Infections (H22).
+4. Funding plan and budget
+The average funding intensity of direct cost for various projects in 2021 is expected to be
+basically the same as that in 2020. Please apply for funds reasonably according to the actual needs
+of the work and fill in the fund budget table.
+5. Special projects of General Programs: guidelines for “Exploration of Scientific
+Problems Derived from Clinical Practice”
+The exploration of scientific problems derived from clinical practice is not only an
+important way to realize and improve the transformation from basic research to clinical practice,
+but also the source of putting forward major medical scientific issues. Based on clinical practice, it
+is of great value to innovate research methods, carry out research on the occurrence, development,
+diagnosis, prevention and treatment of diseases, discover and explain new mechanisms, improve
+the level of medical innovation, and promote the transfer of basic research achievements to clinical
+practice.
+The Department encourages the combination of clinical practice and basic research, the
+interdisciplinary research and the innovation of clinical research methods, promotes the
+development of clinical research and medical science in China, and improves the funding pattern of
+medical research. In 2021, it is planned to set up the special project of “Exploration of Scientific
+Problems Derived from Clinical Practice” in General Programs, with about 50 projects funded and
+average funding of direct cost about 800,000 yuan per project. The following research is supported:
+(1) Important scientific problems are summarized based on clinical phenomena and problems
+discovered in clinical practice, rather than purely scientific research from the literature. (2) With the
+help of clinical tissue samples collected under strict conditions in clinical trials, the relevant
+mechanisms can be deeply discussed and discovered, so as to achieve the research of important
+guiding significance for the diagnosis, treatment, prevention and treatment of diseases. (3)
+Exploratory clinical research based on the transformation of original basic research achievements.
+According to the research field, applicants shall independently choose the secondary
+application code under the primary application codes of H01─H35, and indicate “Exploration of
+Scientific Problems Derived from Clinical Practice” in the annotated column of the application
+form. The research should be in line with the above three directions. It should be clearly introduced
+in applications that the new phenomenon of clinical discovery or the new discovery that can be
+National Natural Science Fund Guide to Programs 2021
+86
+transformed into clinical practice from the previous basic research, the originality and innovation of
+the research, and the protection of independent intellectual property rights. This special project
+does not fund clinical research already carried out by hospitals and enterprises. For projects
+involving clinical research, the host institution should be qualified as a drug clinical trial institution.
+The applications for the special projects are limited to General Program.
+Funding in Department of Health Sciences in 2020
+Unit: 10,000 yuan
+Divisions
+General Program Young Scientists Fund Fund for Less Developed
+Regions
+Projects Direct
+cost
+Success
+rate (%) Projects Direct
+cost
+Success
+rate (%) Projects Direct
+cost
+Success
+rate (%)
+I Respiratory system, circulatory
+system, hematological system 526 28,946 15.15 477 11,400 12.27 99 3,347 12.22
+II
+Digestive system, urinary system,
+endocrine system, metabolism, and
+nutrition support, ophthalmology,
+otorhinolaryngology head and neck
+science, oral and
+craniomaxillo-facial science
+646 35,588 13.24 634 15,176 11.22 109 3,708 11.28
+III Nervous system, mental health and
+psychological health, gerontology 423 23,338 15.43 382 9,136 12.24 60 2,026 9.65
+IV
+Reproductive system/perinatal
+medicine/neonatology, medical
+immunology, medical genetics
+273 15,057 15.82 267 6,384 12.42 40 1,362 10.87
+V
+Special medicine, forensic medicine,
+medical imaging/nuclear medicine,
+biomedical engineering/regenerative
+medicine
+257 14,189 12.83 247 5,856 10.33 33 1,109 10.15
+VI
+Locomotor System, emergency and
+intensive care medicine,
+trauma/burns/plastic surgery,
+rehabilitation medicine, medical
+virology and virus infection, Human
+Pathogens and Infections, laboratory
+medicine
+431 23,732 12.16 399 9,544 10.57 81 2,755 10.53
+VII Oncology (hematological system not
+included) 859 47,386 12.84 914 21,776 11.59 145 4,950 8.86
+VIII Dermatology, radiation medicine,
+preventive medicine 262 14,504 17.15 243 5,768 15.74 55 1,912 14.25
+IX Materia medica, pharmacology 274 15,152 16.39 320 7,600 15.94 60 2,029 13.16
+X
+Traditional Chinese medicine,
+Chinese materia medica, integrated
+Chinese and western medicine
+633 34,828 11.64 622 14,880 10.46 235 8,002 12.83
+Total or average 4,584 252,720 13.61 4,505 107,520 11.74 917 31,200 11.22
+Direct cost per project 55.13 — 34.02
+Division I of Health Sciences
+The Division mainly supports basic research on the diseases of respiratory, circulatory, and
+hematological systems.
+Respiratory System (H01)
+The Discipline mainly supports the basic research focusing on the diseases of lung, airway,
+pulmonary circulation, mediastinum, pleura, thorax, diaphragm and other related diseases. The
+Funding Scope and Instructions
+87
+funding areas includes: respiratory system structure, function and developmental abnormalities;
+respiratory system infections, inflammations and immunity; environmental factors and airway
+diseases; bronchial asthma; chronic obstructive pulmonary disease; bronchiectasis; pulmonary
+circulation and pulmonary vascular disease; interstitial lung diseases; acute lung injury and acute
+respiratory distress syndrome; sleep disordered breathing and breathing regulation; respiratory
+failure and respiratory support; pleura, mediastinum, thoracic and diaphragm related diseases;
+respiratory intervention, tracheal reconstruction and lung transplantation. Researches on new
+methods and strategies related to respiratory diseases also belong to its funding areas.
+In present, proposals received in the respiratory system mainly focus on the areas of
+respiratory infections, inflammations and immunity, bronchial asthma, chronic obstructive
+pulmonary diseases, pulmonary circulation and pulmonary vascular diseases, interstitial lung
+disease, acute lung injury and acute respiratory distress syndrome. The number of application in
+other areas is relatively small.
+Accumulating attention has been drawn to the impact of emerging, sudden out-breaking
+respiratory infectious diseases and environmental factors on human health. This discipline
+encourages studies of pathogenic mechanism, immune function imbalance and related pathological
+research, including research on scientific topics such as inflammation microenvironment, tissue
+damage and repair, pulmonary fibrosis; encourages studies of environmental and occupational
+factors (e.g. airborne fine particles, harmful gases, smoke and allergens, etc.) on the physiological
+functions of airway and lungs, and related pathological changes and underlying mechanisms;
+encourage studies of alveolar and blood barrier, pulmonary fluid transport and pulmonary edema,
+pulmonary epithelial atypical hyperplasia and nodular lesions; encourage studies on lung stem cells
+and lung regeneration.
+This discipline will continue to support the studies of extra pulmonary organ damage related
+to sleep disordered breathing; support the studies of biological treatment of respiratory diseases;
+support the studies on new strategies for precise diagnosis and treatment of diseases, as well as
+studies on potential molecular markers and intervention targets. Break-through research methods
+and strategies play an important role in promoting clinical and basic research in the respiratory field.
+Therefore, this discipline encourages applicants to combine modern biological technologies, such
+as multi-omics technology, big data technology and humanized animal models, to promote related
+research in this research field.
+Most of applicants in the respiratory field are from the frontline of the clinic. Therefore, this
+discipline encourages applicants to capture research topics from the clinic, extract scientific
+questions, and translate into research proposals after preliminary experimental validation. The
+advancement of basic research in the respiratory field is inseparable from the participation of
+scientific researchers focusing on basic science research, so basic science researchers are welcomed
+to engage in studies focusing on the respiratory field, and the cooperation between clinical experts
+and basic researchers are also encouraged and welcomed.
+Circulatory System (H02)
+The Discipline mainly supports basic researches in the growth and development, physiology,
+pathophysiology, and diseases of cardiovascular and lymphatic system. In recent years, the number
+of applications in the field of cardiac/vascular injury and protection was the largest, followed by
+atherosclerosis, coronary heart diseases, arrhythmia and heart failure. In addition, there were
+numerous applications related to non-coding RNA, but the innovation and unique characteristics of
+those projects were insufficient. Applicants are encouraged to carry out original basic research,
+cooperate with clinicians, developmental and genetic biologists, regenerative medicine specialists
+and other related disciplines to study on the mechanisms in the development and therapeutic
+National Natural Science Fund Guide to Programs 2021
+88
+strategy of cardiovascular diseases. In the cutting-edge fields of cardiovascular diseases,
+researchers are encouraged to establish international collaborations, to propose innovational
+hypothesis based on their own research data, and eventually gain achievements with independent
+intellectual properties. Researches on the regulatory and damage mechanisms of the biological
+active substances on the heart and vessels are encouraged to find the potential biomarkers for
+diagnosis, therapeutic targets and innovative treatment technologies. Studies on the molecular
+etiology, regulatory network and intervention targets of the metabolic disorder related
+cardiovascular diseases are encouraged, and the effects of other systemic diseases on the
+cardiovascular system are also encouraged. Infectious cardiovascular diseases, immune-related
+circulatory system diseases, microcirculatory diseases, lymphatic circulatory diseases, and
+tumor-related cardiovascular diseases are still the comparatively weak fields, and relevant
+researches are encouraged. Studies on cardiovascular diseases in children and sex-related
+cardiovascular diseases are required to be strengthened. Researches and applications of new
+techniques, new methods and new materials in the cardiovascular field are supported. The basic
+researches for important clinical issues in the circulatory device implantation and perioperative
+period of cardiovascular surgery are encouraged.
+Hematological System (H08)
+The Discipline mainly supports original basic research of hematopoietic tissue/organs, blood
+system and its related diseases including hematopoiesis, hematopoiesis regulation and
+hematopoietic microenvironment; erythrocyte and its related diseases; leukocyte and its related
+diseases; megakaryocyte, platelet and their related diseases; bleeding, coagulation, fibrinolysis and
+thrombosis; aplastic anemia and bone marrow failure; myelodysplastic syndromes;
+myeloproliferative diseases; leukemia; lymphoma and lymphatic diseases; myeloma and plasma
+cell diseases; blood system disease associated infection and the treatment; hematopoietic stem cell
+transplantation and its complications; immunotherapy for hematologic diseases; blood transfusion,
+blood regeneration and blood products; new technologies and methods for hematological disease
+research.
+In recent years, most applications are concentrated in the areas of hematopoiesis,
+hematopoiesis regulation and hematopoietic microenvironment, leukemia, lymphoma and
+lymphatic diseases, myeloma and plasma cell diseases, stem cell transplantation and its
+complications. Applications in other areas are relatively low in number. Immune and cell therapies
+have been shown to play critical roles in the treatment of blood diseases. This year, a new
+application code: Immunotherapy for blood diseases is added under H08. Any basic or clinical
+based basic researches in this area may apply under this code.
+Diseases in hematological system are a type of diseases that severely affect the health of
+human beings. The etiology, pathogenesis, precision diagnosis and treatment have always been the
+support focus in hematologic area. The Division thus encourages applications in the fields of:
+hematopoietic microenvironment and the clonal evolution of hematologic malignancies;
+metabolism of hematological malignancies and its clinical correlation such as drug resistance;
+precision diagnosis and treatment for hematologic diseases; biotherapy in hematology field,
+including HSC transplantation, immunotherapy, gene therapy; basic and applied basic research
+using gene editing and new immuno-technologies.
+The Discipline also supports applications in the following fields such as: disease related
+basic researches in areas of hematopoiesis, hematopoiesis regulation and hematopoietic
+microenvironment, hematopoietic development, differentiation and its lineage mapping;
+hematological disease-omics, hematologic biomarkers and their clinical application validation; in
+vitro regeneration and expansion of functional blood cells; studies of normal or abnormal blood
+Funding Scope and Instructions
+89
+cells using new biotechnologies such as single cell technology or multi-omics.
+There is an excellent and closely related solid research foundation in both basic and clinical
+basic research in the field of hematology in China. Applicants are thus encouraged to make full use
+of rich clinical resources in the field, to propose basic applications that arise from clinical problems,
+to carry out relevant research, and to strengthen translational medical research.
+For projects involving research contents of pulmonary circulation and pulmonary
+vascular diseases, the applicant shall choose the appropriate application code from the
+respiratory system (H01) and the circulatory system (H02) according to their specific
+scientific topics. Division I does not support the applications of non-hematological malignancy
+projects. For details, please refer to the general introduction of the Department.
+Division II of Health Sciences
+The Division mainly supports basic researches on digestive system, urinary system,
+endocrine system/metabolism and nutrition support, ophthalmology, otorhinolaryngology, head and
+neck science, as well as oral and craniomaxillo-facial science.
+Digestive System (H03)
+The Discipline mainly supports studies on the related to various non-communicable and
+non-neoplastic diseases of the digestive system. The number of applications for projects in the field
+of digestive system research in 2020 increased by 20.72% over 2019. The applications on liver
+diseases, such as liver fibrosis, cirrhosis and portal hypertension, are still the most dominant
+research areas in this division. Other research topics in hepatology include metabolic liver disease,
+liver regeneration, hepato-protection, liver failure and artificial extracorporeal liver support. In the
+field of GI diseases, applications on internal environment disturbance of GI tract, intestinal mucosal
+barrier impairment and related diseases, mechanisms of immune-related diseases of gastrointestinal
+tract, abnormal GI motility and GI functional disorders are among the primary focuses. There are
+fewer applications in areas such as vascular and circulatory disorders of digestive system, abnormal
+endocrine and neurohumoral regulation of digestive system, abnormal structure and function of
+abdominal wall/peritoneum structure, abnormal gastric acid secretion and acid related diseases and
+hereditary diseases of the digestive system. The total number of items mentioned above was 91,
+accounting for only 2.49% of the total number of items. The young researchers are mainly focused
+on liver and intestinal diseases, liver fibrosis, liver cirrhosis, metabolic liver disease, inflammatory
+bowel disease, intestinal mucosal barrier, and so on. The number of applications for the Youth
+Science Fund significantly exceeded the number of regular projects. The important area of concern
+of intestine in recent years is the relationship between homeostasis and digestive system diseases
+and its role in the occurrence, development and treatment of diseases. The NSFC encourage the
+basic and clinical research on the key frontier issues in the above-mentioned fields. The Division
+also encourages the research of the role of the interaction among the various organs of the digestive
+system in the pathogenesis of digestive diseases.
+Urinary System (H05)
+The Discipline is to focus on the structural and functional disorders of the kidney, ureter,
+bladder, prostate and urethra, not including tumor research. The number of applications received in
+2020 increased by 14.53% compared with that in 2019. Popular research topics are still in areas of
+the prevention and treatment of acute kidney injury and chronic kidney diseases, under the code of
+National Natural Science Fund Guide to Programs 2021
+90
+the injury and repair of the urinary system, followed by the secondary renal diseases, the primary
+kidney disease and the renal failure. The number of urolithiasis proposals in 2020 decreased
+compared with that in 2019. The number of proposals related to kidney transplantation, urinary
+tract infection, benign prostatic and bladder diseases, urinary continence and micturition
+disturbance diseases in 2020 were similar to that in 2019. Fewer proposals were received in the
+area of urinary tract infection, abnormal structure, function and development of urinary system;
+attention is necessary to be paid to these areas. The NSFC will continue to support the continuous
+and innovative researches in urinary system.
+Endocrine System, Metabolism, and Nutrition Support (H07)
+The Discipline mainly supports studies on abnormity of endocrine organ structure and/or
+function and relative non-neoplastic chronic diseases. Supported areas include various diseases of
+the endocrine system, classical or non-classical endocrine tissue function and dysfunction,
+metabolic disorders, clinical malnutrition, and relevant therapeutic treatment. The number of total
+applications increases by 17.25% in 2020 relative to 2019, and the distributions of major research
+areas remain unchanged. The majority of the proposals are still centered on diabetes and
+diabetes-related diseases, followed by the projects investigating energy metabolism/obesity.
+Compared with 2019, bone disease decreased slightly, while thyroid disease increased slightly. In
+contrast, there are few applications on water/electrolyte metabolic disorders, acid-base imbalance,
+amino acid metabolic abnormality, aberrant adrenal gland development and/or structures in 2020.
+The important clinical researches will continue to be emphasized and considered preferentially or
+funding in the future. Similarly, researches around the discovery of new phenomena and new
+questions in the clinic and innovative approaches/designs will be encouraged. These areas with
+minor applications but significant clinical research value will continue to be emphasized and
+supported in the future. Similarly, researches around the discovery of new phenomena and new
+questions in the clinic and innovative approaches/designs will be encouraged.
+Ophthalmology (H13), Otorhinolaryngology Head and Neck Science (H14),
+Oral and Craniomaxillo-Facial Science (H15)
+The Discipline mainly supports non-neoplasm diseases of related fields. The field of
+ophthalmology mainly supports the research in the related fields of non-neoplasm diseases. They
+are focused on the inflammatory, immune related, genetic, degenerative, and neovascular eye
+diseases. The number of applications in ophthalmic research increased by 13.31% in 2020
+compared with that in 2019. The research on fundus diseases remains to be the most concentrated
+area, followed by corneal diseases, glaucoma, optic nerve and visual pathway related diseases and
+optometry diseases. Diabetic retinopathy, retinal/choroidal neovascular diseases, refractive error
+and age-related macular degeneration remain to be the hot fields of ophthalmic research. The
+Division encourages extracting the scientific issues around clinical bottlenecks such as prediction,
+diagnosis and treatment of diseases, clarifying the mechanisms of occurrence and development in
+diseases, obtaining original scientific research achievements and promoting basic research to guide
+clinical diagnosis and treatment.
+The field of otorhinolaryngology head and neck science mainly funds research on new
+techniques and methods for non-neoplastic diseases and functional reconstruction caused by
+structural and functional abnormalities in related regions. The number of applications in 2020
+increased by 17.07% over that in 2019, and mainly focused on hearing abnormality and balance
+disorders, diseases of the olfactory system, the nose and the anterior skull base, and disease of
+throat and neck. The mechanism of hearing impairment as well as the strategies for hearing
+restoration is the key issues of auditory science, including the genetics and molecular mechanisms
+Funding Scope and Instructions
+91
+underlying the pathogenesis for various types of deafness, and the signal pathways related to
+hearing impairments as well as the antagonistic therapies, etc. In the field of rhinology, research
+mainly focuses on the pathogenesis and development of rhinosinusitis and the pathogenesis and
+immunotherapy of allergic rhinitis. Research on laryngopharyngeal diseases focuses on respiratory
+disorders, phonetic disorders, and functional reconstruction. The research on the mechanism and
+intervention of auditory development and degeneration, tinnitus, hyperacusis, vertigo and olfactory
+disorder is an important research direction, and the interdisciplinary studies with artificial
+intelligence, new imaging technology, biomaterials, biomechanics, 3D printing technology,
+mathematical algorithms and other fields has begun to receive much attention, and will be funded
+continuously. Further attention should be paid to the reconstruction techniques of the
+otolaryngology-related dysfunctions, including nerve injury, olfactory disorder, breathing disorder,
+phonation disorder and swallowing disorder, etc.
+The field of oral and craniofacial sciences (OCS) mainly supports research on
+craniomaxillo-facial tissues, organs and non-neoplastic diseases. The number of project
+applications in 2020 increased by 18.6% compared to 2019. In 2020, the OCS project applications
+were still focused on periodontal and oral mucosal diseases, followed by the prosthodontic and
+orthodontic fields of tooth defects, missing and dentognathic deformities, and oral and
+maxillofacial tissue biomechanics and biomaterials. The studies of tooth/bone development and
+regeneration, the application and mechanism of stem cells and exosomes, the biomechanics of oral
+and maxillofacial tissues and the research of biomaterials were still hot topics of concern. In
+addition, the number of applications for cross-research in fields such as artificial intelligence and
+additive manufacturing has increased year by year. This discipline encourages the integration of
+different directions of oral craniofacial science and the interdisciplinary research with other
+disciplines.
+Division II does not support oncology research. All applications on oncology research
+in those areas please refer to the general introduction of the Department. Division II does not
+support researches on drug design and pharmacology as well. Please submit the related
+proposals to Division IX (H34, H35). Proposals on the male reproductive system and male
+sexual dysfunction are not included in code H05, so please submit related proposals to
+Division IV (H04).
+Division III of Health Sciences
+The Division mainly supports basic research in the fields of nervous system, mental health,
+and geriatrics.
+Nervous System (H09)
+The Discipline provides funding support for researches on the etiology, pathogenesis,
+diagnosis, treatment, and prevention of various non-neoplastic neurological diseases, including
+common neurological diseases (e.g., cerebrovascular diseases, cognitive dysfunction,
+neurodevelopmental disabilities, injury and rehabilitation of nervous system, neurodegenerative
+disorders, epilepsy, pain and analgesia), and rare neurological diseases. Division III also supports
+diagnosis, pathogenesis and therapy studies on inherited metabolic, autoimmune and infectious
+diseases of the nervous system, as well as studies on neurobiological mechanisms underlying
+anesthesia and sedation, and comorbidity of neurological diseases and psychiatric disorders.
+In recent years, funded projects in the field of nervous system predominantly focused on
+National Natural Science Fund Guide to Programs 2021
+92
+cerebrovascular diseases, cognitive dysfunction, injury and rehabilitation of nervous system, pain
+and analgesia, in which there is a significant increase in applied projects from the perspectives of
+glia, non-coding RNA, pyroptosis, autophagy, and exosomes to study neurological diseases.
+However, most of the applied projects were follow-up studies and/or lack of originality. Division
+III prioritizes the original studies regarding key scientific issues originated from clinical problems
+and clinical cohort studies using advanced method, as well as interdisciplinary studies using
+non-human primates, drosophila, and zebrafish model. Additionally, studies on the key
+technologies and mechanisms for strengthening neural modulation to promote the function
+recovery after nervous system injury are also the funding priority. Standard protocols of clinical
+research is required in cerebrovascular diseases studies for promoting basic research around clinical
+concerns, especially early intervention for neurovascular injury, revascularization, function
+recovery, and application and effects of precise diagnosis and treatment in acute stroke and
+neurotraumatic patients. Mechanisms underlying pain, especially chronic pain, and intervention
+studies need to be strengthened by the collaboration of basic and clinical study. Research on
+neurological diseases of the nervous system in children has been an ongoing concern of the
+Division. In addition, it is encouraged to perform substantial cooperative research in clinical and
+basic medicine, materials, bioinformatics and artificial intelligence.
+Mental Health and Psychological Health (H10)
+The Discipline provides funding support for researches on the etiology, pathogenesis,
+diagnosis, treatment, and prevention of psychobehavioral disorder, including common psychiatric
+diseases (e.g., anxiety disorder, depressive disorder, schizophrenia), as well as sleep disorders, drug
+dependence and other addictive disorders, stress-related disorders, neurodevelopmental disorders,
+psychological evaluation and intervention of psychiatric disorders, and new technology/method
+used for psychiatric diseases and psychological health research.
+One of the hallmarks in the spectrum of modern human disease is the rapidly increased
+prevalence of psychological and psychiatric diseases. Elucidation of the etiology, pathogenesis and
+biological basis is the key issue in psychological and psychiatric disease studies, which is beneficial
+for early detection, objective diagnosis, and etiological treatment. In recent years, funded projects
+in the field of mental health predominantly focused on depressive disorder, anxiety disorder, and
+schizophrenia rather than biological rhythm disorders related diseases and psychological evaluation
+and intervention of psychobehavioral disorders. Due to the weak foundation in the field of child
+and adolescent mental health studies in China, researchers in this field are encouraged to carry out
+relevant research. Studies on the role of genetic, environmental and other factors in the occurrence
+and development of psychobehavioral disorders are encouraged to discover potential etiological
+and intervention targets, and to establish biological markers monitor system representing the
+occurrence, development and prognosis of psychological and psychobehavior disorders.
+Psychological and behavioral examination technology should be optimized to realize the early
+detection and diagnosis of psychological and psychobehavior disorders. The interdisciplinary
+cooperation between psychiatry and other disciplines is encouraged, which improves the diagnosis
+and treatment of psychological disorders and mental diseases in China by implementing early
+intervention and treatment using pharmacological or non-pharmacological methods.
+Gerontology (H25)
+The Discipline mainly covers the studies on pathophysiological mechanisms of aging and
+aging-related diseases. To fulfill the major national requirements of aging population in China,
+investigation should be performed to elucidate the pathophysiological changes and its mechanism
+of aging at organ, tissue, cell, subcellular and molecular levels. Focused studies on the
+Funding Scope and Instructions
+93
+physiological mechanisms underlying aging of organ, tissue or cell should be performed to
+elucidate the relationship between genetic, metabolic, injury, stress and inflammation factors and
+organ/tissue aging as well as aging related diseases. It is encouraged to perform new technologies,
+methods and interdisciplinary research regarding to aging and related diseases, as well as to study
+on the mechanisms underlying caloric restriction, exercise and small molecule chemicals that
+delays aging of tissues and organs, to provide a theoretical basis for the prevention, early warning,
+diagnosis, treatment and prognosis of aging related diseases.
+Division III does not provide funding support for tumor related studies, for which
+please refer to the general introduction of the Department. The field of gerontology does not
+support the project application of senile diseases in organs or systems unrelated to aging
+mechanism, for which please select other corresponding application codes.
+Division IV of Health Sciences
+The Division mainly supports basic and translational research in the areas of reproductive
+system/perinatal medicine/neonatology, medical immunology and medical genetics.
+Reproductive System/Perinatal Medicine/Neonatology (H04)
+The Discipline mainly supports basic and translational research on structure/function/
+development abnormalities, injury and repair, inflammation and infection, endocrine abnormalities
+and related disease of the reproductive system, the mammary structure/function/development
+abnormalities, sexual dysfunction, gametogenesis and fertilization, embryo implantation,
+maternal-fetus interaction, reproductive immunity and related diseases, assisted reproduction,
+placental structure/function and development abnormalities, pregnancy related diseases, fetal
+development and fetal diseases, neonatal diseases, and development of novel techniques on
+diagnosis and treatment for diseases of reproductive system and neonatus.
+Research projects focus on establishing novel multidisciplinary technology platform to
+study the molecular and cellular mechanisms of human reproductive and developmental diseases,
+damage, remodeling and fertility protection of human reproductive organs, gametogenesis and
+regulation of meiosis, the principle and abnormalities of human sperm-ovum recognition,
+fertilization and early embryonic development, regulation of pregnancy establishment and
+maintenance and the pathogenesis of related diseases; the effect of intrauterine and extrauterine
+environment on the pregnancy outcome and descendant health; the novel mechanisms of neonatal
+diseases; assisted reproduction and related safety evaluations based on the advances in regenerative
+medicine, organoid and artificial intelligence. It is encouraged to condense the scientific questions
+from clinical practice and to carry out original and translational research by means of the abundant
+clinical and genetic resources in China. The novel research paradigm is needed to be established in
+the study of reproductive medicine, perinatal medicine and neonatology by interdisciplinary
+cooperation.
+In 2020, there are more proposals for General Program, Young Scientist Fund, and Program
+for Less Developed Region of this discipline, and which research areas are concentrated as
+following: pregnancy related complications, neonatal diseases, female reproductive endocrine
+abnormalities and related diseases, sperm development abnormalities and male infertility,
+endometriosis and adenomyosis, abnormalities of embryo implantation and early embryonic
+development, etc. The following research areas are suggested to be concerned: pubertal endocrine
+regulation, pathogenesis of perimenopause related diseases, genetic disorders of reproductive
+National Natural Science Fund Guide to Programs 2021
+94
+system, sexual dysfunction, inflammation and infection of reproductive system, mammary
+development abnormalities and perinatal breast disorders; the effect of maternal nutrition,
+environmental and genetic factors on pregnancy outcomes and descendant health; physiology of
+parturition and abnormal labor, early diagnosis and treatment of congenital defects; the neonatal
+acute diseases, critical care, chronic organ damages and neonatal nutrition, etc. The deficiencies in
+proposal application are as follows: the proposals’ preliminary experimental basis is weak and
+difficult to support the scientific hypothesis which is only derived from references and some simple
+data; the research content of some projects lacks mechanism research in-depth; a few of projects
+are descriptive, presupposition, transplantation and programmatically designed without innovation.
+The field of reproductive system/perinatal medicine/neonatology (H04) does not
+support the research related to tumor. For the project related to tumor, please refer to the
+general introduction of the Department.
+Medical Immunology (H11)
+The Discipline mainly supports basic and translational research on the structure, function,
+development, and/or residence of organs, cells and molecules of the immune system, as well as the
+research on immune regulation and tolerance, immune homeostasis and injury, and immune
+diagnosis and intervention.
+Key research directions and areas include: the development and differentiation of immune
+cells, the identification and function of novel immune cell subtypes, the structural basis and
+activation of immune recognition, the formation and maintenance of immune memory, the
+reconstruction and senescence of immune system, the immune response and its injury on hosts, the
+epigenetic regulation on immune system and immune functions, the interaction between
+metabolism and immunity, the interaction among neural system, endocrine system, and immune
+system, the interaction between microbiota and immune system, the new targets of immunotherapy,
+the new vaccines and adjuvants, the investigations of immune mechanism, specific diagnosis and
+intervention strategies of infection, organ transplantation, cancer, autoimmune diseases, and various
+chronic diseases using immunology theory and technology as well as multi-disciplinary new
+technology methods, and the focus on discovery of new molecular pathways and effective
+mechanisms for immunotherapy. It is encouraged to carry out interdisciplinary research between
+immunology and bioinformatics, synthetic biology, biomechanics, nanoscience, etc. It is also
+encouraged to condense the scientific hypothesis of immunology from preliminary research
+discovery and clinical practice, to explore the immunological spectrum of important human
+diseases, and to carry out innovative research based on clinical practice.
+In 2020, there are more applications in autoimmune diseases, inflammation, infection and
+immunity, organ transplantation and transplantation immunity, immune recognition, immune
+tolerance and immune dysregulation, immune related factors and diseases, etc. The deficiencies in
+proposal application are as follows: the experimental basis of some clinical disease-related research
+projects is weak, which is difficult to support the scientific hypothesis; the design of some research
+projects are presupposition, routine and transplantation, and lacks mechanism exploration in depth.
+Medical Genetics (H23)
+The Discipline mainly supports basic and translational research on the pathogenesis,
+prevention and treatment of human genetic diseases and rare diseases, as well as development of
+new technologies and methods in medical genetics.
+The key research directions and areas include studying the genetic principles of genetic
+diseases, discovering new pathogenicity genes, clarifying the pathogenesis and epigenetic
+mechanisms caused by pathogenicity genes and their mutations during the onset and development
+Funding Scope and Instructions
+95
+of diseases by use of the advantages of human genetic and clinical resources in China; and
+exploring novel diagnosis methods and strategies of prevention and treatment. It is advised to
+excavate and make full use of the resources of rare diseases in China, and to carry out basic
+research in depth in the fields of resource protection, pathogenesis, prevention and diagnosis and
+drug discovery for rare diseases. It is encouraged to employ multidisciplinary techniques to
+perform cross-research on the genetic structure and regulatory mechanisms, and to develop new
+strategies for diagnosis and intervention of human genetic and rare diseases.
+Division V of Health Sciences
+The Division mainly supports basic research and basic clinical research in the fields of
+special medicine, forensic medicine, medical imaging/nuclear medicine and biomedical
+engineering/regenerative medicine.
+Special Medicine (H24)
+The Discipline is aimed at the unique medical support needs under special circumstances
+(aeronautics, aerospace, navigation, deep diving, plateaus, polar regions, etc.), researching and
+solving various special medical problems, and providing theoretical and technical support for major
+national strategic needs. These studies will aim at understanding the physiological and pathological
+changes and related mechanisms, on the level of molecules, cells, tissues, organs and the entire
+human body, and revealing the regulatory mechanism of the body’s adaptive changes and
+pathological damage in the special environment, as well as the key factors of the body’s tolerance
+to extreme environments. On this basis, risk prediction and assessment techniques, as well as novel
+protection techniques, are carried out for body damage under special environmental conditions.
+Special medicine mainly supports research on pathophysiological changes and prevention methods
+of related disease in special or extreme environments such as weightlessness, overweight, radiation,
+hypoxia, high pressure, high temperature, high humidity, high cold, and small confined space. It is
+encouraged to apply physics, chemistry, biology and biomedical engineering in the
+above-mentioned fields, to carry out in-depth and systematic research on specific medical issues in
+extreme environments, and to explore new theories and techniques for maintaining and enhancing
+body functions and physical fitness under special environmental conditions. Integration of different
+directions within special medicine and interdisciplinary research are also encouraged.
+Forensic Medicine (H25)
+The Discipline mainly funds research on resolving problems of biological, chemical and
+medical evidence in the judicial practice, with human body and other related forensic
+samples/materials as the research objects. The funding fields mainly include: identification of cause
+of death, estimation of postmortem interval, injury and death mechanism and screening of forensic
+markers, novel methods for evaluation of head injury, mechanism and assessment of personal
+injury caused by environmental pollution; toxicant (drug) abuse and dependence, toxicant
+metabolism and analysis; injury mechanism, AI identification of injured area, wound age inference
+by multi-omics combined with AI; objective evaluation of mentally disabled people’s capacity and
+responsibility; individual identification of difficult samples, identification of complex relationship,
+tissue origin and family origin inference, multi-omics identification of identical twins, single-cell
+sequencing and identification of mixed stain, and basic theory and application research on forensic
+epigenomics. Applications of theories and technologies in other disciplines such as medicine,
+National Natural Science Fund Guide to Programs 2021
+96
+biology, genetics, physics, chemistry, law, psychology, and information science are encouraged in
+the aforementioned fields to conduct in-depth and systematic research on forensic science issues.
+Interdisciplinary studies between forensic medicine and other disciplines such as medical imaging
+and biomedical engineering are strongly supported, too.
+Medical Imaging/Nuclear Medicine (H27)
+The Discipline mainly funds research on imaging and applying imaging methods to solve
+medical-related scientific problems. The scope includes diagnostic radiology (magnetic resonance
+imaging (MRI), conventional X-ray imaging and computed tomography), ultrasound medicine,
+nuclear medicine, electromagnetic imaging, optical imaging, and interventional medicine.
+Multidisciplinary exploratory research is encouraged in cutting-edge scientific fields such as new
+imaging principles and imaging methods, new contrast agents, multimodal cross-scale imaging,
+molecular imaging and molecular probes, functional imaging, imaging big data and artificial
+intelligence, precision intervention, theranostics, and translational medicine. Application of new
+imaging technologies is supported in research on the pathogenesis, early diagnosis and treatment,
+prognosis and efficacy evaluation, and drug screening of various diseases.
+Biomedical Engineering/Regenerative Medicine (H28)
+Biomedical engineering is characterized by using the principles and methods of engineering
+science to study and solve problems in biomedicine and improve the level of disease diagnosis and
+treatment. It mainly includes related research involving the intersection of electronic information,
+instrument science, material science and biomedicine.
+The Discipline mainly funds such basic research as medical electronic engineering,
+regenerative medicine, and nanomedicine with relation to disease prevention and early warning,
+detection and diagnosis, treatment and rehabilitation. Main funding directions include: biomedical
+signals and images, biomedical sensing, biomedical photonics, chips and micro-nano systems,
+biomedical system modeling and simulation, medical information systems, rehabilitation
+engineering, neural engineering and brain-computer interaction, treatment planning and navigation,
+medical robots, biomedical instruments and medical devices, gene and drug carriers and delivery
+systems, medical biological materials, tissue engineering and regenerative medicine, artificial
+organs, etc. Such research is also supported as neural interface and control technology, biological
+micro-electromechanical systems, biomedical smart materials, diagnostic and therapeutic
+functional materials, 3D printing and tissue and organ construction, medical virtual reality and
+augmented reality, cell and immunotherapy, tissue-like organ construction and application, and
+health big data mining and medical artificial intelligence, etc.
+In 2020, among the applications for funding in special medicine, forensic medicine, medical
+imaging/nuclear medicine, and biomedical engineering/regenerative medicine, those in medical
+imaging/nuclear medicine had the largest increment, with those on secondary codes evenly
+distributed. The application volume and distribution in biomedical engineering/regenerative
+medicine and special medicine did not change significantly, whereas the applications in forensic
+medicine decreased slightly. In order to promote the further rapid development of special medicine,
+forensic medicine, medical imaging/nuclear medicine, and biomedical engineering/regenerative
+medicine, the Division encourages researchers with different academic backgrounds to cooperate in
+multidisciplinary research work, supports original work, emphasize clinical application and the
+transformation of clinical outcomes, and gives appropriate special support to young scholars who
+conduct research in the above-mentioned fields.
+Regarding medical imaging/nuclear medicine and biomedical engineering/regenerative
+medicine, Division V does not accept applications on radiation oncology or radiation
+Funding Scope and Instructions
+97
+prevention, which could be submitted to related codes in Division VII (H18) or Division VIII
+(H29). Division V does not support applications in pharmacology and drug administration,
+either, which should go to related codes in Division IX (H34, H35).
+Division VI of Health Sciences
+The Division mainly supports the basic research and clinical basic research in the fields of
+locomotor system, emergency and critical care medicine, trauma, burns, plastic surgery,
+rehabilitation medicine, medical virology and virus infection, human pathogens and infections, and
+laboratory medicine.
+Locomotor System (H06)
+The Discipline mainly supports the research on the abnormalities in structure, function and
+development of the bone, joint, muscle, ligament, and related nerve, blood vessel and other tissues,
+and the research in the etiology, pathogenesis, diagnosis, prevention and cure of the
+musculoskeletal diseases including the immune-related diseases, inflammation and infection, injury
+and repair, grafting and reconstruction, fatigue and recuperation, degenerative disorders, sports
+injury, deformity and correction. Meanwhile, the researches on the emerging scientific issues such
+as medical biomaterials and artificial intelligence in musculoskeletal fields are highly encouraged.
+In 2020, applications were mainly focused on the research fields in the musculoskeletal damage
+and repair, and the degenerative diseases of bone, joint and soft tissue. In contrast, applications in
+musculoskeletal fatigue and recuperation filed were still at quite low volume. This field encourages
+the innovative and translational research based on clinical needs, the systematic and original
+research on major scientific issues in locomotor system, the interdisciplinary research using new
+techniques and methods, the cross-talk research between locomotor system and other organs and
+tissues, and the research of aging and pain in locomotor system.
+Emergency and Critical Care Medicine (H16)
+The Discipline mainly supports the researches on sepsis, organ function failure and support,
+cardiac-pulmonary resuscitation, poisoning, heat stroke, new technologies and methods in the field
+of emergency and critical care medicine. The pathogenesis, accurate diagnosis and treatment and
+scientific prevention in the field of emergency and critical care medicine should be paid more
+attention to. Meanwhile, researches on pathophysiological changes and immune dysfunction in this
+field are highly encouraged.
+Trauma/Burns/Plastic Surgery (H17)
+The Discipline mainly supports the researches on trauma, burns, chimatlon, wound healing
+and scar management, repair, transplantation and reconstruction of surface tissues and organs,
+craniomaxillo-facial deformity and its correction, new technologies and methods in the field of
+trauma/burns/plastic surgery. The pathogenesis, accurate diagnosis and treatment and scientific
+prevention in the field of trauma/burns/plastic surgery and malformation should be paid more
+attention to. Meanwhile, researches on the following aspects are highly encouraged, which include
+injury mechanisms, prevention and treatment of complications, tissue repair and function
+reconstruction, wound healing, scar prevention and treatment, repair, reconstruction and
+reengineering of body surface tissue and organ deformity and defect.
+National Natural Science Fund Guide to Programs 2021
+98
+Rehabilitation Medicine (H20)
+The Discipline mainly supports the research on the rehabilitation mechanism of structural
+abnormalities, disability, activity and participation limitations and the researches on the basic
+scientific issues related to the evaluation and treatment of rehabilitation. At the same time, the
+effects and mechanisms of kinesiotherapy, physical factors, occupational therapy and speech
+therapy are highly encouraged. This field also encourages interdisciplinary and original research to
+meet rehabilitation needs and the exploration of new techniques and methods in the treatment and
+evaluation of rehabilitation.
+Medical Virology and Virus Infection (H21)
+The Discipline mainly supports the researches on diseases caused by medical viruses and
+their infections, including respiratory viruses and infections, digestive tract viruses, picorna viruses
+and infections, hepatitis viruses and infections, retroviruses and infections, herpes viruses and
+infections, arboviruses and infections, hemorrhagic fever viruses and infections, human papilloma
+virus, rabies virus, parvovirus, prion and other viruses and infection, focusing on etiology,
+biological characteristics of viruses, host interaction, pathogenic mechanisms, epidemic
+characteristics of infections, and new technologies, new methods, new strategies, and new
+paradigms of medical virology for the diagnosis, treatment, and prevention and control of
+virus-related diseases. With the guarantee of ethics and biosafety, the program encourages
+associated research on emerging and highly pathogenic and highly transmissible viruses and
+infections.
+Human Pathogens and Infections (H22)
+The Discipline mainly supports the researches on the pathogenic bacteria, fungi, parasites,
+and vectors of infectious diseases including the biology of bacteria, fungi, parasites, and medical
+vectors and associated infections. The Discipline also supports research on the biology of
+mycoplasma, chlamydia, rickettsia, spirochetes and associated infections, the mechanisms of drug
+resistance and hospital-acquired infections, sexually transmitted disease, and the development of
+new technologies and methods for the study of infectious diseases. The Discipline focuses on
+genetic variation and evolution of pathogens, and molecular mechanisms of drug resistance and
+pathogen-host interactions. With the guarantee of ethics and biosafety, the Discipline encourages
+associated research on new and reemerging diseases and tropical diseases.
+Laboratory Medicine (H26)
+The Discipline mainly supports researches on biochemical test, microbiological analysis,
+cytological examination, hematological examination, immunological test, molecular biology test,
+and new technologies and methods in the field of laboratory medicine. Discoveries and
+identification of new biomarkers of diseases, new technology of rapid and accurate detection, and
+researches on new theories should be paid more attention to. The laboratory medicine researches on
+interdisciplinary researches coupled with chemistry, physics, biosensing and artificial intelligence
+are highly encouraged.
+The fields of Locomotor System (H06), Emergency and Critical Care Medicine (H16),
+and Trauma/Burns/Plastic Surgery (H17) do not support the oncology-related research,
+please select the appropriate secondary application code under Oncology (H18). The field of
+Rehabilitation Medicine (H20) neither supports research that is not directly related to
+rehabilitation mechanism, evaluation and treatment, nor funds the projects of rehabilitation
+engineering and rehabilitation of traditional Chinese medicine. For research only involved in
+Funding Scope and Instructions
+99
+the occurrence and development of diseases, please select application codes of the
+corresponding systems. For applications related to rehabilitation engineering and
+rehabilitation of traditional Chinese medicine, please select the corresponding secondary
+application codes under Biomedical Engineering/Regenerative Medicine (H28) and
+Traditional Chinese Medicine (H31). The field of Laboratory Medicine (H26) does not
+support research on clinical laboratory reference system and standardization, nor
+pathogenesis and regulation pathways of diseases. In addition, for the applications related to
+genetic resources, ethics, and highly pathogenic microorganisms, please see the general
+introduction of the Department.
+Division VII of Health Sciences
+The Division mainly funds oncology research.
+Oncology (H18)
+Oncology research seeks to understand the nature of tumor biology and foster the progress
+in tumor prevention, diagnosis and therapeutic strategies. On the one hand, it emphasizes to
+decipher cancer etiology and molecular mechanisms governing cancer development, progression
+and interaction of tumor with the human body. On the other hand, it aims to facilitate the transfer of
+new knowledge from basic research into clinical application in tumor prevention, diagnosis and
+treatment.
+Oncology research encompasses basic research, translational and clinical research.
+Proposals related to basic scientific questions, including tumor biological behaviors and the
+intrinsic mechanisms of cancer, should select corresponding application codes for tumor etiology,
+tumor occurrence, tumor cell fate, tumor genetics/evolution, tumor epigenetics, tumor immunology,
+tumor metabolism, tumor microenvironment, tumor reoccurrence/metastasis, cancer stem cells, and
+interdisciplinary research of cancer (application codes H1801─H1811). Proposals related to
+translational research and clinical applications, including tumor prevention, diagnosis, and
+treatment, should choose corresponding application codes for tumor prevention, tumor diagnosis,
+chemotherapy, targeted therapy, radiotherapy, tumor physical therapy, tumor immune therapy,
+tumor biological therapy, tumor comprehensive treatment, tumor treatment resistance, tumor
+rehabilitation, oncology study focusing on distinct clinical characteristics, big data and artificial
+intelligence, translational study of cancer, and new technology and methods in oncology research
+(H1812─H1826).
+Oncology research is one of the most active fields in medical sciences. With the rapid
+development and understanding of cancer, there are some emerging trends in this field. (1) The
+paradigm of cancer research switches from a micro, local view to a macro, systemic view. Thus,
+instead of focusing on tumor cell alone, oncology research is extending to tumor microenvironment,
+macroenvironment and emphasizes studying the interactions of tumors with the human body by
+comprehensive investigation from molecular, cellular to tissues, organs and system levels. (2) Due
+to the complexity of the nature of cancer, interdisciplinary integration becomes increasingly
+important in cancer research. Advanced techniques from other frontiers fields have been employed
+in tumor diagnosis and treatment. Thus, paradigm of oncology research switches from a model
+mainly based on medicine and life sciences toward a new one which is featured by
+cross-integration and coordinated development of multi-disciplines. The new paradigm emphasizes
+the employment of interdisciplinary methods, including molecular structure, signal pathways,
+National Natural Science Fund Guide to Programs 2021
+100
+animal models, bioinformatics, clinical medicine, preventive medicine, imageology, as well as
+materials science, big data and artificial intelligence technology, mathematics, physics, chemistry,
+etc., to promote the systematic advances in oncology research. (3) Advance in oncology research
+increasingly depends on close cooperation of basic research and clinical practice. On the one hand,
+due to insufficient understanding of the nature of cancer, there is a lack of effective prevention,
+diagnosis and treatment methods in clinic. Therefore, breakthrough in basic research is prerequisite
+for advance in translational and clinical research. On the other hand, the diversity and complexity
+of tumor clinical features, as well as treatment responses, continue to raise new scientific questions
+for basic research. To this end, a high degree of integration of clinical and basic research activities
+should be strengthened to foster innovation in basic research and clinical application. (4)
+Additionally, the exploration of cancer research continues to integrate the concepts, models, and
+practical experiences of traditional medicine in the world to evoke a comprehensive and
+complementary model of modern medicine and traditional medicine. Thus, it highlights the
+importance to clarify the mechanisms of action, effectiveness, and safety of various treatments used
+by traditional medicine in tumor management.
+The initiation and progression of cancer is a complex multi-level, trans-scale and
+intertwined process. It requires close cooperation of multidisciplinary investigators, as well as
+integration of basic research and clinical practice, to unveil the so-called mesoscopic structure of
+cancer, law of evolution and regulatory mechanisms of cancer that between the unit scale and the
+system scale from different points and multiple layers, and to define the interactions and boundary
+conditions inside and outside the system, as well as the connections between multiple layers. A new
+paradigm of oncology research helps to deepen the understanding of mechanisms governing cancer
+initiation and progression, prompting the development of more effective approaches of cancer
+prevention, diagnosis and treatment.
+Applicants are encouraged to discover and refine scientific questions from preliminary
+research and clinical practice, and to systemically investigate the mechanisms of malignant tumors
+for translational research and clinical improvement of cancer diagnosis and treatment, as well as to
+develop multidisciplinary techniques and new methods for cancer research. Integrated research
+proposals taking advantage of the clinical resources in China and studies focusing on common and
+frequently-occurring tumors or rare cancers in Chinese population are also encouraged. In order to
+develop comprehensive strategies for cancer managements, applicants are also encouraged to
+conduct integrative studies by combining approaches of traditional medicine with modern medical
+science.
+Applicants should note that the proposals on tumor epidemiology should be submitted
+to Division VIII (H30), and proposals on hematologic and lymphatic system tumors should be
+submitted to Division I (H08).
+Division VIII of Health Sciences
+The Division mainly supports the basic researches in fields of dermatology, radiation
+medicine and preventive medicine.
+Dermatology (H12)
+The funding scope of dermatology covers the basic research on the abnormality of structure,
+function and development of skin and its appendages, as well as immune-mediated, infectious,
+hereditary, metabolic, traumatic and physicochemical skin diseases. In recent years, the results of
+Funding Scope and Instructions
+101
+project application and funding show that the level of basic research on skin-related diseases has
+improved rapidly, and research on skin and its appendages has shown a good trend. The basic
+research on epidemiological, diagnostic and therapeutic techniques and methods of skin diseases
+should be strengthened. Interdisciplinary and integrated researches with life science, physics,
+chemistry, computer science and other disciplines should be encouraged.
+Radiation Medicine (H29)
+The funding scope of radiation medicine covers basic research on radiation injury and
+intervention, radiation toxicology and radiopathology, radiological hygiene and protection. In
+recent years, the number of project applications and the quality of the funding projects indicate that
+great progress has been made in the scientific research and some studies have reached the
+international advanced levels, although the volume of the researcher team engaged in Radiation
+Medicine is small. While the funded projects mainly focus on radiological injury and intervention,
+basic research on the early diagnosis and prevention of radiation damage should be further
+strengthened. The Discipline attaches importance to the biological effects of low dose radiation and
+radiation-induced bystander effects, encourages the fundamental researches of medical
+radiobiology, promotes the establishment and development of a completed discipline system.
+Preventive Medicine (H30)
+The funding scope of preventive medicine covers the basic research on environmental
+hygiene, occupational health and diseases, food hygiene, human nutrition, children and adolescent
+health, maternal and child health care, hygienic toxicology, hygienic analytical chemistry,
+infectious disease epidemiology, epidemiology of non-communicable disease, epidemiological
+methods and medical statistics, behavior/psychological factors and health, endemiology. Based on
+this new code system, occupational medicine and endemiology are integrated into the scope of
+preventive medicine. The research of behavioral/psychological factors and health is added to
+strengthen the prevention beforehand strategic layout of the disease control and prevention. It is
+encouraged to carry out interdisciplinary and integrated researches and expand discipline areas and
+research directions to constantly adapt to new health needs. Population-based data accumulation
+and analysis of biological samples are encouraged.
+In the field of Dermatology (H12), oncology-related researches are not funded, which
+should be applied to Division VII (H18). In the field of Radiation Medicine (H29),
+applications involved in cancer radiotherapy are not funded, and may refer to categories
+under Division VII (H18), while applications for medical imaging and radiological diagnosis
+are also not accepted, which should refer to categories under Division V (H27). Food Hygiene
+(H3004) does not support the study only on food processing and relevant divisions of Life
+Science are recommended. Applications for studying gynecologic diseases and pediatric
+diseases are not accepted in the field of Maternal and Child Health Care (H3005), or Children
+and Adolescent Health (H3006). The former may refer to categories under Division IV (H04),
+and the latter depends on the classification of diseases. Applications on drug toxicology are
+not supported by Hygienic Toxicology (H3007), which may refer to categories under Division
+IX (H35). Researches on clinical test are not included in the category of Hygienic Analytical
+Chemistry (H3008), which may refer to categories under Division VI (H26). Pharmaceutical
+analyses which are excluded from H3008 may refer to Division IX (H34). The category of
+Epidemiology (H3009, H3010) does not fund purely laboratory research projects that are
+non-population-based. Applications for health economics and policy, hospital administration,
+and other health management-related projects are not accepted in Epidemiology of
+non-communicable disease (H3010), which may refer to related categories under Department
+National Natural Science Fund Guide to Programs 2021
+102
+of Management Science. Applications for non-population-based studies of pure etiology,
+treatment and prognosis will not be accepted in Epidemiology of Infectious Diseases (H3009),
+which should refer to other relevant codes of the Department. Non-population based studies
+of clinical and experimental research on psychosocial diseases will not be accepted in
+Behavioral/Psychological Factors and Health (H3012), which should refer to relevant
+application code of other divisions. Applications of disease projects without geographical
+features are not accepted under the category of Endemiology (H3013). For related
+applications, please select the application code of the relevant disease system.
+Division IX of Health Sciences
+The Division mainly supports basic researches in the discipline of materia medica and
+pharmacology for diseases therapy.
+Materia Medica (H34)
+The field of materia medica covers research areas or sub-disciplines including synthetic
+medicinal chemistry, medicinal chemistry of natural products, microbial drugs, biotechnological
+drugs, marine drugs, special drugs and orphan drugs, drug design and drug informatics,
+pharmaceutics, pharmaceutical materials, pharmaceutical analysis, drug resources, etc.
+The discipline of materia medica provides emphasis on interdisciplinary researches, basic
+researches of innovative drugs and druggability. Funding in synthetic medicinal chemistry focuses
+on the research of active molecules based on new targets, new mechanisms or new structures, and
+generally does not support the simple optimization research of active compounds for known targets.
+Funding in medicinal chemistry of natural products and microbial drugs mainly provides to
+innovative theories, technologies and approaches for drug discovery from plants, animals and
+microorganisms. Funding in biotechnological drugs mainly supports researches on innovative
+biotechnologies or approaches to obtain biotechnological drugs including therapeutic antibodies,
+vaccines, proteins, nucleic acid and cells, etc.; meanwhile, exploratory researches on new types of
+expression systems and large scale cultural techniques will also be supported rationally. Funding in
+marine drugs mainly supports chemical, pharmaceutical and ecological researches of rare marine
+creature and marine microorganism from deep sea. Funding in special drugs and rare disease drugs
+supports drug researches involved in aeronautics, astronautics, deep sea, radiations, militaries,
+special environments, rare diseases etc. Funding in drug design and drug informatics mainly
+supports researches on innovative theories, approaches, software or computational program for
+drug design and druggability prediction, and meanwhile, on the discovery and structural
+optimization of completely new chemical structures of hit molecules. Funding in pharmaceutics
+mainly supports researches on innovative theories, technologies and methods, which are associated
+with physical pharmacy, biopharmaceutics, molecular pharmaceutics, industrial pharmaceutics,
+novel drug delivery systems and pharmaceutical dosage forms, and which are investigated for
+various disease or administration route. Funding in pharmaceutical materials mainly supports basic
+researches on establishment and safety evaluation of new pharmaceutical excipients and carriers,
+which should have owned prominent features in pharmaceutical functions and structures and can be
+distinguished from researches in the area of pharmaceutics. Funding in pharmaceutical analysis
+mainly supports basic researches on the establishment and development of innovative approaches
+and techniques for analysis of the pharmaceutical molecules, drug targets or biofunctional
+molecules, especially, the in vivo effector molecules and the interaction between drug molecules
+Funding Scope and Instructions
+103
+and target molecules or effector molecules to solve key scientific problems in the fields of materia
+medica and pharmacology, and supports integrated investigations on the novel techniques for
+multi-omics with the important scientific problems of drug targets and biomarkers. As for drug
+resources, the Division mainly supports researches on key scientific problems associated with
+discovery, exploration, sustainable utilization and protection of new pharmaceutical resources.
+Pharmacology (H35)
+The field of pharmacology mainly supports researches on target discovery and validation,
+drug action mechanism or drug resistance mechanism, target validation, drug metabolism and
+pharmacokinetics, clinical pharmacology and drug toxicology, etc. The involved drugs should be
+therapeutic drugs or drug candidates or bioactive substances with some advantages in treatment of
+diseases.
+The discipline of pharmacology puts emphasis on in-depth study of action mechanism of
+drugs or bioactive products and their target, including exploring the basic rule of life and the
+pathologic mechanism of disease by using drug molecules as probes. In-depth and systematic
+studies should be strengthened in proposals related with research fields as below: discovery and
+validation of new target, disease-specific and sensitive biomarker, discovery of new
+pharmacological actions of drugs or bioactive compounds and elucidation of their action
+mechanism, strategies and methods to effectively overcome multi-drug resistance, new targets,
+novel drugs and new strategies of drug combination based on pharmacogenomics, epigenetics,
+systematic biology, etc. Basic research should be strengthened in proposals as below: molecular
+regulatory network of complex disease and mechanism of drug intervention, individualized drug
+therapy and new treatment approaches, translational medicine, innovative pharmacological models,
+techniques and approaches. In the sub-discipline of drug metabolism and pharmacokinetics, new
+approaches and new models should be constructed and developed to strengthen the integrated
+researches on the drug target, pharmacodynamics, toxicology, clinical medication and drug
+intervention, and the regulation mechanism researches on the drug-metabolizing enzymes and
+transporters. In the sub-discipline of clinical pharmacology, the researches should focus on the
+exploratory research of individualized medication and the interaction between drugs and human
+body, and lay more emphasis on rational administration of special community such as children,
+pregnant women and the highest-risk population, etc. In the sub-discipline of drug toxicology,
+researches should be strengthened in the research fields as below: molecular mechanism,
+intervention strategy to drug toxicity, mechanism on metabolite toxicity, novel models and
+approaches for drug safety evaluation.
+Innovative fundamental research and continuous in-depth projects will be granted in priority.
+Because translational medicine is of far reaching significance in improving clinical application
+value of basic research, laboratory basic research on discoveries of new drug, clinical therapeutics
+and diagnostics will be strengthened to reveal new targets for drug therapy, new biomarkers for
+disease diagnostic in the course of exploring the mechanisms on occurrence and development of
+disease, furthermore, to lay theoretical and experimental foundation for developing innovative
+drugs and diagnostic reagents with independent intellectual property.
+Division IX does not fund conventional researches for drug development for new drug
+approval such as pharmaceutical process and general pharmacology. To the innovative basic
+research with a great prospect for new drug development, the entire chemical structures or
+backbone of compounds should usually be provided in application, but the applicants should
+pay special attention to the protection of intellectual property and carefully handle the
+relationships between application and secrecy. Confidentially core contents or techniques,
+which are not suitable to illustrate or describe in proposals such as chemical structures,
+National Natural Science Fund Guide to Programs 2021
+104
+should be sent directly to Division IX by confidential letters and explained in proposals.
+Applicant of young scholar should get the consent of applicant’s supervisor and Letter of
+Authorization signed by applicant’s supervisor should be attached with proposal, if research
+proposal is similar with or closely related to applicant’s supervisor research work.
+Division X of Health Sciences
+The Division identifies its role as advancing the theories of Traditional Chinese Medicine
+(TCM) including traditional medicine of various ethnic groups (the same below) while highlighting
+advantages of TCM. It provides funds to basic science research and clinic research programs in
+TCM, Chinese material medica (CMM) and integrated Chinese and western medicine.
+Traditional Chinese Medicine (H31)
+Funding areas: (1) Fundamental theories of TCM: Zang-Fu organs, Qi-Blood-Body Fluid,
+body constitutions, etiology and pathogenesis, basis of TCM syndromes, therapeutic principles and
+methods, prescriptions and diagnostics in TCM; (2) basic research in clinical Chinese medicine:
+internal medicine, surgery, orthopedics and traumatology, gynecology, pediatrics, ophthalmology,
+otorhinolaryngology, stomatology, oncology, geriatrics, and health preservation and rehabilitation
+in TCM; (3) acupuncture and moxibustion, Tuina and massage: acupoints and meridians,
+acupuncture and moxibustion, Tuina and massage; (4) ethnomedicine of minority; (5) novel
+techniques and methods in TCM research.
+Chinese Materia Medica (H32)
+Funding areas: (1) Chinese material medica: resources, identification, substances in
+pharmacodynamics, quality evaluation, processing, pharmaceutics and theories in the properties of
+Chinese herbs; (2) pharmacology of TCM: neuropsychopharmacology, cardiovascular and
+cerebrovascular pharmacology, anti-tumor pharmacology, endocrinological and metabolic
+pharmacology, anti-inflammatory pharmacology, immunopharmacology, antiviral and anti-infective
+pharmacology, respiratory pharmacology, digestive pharmacology, urinary and reproductive
+pharmacology, metabolism of CMM, pharmacokinetics and toxicology in CMM; (3)
+ethnopharmacy of minority; (4) novel techniques and methods in CMM research.
+Integrated Chinese and Western Medicine (H33)
+Funding areas: (1) fundamental theories of integrative medicine; (2) basic clinical research
+of integrative medicine; (3) novel techniques and methods in integrative medicine research.
+In recent years, the funded projects in the fields of TCM, CMM, and integrative medicine
+have exhibited the following features: (1) based on TCM theories and clinical effects of TCM, and
+conducted from both macroscopic and microcosmic levels, the projects explored the holistic rules
+of human life and the integrating regulatory effects of TCM; (2) through introducing cutting-edge
+theories, methods and techniques exerted in the modern medical science and other fields, incessant
+innovation of research thoughts and methods, dynamic integration of TCM and new emerging
+disciplines, the projects have particularly been promoting the development of TCM; (3) these
+projects also highlighted the priority of clinic-based research of functional disorders, age-associated
+diseases, metabolic diseases, immunological disorders, and viral infectious diseases treated by
+TCM and the underlying mechanisms.
+The Discipline’s top priority is to support the best projects on in-depth exploration of the
+Funding Scope and Instructions
+105
+modern scientific connotation of TCM on the key scientific issues of TCM and under the guidance
+of TCM fundamental theories, while emphasizing normative and rational applications of modern
+science and technology as well as methods, and thus to promote the inheritance, consistence,
+development, and innovation of TCM fundamental theories.
+In light of the current TCM research, the Division’s funding priority will continue to support
+the following areas in 2021: biological basis of Zang-Fu organ theories (visceral function), animal
+models of combining disease and syndrome, regularity in herbal combination of classical formulas,
+pharmacodynamic material basis, combination of macrocosmic and microcosmic syndrome
+differentiation, mechanisms for therapeutic effects of TCM on preponderant diseases, methodology
+in clinical therapeutic evaluation of TCM, specificity of acupoint, regularity in acupoint formulae
+and acupuncture manipulation, mechanisms underlying the therapeutic and preventive effects of
+acupuncture, Tuina and rehabilitation on diseases, methodology of big data mining based on
+ancient documents and modern clinical practices, basic theory, diagnostic and therapeutic regularity,
+mechanisms for the effects of integrative medicine in the prevention and treatment of major,
+refractory, rare diseases, emerging and infectious diseases, herb-drug interactions, ecological
+planting, natural farming, bionic cultivation of CMM, substitute of rare or endangered CMM,
+CMM identification principles and methods, methods and mechanisms for quality evaluation of
+CMM, regularity and mechanisms of CMM processing and preparation, technical principles of
+CMM preparation and novel drug delivery system with overall efficacy, CMM properties, material
+basis for effects, physiological disposition and the related regulation, pharmacological effects and
+mechanism of CMM, CMM toxicity, toxicology, and the correlation between toxicity and efficacy,
+ethnomedicine such as Mongolian medicine, Tibetan medicine, Uyghur Medicine, Dai medicine,
+Korean medicine, Zhuang medicine and so on, innovative techniques and methods in TCM and
+CMM research.
+Division X does not support any proposal which is not associated with TCM. Any
+proposal focusing on pure modern medical research should be submitted to other divisions
+(H01─H30). Any proposal focusing on natural medicine should be submitted to the
+pharmaceutics division (H34) or pharmacology division (H35).
+Research on CMM resources should reflect the unique properties of CMM, such as the
+related characteristics of the yield and quality in the production process of CMM, protection
+of CMM resources, development and production of new CMM resources. The Division will
+not support research which focus on non-medicinal plants, non-medicinal animals and
+non-medicinal minerals. The studies of active substances and pharmacology of CMM should
+explain the correlation with its clinical efficacy or the values to the development of CMM.
+Pharmaceutics research of minority should explain the relevance of ethnomedicine theory or
+traditional medicine administration principles. Any proposal without natural science feature
+will not be supported. TCM or acupoint formulas should list the components in the proposal.
+For those which cannot be shown openly should be sent to the Division directly by
+confidential mails and specifically explained in the proposal. All proposals which do not meet
+the above requirements will not be funded.

@@ -1,0 +1,120 @@
+
+
+Artificial intelligence has enormous potential for improving healthcare across all areas of the NHS and social care. NIHR currently has three routes for researchers and industry partners seeking funding for health research involving artificial intelligence.
+
+The NIHR has three funding streams to support health and care research that involves artificial intelligence (AI).
+
+The Artificial Intelligence in Health and Care Award (AI Award) supports AI solutions across the whole development pathway, from initial feasibility to clinical implementation. It is funded by NHS England and NHS Improvement and the NIHR  in partnership with the Accelerated Access Collaborative and NHS AI Lab. Read about projects funded in Competition 1 and Competition 2. Competition 3 will be open 29 June - 7 September 2021.
+
+The Artificial Intelligence for Multiple Long-Term Conditions (Multimorbidity) call (AIM) supports research to spearhead the use of AI and data science to address the challenges of multiple long-term conditions (multimorbidity) or MLTC-M.  The call is part of the NHS AI Lab and is enabled by the NIHR.
+
+The Artificial Intelligence and Racial and Ethnic Inequalities in Health and Care call supports research to advance AI and data-driven technologies in health in ways that better meet the needs of minority ethnic populations. The call is jointly funded by NHS AI Lab and The Health Foundation and enabled by the NIHR. 
+On this page:
+
+    Health and Care
+    Multiple Long-Term Conditions
+    Racial and Ethnic Inequalities
+    Our people
+    Contact us
+
+Health and Care
+Introduction
+
+The AI in Health and Care Award will deploy £140m over four years to accelerate the testing and evaluation of the most promising AI technologies that meet the strategic aims set out in the NHS Long Term Plan.
+
+The AI in Health and Care Award is run in partnership with the Accelerated Access Collaborative (AAC) and NHS AI Lab. 
+
+The AI in Health and Care Award supports AI technologies across the spectrum of development, from initial feasibility to evaluation within clinical pathways in the NHS and social care settings, to the point that they could be nationally commissioned.
+
+Applications may be submitted by a small-to-medium-sized enterprise (SME), an NHS or social care organisation or service provider, a higher education institution, charity or local authority. Additionally for Phases 3 and 4, the call is open to large enterprises.
+What do we fund?
+
+Competition 3 invites applications to Phases 2-4 of the AI Award. 
+
+    Phase 2 is intended to develop and evaluate prototypes of demonstration units and generate early clinical safety and efficacy data. Award amounts are uncapped (any amount can be requested but must be reasonably justified), funding awards are per product, typically for 12-36 months.
+    Phase 3 is intended to support first real-world testing in health and social care settings to develop further evidence of efficacy and preliminary proof of effectiveness, including evidence for routes to implementation to enable more rapid adoption. Awards are uncapped (any amount can be requested but must be reasonably justified), funding awards are per product, typically for 12-36 months.
+    Phase 4 is intended to identify medium stage AI technologies that have market authorisation but insufficient evidence to merit large-scale commissioning or deployment. We will support testing and evaluation of these technologies within routine clinical or operational pathways to determine efficacy or accuracy, and clinical and economic impact. Grants are uncapped, funding awards are per technology, typically for 12-36 months.
+
+Phase2 is delivered through the well-established and robust mechanisms underpinning the NIHR Invention for Innovation (i4i) programme and the NHS England and NHS Improvement SBRI Healthcare programme. This early stage pipeline will be managed by the NIHR Innovations Programme Management Office, in close collaboration with the AAC Delivery Team.
+
+Through Phases 3 and 4, the AAC Delivery Team will facilitate initial real world testing and systems adoption of the AI technologies into the NHS and/or social care setting. For Competition 3, applications to Phase 3 and 4 which address self management of long-term conditions, diagnostic support, improving operational/system efficiency or supporting elective recovery are particularly welcomed.
+How do I apply?
+
+The AI Award supports innovators and technologies across the spectrum of development, from concept through to initial NHS adoption and testing of the AI technology within clinical pathways. You may only apply to one phase per product.
+
+Read more about the specifications for different phases and the entry points and fundable activities in our guidance for applicants. 
+
+See the dates for our funding competitions to find out when funding is available. The AI Award is run as a two stage application process. Shortlisted applicants from stage 1 are invited to submit a full proposal at stage 2. Please see competition guidance, finance guidance and FAQs for further information.
+
+If you have consulted the website and the applicant guidance and are still unsure if your proposal is within remit, please complete an enquiry form with details of your enquiry and your proposed project. 
+Stage 1
+
+Applications should be submitted online through the Research Management System (RMS). Please ensure you have read the guidance for completing a Stage 1 application form.
+Stage 2
+
+Stage 2 applications are by invite only and should be submitted online through the RMS.  Please ensure you have read the guidance for completing a Stage 2 application form.
+Advice for applicants
+
+The Competition 3 launch webinar took place on Thursday 17 June 2021. This and previous webinars can be viewed on the NHS AI Lab Virtual Hub. Please note that you will need to request access to the hub by emailing aivirtualhub-manager@future.nhs.uk in order to view the webinars. The AI Lab Virtual Hub has been set up as a platform to allow stakeholders to directly connect rather than just coming through the award. We recommend that you join and you encourage collaborative partners to join for more resources and to engage with colleagues across the NHS.
+
+Applicant Q&A sessions were held on 2 August 2021 and 1 September 2021.  An additional webinar took place on Thursday 12 August for innovators in AI who had technologies that are aimed at providing solutions in social care.
+Multiple Long-Term Conditions
+Introduction
+
+The Artificial Intelligence for Multiple Long-Term Conditions (Multimorbidity) call (also referred to as the AIM programme) supports research to spearhead the use of advanced data science and AI methods - combined with existing methodology and expertise in clinical practice, applied health and care research and social science - to systematically identify new clusters of disease and the development of conditions over the life course. This research will develop insights into the identification and subsequent prevention of multiple long-term conditions (multimorbidity) or MLTC-M.
+
+In 2020-2021 the £23m call generated a pipeline of data science and artificial intelligence translational research projects to understand and map clusters of MLTC-M. The call supported research collaborations and partnerships between leading academic institutions, health and care researchers, AI experts, and practitioners. This call aimed to grow capacity and capability for multi-disciplinary working in MLTC-M for the benefit of patients, practitioners and the public. 
+
+The call is part of the NHS AI Lab multimorbidity programme and is enabled by the NIHR.
+
+NIHR has produced a Strategic Framework for MLTC-M research. This outlines what NIHR means when we talk about MLTC-M, our research priorities in this area and the actions we are putting in place to support them.
+
+Read the NIHR Strategic Framework for MLCT-M research
+What do we fund?
+
+The AIM call funds programmes of research that use AI and data science methods, combined with expertise in clinical practice, applied health and care research and social science, to systematically identify or explore clusters of disease. In addition to the identification and mapping of new clusters of disease, the call seeks research to better understand the trajectories of patients with MLTC-M over time and throughout the life course, including the influence of wider determinants such as environmental, behavioural and psychosocial factors.
+
+The funding available through this call will lead to scientific understanding which will allow researchers to start addressing key challenges in the treatment and management of MLTC-M in the health and social care system in the future. We have three primary longer term aims that include:
+
+    The development of solutions which will improve the quality of life and health outcomes for people with MLTC-M.
+    The exploration of new approaches and future industry collaborations to diagnose disease early, progress drug development and address the burden of polypharmacy.
+    The implementation of measures to reduce progression to a greater number of conditions.
+
+In particular, we seek applications from cross-disciplinary and cross-institutional teams to develop research in this important field. A total of £23m was allocated between two streams - larger Research Collaborations and smaller, preparatory Development Awards.
+
+Research Collaborations of £2.5-5m were funded for up to 36 months (in wave 1).
+
+Applicants who were interested in applying for a Research Collaboration award, but needed more time and resources to develop a competitive proposal, applied for preparatory Development Awards of up to £120k for 8 months. 
+
+In addition, NIHR funded a Research Support Facility (RSF) to work with Research Collaborations funded through the AIM call. The RSF will focus on the delivery of centralised AI and advanced data science support; capacity and capability in AI and MLTC-M research; foster a collaborative approach and a culture of shared learning; and provide a leadership role to facilitate impact from the AIM call.
+
+Read the call specification for full details of this funding call. Please note that at this moment, there are no further calls being planned for this initiative. This webpage is retained for information only.
+Racial and Ethnic Inequalities
+Introduction
+
+The AI and Racial and Ethnic Inequalities in Health and Care call funds research projects focused on enabling AI and data-driven technologies to deliver better health outcomes for minority ethnic communities.
+
+This £1.55 million call will fund research to:
+
+    Better understand and enable opportunities to use AI to ensure innovation happens in response to the health needs of minority ethnic groups
+    Contribute to improving the quality, availability and appropriate use of datasets to account for ethnic diversity in the development of AI models
+    Improve the development, testing and deployment of AI models across patient populations to reduce bias and improve the performance and accuracy of emerging and existing tools for different subpopulations
+
+The call is jointly funded by NHS AI Lab and The Health Foundation and enabled by the NIHR. This call is a part of the NHS AI Lab’s AI Ethics Initiative, which will invest in research and trial practical interventions to ensure that AI products used in the NHS and care settings do not exacerbate health inequalities.
+What do we fund?
+
+The call will fund two categories of research:
+
+1) Understanding and enabling the opportunities to use AI to address inequalities
+
+    Funded by The Health Foundation
+    Awards of £175,000 to £275,000
+
+2) Optimising datasets, and improving AI development, testing and deployment
+
+    Funded by the NHS AI Lab
+    Awards of £200,000 to £500,000
+
+Both categories will fund projects of 12 to 24 months duration.
+
+The projects will be selected primarily on their potential value to the health service and social care system and on the improved outcomes delivered for those in receipt of care.

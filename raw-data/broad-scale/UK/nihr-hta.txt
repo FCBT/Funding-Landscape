@@ -1,0 +1,73 @@
+The Health Technology Assessment (HTA) Programme funds research about the clinical and cost-effectiveness, and broader impact of healthcare treatments and tests, for those who plan, provide or receive care from NHS, and social care services.
+
+The Health Technology Assessment (HTA) Programme is funded by the NIHR, with specific contributions from the Chief Scientist Office (CSO) in Scotland, Health and Care Research Wales, and the HSC R&D Division, Public Health Agency in Northern Ireland.
+
+HTA research is undertaken where some evidence already exists to show that a technology can be effective, and this needs to be compared to the current standard intervention to see which works best.
+
+Research can evaluate any intervention used in the treatment, prevention or diagnosis of disease, provided the study outcomes lead to findings that have the potential to be of direct benefit to NHS patients.
+
+The HTA Programme needs to be convinced that an intervention is ready for HTA evaluation. We've prepared a document outlining the issues that may determine this judgement.
+
+The researcher-led workstream offers researchers the opportunity to submit proposals on topics or research questions within the programme’s remit. The commissioned workstream invites applications in response to calls for research on specific questions, which have been identified and prioritised for their importance to the NHS and patients. Proposals may include primary research, evidence synthesis, or feasibility and pilot studies, when requested within the commissioning brief.
+
+All of our funded projects are eligible for publication in the NIHR Journals Library. This open access resource  is freely available online, and provides a full and permanent record of NIHR-funded research.
+On this page:
+
+    Scope
+    What we fund
+    Our people
+    Contact us
+    Fast-track scheme
+
+Scope
+
+The Health Technology Assessment (HTA) Programme supports research that is immediately useful to patients, clinical practice, and policy or decision makers.
+
+HTA research is undertaken when evidence exists to show that a technology can be effective. The purpose of an HTA study is to establish the clinical and cost-effectiveness for the NHS in comparison with the current best alternative(s). A study may also investigate uncertainty around a technology’s place in the existing care pathway.
+What are technologies?
+
+“Technologies” in this context mean any method used to promote health, prevent and treat disease, and improve rehabilitation or long-term care. They are not confined to new drugs and include any intervention used in the treatment, prevention or diagnosis of disease.
+
+Examples include:
+
+    procedures
+    drugs
+    devices
+    diagnostic tests
+    settings of care
+    screening programmes
+
+The technology doesn't necessarily need to exist in current NHS practice, but a study would need to show that it could. Health Technology Assessment asks important questions about these technologies such as:
+
+    when is counselling better than drug treatment for depression?
+    what is the best operation for aortic aneurysms?
+    should we screen for human papilloma virus when doing cervical smears?
+    should aspirin be used for the primary prevention of cardiovascular disease?
+
+It answers these questions by investigating four main factors:
+
+    whether the technology works
+    for whom
+    at what cost
+    how it compares with the alternatives
+
+Which programme should I apply to?
+
+The following guide compares the remits of the HTA Programme with the Efficacy and Mechanism Evaluation (EME) Programme:
+
+EME or HTA? Would my primary research idea be of interest to the HTA Programme or the EME Programme?
+What we fund
+The HTA Programme will support
+
+    systematic reviews
+    economic models
+    meta-analyses
+    mixed-treatment comparisons
+    expected Value of Information studies
+    randomised controlled trials (unblinded, single-blinded, double-blinded, triple-blinded)
+    non-randomised trials
+    single-centre studies where a strong case has been made for this type of design and there is assurance the results will be generalizable to the wider NHS
+    cohort studies (retrospective or prospective)
+    adaptive designs
+    modelling studies
+    international studies

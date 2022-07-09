@@ -1,0 +1,384 @@
+Department of Chemical Sciences
+Chemistry is the science that deals with the composition, structures, properties, reactions
+and transformations of matters, which plays a central role in multidisciplinary crossing and
+integration. Chemical engineering, involved as the unique industrial characteristic of the chemistry
+subject, aims to realize large-scale production by applying the principles of transfer and conversion
+of matters and energy, and ultimately to construct substantial foundation for essentials and
+sustainable development of human society.
+The Department is dedicated to raise the overall quality and international status of China’s
+fundamental research, and the creative talents and groups with international impact in the fields of
+chemistry and chemical engineering. Specifically, the Department stimulates and financially
+supports multi-scale research on the reaction, process and function at different levels of atoms,
+molecules, molecular aggregation and condensed state. Studies on complex chemical systems are
+also encouraged to secure the precise control and logic cognition of chemical synthesis, process and
+function. Moreover, the Department is focused on expanding knowledge of chemistry and chemical
+engineering in multiple research fields, such as biology, materials, energy, information, resources,
+environmental science and human health, targeted at the major issues confronting economy, society,
+national security and sustainable development. Accordingly, the projects awarded by the
+Department basically focus on the frontier research in chemistry and chemical engineering through
+various strategies, including the combination of microscopy and macroscopy, statics and dynamics,
+theoretical chemistry, empirical approach and precise analytical technologies, and fundamental
+experiments and process engineering. In addition, innovative and interdisciplinary research works
+addressing new theories, technologies and achievements from other disciplines are highly
+encouraged.
+National Natural Science Fund Guide to Programs 2021
+24
+The Department will consistently promote innovative and high-quality research in the
+cutting-edge fields, with a focus on in-depth and systematic research works, and a priority support
+to proposals on the basis of multidisciplinary crossing and integration. The Department rewards
+creative projects by placing emphasis on the research diversity of ideas, methods and contents,
+whereas research similarity and combination are highly discouraged. Besides, the Department will
+make every effort to support original research of a certain risk, so as to overcome innovation
+bottleneck that limited the rapid development of chemistry and chemical engineering in China,
+ultimately enabling a breakthrough from high-quantity to high-quality research. In the review
+process, scientific excellence is the core criterion for selection and discipline development with
+balance, coordination and sustainability will be comprehensively considered. The aim is to promote
+the fundamental research of chemistry and chemical engineering in China to the international
+frontier.
+Funding in Department of Chemical Sciences in 2020
+Unit: 10,000 yuan
+Divisions
+General Program Young Scientists Fund Fund for Less Developed
+Regions
+Projects Direct
+cost
+Funding
+rate (%) Projects Direct
+cost
+Funding
+rate (%) Projects Direct
+cost
+Funding
+rate (%)
+Synthetic chemistry 275 17,309 20.21 273 6,512 17.06 49 1,960 15.22
+Catalysis and surface/interface
+chemistry 186 11,726 20.39 193 4,608 17.02 27 1,080 15.00
+Chemical theory and
+mechanism 115 7,247 20.61 80 1,896 16.99 10 386 15.87
+Chemical measurement 162 10,205 20.66 137 3,240 17.23 20 800 15.04
+Materials chemistry
+And energy chemistry 333 20,983 20.45 356 8,312 17.44 42 1,680 15.16
+Environmental chemistry 225 14,182 20.51 168 4,032 16.99 27 1,080 15.17
+Chemical biology 145 9,142 20.39 107 2,544 17.04 21 840 14.89
+Chemical engineering
+And industrial chemistry 374 23,580 20.35 268 6,392 17.06 39 1,560 15.00
+Total or average 1,815 114,374 20.42 1,582 37,536 17.14 235 9,386 15.12
+Direct cost per project 63.02 — 39.94
+For the selection of General Program projects, the Department received 8,889 proposals in
+2020, an increase of 935 proposals or 11.76 % compared with the year 2019. After review, 1,815
+proposals were funded with the success rate of 20.42 % and the average direct cost of 630,200 yuan
+per project. In 2020, the success rate decreased by 0.64 % compared with that of 2019 to guarantee
+the funding intensity. The proposals received and funded as well as their ratios in the main research
+orientations of chemistry and chemical engineering were slightly increased compared with that of
+2019. There was an increase in received proposals related with the convergence research areas such
+as materials and energy, life health and environmental resources.
+For the selection of Young Scientists Fund projects, the Department received 9,229
+proposals in 2020, an increase of 1,214 or 11.76 % compared with the year 2019. After review,
+1,582 proposals were funded with the success rate of 17.14 % and the average direct cost of
+237,300 yuan per project. In 2020, the success rate decreased by 2.40 % compared with that of
+2019. The Department upholds the principle of talents first and fosters innovative talents, brings
+into full play the maintaining and fostering role of the Young Scientists Fund, and steadily enhances
+the funding following the idea of properly controlling the funding intensity and further expanding
+Funding Scope and Instructions
+25
+the funding scope. The Young Scientists Fund stresses on the research projects with innovative
+ideas, discourages the research that simply continue the advisors’ topics, and gives less weight to
+research accumulation and the constitution of the relevant research teams, so as to facilitate the
+growth of young scientists.
+For the selection of Fund for Less Developed Regions projects, the Department received
+1,554 proposals in 2020, an increase of 194 or 14.26 % compared with the year 2019. After review,
+235 proposals were funded with the success rate of 15.12 % and the average direct cost of 399,400
+yuan per project. In 2020, the success rate decreased by 2.16 % compared with that of 2019. On the
+basis of stabilizing the funding scale of the Fund for Less Developed Regions, the Department will
+make efforts to further promote the research quality and efficiency of the Fund, stabilize a batch of
+research talents for fundamental research, and continuously bridge the gap with the developed
+regions. Applicants are encouraged to carry out research by taking advantage of the local resources,
+in order to promote the economic development of the regions in a coordinated way.
+Attention: Proposals that have the same or similar research contents cannot be applied
+by different applicants.
+Division I of Chemistry
+The Division supports research in the field of synthetic chemistry.
+Synthetic Chemistry (B01)
+Synthetic chemistry is the science dealing with the creation and transformation of matter,
+which involves the synthesis and assembly of inorganic, organic, polymeric substances, etc.
+Synthetic chemistry is to selectively control the process of creation and transformation of
+molecules and substances, so as to realize the precise preparation and application of new materials
+with specific properties and/or functions. As the basis of chemical science, Synthetic chemistry
+actively seeks interdisciplinary interactions and collaborations, searches for solutions to major
+scientific problems, and boosts the economic and social development.
+Synthetic chemistry is to fulfill the demand for new substances, new materials and new
+devices in the fields of physical sciences, life sciences, and applied science including materials
+science, computer science and information technology, energy and environmental science. The
+relevant research activities mainly focus on: seeking rational design and structural control of
+substances with potential functions, their synthesis/assembly methodologies and reaction processes
+with high efficiency and selectivity; developing new synthetic strategies, inspired by biosynthesis
+of living systems, facilitated with the combination of the state-of-the-art research technologies in
+physics and computation science; exploring the mechanism and rules of reactions and conversion
+processes, and establishing the corresponding fundamentals and standardized protocols. Synthetic
+chemistry aims at a safer, greener and more efficient goal, making the synthesis of matter more
+precise and environment friendly. It will put more emphasis on human health, effective utilization
+of natural resources, and sustainable development. To this end, the following directions are
+preferentially encouraged: synthetic chemistry promoted by new reagents, new reactions, new
+concepts, new strategies and new theory; synthetic methodology of atom economy, precise control
+and sustainability; biological and biomimetic synthesis rationalized by chemical principles;
+synthesis under unconventional and extreme conditions; non-covalent synthesis based on
+intermolecular interactions; molecular design and synthesis of novel functional materials;
+controlled synthesis and high-performance functionalization of macromolecules; novel substances
+National Natural Science Fund Guide to Programs 2021
+26
+and their emerging properties and function.
+The Division appreciates the research activities focusing on creation and transformation of
+molecules and substances, which actively involve interdisciplinary interactions and collaborations,
+original and fundamental breakthroughs, and substantially supportive and beneficial to industrial
+applications.
+Division II of Chemistry
+The Division supports the research in the field of catalysis and surface/interface chemistry
+and chemical theory and mechanism.
+Catalysis and Surface/Interface Chemistry (B02)
+Catalysis and surface/Interface chemistry are intended to study catalytic processes and the
+structure and properties of the surface/interface and to reveal the physical and chemical basic rules
+of catalysis and the surface/interface.
+The areas funded by Catalysis and surface/Interface chemistry include chemical catalysis,
+surface chemistry, colloid and interface chemistry and electrochemistry. These areas involve
+surfaces, gas-solid interfaces, gas-liquid interfaces, liquid-liquid interfaces, liquid-solid interfaces
+and solid-solid interfaces and gas-liquid-solid multi-phase interfaces.
+Supports in the field of chemical catalysis are focused on developing new concepts and
+catalytic theory, discovering new catalytic reactions and creating new catalytic materials,
+promoting the cross-over and fusion between heterogeneous, homogeneous and biological catalysis,
+fostering the understanding of rational design and regulation of catalytic active site structures,
+developing new catalytic characterization methods and technologies with the features of in-situ,
+dynamic and high temporal-spatial resolution, strengthening the research on catalytic reaction
+mechanisms as well as structure-performance relationships and the coupling and integration during
+the catalytic reactions.
+Surface chemistry mainly supports the research at atomic and molecular levels on chemical
+and physical processes related to solid surface interfaces, as well as their correlative
+characterization techniques and methods. Encouraged research orientations include: solid
+surface/interface structure, performance and control; dynamics and energy transfer theory in the
+assembly and reactions at surface/interface; the new methods for physical and chemical processes
+at surface/interface.
+Colloid and interface chemistry supports the research on the usage of new methods and
+techniques to reveal the essences of colloids and interface chemistry; the design and synthesis of
+new surfactants and the construction of aggregation; the development of new dispersion systems;
+the understanding of assembly processes, interface adsorption and filtration behaviors; construction
+of a colloidal material with self-healing and outfield responsiveness; the enhancement of basic
+research for applications of colloid and interface chemistry in the fields of material, life science and
+environment science.
+Electrochemistry mainly supports the research including the construction and
+characterization of electrochemical interface systems; the methods of in-situ electrochemical
+spectroscopy with high spatial and temporal resolution; the theory and simulation methods of
+electrochemical systems; surface/interface process in the high-end manufacturing of electronics;
+recognition and control of electric charge transfer, mass transport and conversion in
+electrochemical interface; design, synthesis and characterization methods for electrocatalysts;
+Funding Scope and Instructions
+27
+reveal of problems in the fields of electrochemical energy conversion and storage, electrochemical
+synthesis, bioelectrochemistry, photoelectrocatalysis and electrochemical engineering and
+manufacturing.
+Chemical Theory and Mechanism (B03)
+Chemical theory and mechanism aims to establish and develop new chemical theories and
+experimental methods to reveal the mechanism and basic rules of chemical reaction and its related
+processes.
+The areas supported by chemical theory and mechanism include theoretical chemistry,
+computational chemistry, chemical thermodynamics, chemical kinetics and reaction dynamics,
+structural chemistry, photochemistry and spectroscopy, chemical reaction mechanisms, moletronics
+and molecular magnetism, polymer physics and polymer physical chemistry, chemical informatics
+and artificial intelligent.
+Chemical theory and mechanism focuses on the new methods of electronic structure theory,
+dynamics and statistical mechanics, conducting theoretical design and computational simulation of
+complex systems such as chemical system, material system, energy system and biological system,
+and the development of computational chemistry methods and software. For chemical
+thermodynamics, there is a need to develop theoretical and experimental methods suitable for
+complex systems, revealing the internal logic between microstructures and system thermodynamic
+properties, and to focus on the applications of chemical thermodynamics in biological
+systems/energy systems/material systems and other cross fields. Research in chemical kinetics and
+reaction dynamics focuses on the development and utilization of new experimental and theoretical
+methods to explore the substantive characteristics of the chemical reaction and the non-adiabatic
+process during the reaction as well as the chemical kinetics in extreme conditions. Applicants are
+encouraged to conduct research employing advanced coherent light source and focus on the work
+of ultrafast dynamics, microstructure and mechanisms of condensed phase. Structural chemistry
+focuses on the structural characterization and techniques of complex functional systems,
+controllable synthesis and assembly, dynamic bonding and transformation, and encourages the
+rational design, construction and application of mew multi-porous structures. Research of
+photochemistry and spectroscopy should focus on the development of spatial resolved,
+time-resolved and energy-resolved new technologies and their new assembly methods to the study
+of photochemical and photophysical mechanism of luminescent and light conversion material. The
+research of chemical reaction mechanisms will be focused on exploring microscopic mechanism
+and basic rules of chemical reaction by means of theoretical chemistry, computational chemistry
+and experimental strategies, clarifying molecular polarization, electronic coupling, and mechanism
+of spin conversion. Polymer physics and polymer physical chemistry mainly focus on the chain
+behavior and interaction of macromolecules, the evolution mechanism and control over different
+scales of the structure, the essence of the connection between microstructure and macroscopic
+properties. For chemical informatics, it is encouraged to develop algorithms for storage, retrieval,
+transformation and data mining of molecular structure information based on general system
+principles. Artificial intelligent in chemistry should base on big data and artificial intelligent
+technologies, and focus on its application in chemistry, chemical engineering, material, energy, and
+life science.
+National Natural Science Fund Guide to Programs 2021
+28
+Division III of Chemistry
+The Division supports research in the field of Materials chemistry and Energy chemistry.
+Materials Chemistry (B05)
+Materials chemistry is to study the design, preparation, structure, property and application of
+materials. It is a bridge between chemistry and materials, energy, environment, life, medicine and
+information science. Materials chemistry is the scientific basis of new material systems. Principles
+and methods of chemical sciences are used to design new materials at the atomic and molecular
+levels and to develop preparation techniques and study the structure-activity relationships of
+materials. It aims to realize the control over the materials’ micro, meso, and macro-scopic
+properties by means of structure function transfer, integration and coordination at multi-scale and
+multi-level; to study the creation of new high-performance and multi-functional materials as well as
+their applications in the fields of energy, health, environment and information.
+Materials chemistry focuses on the precise preparation of new materials with specific
+functions, accurate construction and control over the structure and properties of materials, the
+crossover and integration of multi-disciplinary, the correlation between structure and properties,
+and the investigation of the molecular basis of material systems using various characterization
+techniques. Materials chemistry aims to address the major national needs and focuses on the
+in-depth utilization of characteristic resources in our country.
+Materials chemistry focuses on the development of functional materials, which have the
+characteristics of electronics, optics, magnetism, acoustics and thermology, and those related to
+biology, medicine and pharmacy. It needs to develop materials of wearable devices and
+microelectronic system devices. Attentions should be paid to the optimization of structure design of
+new advanced materials as well as their preparation process using artificial intelligence. There is
+also a need to develop materials chemistry methods and principles in the processing of advanced
+materials.
+Energetic materials chemistry focuses on the basic issues in storage, release and application
+of high-density chemical energy, and developing methods in the design and preparation of novel
+energetic materials such as materials of all-nitrogen structure, ionic type and coordination type.
+Energy Chemistry (B09)
+Energy chemistry is a science focused on energy conversion, transmission, storage and
+utilization by applying chemical principles and methods. Its basic task is to investigate new energy
+conversion and storage mechanisms, design new materials, establish new theories and methods,
+develop new systems, and create new devices to achieve efficient and clean utilization of chemical
+energy.
+Energy chemistry focuses on clean and efficient utilization of fossil resources, and
+strengthens the investigation on the preparation chemistry of clean energies such as non-fossil
+liquid fuels and hydrogen energy, storage materials and their efficient energy conversion.
+Electrochemical energy focuses on various batteries with power and energy storage which pays
+attention to the innovative research of electrolytes, battery separators and electrode materials, and
+to the design and preparation of highly efficient solar cell materials, device assembly and
+integration. Energy chemistry pays attention to developing materials of energy conversion and
+storage and optimizing phase-changed energy storage materials. Basic chemical issues in important
+energy conversion processes such as photochemical energy, thermoelectricity, photoelectricity and
+Funding Scope and Instructions
+29
+optothermal as well as the conversion of biomass into energies and resources should also be worthy
+of attention. The utilization of biomass should be focused on catalytic pyrolysis and conversion to
+high quality liquid fuels.
+Division IV of Chemistry
+The Division supports research in the field of chemical measurement sciences,
+environmental chemistry and chemical biology.
+Chemical Measurement Sciences (B04)
+Chemical measurement sciences aims to develop chemistry-related measurement and
+analysis theories, principles, methods and techniques, and to develop related instruments, devices
+and software to obtain the variation rules of the matter’s composition, distribution, structure,
+properties and interactions.
+The studies of chemical measurement sciences emphasize interdisciplinarity, and focus on
+methodological research, instrumental creation based on new principles and development of key
+technologies. The funding scope of chemical measurement sciences ranges from detection and
+analysis from macroscopic to microscopic systems with high throughput, high sensitivity and high
+specificity, aiming at establishing new theories, principles, methods and technologies, and
+broadening the application of existing technologies in important scientific fields. The research
+includes theory innovation of chemical measurement, sample treatment and separation, qualitative
+and quantitative analysis, spectroscopic methodologies and applications, chemical and biological
+sensing, chemical imaging, material analysis, measured data process, creation of instruments and
+the development of key technologies, application of novel technology from other fields in chemical
+measurement sciences, etc.
+The priority funding areas for chemical measurement sciences include: processing,
+separation and identification methods for complex sample; spatial and temporal resolved
+spectroscopy and chemical imaging; new spectroscopic principle and technology; precise
+measurement of single atom, single molecule, single cell and single particle; micro/nano analysis
+and devices; structural and functional analysis of biological macromolecules; in-vivo and real-time
+detection of living organisms; omics analysis; biomolecular recognition and probes; in-situ and
+on-line characterization techniques; analysis technology for diagnosis of major diseases; analysis
+technology under deep space, deep earth and deep sea environment; early warning, screening and
+traceability of public safety; creation of miniature instruments and devices; chemical measurements
+based on the big science facility, artificial intelligent in chemical measurement sciences.
+Environmental Chemistry (B06)
+Environmental chemistry is a science that studies the existence, characteristics, behaviors,
+effects of chemical substances in environment and the principles and methods for pollution control.
+It is an important branch of chemical science and the core discipline of environmental science.
+Environmental chemistry faces the frontier of the discipline and the national strategic
+demands, adheres to the problem orientation, and highlights foresight, innovation, crossover and
+application. Major funding areas of environmental chemistry cover the following branches:
+environmental pollution and analysis, pollution process and mechanism, pollution control and
+remediation, environmental toxicology and health effects, environmental theory and computation,
+radiochemistry and radiation chemistry, chemistry safety and security.
+National Natural Science Fund Guide to Programs 2021
+30
+Facing the major issues of ecological environment protection in our country and refining the
+key scientific issues, environmental chemistry encourages developing new detection technologies
+and methods, and studying the environmental chemical behavior, ecological and health effects and
+its prevention and control principles and methods through the combination of laboratory research,
+field experiment, theoretical simulation and environmental big data. The priority funding areas
+include: characterization and analysis of pollutants in complex environmental media; tracing and
+behaviors of emerging contaminants on multi-media interface; new principles and technologies in
+environmental catalysis; forming mechanism and control techniques of atmospheric combined
+pollution; pollution process of soil and water and their control and remediation; treatment and
+utilization of solid wastes; environmental exposure and health effects of new toxic pollutants;
+environmental behaviors and toxicology of micro- or nano-materials; formation and control of
+antibiotic resistance of microorganisms; environmental computational chemistry and big data;
+prevention and control of radioactive pollution and utilization of radioactive nuclides; key chemical
+issues in the prevention and control of hazardous chemicals and radiation, etc.
+Chemical Biology (B07)
+Chemical biology utilizes exogenous chemicals to modify or regulate the biosystem
+precisely at the molecular level by interventional chemical methods or pathways. It provides new
+ideas and new concepts for life science research via creating new reaction technology and new
+molecular tools, and promotes the realization of visual, controllable and creative research in life
+processes (or functions).
+Chemical biology focuses on the processes and dynamic rules of important molecular events
+in life science, and gives full play to the characteristics and creativity of chemical science. The
+study mainly focuses on those areas: to achieve, explore and regulate the vital activities in real-time,
+in-situ and in quantitative analysis by constructing and discovering molecular probe; to develop
+new biocompatibility reactions, achieve modification and labelling of biological molecules by the
+orthogonal and coupling technology and study the biological functions of biological
+macromolecules such as protein, nucleic acid, polysaccharide, lipid compounds, as well as active
+molecular and key ions; to discover the functional or biogenic oriented active natural products with
+new structure and new skeleton, and reveal their mechanism of action and targets; to establish and
+optimize small molecule compounds library and screening technology to explore and interfere the
+biological process in cell, thereby to reveal unknown pathways and new vital activities of
+interaction of biological molecules, promote the study of signal transduction and gene transcription
+based on functional small molecules, and realize the identification of drug targets, discovery of
+biomarkers and development of leading compounds, reveal the bio-function of active molecular; to
+analyze the biosynthesis mechanism of substance in vital activities, and to synthesize specific target
+molecule or complete special chemical reaction by using biosystem and/or biological components;
+to carry out chemical assembly and simulation of complex living system, develop new theory for
+chemical biology, and reveal chemical essence of life activities, on the basis of creating and
+developing innovative chemical tools and techniques.
+Chemical biology encourages original innovation. It preferentially supports the research in
+molecular function and functional regulation with molecular probes in major biological events and
+diseases; encourages the research oriented to solving biological and medical problems by chemical
+means and methods; strengthens the fundamental research of chemical reaction mechanism and
+chemical theory of biological system; explores the chemical origin of life and the chemical
+communication of life system; promotes the interdisciplinary, integration and cooperation of
+chemistry, biology and medicine.
+Young scientists are encouraged to conduct independent and original research. Proposals without interdisciplinary research will not be supported.
+Division V of Chemistry
+The Division supports research in the field of chemical engineering and industrial chemistry.
+Chemical Engineering and Industrial Chemistry (B08)
+Chemical engineering and industrial chemistry is to study the flow, transfer and reaction in
+the conversion processes of matter and the relationship between them. The tasks include to
+recognize the transport, reaction phenomena and laws in the conversion processes of matter, and its
+mechanism on the process efficiency and properties of products; to study the theories, methods and
+technologies for efficient conversion of matter; to develop new technologies, new processes and
+new equipment suitable for industrialization. Chemical engineering emphasizes the research on
+“engineering science” and the integration with other disciplines such as chemistry, material,
+biology and information, etc. Chemical engineering provides scientific basis for national major
+demands such as modern manufacturing industries, energy security, strategic emerging industries
+and life and health.
+Chemical engineering and industrial chemistry emphasizes the research on process
+engineering, system engineering, products engineering and multiscale science. In recent years,
+facing the major application demands and scientific frontier, chemical engineering and industrial
+chemistry encourages researchers to study the key scientific issues of application and to develop
+scientific frontier theories, methods and technologies. The recent research is more focused on the
+regulation, measurement and simulation in micro-/meso-structure, interface and mesoscales, the
+processes intensification and scale-up rules, and the uncommon and extreme processes as well as
+the relevant information and intellectualization research. The research further expands from
+chemical engineering to the product engineering and integrates with new fields such as life and
+health, ocean, electronic information, new materials and new energy.
+Innovative research work with chemical engineering feature is encouraged. Chemical
+engineering and industrial chemistry preferentially supports the research in spatial and temporal
+dynamic structure at mesoscale, chemical big data and intelligent processes, system security in
+chemical engineering, thermodynamics, transport and reaction under unconventional conditions,
+green chemical engineering, clean transformation and high-value utilization of resources,
+agriculture and marine chemical engineering, green biological manufacturing, product engineering
+as well as the fundamentals of chemical science related to material, energy, resources, environment
+and health, etc
