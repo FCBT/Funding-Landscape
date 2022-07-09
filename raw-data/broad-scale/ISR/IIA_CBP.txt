@@ -1,0 +1,12 @@
+This program supports courses that offer extra-academic computer coding training.
+Goal of the incentive program:
+The Coding Bootcamp Program aims to increase the number of graduates acquiring relevant practical training who are placed in development roles at high-tech companies with a salary of at least NIS 14,000 (15 months after finishing the course).
+
+Who is the program for?
+
+Professional training companies, non-profit associations, high-tech companies and academic institutions interested in establishing or expanding an extra-academic coding training program.
+What do you get?
+
+Conditional Funding:
+NIS 7,500 per graduate in an existing course and NIS 12,000 per graduate in a new course. The conditional funding will become a grant when the course attains at least 50% of the declared growth objective.
+Placement Grant: Awarded for placement of graduates in development positions in the high-tech industry with a salary of at least NIS 14,000 (15 months after finishing the course) for at least 9 months. The sum of the grant increases according to the graduate’s salary. A higher grant will be awarded for graduates belonging to one of the sectors of the population currently under-represented in the hightech industry.

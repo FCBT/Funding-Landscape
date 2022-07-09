@@ -1,0 +1,15 @@
+O Sistema Nacional de Processamento de Alto Desempenho - SINAPAD é uma rede de centros composta por nove unidades de computação de alto desempenho instituído pelo Ministério da Ciência e Tecnologia - MCT. O objetivo do SINAPAD é ser uma infraestrutura computacional capaz de responder à demanda de ensino e pesquisa por processamento de desempenho realmente elevado, por alta capacidade de armazenamento e por recuperação de dados, com segurança, facilidade ao acesso e confiabilidade. Desta forma, apoiando o avanço do conhecimento científico e tecnológico por meio da oferta de serviços de Processamento de Alto Desempenho ao Sistema Nacional de Educação, Ciência, Tecnologia e Inovação, ao governo e as empresas.
+
+As Universidades e Instituições que fazem parte do sistema são conhecidas como Centros Nacionais de Processamento de Alto Desempenho -CENAPADs. São elas: 
+
+Universidade Federal do Rio Grande do Sul - UFRGS
+Universidade Federal de Minas Gerais - UFMG
+Universidade Federal do Ceará - UFC
+Universidade Estadual de Campinas - UNICAMP
+Universidade Federal do Rio de Janeiro - UFRJ
+Universidade Federal de Pernambuco - UFPE
+Instituto Nacional de Pesquisas Espaciais - INPE
+Instituto Nacional de Pesquisas da Amazônia - INPA
+Laboratório Nacional de Computação Científica - LNCC, coordena o sistema por delegação do MCT.
+ 
+Saiba mais: https://www.lncc.br/sinapad/

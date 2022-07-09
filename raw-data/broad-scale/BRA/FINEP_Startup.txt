@@ -1,0 +1,110 @@
+O Programa Finep Startup tem como objetivos:
+
+fortalecer o Sistema Nacional de Ciência, Tecnologia e Inovação, por meio do apoio às empresas brasileiras nascentes de base tecnológica, que possuam papel fundamental na introdução de novas tecnologias e modelos de negócios no mercado;
+disponibilizar recursos financeiros para que Startups com alto potencial de crescimento e retorno possam enfrentar, com sucesso, os principais desafios de seus estágios iniciais de desenvolvimento, contribuindo para a criação de empregos qualificados e geração de renda para o Brasil;
+promover o crescimento do mercado de capital semente no Brasil, compartilhando com os investidores privados os riscos associados ao investimento em empresas nascentes de base tecnológica, sem substituir a iniciativa privada em seu papel como principal agente formador desse mercado.
+ 
+
+Valor do Apoio:
+Até R$ 1.500.000,00 (um milhão e quinhentos mil reais) ou até R$ 2.200.000,00 (dois milhões e duzentos mil reais) para startups aderentes ao tema Rota 2030.
+
+ 
+
+Público-alvo
+Startups que tenham faturado no mínimo R$ 360 mil (trezentos e sessenta mil reais) nos doze meses anteriores à submissão da proposta, que tenham tido receita bruta de no máximo R$ 4.800.000,00 (quatro milhões e oitocentos mil reais) no ano calendário anterior e que estejam registrados sob a forma de Sociedade Limitada (“LTDA”) ou Sociedade Anônima (SA) há, no mínimo 6 (seis) meses a contar do envio da proposta.
+
+Para efeito deste Programa, startup se refere à empresa inovadora, com alto potencial de crescimento e retorno, flexível e ágil, que trabalha em condições de incerteza e que possui modelo de negócios repetível e escalável, capaz de resolver um problema real.
+
+Demais aspectos de elegibilidade devem ser consultados no Regulamento do Programa.
+
+ 
+
+Modelo de Operação
+O apoio financeiro envolvido no presente Programa dar-se-á por meio da celebração de um Contrato Particular de Outorga de Opção de Subscrição de Participação Social entre a Finep e a Proponente, com a anuência de seus sócios (doravante chamado de “Contrato de Opção de Compra”), nos termos do art. 5º, §1º, inciso I, da Lei Complementar nº 182/2021.
+
+O Contrato de Opção de Compra disciplina a outorga, pela Proponente, de uma Opção de Compra à Finep. Com isto, a Proponente assume a obrigação, em solidariedade com os seus sócios/acionistas, de emitir ações ordinárias sem restrição de voto, ou ações preferenciais com direito a voto, segundo o juízo de conveniência e oportunidade desta empresa pública, a serem subscritas em favor desta, quando do exercício da Opção de Compra.
+
+A Opção de Compra terá prazo de vencimento de 3 (três) anos, prorrogável por mais 2 (dois) anos a critério de conveniência e oportunidade da Finep, totalizando um vencimento de até 5 (cinco) anos.
+
+As condições contratuais constam da minuta de Contrato de Opção de Compra disponibilizada na página do Programa Finep Startup, na internet, a qual é padronizada, e por isto vincula a todas as Startups que se submeterem às regras deste Regulamento.
+
+ 
+
+Condições para a conversão
+A seu exclusivo critério, a Finep poderá exercer o direito de conversão conferido no Contrato de Opção de Compra quando:
+
+do vencimento da Opção de Compra;
+da ocorrência de um evento de liquidez.
+No vencimento da Opção de Compra e no caso de ausência de evento de liquidez, a conversão poderá ser feita de forma que a participação da Finep na Startup seja de 25% (vinte e cinco por cento).
+
+Caso ocorra um evento de liquidez, o Valuation Post-Money de conversão será dado pelo Valuation Pre-Money do novo Investidor dividido por (1 + (IPCAn+10%)) ^(N/360), respeitado o limite mínimo de participação de 10% (dez por cento) na conversão.
+
+Sendo:
+
+• Valuation Pre-Money – representa o valuation antes do aporte de capital utilizado no Evento de Liquidez;
+
+• “N” a quantidade de dias entre a assinatura deste contrato e a data do exercício da Opção de Compra em participação no capital; e
+
+• “IPCAn” a média anual da variação do índice de inflação medido pelo IPCA no período N.
+
+ 
+
+Tabela Exemplificativa:
+Startup Tabela Explicativa
+
+ 
+
+ 
+
+Processo de Seleção
+Startup Processo de Selecao
+
+ 
+
+Documentos do programa
+Nome do Documento	Formato proprietário	Formato aberto
+Regulamento do programa finep startup
+
+              Este link abrirá em outra aba	           Este link abrirá em outra aba
+Modelo de minuta contratual
+
+              Este link abrirá em outra aba	           
+Declaração de compromisso de investimento para fins do programa Finep Startup
+
+              Este link abrirá em outra aba	           Este link abrirá em outra aba
+Aviso de privacidade	              Este link abrirá em outra aba	           Este link abrirá em outra aba
+ 
+Inscreva-se
+https://forms.finep.gov.br/forms/externo/
+
+A proponente deverá selecionar a opção “Programa Finep Startup” na lista de formulários disponíveis.
+
+ 
+
+Documentos a serem enviados previamente a avaliação técnica (somente para aprovadas na primeira fase – avaliação de elegibilidade e mérito)
+ 
+
+Nome do Documento	Formato proprietário	Formato aberto
+Informações prévias à avaliação técnica
+
+              Este link abrirá em outra aba	Este link abrirá em outra aba
+Planilha de informações financeiras
+
+              Este link abrirá em outra aba	 Este link abrirá em outra aba
+Apresentação - formato Finep Startup
+
+              Este link abrirá em outra aba	Este link abrirá em outra aba
+Modelo de declarações	              Este link abrirá em outra aba	Este link abrirá em outra aba
+ 
+
+Documentos a serem enviados previamente a avaliação jurìdica (somente para aprovadas na segunda fase – análise técnica)
+ 
+
+Nome do Documento
+
+ 
+
+Formato proprietário
+
+Lista de documentos para a avaliação jurídica	             Este link abrirá em outra aba
+Manual de instruções para a obtenção de documentos exigidos para a avaliação jurídica	             Este link abrirá em outra aba

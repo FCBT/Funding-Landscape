@@ -1,0 +1,23 @@
+The National Drone Initiative developing agile regulation and supporting ecosystem to enable drones and UAM operations in Israel
+Moving forward to the next phase of creating a national drone network: for new Call for Proposals, click here
+Israeli Context 
+
+Israel airspace is limited with strict control, limited commercial flying zones and no flying zones along its border. While there are many successful Israeli drone companies, the ecosystem is still tilted toward security applications due to lack of economic incentives to test and develop civil application in Israel, dense airspace that limits the testing opportunities and the lack of supporting regulation to enable the potential in this market.
+
+The NAAMA Initiative
+
+logos
+In the wake of COVID-19 and the enormous challenges that it poses, Israel launched its NAAMA Initiative. The main partners of this program are the Civil Aviation Authority of Israel (CAAI), Centre for the 4th Industrial Revolution Israel (C4IR), the Ministry of Transportation of Israel, Ayalon Highways, the Fuel Choices, and the Smart Mobility Initiative. C4IR Israel, as part of the World Economic Forum network, serves as key project coordinator, promoting stakeholders’ involvement, contacting international government entities and key industry players, and assisting in creating clear guidelines and rules for flight operations and product deliveries. 
+In October 2020, Israel Innovation Authority, as part of the NAAMA initiative, released its first call for proposal to demonstrate UTM capabilities in Israel. This unique project is calling for Israel and international companies to join this first-ever demonstration of operating several UAS in a dense urban area. The first demonstration of the project is scheduled for March 2021, where we will have 8 demonstrations total every quarter in the next 2 years. 
+
+Main goals and KPI's
+
+Collaborative and agile regulation brings together a vibrant drone ecosystem - by bringing together the public and private sectors, the drone ecosystem can develop a better understanding of the needs of both sectors. This conversation provided regulators with an understanding of the technical capabilities, use cases, gaps and how to support and build more resilient regulatory ecosystem. 
+Demonstrating Agility - the entire process from gap analysis through the issuance of a technical RFP documents and the initial selection process was completed in a period of 5 weeks. The speed of this process increased the confidence of the players involved. 
+Vital commercial application - UAS has great potential for maintaining commercial delivery applications for the medical sector and for the delivery of commerce. Hospitals have expensive drugs that must be administered fast and cannot always be stored in the hospitals storage units. This give the UAS delivery a clear advantage over traditional means to transportation and presents an opportunity for UAS to be a game changer in the medical supply chain of the future. Enabling drones delivery in urban airspace also opens up endless possibilities for delivery of goods and commerce allowing retailers to join UAS companies and provide fast and secure supply chain. Lastly, we see this platform as a vehicle to allow urban air mobility in the future, as we lay the infrastructure for urban aerial operations. 
+Drones in the sky
+Anecdotes from the project
+
+Identifying the right “bubbles” to operate the drone delivery - focusing on community need, accessibility, and local partners in each bubble. We first deployed simple delivery between 2 spots in the hospital with the goal of progressing to advanced delivery between different hospitals in the same bubble.
+Testing a drone vs taxi scenario – by leveraging Israel’s size and sufficient train accessibility across the state, a “competition” between a drone and a TAXI was launched. The drone was tested as a first and last mile solution, carrying the medical good to a train station, being carried by the train to a city 150 miles up north, and then delivering the good to a facility near the station. Using the bubble strategy, train now can carry drones with goods to almost any point in the country. 
+From local demonstration to global impact – by focusing on building Israel’s UTM capabilities to manage growing airspace with ongoing demonstrations of 300+ sorties a day, for two weeks period of testing each, and for over 2 years, we will be able to tackle advanced technical challenges and create and test viable drones autonomous airspace. This will allow us to scale up to a national drone operation’s network and lay the foundation for unmanned air mobility (UAM) in the future.

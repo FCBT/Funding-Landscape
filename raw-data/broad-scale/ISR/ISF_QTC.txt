@@ -1,0 +1,75 @@
+About the program
+The program is a partnership between the Council for Higher Education (CHE) and the Directorate for Defense Research and Development (DDR&D) in the Ministry of Defense, with the aim of promoting academic research in Israel in the field of Quantum Science and Technology.
+
+After extensive consultations with various sources in the academic system, The CHE/PBC identified the field of "Quantum Science and Technology" as a field in which a significant and consistent national investment in its development over the next five years and beyond is expected to lead to a significant leap in Israeli research capabilities and in Israel's global standing at the forefront of global knowledge in this field. Therefore, as part of the multi-year plan for higher education for the years 2017-2022, the CHE decided to concentrate efforts in the development of this field (along with a number of other identified areas). To this end, the PBC appointed an advisory steering committee to prepare a national plan for the development of the study of quantum technologies in Israel's higher education system and to assist in leading its implementation. Following the committee’s recommendations, the PBC decided, at its meeting on November 22, 2017 to start a competitive program to support academic research in the field, which will be implemented by the ISF, in cooperation with DDR&D.
+
+DDR&D has been active in the field of quantum technologies for over 15 years, defining it as a central field with potential for significant breakthroughs for various security applications.
+
+Program Objectives
+
+To increase and accelerate academic research and development in the area of ​​quantum science and technology in Israel, while expanding the scope of researchers involved in the field, and strengthening cooperation between researchers from various scientific fields and research universities.
+
+Research Team
+
+1. The target group of the program is researchers form the universities in Israel.
+
+2. Applications will be submitted by up to five main researchers (PI) (from different research groups)
+
+3. Applications submitted by groups of two or more principal researchers shall be given priority
+
+
+Funding sources
+The studies will be partly financed jointly by the ISF and the DDR&D and partly separately by either the ISF or by the DDR&D, all according to the focus of the application and its nature.
+
+
+The team
+The applications are handled by the staff of the special programs department at the ISF.
+
+
+Submission rules
+Eligibility to apply: Applicants with a PhD or MD degree that are members of the senior academic staff, employed at least 50% at universities in Israel; or researchers who will have such academic appointment in the coming academic year or thereafter and throughout the whole research period.
+Research areas: In the first cycle of this program, research will be funded in one of the following topics:
+Quantum calculation
+Quantum communication
+Simulation using quantum systems
+Quantum instruments and sensors (such as atomic clocks, magnetic field meters, and quantum accelerometers)
+Quantum materials (such as topological materials and quantum-engineered materials to show special properties)
+Foundations of quantum theory with implications for future technologies
+Amount of funding: The applications will be granted for a period of three years (it may be possible to grant a continuation grant of up to two years, guidelines for this will be published in the future to active grantees in the plan). The amount of funding is according to the research needs and will not exceed 400,000 NIS per year, for an experimental study and up to 320,000 NIS per year for a theoretical study (these amounts include the institution's overhead). In addition, it will be possible to include a request for dedicated research equipment of up to half of the total grant to each researcher. Researchers participating in the same research proposal will be able to pool the equipment budgets to purchase common equipment for research.
+
+Review process
+The applications will be evaluated in a coordinated manner by the ISF and by the DDR&D.
+All applications submitted to the ISF will be transferred to the DDR&D for adjudication in parallel to the review conducted by the ISF. The applicants are required to attach a file (Appendix A), in which they will be asked to relate to the relevance of the research to security issues (in a separate file that will be forwarded to the DDR&D, but not to the ISF reviewers of the applications)
+In the review process to be carried out by the ISF, the proposals will be evaluated by a professional scientific committee according to the following criteria:
+
+Proposal suitability to the program
+The scientific quality of the proposal
+Appropriate methodology to meet the objectives
+Capability of the researchers to undertake the project
+Capability of existing infrastructure to support the project
+Supporting preliminary results
+Originality and innovation of the research
+The importance of the research and its implications
+In submissions by more than one researcher:
+Exchange of mutual knowledge and expertise among the researchers
+The clear added value of cooperation between the researchers and their groups
+The strength of the proposed cooperation and the level of synergy between the groups
+In the review process to be carried out by the DDR&D, the same proposals will be evaluated by a professional-defense committee in according to the following criteria:
+
+Relevance to operational / defensive technologies, connection to operational gaps, and the level of response to the operational / utility defense needs
+Applied potential and expectations on the timeline for its implementation
+Innovation in the proposed research
+Technological maturity
+The research program, intermediate products and the final product of the research
+Capability of the researchers
+Quality of the proposal, with emphasis on the work plan, deliverables, milestones, identification of risks, pitfalls and technological uncertainties and ways to remove them
+Adequacy of the proposed budget
+
+Decision notification
+The ISF's response regarding the decision to fund/reject the application will be sent to the Applicants, along with the main points of the reviews received or the opinion of the professional committee.
+
+
+Grant activation
+The grant is activated from October 1 of the year of the award and is conditional upon the signature of the researchers on the acceptance and commitment letter.
+During the grant period, scientific and annual financial reports are required.
+A new grant will be activated only on condition that the researchers have completed their scientific commitments regarding previous active grants in any of the ISF programs.

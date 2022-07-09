@@ -1,0 +1,74 @@
+Tem como objetivo estimular a aquisição de itens inovadores, com foco no aumento da produtividade e superação de desafios estruturais do país.
+
+Público-alvo
+O público-alvo são empresas brasileiras de qualquer porte. Quando a empresa for controlada por outra ou pertencer a um grupo econômico, a classificação de porte considerará a receita consolidada do grupo econômico.
+
+Modelo de Operação
+O Finep Aquisição Inovadora é realizado por meio de financiamento reembolsável, com linhas de ação operadas diretamente junto à Finep ou por meio de agentes financeiros credenciados, utilizando recursos próprios e do FUNTTEL (Fundo para o Desenvolvimento Tecnológico das Telecomunicações).
+
+O Finep Aquisição Inovadora apresenta três linhas de ação:
+
+Finep Aquisição Inovadora Telecom: Apoio a projetos de aquisição de produtos que pertençam às posições NCM (Nomenclatura Comum do Mercosul) 85.17 ou 8544.70, nos termos da Portaria MCT 950/2006. A aquisição de cabos de fibra óptica (NCM 8544.70) deverá representar até 60% do valor total do projeto. Veja a lista de produtos certificados.
+
+Finep Aquisição Inovadora Energia: Apoio a projetos de aquisição de produtos que pertençam às posições NCM (Nomenclatura Comum do Mercosul) 8471.80.00, 8504.40, 8507, 8529.10.1, 8536.30.00, 8536.30.90, 8536.4, 8537.10.1, 8537.10.20, 8537.10.30, 8541, 8543, 9022.1, 9022.90.90, 9028, 9030 e 9032, nos termos da Portaria MCT 950/2006. Veja a lista de produtos certificados.
+
+Finep Aquisição Inovadora Saúde: Apoio a projetos de aquisição de dispositivos médicos nacionais fabricados por empresas inovadoras brasileiras. Em caráter provisório, com o objetivo de aquisição ligadas ao combate direto à Covid-19, podem ser financiados itens presentes nesta lista que contenham as seguintes características:
+
+Os produtos devem possuir Código de Situação Tributária (CST) da nota fiscal das seguintes classificações:
+0 – Nacional;
+4 - Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos de que tratam o Decreto-Lei nº 288/67 e as Leis nºs 8.248/91, 8.387/91, 10.176/01 e 11.484/07;
+5 - Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+Os produtos devem estar aprovados pela Anvisa, devendo ser fornecido o número de registro a qual deverá constar registro vigente inferior a 5 anos.
+As condições de financiamento (taxas, prazos de carência e total e percentuais de financiamento) estão apresentadas no anexo das condições operacionais da Finep.
+
+Mais detalhes nas condições operacionais da Finep.
+
+Exigências e Restrições
+Prazo de reconhecimento de despesas: Podem ser aceitas despesas ocorridas a partir da data de submissão do projeto à Finep ou ao agente financeiro credenciado.
+
+Controle do capital das empresas apoiadas: São apoiados projetos desenvolvidos integralmente por empresas instaladas no território nacional. Em caso de associação com empresa cujo controle de capital seja estrangeiro, deverão ser comprovadas as condições para que ocorram efetivamente a transferência e a absorção da tecnologia pela empresa proponente. Empresas cuja maioria de capital, com direito a voto, seja pertencente a pessoas não residentes no país e excluídas das atividades econômicas atinentes aos setores enumerados pelo Decreto n° 2.233, de 23 de maio de 1997, – e suas alterações – não poderão realizar novas em seu ativo fixo.
+
+Como apresentar sua proposta
+Finep Aquisição Inovadora Telecom e Energia: Empresas com receita operacional bruta anual ou anualizada igual ou superior a R$ 90 milhões devem submeter propostas diretamente à Finep. Para isso, a empresa deve se cadastrar no sistema de operações de crédito da Finep. Ao concluir o cadastro, será indicado o gerente de relacionamento responsável por auxiliar no cadastro do projeto.
+
+Empresas com receita operacional bruta de até R$ 90 milhões e com projetos com valor entre R$ 50 mil a R$ 10 milhões ou devem submeter propostas através de agentes financeiros credenciados na operação descentralizada do Finep Aquisição Inovadora. Entre em contato com um dos agentes financeiros credenciados para mais detalhes.
+
+Finep Aquisição Inovadora Saúde: Empresas receita operacional bruta de até R$ 90 milhões e com projetos com valor entre R$ 50 mil a R$ 10 milhões ou com devem submeter propostas através de agentes financeiros credenciados na operação descentralizada do Finep Aquisição Inovadora. Entre em contato com um dos agentes financeiros credenciados para mais detalhes.
+
+O passo a passo do Finep Aquisição Inovadora, bem como os principais documentos necessários por etapa, é o seguinte:
+
+Finep Aquisicao Inovadora
+
+Portaria MCT 950/2006 – Orientações para credenciamento de produtos
+Empresas interessadas em submeter pleito de reconhecimento de produto desenvolvido no país no âmbito da Portaria MCT 950/2006 devem encaminhar proposta para o Ministério da Ciência, Tecnologia e Inovações, conforme informações presentes neste link.
+
+Outras Informações
+Finep Aquisição Inovadora – Operação Direta:
+
+A partir de novembro de 2018, a Finep disponibilizou um novo sistema de operações de crédito da Finep. Empresas que submeteram projetos até 07/11/2018 devem utilizar o antigo sistema, podendo submeter novos projetos no novo sistema. Para facilitar a experiência dos usuários, todas as empresas que possuíam cadastro finalizado no antigo sistema tiveram os dados da empresa migrados para o novo sistema. Para maiores informações, procure o SAC ou seu Gerente de Relacionamento.
+
+Manuais
+
+Novo Sistema
+
+Manual do Usuário
+Documentação para contratação
+Manual de garantias
+Manual de Instruções para a Obtenção de Documentação para Contratação
+Sistema Legado
+
+Manual de Cadastro
+Manual de Acompanhamento
+Manual de Contratação
+Manual de Garantias
+Minuta dos Contratos
+Perguntas Frequentes - FAQ
+Documentação para Contratação
+Simulador de Financiamento
+Tutorial para preenchimento de anexos do RTA
+Para projetos submetidos antes de setembro de 2013, segue abaixo os modelos de relatórios técnico e financeiro:
+
+Relatório técnico
+Relatório financeiro
+Credenciamento de Agentes Financeiros
+Agentes Financeiros interessados em operar de forma descentralizada o Finep Aquisição Inovadora devem clicar aqui para mais detalhes a respeito do processo de credenciamento.
