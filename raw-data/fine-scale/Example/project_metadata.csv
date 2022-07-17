@@ -1,0 +1,2 @@
+"ProjectId","Title" ,"Country", "FundingBody", "LeadUniversity", "StartDate","EndDate","FundingAmount","FundingCurrency"
+"id that corresponds to txt file name","Sample Title", "Example", "Example Funder", "University of Example", "21/11/1991", "01/01/2000", "10000000", "Dollars"
