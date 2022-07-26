@@ -1,3 +1,21 @@
+#!/usr/bin/env python3
+
+""" Loads processed corpuses and tokenised text from the clean-data/fine-scale folder, loads fitted LDA models from models/fine-scale folder and 
+saves coherence results into the results folder.
+Corpuses and LDA model are needed to calculate the UMass coherence.
+Corpuses, LDA model and tokenised text are necessary to calculate the other 3 measures of coherence. 
+
+If run as a script, it takes three arguments: 
+    1) the file path to the corpus and tokenised text
+    2) the file path to the fitted LDA model
+    3) the file path to save the results
+Example:  python3 code/03_calculate_coherence.py ./clean-data/fine-scale/UK ./models/fine-scale/UK ./results/fine-scale/UK """
+
+__appname__ = '[01_process_multiple_texts.py]'
+__author__ = 'Flavia C. Bellotto-Trigo (flaviacbtrigo@gmail.com)'
+__version__ = '0.0.1'
+
+## imports ##
 import sys
 import gensim
 import os
@@ -10,7 +28,8 @@ import psutil
 import ast
 import re
 
-class ReadTxtFiles(object):
+## functions ##
+class LoadFiles(object):
     def __init__(self, dirname, corpus, text):
         self.dirname = dirname
         self.corpus = corpus
@@ -64,7 +83,7 @@ def main(argv):
     coherence_results = {"Topics":[], "umass":[], "cv": [], "uci":[], "npmi":[]}
     
     #loop over
-    for i in ReadTxtFiles(argv[2], loaded_corpus, loaded_text):
+    for i in LoadFiles(argv[2], loaded_corpus, loaded_text):
         coherence_results["Topics"].append(i[0])
         coherence_results["umass"].append(i[1])
         coherence_results["cv"].append(i[2])
