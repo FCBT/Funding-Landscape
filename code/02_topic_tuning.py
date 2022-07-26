@@ -1,16 +1,25 @@
 #!/usr/bin/env python3
 
-""" Reads text files from the raw-data folder and saves the processed text into the clean-data folder.
-The raw text is made of projects' titles and abstracts. The processed texts are corpuses and dictionaries
-that will be used as input in the LDA models. 
+""" Reads dictionary and corpus previously created from the clean-data/fine-scale folder and saves the fitted models into the models/fine-scale folder.
+The input corpuses and dictionaries are used as input in the LDA models.
+Several LDA models are run with differing values of topics, which will later be plotted against coherences scores to get the ideal number of topics.
+k is the number of topics to be choosen by the reader and is one argument to run this as a script. 
 
-If run as a script, it takes two arguments: the file path to the source text files and the file path to save
-the processed data. Example:  python3 code/01_process_multiple_texts.py ./raw-data/fine-scale/test ./clean-data/fine-scale/test """
+If run as a script, it takes 5 arguments: 
+1) the file path to the input dictionaries and corpuses
+2) the file path to save the fitted models
+3) the initial value of topics to run the model with
+4) the final value of topcis to run the model with (this value is not included in the run. i.e if one wants to run 5 to 10 topics, use 11 in this argument)
+5) the step value for topics to run the model (i.e run 10 to 101 but at 10 intervals = 10, 20, 30, ... 80, 90, 100 topics)
 
-__appname__ = '[01_process_multiple_texts.py]'
+Example:  python3 code/02_topic_tuning.py ./clean-data/fine-scale/UK ./models/fine-scale/UK 100 126 1"""
+
+__appname__ = '[02_topic_tuning.py]'
 __author__ = 'Flavia C. Bellotto-Trigo (flaviacbtrigo@gmail.com)'
 __version__ = '0.0.1'
 
+
+## imports ##
 import sys
 import os
 import gensim
