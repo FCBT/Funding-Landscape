@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 
 """ Reads text files from the raw-data folder and saves the processed text into the clean-data folder.
-The raw text is made of projects' titles and abstracts. The processed texts are corpuses and dictionaries
-that will be used as input in the LDA models. 
+The raw text is made of projects' titles and abstracts. The processed texts are tokenised text, corpuses and dictionaries. 
+Corpuses and dictionaries will be used as input in the LDA models. The tokenized text will the used to calculate some of the
+coherence scores
 
 If run as a script, it takes two arguments: 
     1) the file path to the source text files
-    2) the file path to save
-the processed data. Example:  python3 code/01_process_multiple_texts.py ./raw-data/fine-scale/test ./clean-data/fine-scale/test """
+    2) the file path to save the processed data. 
+    Example:  python3 code/01_process_multiple_texts.py ./raw-data/fine-scale/test ./clean-data/fine-scale/test """
 
 __appname__ = '[01_process_multiple_texts.py]'
 __author__ = 'Flavia C. Bellotto-Trigo (flaviacbtrigo@gmail.com)'
