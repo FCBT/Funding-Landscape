@@ -27,6 +27,10 @@ import pandas as pd
 import psutil
 import ast
 import re
+import logging
+
+logging.basicConfig(format="%(asctime)s:%(levelname)s:%(message)s", level=logging.INFO)
+
 
 ## functions ##
 class LoadFiles(object):
@@ -51,19 +55,22 @@ class LoadFiles(object):
                 cm_umass = CoherenceModel(model=lda, corpus=self.corpus, coherence='u_mass', processes= -1)
                 c_umass = cm_umass.get_coherence()
 
-                # CV
-                cm_cv = CoherenceModel(model=lda, corpus=self.corpus, texts=self.text,coherence='c_v',processes= -1)
-                c_cv = cm_cv.get_coherence()
+                #log-perplexity
+                l_perp = lda.log_perplexity(self.corpus)
 
-                # UCI
-                cm_uci = CoherenceModel(model=lda, corpus=self.corpus, texts=self.text ,coherence='c_uci',processes= -1)
-                c_uci = cm_uci.get_coherence()
+                # # CV
+                # cm_cv = CoherenceModel(model=lda, corpus=self.corpus, texts=self.text,coherence='c_v',processes= -1)
+                # c_cv = cm_cv.get_coherence()
 
-                # NPMI
-                cm_npmi = CoherenceModel(model=lda, corpus=self.corpus, texts=self.text ,coherence='c_npmi',processes= -1)
-                c_npmi = cm_npmi.get_coherence()
+                # # UCI
+                # cm_uci = CoherenceModel(model=lda, corpus=self.corpus, texts=self.text ,coherence='c_uci',processes= -1)
+                # c_uci = cm_uci.get_coherence()
+
+                # # NPMI
+                # cm_npmi = CoherenceModel(model=lda, corpus=self.corpus, texts=self.text ,coherence='c_npmi',processes= -1)
+                # c_npmi = cm_npmi.get_coherence()
             
-                yield(lda.num_topics, c_umass, c_cv, c_uci, c_npmi)
+                yield(lda.num_topics, c_umass,l_perp) #, c_cv, c_uci, c_npmi)
             
 
 
@@ -80,15 +87,16 @@ def main(argv):
     loaded_text = [re.sub(' \n','',s) for s in loaded_text] #strip newlines
     loaded_text = [s.strip('[]').replace("'", '').replace(' ', '').split(',') for s in loaded_text]
 
-    coherence_results = {"Topics":[], "umass":[], "cv": [], "uci":[], "npmi":[]}
+    coherence_results = {"Topics":[], "umass":[], "l_perp": []}#, "cv": [], "uci":[], "npmi":[]}
     
     #loop over
     for i in LoadFiles(argv[2], loaded_corpus, loaded_text):
         coherence_results["Topics"].append(i[0])
         coherence_results["umass"].append(i[1])
-        coherence_results["cv"].append(i[2])
-        coherence_results["uci"].append(i[3])
-        coherence_results["npmi"].append(i[4])
+        coherence_results["l_perp"].append(i[2])
+        # coherence_results["cv"].append(i[2])
+        # coherence_results["uci"].append(i[3])
+        # coherence_results["npmi"].append(i[4])
 
 
 

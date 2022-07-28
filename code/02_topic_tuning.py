@@ -26,7 +26,10 @@ import gensim
 import gensim.corpora as corpora
 from gensim.models import LdaMulticore
 import psutil
+import logging
 
+# logging.basicConfig(format="%(asctime)s:%(levelname)s:%(message)s", level=logging.INFO)
+# filename='gensim.log'
 
 def main(argv):
     print("Number of cores:  ", psutil.cpu_count())
@@ -42,8 +45,9 @@ def main(argv):
     print("Fitting")
     for k in topics_range:
         print("Fitting", k)
-        lda_model = gensim.models.ldamulticore.LdaMulticore(corpus = loaded_corpus, num_topics=k ,id2word=loaded_dict, chunksize=3000, passes=5, eval_every=1, alpha=0.01, eta='symmetric')
+        lda_model = gensim.models.ldamulticore.LdaMulticore(corpus = loaded_corpus, id2word=loaded_dict, chunksize=3000, passes=10, iterations=100, num_topics=k)
 
+    
         # Save model
         lda_model.save(os.path.join(argv[2], 'model_'+str(k)+'_topics'))
         print("Saved tuning model ", k)

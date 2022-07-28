@@ -12,11 +12,7 @@ def main(argv):
     loaded_dict = corpora.Dictionary.load('./clean-data/fine-scale/UK/dictionary.dict')
     loaded_corpus = corpora.MmCorpus('./clean-data/fine-scale/UK/corpus.mm')
 
-    #tf-idf
-    tfidf = gensim.models.TfidfModel(loaded_corpus, smartirs='ntc')
-    loaded_corpus = tfidf[loaded_corpus]
-
-    lda_model = gensim.models.ldamulticore.LdaMulticore(corpus = loaded_corpus, id2word=loaded_dict)
+    lda_model = gensim.models.ldamulticore.LdaMulticore(corpus = loaded_corpus, id2word=loaded_dict, eval_every=1)
 
     lda_model.save('./models/UKRI_100.model')
 
@@ -24,3 +20,6 @@ if __name__ == "__main__":
     """Makes sure the "main" function is called from command line"""  
     status = main(sys.argv)
     sys.exit(status)
+
+
+
