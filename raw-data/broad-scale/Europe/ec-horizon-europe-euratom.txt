@@ -1,0 +1,60 @@
+What is the Euratom Research and Training Programme?
+
+The Euratom Research and Training Programme (2021-2025) is a complementary funding programme to Horizon Europe which covers nuclear research and innovation.
+
+It uses the same instruments and rules for participation as Horizon Europe. The budget is €1.38 billion to implement the new programme for the period 1 January 2021 to 31 December 2025. 
+
+The programme has direct and indirect actions. Direct actions are activities undertaken by the Commission's Joint Research Centre. Indirect actions are research activities undertaken by multi-partner consortia. 
+
+The budget breakdown is as follows
+
+    €583 million for indirect actions in fusion research and development
+    €266 million for indirect actions in nuclear fission, safety and radiation protection
+    €532 million for direct actions undertaken by the Joint Research Centre
+
+In line with the Euratom Treaty, the programme will run for 5 years, from 2021 to 2025, to be extended in 2025 by 2 years in order to be aligned with the EU's long term budget 2021-2027.
+
+Factsheet: Euratom research and training programme 2021-2025
+
+Objectives
+
+The Euratom Research and Training programme has the following specific objectives
+
+    improve and support nuclear safety, security, safeguards, radiation protection, safe spent fuel and radioactive waste management and decommissioning, including the safe and secure use of nuclear power and of non-power applications of ionising radiation
+    maintain and further develop expertise and competence in the nuclear field within the community
+    foster the development of fusion energy as a potential future energy source for electricity production and contribute to the implementation of the European fusion roadmap
+    support the policy of the EU and its members on continuous improvement of nuclear safety, safeguards and security
+
+It will expand research into non-power applications of ionising radiation and make improvements in the areas of education, training and access to research infrastructures.
+
+The Euratom programme puts a strong emphasis on developing nuclear skills and competence. This will allow Europe to maintain world leadership in nuclear safety and waste management and to attain the highest level of protection from radiation.
+
+It will support the mobility of researchers in the nuclear field in the framework of Horizon Europe's Marie Skłodowska-Curie Actions (MSCA).
+Fusion and fission
+
+The indirect actions of the Euratom programme focus on 2 areas
+
+    nuclear fusion research and development
+    nuclear fission, safety and radiation protection
+
+Nuclear fusion research and development
+
+For fusion research, the programme calls for a substantial reorganisation that will support a shift from pure, academic research to scientific questions of designing, building and operating future facilities such as the ITER tokamak .
+
+In particular, ITER’s operation scenarios should be tested to ensure they are robust and have the required performance.
+
+This will need a broad experimental programme on existing fusion devices, especially those most relevant to ITER, and complemented by an extensive analysis and simulation programme. To achieve the goal of completing a conceptual demo design and starting the transition to an engineering design phase, the focus must gradually shift from physics to technology.
+
+As the fusion effort moves from focusing on fundamental science to applied and engineering sciences, the possibilities for spin-off applications and technologies is increasing and will also represent a significant additional impact by the end of the Euratom Research and Training Programme 2021-2025.
+Nuclear fission, safety and radiation protection
+
+The Euratom programme is a part of the EU's efforts to further develop technological leadership and promote excellence in nuclear research and innovation, in particular ensuring the highest standards of safety, security, safeguards, radiation protection, safe spent fuel, radioactive waste management and decommissioning in the nuclear field.
+
+Nuclear research contributes to social well-being, economic prosperity and environmental sustainability by improving nuclear safety, security and radiation protection.
+
+Radiation protection research has led to improvements in medical technologies (e.g. diagnosis and radiotherapy) from which many citizens benefit. This research is leading to further improvements in nuclear medicine as well as in other sectors such as industry, agriculture, environment and security.
+Euratom synergies
+
+The Euratom programme will expand research into non-power applications of ionising radiation e.g. links with the Horizon Europe Health activities and Europe’s beating cancer plan. It will also develop synergies with other areas (e.g. artificial intelligence and robotics).
+
+Regarding synergies between indirect actions and direct actions, the Commission's Joint Research Centre will complement activities of the consortia receiving Euratom grants in areas where it has the necessary competences, expertise and dedicated infrastructure. The JRC will not receive funding from indirect actions.

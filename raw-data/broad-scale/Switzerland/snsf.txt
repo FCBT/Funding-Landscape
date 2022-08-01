@@ -1,0 +1,197 @@
+SNSF research domains and disciplines
+
+1 Human and Social Sciences
+1.1 Theology & religious studies, history,
+classical studies, archaeology, prehistory
+and early history
+10102 Religious studies, Theology
+10103 Ecclesiastical history
+10301 General history (without pre-and early
+history)
+10302 Swiss history
+10303 Ancient history and Classical studies
+10401 Prehistory
+10402 Archaeology
+
+10200 1.2 Linguistics and literature, philosophy
+10101 Philosophy
+10501 German and English languages and literature
+10502 Romance languages and literature
+10503 Other languages and literature
+10607 Applied linguistics
+
+
+10300 1.3 Art studies, musicology, theatre and film
+studies, architecture
+10404 Visual arts and Art history
+10405 Musicology
+10406 Theatre and Cinema
+10407 Architecture and Social urban science
+10603 Arts
+10604 Music, Theatre
+
+10400 1.4 Ethnology, social and human geography
+10206 Social geography and ecology
+10403 Ethnology
+
+10500 1.5 Psychology, educational studies
+10104 Education and learning sciences, subject-specific education
+10105 Psychology
+10605 Applied psychology
+
+
+10600 1.6 Sociology, social work, political sciences, media and communication studies, health
+10201 Sociology
+10202 Political science
+10207 Communication sciences
+10601 Social work
+10602 Health
+
+10700 1.7 Economics, law
+10203 Economics
+10204 Science of management
+10205 Legal sciences
+
+2 Mathematics, Natural- and Engineering Sciences
+2.1 Mathematics
+20100 Mathematics
+2.2 Astronomy, Astrophysiscs and Space Science
+20200 Astronomy, Astrophysics and Space Sciences
+
+2.3 Chemistry
+20301 Physical Chemistry
+20303 Inorganic Chemistry
+20304 Organic Chemistry
+
+2.4 Physics
+20401 Theoretical Physics
+20402 Nuclear Physics
+20403 Particle Physics
+20404 Condensed Matter Physics
+20405 Technical Physics
+20406 Plasma Physics
+20409 Other disciplines of Physics
+
+2.5 Engineering Sciences
+20501 Civil Engineering
+20502 Mechanical Engineering
+20503 Fluid Dynamics
+20504 Electrical Engineering
+20505 Material Sciences
+20506 Information Technology
+20507 Chemical Engineering
+
+20508 Microelectronics. Optoelectronics
+20509 Agricultural Engineering
+20510 Forest Engineering
+20511 Other disciplines of Engineering Sciences
+
+2.7 Environmental Sciences
+20701 Pedology
+20702 Geomorphology
+20703 Meteorology
+20704 Climatology. Atmospherical Chemistry, Aeronomoy
+20705 Hydrology, Limnology, Glaciology
+20706 Oceanography
+20709 Other disciplines of Environmental Sciences
+
+2.8 Earth Sciences
+20801 Geology
+20802 Geophysics
+20803 Geochemistry
+20804 Geochronology
+20805 Palaeontology
+20806 Mineralogy
+20809 Other disciplines of Earth Sciences
+
+
+3 Biology and Medicine
+3.1 Biological Research
+30101 Biochemistry
+30102 Molecular Biology
+30103 Cellular Biology, Cytology
+30104 Genetics
+30105 Embryology, Developmental Biology
+30106 Radiobiology
+30107 Experimental Microbiology
+30108 Biophysics
+
+3.2 General Biology
+30201 Botany
+30202 Zoology
+30203 Paleontology (biol.)
+30204 Anthropology, Primatology
+30205 Agricultural and Forestry Sciences
+30206 Environmental Research
+30207 Ecology
+30209 Animal Breeding
+
+3.3 Basic Medical Sciences
+
+30301 Structural Research
+30302 Neurophysiology and Brain Research
+30303 Cardiovascular Research
+30304 Endocrinology
+30305 Physiology : other topics
+30306 Pharmacology, Pharmacy
+30307 Medical Microbiology
+
+3.4 Experimental Medicine
+30401 Experimental Cancer Research
+30402 Pathophysiology
+30403 Immunology, Immunopathology
+30405 Nutritional Research, Vitaminology
+30407 Ethology
+
+3.7 Clinical Medicine
+30701 Internal Medicine
+30702 Surgery
+30703 Clinical Cancer Research
+30704 Clinical Pharmacology
+30705 Dermatology
+30706 Gynaecology
+30707 Paediatrics
+30708 Neurology, Psychiatry
+
+30709 Otorhinolaryngology
+30710 Ophthalmology
+30711 Dentistry
+30712 Tropical Medicine
+30713 Veterinary Medicine
+30714 Biomedical Engineering
+30715 Clinical Cardiovascular Research
+30716 Clinical Endocrinology
+30717 Clinical Pathophysiology
+30718 Clinical Immunology and Immunopathology
+30719 Clinical Nutritional Research
+30720 Geriatrics
+30721 Sport Medicine
+
+3.8 Preventive Medicine (Epidemiology/Early Diagnosis/Prevention)
+30801 Congenital Disorders
+30802 Mental Disorders, Psychosomatic Diseases
+30803 Addictive Diseases
+30804 Accidents
+30805 Cancer
+30806 Cardiovascular Diseases
+
+30807 Metabolic Disorders
+30808 Infectious Diseases
+30809 Diseases of Bones and Joints
+30810 Oral Preventive Medicine
+30811 Respiratory Diseases
+30812 Methods of Epidemiology and Preventive Medicine
+
+3.9 Social Medicine
+30901 Group Medicine
+30902 Social Paediatrics
+30903 Medico-Social Problems of Youth
+30904 Medico-Social Problems of the Elderly
+30905 Rehabilitation
+30906 Human Ecology
+30907 Environmental Toxicology
+30908 Dietetics
+30909 Occupational Medicine, Ergonomy
+30910 Health Education
+30911 Public Health and Health Services
+30912 Medical Statistics

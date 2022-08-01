@@ -1,0 +1,20 @@
+Policy and strategy
+
+This cluster responds to the challenges arising from persistent security threats, including cybercrime, as well as natural and man-made disasters.
+
+The expected impacts of this cluster are contained in the Horizon Europe strategic plan.
+Areas of intervention
+
+    disaster-resilient societies
+    protection and security
+    cybersecurity
+
+Policy information
+
+EU civil security research is one of the building blocks of the Security Union. Research in this cluster supports the following policies
+
+    fighting crime and terrorism (including organised crime and cybercrime)
+    border management (including customs security and maritime security)
+    resilient infrastructure
+    cybersecurity (including security of network and information systems and certification)
+    disaster-resilient societies (including against chemical, biological, radiological and nuclear (CBRN) incidents; climate-related risks and extreme events; geological disasters, such as earthquakes, volcanic eruptions and tsunamis; pandemics)
