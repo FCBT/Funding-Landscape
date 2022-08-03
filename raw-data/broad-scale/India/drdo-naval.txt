@@ -1,0 +1,87 @@
+Materials (MAT) Panel
+
+    Smart composites
+    High strength steels
+    Advanced magnetic and electro ceramic materials
+    Development of wear, abrasion, erosion, low friction corrosion and oxidation resistance coatings
+    Stealth materials for ships/submarines
+    Acoustic signature management materials
+    Anti-fouling coatings
+    Microbial fuel cells
+    High productivity welding technologies
+    Polymer & nano-composites for energy storage devices
+    Functional polymers & coatings for marine applications
+    Smart materials for naval applications
+
+Hydrodynamics (HYDRO) Panel
+
+    Theoretical and Computational hydrodynamics
+    Free surface aspects. To develop state-of-the art computing methods for solution of a variety of linear and non linear free-surface flow problems.
+    Ship motions and wave loads.
+    Wave and wake dynamics.
+    Hydrodynamics in design.
+    Propulsion hydrodynamics and hydro-acoustics. To develop analysis and computational methods over two and 3-D lifting surfaces.
+    Cavitations and bubble flow.
+    Viscous ship hydrodynamics to determine viscous flow over submerged bodies.
+    Frontier experimental techniques.
+    Special areas like water-entry and hydrodynamic impact.
+    Shallow water hydrodynamics, bluff-body hydrodynamics.
+
+Ocean Environment(OE) Panel
+
+    Ocean/Atmosphere Monitoring System
+        Development and deployment of moored met-ocean buoys.
+        Development of algorithms for retrieval of met-ocean parameters from satellite data.
+        Validation of satellite products using data from buoys.
+    Now cast/Forecast System
+        Development and implementation of improved models of the ocean and the lower atmosphere.
+        Studies, with ocean models and couples ocean atmosphere models related to generation of initial conditions, and to boundary condition (including assimilation studies).
+    Process Studies
+        Field campaigns and theoretical/modeling work related to the physics of air-sea coupling over the Indian Ocean.
+        Studies on mixing and dispersion in the coastal ocean.
+        Studies on ocean-atmosphere processes in the Coastal region on time scales of hour to day.
+
+Sonar & Signal Behaviour (SSB) Panel
+
+    Underwater Communication & Sensors
+    Underwater Acoustic Communication
+    Underwater Image processing
+    Ocean Acoustics and modelling
+    Sonar related materials & signal processing techniques
+    Environment Modelling
+    Underwater signal detection, tracking & classification of targets
+    Near Field Acoustic characterization and Systems
+    Seabed array for underwater surveillance
+
+Marine System (MAR) Panel
+
+    Underwater sensors inclusive of their calibration devices, Instrumentation and control system.
+    UAVS
+    Deep sea moorings, tether cables, cable winches with slip rings (including underwater slip rings) for electronic and optical communications.
+    Ship based machinery and systems, thrusters, dynamic positioning systems with their control software.
+    Special propulsion systems and futuristic marine engines and power plants.
+    Hyperbaric research and development of mechanical and electrical subsystems / components like bearings, seals, electric and hydraulic motors and their valve systems for deep sea applications.
+    Diving and underwater habitat.
+    Ocean energy, batteries for underwater applications, neutrally buoyant tether.
+    Marine risers and their deployment systems.
+    Stealth technology.
+
+Scientific Computing (SC) Panel
+
+    Parallel & Distributed Computing
+    Data Management and Visualization
+    Computational vision and Computational Image Processing
+    Design of Embedded system
+    Geometric algorithms.
+    Randomized and approximation algorithms.
+    Artificial Intelligence (AI) related to Naval applications
+
+Hydro-Vibro-Acoustic (HVA) Panel
+
+    Ocean Wave guide acoustics
+    Fluid- Structure interaction of composite propellers
+    Acoustic Scattering and Radiation by Ships and Submarines
+    Flow induced noise and its interaction with structures
+    Sound Radiation, Self Noise of Sonar domes, torpedoes etc.; Vibration control
+    Low frequency vibration of engine foundation /mounts; vibration control
+    Shock response of hull structure; shock hardening strategies

@@ -154,61 +154,6 @@ def main(argv):
     dict_data.save(os.path.join(argv[2], "dictionary.dict"))
 
     
-
-
-    # bigrammed_token = bigram_model[i[0]]
-    # 
-    
-    # # print(bigrammed_token, "\n")
-
-    # corpus.append(dict_data.doc2bow(bigrammed_token, allow_update= True))
-
-    
-    # create bigram models with function Phrases
-    # 'phrases' detect common phrases from a stream of sentences
-    # bigram_model = gensim.models.phrases.Phrases(ReadTxtFiles(argv[1], False), min_count = 10, threshold=5, connector_words=ENGLISH_CONNECTOR_WORDS) #allocate bigram model
-        
-    # create a 'frozen Phrases model' to save memory. It does not update the bigrams with new documents anymore.
-    # bigram_model = bigram_model.freeze()
-    # print("frozen bigram model created")
-
-    # # create empty list for corpus and proj id 
-    # corpus = []
-    # projectid = []
-
-    # #open token file to save to
-    # with open(os.path.join(argv[2], "tokens.txt"), 'w') as fp:
-    #     # iterate through all files to get corpus from bigram model and ids
-    #     for i in ReadTxtFiles(argv[1], True):
-            
-    #         bigrammed_token = bigram_model[i[0]]
-    #         fp.write("%s \n" % bigrammed_token)
-            
-    #         # print(bigrammed_token, "\n")
-    #         corpus.append(dict_data.doc2bow(bigrammed_token, allow_update= True))
-    #         projectid.append(i[1])
-
-    # #filter common words
-    # old_dict = copy.deepcopy(dict_data)
-    # dict_data.filter_extremes(no_below = round(len(corpus) * 0.01) ,no_above=0.80)
-    # old2new = {old_dict.token2id[token]:new_id for new_id, token in dict_data.iteritems()}
-    # vt = gensim.models.VocabTransform(old2new)
-    # corpus = vt[corpus]
-    
-
-
-    # # save projects IDs
-    # with open(os.path.join(argv[2], "projectID_corpus.txt"), 'w') as fp:
-    #     for item in projectid:
-    #         fp.write("%s\n" % item)
-    #     print("Projects IDs saved in " + argv[2]) 
-
-    # # save corpus
-    # corpora.MmCorpus.serialize(os.path.join(argv[2], "corpus.mm"), corpus_tfidf)
-
-    # # save dictionary
-    # dict_data.save(os.path.join(argv[2], "dictionary.dict"))
-
     return 0   
 
 
