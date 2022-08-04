@@ -8,16 +8,16 @@ If run as a script, it takes 5 arguments:
 2) the file path to save text data, which will be the input to the script 01_process_multiple_text.py
 3) the file path to save the projects metadata which will be used for analysis after running the LDA model
 
-argv[1] = "./raw-data/fine-scale/USA/NSF/NSF_raw_xml"
-argv[2] = "./raw-data/fine-scale/USA/NSF/titles_abstracts/"
-argv[3] = "./raw-data/fine-scale/USA/NSF/projects_metadata/"
+argv[1] = "./raw-data/fine-scale/USA/NSF/NSF-raw-xml"
+argv[2] = "./raw-data/fine-scale/USA/NSF/titles-abstracts/"
+argv[3] = "./raw-data/fine-scale/USA/NSF/projects-metadata/"
 
-Example:  python3 ./raw-data/fine-scale/USA/NSF/NSF_raw_xml ./raw-data/fine-scale/USA/NSF/titles_abstracts/ ./raw-data/fine-scale/USA/NSF/projects_metadata/
+Example:  python3 ./raw-data/fine-scale/USA/NSF/NSF-raw-xml ./raw-data/fine-scale/USA/NSF/titles-abstracts/ ./raw-data/fine-scale/USA/NSF/projects-metadata/
 
 """
 
 
-__appname__ = 'NSF_xml_txt.py'
+__appname__ = 'NSF_process_raw_data.py'
 __author__ = 'Michael Mustri (email), Flavia C. Bellotto-Trigo (flaviacbtrigo@gmail.com)'
 __version__ = '0.0.2'
 
@@ -108,10 +108,6 @@ def main(argv):
     df.to_csv(os.path.join(argv[3], "NSF_project_metadata.csv"), index=False)
 
               
-
-                    
-
-
 if __name__ == "__main__": 
     """Makes sure the "main" function is called from command line"""  
     status = main(sys.argv)
