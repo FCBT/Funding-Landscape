@@ -1,0 +1,2 @@
+./raw-data/fine-scale/test/funding_bodyA/
+./raw-data/fine-scale/test/funding_bodyB/

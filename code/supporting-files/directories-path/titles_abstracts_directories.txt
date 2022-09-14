@@ -1,0 +1,2 @@
+./raw-data/fine-scale/UK/UKRI/titles-abstracts/
+./raw-data/fine-scale/USA/NSF/titles-abstracts/
