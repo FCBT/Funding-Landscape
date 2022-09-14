@@ -12,7 +12,7 @@ If run as a script, it takes 5 arguments:
 4) the final value of topcis to run the model with (this value is not included in the run. i.e if one wants to run 5 to 10 topics, use 11 in this argument)
 5) the step value for topics to run the model (i.e run 10 to 101 but at 10 intervals = 10, 20, 30, ... 80, 90, 100 topics)
 
-Example:  python3 code/02_topic_tuning.py ./clean-data/fine-scale/UK ./models/fine-scale/UK 100 126 1"""
+Example:  python3 code/02_topic_tuning.py ./clean-data/fine-scale/all-countries ./models/fine-scale/all-countries 100 126 1"""
 
 __appname__ = '[02_topic_tuning.py]'
 __author__ = 'Flavia C. Bellotto-Trigo (flaviacbtrigo@gmail.com)'
@@ -45,7 +45,7 @@ def main(argv):
     print("Fitting")
     for k in topics_range:
         print("Fitting", k)
-        lda_model = gensim.models.ldamulticore.LdaMulticore(corpus = loaded_corpus, id2word=loaded_dict, chunksize=3000, passes=10, iterations=100, num_topics=k)
+        lda_model = gensim.models.ldamulticore.LdaMulticore(corpus = loaded_corpus, id2word=loaded_dict, chunksize=3000, passes=10, iterations=100, num_topics=k, workers=24)
 
     
         # Save model

@@ -7,9 +7,9 @@ Corpuses, LDA model and tokenised text are necessary to calculate the other 3 me
 
 If run as a script, it takes three arguments: 
     1) the file path to the corpus and tokenised text
-    2) the file path to the fitted LDA model
+    2) the file path to the fitted LDA models
     3) the file path to save the results
-Example:  python3 code/03_calculate_coherence.py ./clean-data/fine-scale/UK ./models/fine-scale/UK ./results/fine-scale/UK """
+Example:  python3 code/03_calculate_coherence.py ./clean-data/fine-scale/all-countries ./models/fine-scale/all-countries ./results/fine-scale/all-countries """
 
 __appname__ = '[01_process_multiple_texts.py]'
 __author__ = 'Flavia C. Bellotto-Trigo (flaviacbtrigo@gmail.com)'
@@ -29,7 +29,7 @@ import ast
 import re
 import logging
 
-logging.basicConfig(format="%(asctime)s:%(levelname)s:%(message)s", level=logging.INFO)
+#logging.basicConfig(format="%(asctime)s:%(levelname)s:%(message)s", level=logging.INFO)
 
 
 ## functions ##
@@ -52,25 +52,17 @@ class LoadFiles(object):
                 print("Calculating coherences for", fname)
 
                 # UMass
-                cm_umass = CoherenceModel(model=lda, corpus=self.corpus, coherence='u_mass', processes= -1)
+                cm_umass = CoherenceModel(model=lda, corpus=self.corpus, coherence='u_mass', processes= 24)
                 c_umass = cm_umass.get_coherence()
 
-                #log-perplexity
-                l_perp = lda.log_perplexity(self.corpus)
-
                 # # CV
-                # cm_cv = CoherenceModel(model=lda, corpus=self.corpus, texts=self.text,coherence='c_v',processes= -1)
+                # cm_cv = CoherenceModel(model=lda, corpus=self.corpus, texts=self.text,coherence='c_v',processes= 24)
                 # c_cv = cm_cv.get_coherence()
 
-                # # UCI
-                # cm_uci = CoherenceModel(model=lda, corpus=self.corpus, texts=self.text ,coherence='c_uci',processes= -1)
-                # c_uci = cm_uci.get_coherence()
-
-                # # NPMI
-                # cm_npmi = CoherenceModel(model=lda, corpus=self.corpus, texts=self.text ,coherence='c_npmi',processes= -1)
-                # c_npmi = cm_npmi.get_coherence()
+                # #log-perplexity
+                # l_perp = lda.log_perplexity(self.corpus)
             
-                yield(lda.num_topics, c_umass,l_perp) #, c_cv, c_uci, c_npmi)
+                yield(lda.num_topics, c_umass, 0.0, 0.0)
             
 
 
@@ -87,16 +79,14 @@ def main(argv):
     loaded_text = [re.sub(' \n','',s) for s in loaded_text] #strip newlines
     loaded_text = [s.strip('[]').replace("'", '').replace(' ', '').split(',') for s in loaded_text]
 
-    coherence_results = {"Topics":[], "umass":[], "l_perp": []}#, "cv": [], "uci":[], "npmi":[]}
+    coherence_results = {"Topics":[], "umass":[], "cv": [], "l_perp": []}
     
     #loop over
     for i in LoadFiles(argv[2], loaded_corpus, loaded_text):
         coherence_results["Topics"].append(i[0])
         coherence_results["umass"].append(i[1])
-        coherence_results["l_perp"].append(i[2])
-        # coherence_results["cv"].append(i[2])
-        # coherence_results["uci"].append(i[3])
-        # coherence_results["npmi"].append(i[4])
+        coherence_results["cv"].append(i[2])
+        coherence_results["l_perp"].append(i[3])
 
 
 

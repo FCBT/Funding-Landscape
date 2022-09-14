@@ -6,9 +6,10 @@ Corpuses and dictionaries will be used as input in the LDA models. The tokenized
 coherence scores
 
 If run as a script, it takes two arguments: 
-    1) the file path to the source text files
+    1) the file path to the source text files (or a text file with each country directory in a new line)
     2) the file path to save the processed data. 
-    Example:  python3 code/01_process_multiple_texts.py ./raw-data/fine-scale/test ./clean-data/fine-scale/test """
+    Example:  python3 code/01_process_multiple_texts.py ./raw-data/fine-scale/01-directories-txt/titles_abstracts_directories.txt 
+    ./clean-data/fine-scale/all-countries """
 
 __appname__ = '[01_process_multiple_texts.py]'
 __author__ = 'Flavia C. Bellotto-Trigo (flaviacbtrigo@gmail.com)'
@@ -16,6 +17,7 @@ __version__ = '0.0.1'
 
 
 ## imports ##
+import genericpath
 import sys # module to interface our program with the operating system
 import logging
 import os
@@ -32,6 +34,8 @@ from nltk import pos_tag
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 import copy 
+from genericpath import isfile
+
 #nltk.download('averaged_perceptron_tagger') 
 
 ## constants ##
@@ -43,7 +47,8 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 stop_words = stopwords.words('english')
 stop_words.extend(['from', 'subject', 're', 'edu', 'use', 'not', 'would', 'say', 'could', '_', 'be', 'know', 'good', 'go', 'get', 'do', 
 'done', 'try', 'many', 'some', 'nice', 'thank', 'think', 'see', 'rather', 'easy', 'easily', 'lot', 'lack', 'make', 'want', 'seem', 'run', 
-'need', 'even', 'right', 'line', 'even', 'also', 'may', 'take', 'come', 'title', 'abstract', 'research', 'project', 'article', 'journal'])
+'need', 'even', 'right', 'line', 'even', 'also', 'may', 'take', 'come', 'title', 'abstract', 'research', 'project', 'article', 'journal',
+'study', 'student', 'grant', 'mission', 'experiment_conducted','conference', 'meeting', 'symposium'])
 
 ## define lemmatizer
 lemmatizer = WordNetLemmatizer()
@@ -104,16 +109,37 @@ def main(argv):
 
     #allocte tolkens + project ids
     tokens = []
-    projectid = []
+    projectid_metadata = {"ProjectId":[], "Country": [], "CountryFundingBody":[],"CorpusId":[]}
 
-    #loop over files
+#get directories to loop over
+    if isfile(argv[1]):
+        with open(argv[1], "r") as fn:
+            dirs = []
+            for line in fn:
+                dirs.append(line.strip())
+    else:
+        dirs = argv[1]
+
     # iterate through all files to get corpus from bigram model and ids
-    for i in ReadTxtFiles(argv[1], True):
-        tokens.append(i[0])
-        projectid.append(i[1])
+    corpus_id = 0
+    for d in dirs:
+        print(d)
+        for i in ReadTxtFiles(d, True):
+            tokens.append(i[0])
+            projectid_metadata["ProjectId"].append(i[1])
+            # get country and country funding body from directory path
+            x = d.split("/")
+            # index 3 is the country name after spliting the directory path
+            projectid_metadata["Country"].append(x[3])
+            # index 4 is the FundingBody name after spliting the directory path
+            projectid_metadata["CountryFundingBody"].append(x[4])
+
+            projectid_metadata["CorpusId"].append(corpus_id)
+            corpus_id += 1
+            
 
     #create bigram model #10 - 5
-    bigram_model = gensim.models.phrases.Phrases(tokens, min_count = 1, threshold=1, connector_words=ENGLISH_CONNECTOR_WORDS)
+    bigram_model = gensim.models.phrases.Phrases(tokens, min_count = 5, threshold=10, connector_words=ENGLISH_CONNECTOR_WORDS)
     bigram_tokens = bigram_model[tokens]
 
     bigram_model.export_phrases()
@@ -125,7 +151,7 @@ def main(argv):
 
     #2) remove common + rare words
     old_dict = copy.deepcopy(dict_data)
-    dict_data.filter_extremes(no_below = round(len(corpus) * 0.01) ,no_above=0.80)
+    dict_data.filter_extremes(no_below = round(len(corpus) * 0.001) ,no_above=0.80)
     old2new = {old_dict.token2id[token]:new_id for new_id, token in dict_data.iteritems()}
     vt = gensim.models.VocabTransform(old2new)
     corpus = vt[corpus]
@@ -142,10 +168,9 @@ def main(argv):
     print("tfidf corpus created")
     
     #5) save projects IDs
-    with open(os.path.join(argv[2], "projectID_corpus.txt"), 'w') as fp:
-        for item in projectid:
-            fp.write("%s\n" % item)
-        print("Projects IDs saved in " + argv[2]) 
+    df = pd.DataFrame.from_dict(projectid_metadata)
+    df.to_csv(os.path.join(argv[2], "projectID_corpus.csv"), index=False)
+    print("Projects IDs saved in " + argv[2]) 
 
     # save corpus
     corpora.MmCorpus.serialize(os.path.join(argv[2], "corpus.mm"), corpus_tfidf)
@@ -153,7 +178,6 @@ def main(argv):
     # save dictionary
     dict_data.save(os.path.join(argv[2], "dictionary.dict"))
 
-    
     return 0   
 
 
