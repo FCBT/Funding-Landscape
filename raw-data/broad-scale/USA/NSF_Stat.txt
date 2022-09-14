@@ -1,2 +1,0 @@
-Synopsis
-The Statistics Program supports research in statistical theory and methods, including research in statistical methods for applications to any domain of science and engineering. The theory forms the base for statistical science. The methods are used for stochastic modeling, and the collection, analysis and interpretation of data. The methods characterize uncertainty in the data and facilitate advancement in science and engineering. The Program encourages proposals ranging from single-investigator projects to interdisciplinary team projects.

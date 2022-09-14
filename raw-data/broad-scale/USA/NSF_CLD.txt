@@ -1,9 +1,0 @@
-Supports theoretical and empirical research on the processes that force and regulate the atmosphere’s synoptic and planetary circulation, weather and climate.
-
-Synopsis
-The goals of the Program are to: (i) advance knowledge about the processes that force and regulate the atmosphere’s synoptic and planetary circulation, weather and climate, and (ii) sustain the pool of human resources required for excellence in synoptic and global atmospheric dynamics and climate research.
-
-Research topics include theoretical, observational and modeling studies of the general circulation of the stratosphere and troposphere; synoptic scale weather phenomena; processes that govern climate; the causes of climate variability and change; methods to predict climate variations; extended weather and climate predictability; development and testing of parameterization of physical processes; numerical methods for use in large-scale weather and climate models; the assembly and analysis of instrumental and/or modeled weather and climate data; data assimilation studies; development and use of climate models to diagnose and simulate climate and its variations and change.
-
-Some Climate and Large Scale Dynamics (CLD) proposals address multidisciplinary problems and are often co-reviewed with other NSF programs, some of which, unlike CLD, use panels in addition to mail reviewers, and thus have target dates or deadlines.  Proposed research that spans in substantive ways topics appropriate to programs in other divisions at NSF, e.g., ocean sciences, ecological sciences, hydrological sciences, geography and regional sciences, applied math and statistics, etc., must be submitted at times consistent with target dates or deadlines established by those programs.  If it's not clear whether your proposed research is appropriate for co-review, please contact CLD staff.
-

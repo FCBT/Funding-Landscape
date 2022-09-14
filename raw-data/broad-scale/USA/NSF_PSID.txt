@@ -1,9 +1,0 @@
-Synopsis
-The Panel Study of Income Dynamics (PSID) is a longitudinal survey of a nationally representative sample of U.S. families begun in 1968. The PSID has collected 41 waves of data on the same families and their descendants as of 2019.
-
-The PSID collects data on a wide range of economic, social, demographic, geospatial, and health factors that affect the well-being of American families. The PSID has consistently obtained wave-to-wave re-interview response rates of more than 90%. Data are made available to scholars, students, and the public for research, analysis, and education activities within 12 months of data collection.
-
-Recent innovations include adding a representative sample of families who immigrated to the U.S. between 1997 and 2017, adding new tools for training and data dissemination, new geospatial identifiers for PSID employer addresses, and the development of a web-based version of the PSID questionnaire.
-
-The Economics Program in the Directorate of Social, Behavioral, and Economic Sciences (SBE) may make one award to support the collection of the NSF-funded content in the 2021 and 2023 waves of the PSID. We anticipate an NSF award of at least $17 million and at most $20 million to support two waves of data collection, dissemination activities, and outreach. The expected start date is January 1, 2021.
-

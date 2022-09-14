@@ -1,4 +1,0 @@
-Supports the establishment of new Research Data Centers, Census Bureau facilities that provide researchers with access to confidential microdata.
-
-Synopsis
-This solicitation invites proposals for the establishment of new Research Data Centers (RDCs).  RDCs are secure Census Bureau facilities within which external researchers are given access to confidential micro data in accordance with specific statutory requirements.  NSF will provide start-up costs for new RDC facilities.  Potential investigators first must contact Census regarding the feasibility of sponsoring an RDC prior to submitting a proposal to NSF.

@@ -1,9 +1,0 @@
-The overarching purpose of the SDG Challenge is to develop transformative, sustainable solutions that will contribute to addressing development challenges under the UN SDGs in Irish Aid’s partner countries.
-
-The SDG Challenge will be run within the challenge-funding framework of the SFI Future Innovator Prize Programme. As such, they share common objectives. Furthermore, the SDG Challenge have its own specific objectives, which are as follows: 
-
-    To provide opportunities for Ireland-based researchers to form diverse teams to identify key development challenges where technology can deliver transformative impact with a focus on southern partner countries; 
-    To enable the development of collaborations between researchers in Ireland and researchers in partner countries where Irish Aid works; 
-    To support the development, deployment and demonstration of sustainable technologies responding to the identified challenges.
-    To promote sustainability and the important role that STEM plays in addressing global sustainability issues and the SDGs.
-

@@ -1,7 +1,0 @@
-The Office of Project Assessment provides independent advice to the Director of the Office of Science (SC) relating to those activities essential to constructing and operating major research facilities. In addition, this office provides professional management and staff support regarding these functions to SC program offices.
-
-The primary responsibilities of the Office of Project Assessment are:
-Conducting technical, cost, schedule and management peer reviews of SC construction projects and large experimental equipment;
-Directing and supervising the development, initiation, and implementation of policies, plans and procedures for design, fabrication, construction, commissioning, operation and decommissioning of research/conventional facilities and devices required to support the SC program offices;
-Representing the Director of Science in meetings with DOE, Office of Management and Budget, Congress, and other oversight or investigatory bodies on all matters involving the planning, design, construction and operation of research facilities; and
-Acting as the SC Secretariat for the Energy Systems Acquisition Advisory Board (ESAAB), SC's ESAAB Equivalent, and the Project Baseline Change Control (BCC) process.

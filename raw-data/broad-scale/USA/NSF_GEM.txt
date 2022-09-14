@@ -1,4 +1,0 @@
-Supports research on the physics of the Earth's magnetosphere and the coupling of the magnetosphere to the atmosphere and the solar wind.
-
-Synopsis
-Geospace Environment Modeling (GEM) is a broad-based research program investigating the physics of the Earth's magnetosphere and the coupling of the magnetosphere to the atmosphere and to the solar wind. The goal of the GEM program is to make accurate predictions of the geospace environment by developing physical understanding of the large-scale organization and dynamics through observations, theory, and increasingly realistic models.   

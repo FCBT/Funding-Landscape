@@ -1,4 +1,0 @@
-Supports research on atmospheric gases and aerosols, including sources and sinks; transport and chemical reactions of atmospheric species; atmospheric photochemistry; heterogeneous reactions; and aqueous-phase chemistry and aerosol processes.
-
-Synopsis
-Supports research to measure and model the concentration and distribution of gases and aerosols in the atmosphere. Also, supports research on chemical reactions among atmospheric species; sources and sinks of important trace gases and aerosols; transport of gases and aerosols throughout the atmosphere; atmospheric photochemistry, heterogeneous reactions, aqueous-phase chemistry and aerosol processes; and improved methods for measuring the concentrations of trace species and their fluxes into and out of the atmosphere.

@@ -1,7 +1,0 @@
-CESER’s Cybersecurity for the Operational Technology Environment (CyOTE™) initiative is a high-priority CESER investment to enhance energy sector threat detection of anomalous behavior potentially indicating malicious cyber activity in OT networks. The research initiative, led by CESER in partnership with Idaho National Laboratory and energy sector partners, aims to develop tools and capabilities that can provide energy asset owners and operators with timely alerts and actionable information. 
-
-With energy companies modernizing grids to enhance reliability and lower costs, OT networks are increasingly converging with IT networks. Energy companies currently have few tools to analyze OT systems for malicious activity. This combined with rapid digital transformation, increases OT networks susceptibility to potential cyber-attacks. These networks are now a key target for highly sophisticated cyber attackers who are targeting U.S. infrastructure to hold it at risk. 
-
-This makes game-changing programs like CyOTE™ essential to proactively securing OT systems, and in turn protecting energy infrastructure survivability and resilience. 
-
-Through CyOTE™, CESER looks to further its vision of secure and reliable energy delivery systems nationwide. For information on CESER’s other efforts to secure our Nation’s energy systems, visit CESER’s R&D page. If you'd like to learn more about CyOTE, please see the CyOTE Fact Sheet or visit the CyOTE Program Site. 

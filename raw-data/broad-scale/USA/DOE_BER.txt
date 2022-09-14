@@ -1,8 +1,0 @@
-Mission
-The mission of the Biological and Environmental Research (BER) program is to support transformative science and scientific user facilities to achieve a predictive understanding of complex biological, earth, and environmental systems for energy and infrastructure security, independence, and prosperity.
-
-The program seeks to understand the biological, biogeochemical, and physical processes that span from molecular and genomics-controlled scales to the regional and global scales that govern changes in watershed dynamics, climate, and the earth system.
-
-Starting with the genetic information encoded in organisms’ genomes, BER research seeks to discover the principles that guide the translation of the genetic code into the functional proteins and the metabolic and regulatory networks underlying the systems biology of plants and microbes as they respond to and modify their environments. This predictive understanding will enable design and reengineering of microbes and plants underpinning energy independence and a broad clean energy portfolio, including improved biofuels and bioproducts, improved carbon storage capabilities, and controlled biological transformation of materials such as nutrients and contaminants in the environment.
-
-BER research further advances the fundamental understanding of dynamic, physical, and biogeochemical processes required to systematically develop Earth System models that integrate across the atmosphere, land masses, oceans, sea ice, and subsurface. These predictive tools and approaches are needed to inform policies and plans for ensuring the security and resilience of the Nation’s critical infrastructure and natural resources.

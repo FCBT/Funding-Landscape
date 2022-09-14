@@ -1,4 +1,0 @@
-Supports research that combines theory, modeling and observations from ground-based and space-based platforms to study changes in the atmosphere over short and long time scales.
-
-Synopsis
-The Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR) program is a broad-based research program with the goal of understanding the behavior of atmospheric regions from the middle atmosphere upward through the thermosphere and ionosphere into the exosphere in terms of coupling, energetics, chemistry, and dynamics on regional and global scales. These processes are related to the sources of perturbations that propagate upward from the lower atmosphere as well as to solar radiation and particle inputs from above. The activities within this program include observations from ground-based and space-based platforms, theory, and modeling.

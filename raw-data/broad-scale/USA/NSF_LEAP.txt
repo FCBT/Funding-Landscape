@@ -1,9 +1,0 @@
-Synopsis
-The LEAP HI program challenges the engineering research community to take a leadership role in addressing demanding, urgent, and consequential challenges for advancing America’s prosperity, health and infrastructure.  LEAP HI proposals confront engineering problems that are too complex to yield to the efforts of a single investigator --- problems that require sustained and coordinated effort from interdisciplinary research teams, with goals that are not achievable through a series of smaller, short-term projects.  LEAP HI projects perform fundamental research that may lead to disruptive technologies and methods, lay the foundation for new and strengthened industries, enable notable improvements in quality of life, or reimagine and revitalize the built environment.
-
-LEAP HI supports fundamental research projects involving collaborating investigators, of duration up to five years, with total budget between $1 million and $2 million.
-LEAP HI proposals must articulate a fundamental research problem with compelling intellectual challenge and significant societal impact, particularly on economic competitiveness, quality of life, public health, or essential infrastructure.  One or more CMMI core topics must lie at the heart of the proposal, and integration of disciplinary expertise not typically engaged in CMMI-funded projects is encouraged.  
-LEAP HI proposals must include an Engineering Leadership Plan that creatively communicates the excitement of engineering research to the general public, and particularly to future engineers, as the project unfolds. 
-LEAP HI proposals must demonstrate the need for a sustained research effort by an integrated, interdisciplinary team and include a Research Integration Plan that provides a timeline for research activities and clearly explains how the project will be managed to ensure effective integration of project thrusts.
-Cognizant Program Officer(s): Bruce Kramer
-

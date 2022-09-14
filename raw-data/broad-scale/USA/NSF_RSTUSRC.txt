@@ -1,2 +1,0 @@
-Synopsis
-With the goal of strengthening research security in the U.S., NSF is working in partnership with three other federal research funding agencies to find a balanced approach to research security. This effort includes the development and implementation of training—to recipients of federal research funding—in best practices to optimize research security. This training is an essential step toward mitigating foreign government risks and threats to U.S. government-funded research and may be used to fulfill the research security program requirement in NSPM-33.

@@ -1,6 +1,0 @@
-Supports research on the structure and dynamics of the Earth's upper atmosphere conducted at NSF-supported large incoherent-scatter radar facilities or with the SuperDARN coherent scatter radar system.
-
-Synopsis
-The National Science Foundation supports four large incoherent-scatter radar facilities and the SuperDARN coherent scatter radar system. The incoherent-scatter radars are located along a longitudinal chain from Greenland to Peru. Each of the incoherent-scatter facilities is also equipped with powerful optical diagnostic instruments. The SuperDARN consists of a number of coherent-scatter HF radars in both the northern and southern hemispheres.
-
-The major goal of Geospace Facilities (GF) is to promote basic research on the structure and dynamics of the Earth's upper atmosphere. Research efforts utilizing these facilities have strong links to the Aeronomy Program and the Magnetospheric Physics Program.

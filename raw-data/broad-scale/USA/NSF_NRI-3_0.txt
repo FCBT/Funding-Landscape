@@ -1,8 +1,0 @@
-Synopsis
-The National Robotics Initiative 3.0: Innovations in Integration of Robotics (NRI-3.0) program builds upon the preceding National Robotics Initiative (NRI) programs to support fundamental research in the United States that will advance the science of robot integration.  The program supports research that promotes integration of robots to the benefit of humans including human safety and human independence. 
-
-Collaboration between academic, industry, non-profit, and other organizations is encouraged to establish better linkages between fundamental science and engineering and technology development, deployment, and use.
-
-The NRI-3.0 program is supported by multiple agencies of the federal government including the National Science Foundation (NSF), the U.S. Department of Agriculture (USDA), the National Aeronautics and Space Administration (NASA), the Department of Transportation (DOT), the National Institutes of Health (NIH), and the National Institute for Occupational Safety and Health (NIOSH). Questions concerning a particular project's focus, direction, and relevance to a participating funding organization should be addressed to that agency's point of contact, listed in section VIII of this solicitation.
-
- 

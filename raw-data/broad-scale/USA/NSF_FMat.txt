@@ -1,6 +1,0 @@
-Synopsis
-The program in Foundations supports research in mathematical logic and the foundations of mathematics, including proof theory, recursion theory, model theory, set theory, and infinitary combinatorics.
-
-Conferences
-
-Principal Investigators should carefully read the program solicitation "Conferences and Workshops in the Mathematical Sciences" (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities.  Conference and workshop proposals should be submitted eight months before the requested start date.

@@ -1,4 +1,0 @@
-Synopsis
-The National Center for Atmospheric Research (NCAR) is a Federally Funded Research and Development Center, sponsored by NSF. NCAR is a focal point for research in the field of atmospheric sciences and is located in Boulder, Colorado. About 750 scientists and support personnel work at the center.
-
-NCAR is managed under a cooperative agreement between the Foundation and the University Corporation for Atmospheric Research (UCAR), a nonprofit consortium of North American universities with graduate programs in atmospheric sciences.
