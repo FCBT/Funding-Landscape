@@ -8,7 +8,7 @@ coherence scores
 If run as a script, it takes two arguments: 
     1) the file path to the source text files (or a text file with each country directory in a new line)
     2) the file path to save the processed data. 
-    Example:  python3 code/01_process_multiple_texts.py ./raw-data/fine-scale/01-directories-txt/titles_abstracts_directories.txt 
+    Example:  python3 code/01_process_multiple_texts.py ./code/supporting-files/directories-path/titles_abstracts_directories.txt 
     ./clean-data/fine-scale/all-countries """
 
 __appname__ = '[01_process_multiple_texts.py]'
