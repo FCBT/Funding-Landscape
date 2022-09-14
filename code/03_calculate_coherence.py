@@ -6,7 +6,7 @@ Corpuses and LDA model are needed to calculate the UMass coherence.
 Corpuses, LDA model and tokenised text are necessary to calculate the other 3 measures of coherence. 
 
 If run as a script, it takes three arguments: 
-    1) the file path to the corpus and tokenised text
+    1) the file path to the corpus
     2) the file path to the fitted LDA models
     3) the file path to save the results
 Example:  python3 code/03_calculate_coherence.py ./clean-data/fine-scale/all-countries ./models/fine-scale/all-countries ./results/fine-scale/all-countries """
@@ -34,10 +34,10 @@ import logging
 
 ## functions ##
 class LoadFiles(object):
-    def __init__(self, dirname, corpus, text):
+    def __init__(self, dirname, corpus):
         self.dirname = dirname
         self.corpus = corpus
-        self.text = text
+        
     
     def __iter__(self):
         # print((self.dirname))
@@ -54,15 +54,8 @@ class LoadFiles(object):
                 # UMass
                 cm_umass = CoherenceModel(model=lda, corpus=self.corpus, coherence='u_mass', processes= 24)
                 c_umass = cm_umass.get_coherence()
-
-                # # CV
-                # cm_cv = CoherenceModel(model=lda, corpus=self.corpus, texts=self.text,coherence='c_v',processes= 24)
-                # c_cv = cm_cv.get_coherence()
-
-                # #log-perplexity
-                # l_perp = lda.log_perplexity(self.corpus)
             
-                yield(lda.num_topics, c_umass, 0.0, 0.0)
+                yield(lda.num_topics, c_umass)
             
 
 
@@ -73,20 +66,14 @@ def main(argv):
     #load data
     print("Loading data")
     loaded_corpus = corpora.MmCorpus(os.path.join(argv[1], 'corpus.mm'))
-    with open(os.path.join(argv[1], 'tokens.txt')) as f:
-        loaded_text = f.readlines()
-
-    loaded_text = [re.sub(' \n','',s) for s in loaded_text] #strip newlines
-    loaded_text = [s.strip('[]').replace("'", '').replace(' ', '').split(',') for s in loaded_text]
-
-    coherence_results = {"Topics":[], "umass":[], "cv": [], "l_perp": []}
+    
+    coherence_results = {"Topics":[], "umass":[]}
     
     #loop over
-    for i in LoadFiles(argv[2], loaded_corpus, loaded_text):
+    for i in LoadFiles(argv[2], loaded_corpus):
         coherence_results["Topics"].append(i[0])
         coherence_results["umass"].append(i[1])
-        coherence_results["cv"].append(i[2])
-        coherence_results["l_perp"].append(i[3])
+
 
 
 
