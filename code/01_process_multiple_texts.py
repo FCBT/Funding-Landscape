@@ -48,7 +48,7 @@ stop_words = stopwords.words('english')
 stop_words.extend(['from', 'subject', 're', 'edu', 'use', 'not', 'would', 'say', 'could', '_', 'be', 'know', 'good', 'go', 'get', 'do', 
 'done', 'try', 'many', 'some', 'nice', 'thank', 'think', 'see', 'rather', 'easy', 'easily', 'lot', 'lack', 'make', 'want', 'seem', 'run', 
 'need', 'even', 'right', 'line', 'even', 'also', 'may', 'take', 'come', 'title', 'abstract', 'research', 'project', 'article', 'journal',
-'study', 'student', 'grant', 'mission', 'experiment_conducted','conference', 'meeting', 'symposium'])
+'study', 'student', 'grant', 'mission', 'experiment_conducted','conference', 'meeting', 'symposium', 'description', 'provided', 'applicant'])
 
 ## define lemmatizer
 lemmatizer = WordNetLemmatizer()
@@ -107,11 +107,11 @@ def main(argv):
 
     print("empty dictionary created")
 
-    #allocte tolkens + project ids
+    # allocate tolkens + project ids
     tokens = []
     projectid_metadata = {"ProjectId":[], "Country": [], "CountryFundingBody":[],"CorpusId":[]}
 
-#get directories to loop over
+# get directories to loop over
     if isfile(argv[1]):
         with open(argv[1], "r") as fn:
             dirs = []

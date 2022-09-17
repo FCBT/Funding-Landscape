@@ -1,2 +1,3 @@
-./raw-data/fine-scale/UK/UKRI/titles-abstracts/
-./raw-data/fine-scale/USA/NSF/titles-abstracts/
+./flavia/raw-data/fine-scale/UK/UKRI/
+./flavia/raw-data/fine-scale/USA/NSF/
+./flavia/raw-data/fine-scale/USA/NIH/

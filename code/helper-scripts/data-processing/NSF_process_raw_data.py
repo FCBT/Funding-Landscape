@@ -1,25 +1,22 @@
 #!/usr/bin/env python3
 
-""" This code parses the NSF project xml files, extracts project titles and abstracts (if they exist) and writes them into
-# a .txt file ("projectID.txt). It also creates the project metadata file with columns to match other countries' metadata. 
+""" This code creates the project metadata file with columns to match other countries' metadata. 
 
-If run from the command line, it takes 3 arguments: 
+If run from the command line, it takes 2 arguments: 
 1) the file path to the raw xml files
-2) the file path to save text data, which will be the input to the script 01_process_multiple_text.py
-3) the file path to save the projects metadata which will be used for analysis after running the LDA model
+2) the file path to save the projects metadata which will be used for analysis after running the LDA model
 
 argv[1] = "./raw-data/fine-scale/USA/NSF/NSF-raw-xml"
-argv[2] = "./raw-data/fine-scale/USA/NSF/titles-abstracts/"
-argv[3] = "./clean-data/fine-scale/USA/NSF/"
+argv[2] = "./clean-data/fine-scale/USA/NSF/"
 
-Example:  python3 ./code/helper-scripts/data-processing/NSF_process_raw_data.py ./raw-data/fine-scale/USA/NSF/NSF-raw-xml ./raw-data/fine-scale/USA/NSF/titles-abstracts/ ./clean-data/fine-scale/USA/NSF/
+Example:  python3 ./code/helper-scripts/data-processing/NSF_process_raw_data.py ./raw-data/fine-scale/USA/NSF/NSF_raw_xml ./clean-data/fine-scale/USA/NSF/
 
 """
 
 
 __appname__ = 'NSF_process_raw_data.py'
 __author__ = 'Michael Mustri (email), Flavia C. Bellotto-Trigo (flaviacbtrigo@gmail.com)'
-__version__ = '0.0.2'
+__version__ = '0.0.3'
 
 
 ## Imports ## 
@@ -31,9 +28,9 @@ import os
 import io
 import numpy
 
-#one = "./raw-data/fine-scale/USA/NSF/NSF-raw-xml"
-# two = "./raw-data/fine-scale/USA/NSF/titles-abstracts/"
-# three = "./clean-data/fine-scale/USA/NSF/"
+# one = "./raw-data/fine-scale/USA/NSF/NSF-raw-xml"
+# two = "./clean-data/fine-scale/USA/NSF/"
+# old_two = "./raw-data/fine-scale/USA/NSF/titles-abstracts/"
 
 ## Constants ##
 metadata = {"ProjectId": [], "Country": [], "CountryFundingBody": [], "FundingBody":[], "LeadInstitution":[], 
@@ -94,25 +91,9 @@ def main(argv):
                     metadata["CountryFundingBody"].append("NSF")
                     metadata["FundingCurrency"].append("USD")
 
-                    ## find titles and abstracts to store them in a separate file
-                    Title = root.find(".//AwardTitle").text
-                    Abstract = root.find(".//AbstractNarration").text
-
-                    ## check we have title and abstract
-                    if Title:
-                        if Abstract:
-                            #check if file exists to prevent extra work
-                            # if (rawname + '.txt') not in os.listdir('./raw-data/fine-scale/USA/NSF/titles-abstracts/'):
-                            #     print(rawname)
-                            ## if TRUE, save in a txt file that has the project ID as the filename
-                            with open(os.path.join(argv[2], rawname + '.txt'), 'w') as f:
-                                f.write(Title)
-                                f.write("\n")
-                                f.write(Abstract)
-
     # turn dict into dataframe and save it
     df = pd.DataFrame.from_dict(metadata)
-    df.to_csv(os.path.join(argv[3], "NSF_project_metadata.csv"), index=False)
+    df.to_csv(os.path.join(argv[2], "NSF-project-metadata.csv"), index=False)
 
               
 if __name__ == "__main__": 
