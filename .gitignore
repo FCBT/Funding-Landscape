@@ -1,8 +1,15 @@
 .DS_Store
 .Rhistory
-notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints
 
+# folders to ignore
 flavia
+old
+tokens
+lda-models
+coherence-scores
+results
 
 
 gensim.log
+__pycache__
