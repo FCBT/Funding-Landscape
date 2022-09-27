@@ -12,6 +12,7 @@ import pandas as pd
 from nltk.stem import WordNetLemmatizer
 import TextProcessor
 import sys
+import os
 
 class TokenizeTexts:
     def __init__(self, text_processor, dirnames, savefile) -> None:
@@ -47,12 +48,12 @@ def main(argv):
     lemmatizer = WordNetLemmatizer()
 
     # read file with path to directories
-    with open(argv[1],'r') as f:
+    with open(os.path.join(argv[1], "titles-abstracts-directories.csv"),'r') as f:
         dirnames = f.read().splitlines()
 
     text_processor = TextProcessor.TextProcessor(stop_words=stop_words, lemmatizer=lemmatizer)
 
-    tokenize_text = TokenizeTexts(text_processor=text_processor, dirnames=dirnames, savefile=argv[2])
+    tokenize_text = TokenizeTexts(text_processor=text_processor, dirnames=dirnames, savefile=os.path.join(argv[2], "titles-abstracts-tokenized.csv"))
 
     tokenize_text.tokenize_csv()
 
