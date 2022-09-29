@@ -26,7 +26,7 @@ import gensim
 import gensim.corpora as corpora
 from gensim.models import LdaMulticore
 import psutil
-import logging
+from datetime import datetime
 
 # logging.basicConfig(format="%(asctime)s:%(levelname)s:%(message)s", level=logging.INFO)
 # filename='gensim.log'
@@ -43,16 +43,24 @@ def main(argv):
     loaded_corpus = corpora.MmCorpus(os.path.join(argv[1], 'corpus.mm'))
 
     print("Fitting")
+    start = datetime.now()
+    print(start)
+
     for k in topics_range:
         print("Fitting", k)
         lda_model = gensim.models.ldamulticore.LdaMulticore(corpus = loaded_corpus, id2word=loaded_dict, chunksize=3000, passes=10, iterations=100, num_topics=k, workers=40)
 
-    
         # Save model
         lda_model.save(os.path.join(argv[2], 'model_'+str(k)+'_topics'))
-        print("Saved tuning model ", k)
-
+        model_time = datetime.now()
+        print("Saved tuning model ", k, "at", model_time)
+        print("it took ", model_time-start, "to fit")
+    
+    end = datetime.now()
     print("Saved training results")
+    
+    print(end)
+    print("it took ", end-start, "to fit all models")
 
     
 

@@ -41,7 +41,10 @@ class TokenIterator:
             reader = csv.reader(csvfile, delimiter=",")
             next(reader, None) # ignores the header
             for row in reader:
-                yield(ast.literal_eval(row[1])) # reads lines as lists
+                row_line = ast.literal_eval(row[1])
+                # keep only text with at least 30 words
+                if len(row_line) > 29:
+                    yield(row_line) # reads lines as lists
 
 def main(argv):
     tokens = TokenIterator(os.path.join(argv[1], "titles-abstracts-tokenized.csv"))
