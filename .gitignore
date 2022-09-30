@@ -11,6 +11,9 @@ coherence-scores
 results
 clean-data 
 # clean-data needs to be ignored because the files in this folder are too large for git to handle
+UK
+USA
+UK-USA
 
 
 gensim.log

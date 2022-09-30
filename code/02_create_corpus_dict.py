@@ -2,15 +2,14 @@
 
 """ 
 This script creates bigram models from titles and abstracts. The titles and abstracts were previously tokenised and are used here as 
-the input for the bigram model. Due to the large size of the tokenised files, this script reads and process the file line-by -line. 
+the input for the bigram model. Due to the large size of the tokenised files, this script reads and process the file line-by-line. 
 
-The first argument should be the path to the processed tokens (tokenised titles and abstracts), and the second argument should the 
-path to save the frozen bigram model.
+The first argument should be the path to the processed tokens (tokenised titles and abstracts) and also to save the corpus and dictionary, the second argument should the 
+path to load the frozen bigram model (that was created previously with the helper script 'create_bigram_model.py').
 Example:
 
-argv[1]= "./clean-data/fine-scale/UK-USA/tokens/"
+argv[1]= "./clean-data/fine-scale/UK-USA/"
 argv[2]= "./code/supporting-files/bigram-models/"
-argv[3]= "./clean-data/fine-scale/UK-USA/corpus-dictionary/"
 """
 
 __appname__ = 'create_corpus_dict.py'
@@ -88,7 +87,7 @@ def main(argv):
 
     # save dictionary
     dict_data.save(os.path.join(argv[3], "dictionary.dict"))
-    print('corpus and dict saved in ' + argv[3])
+    print('corpus and dict saved in ' + argv[1])
 
 
     return 0
