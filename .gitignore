@@ -9,7 +9,8 @@ tokens
 lda-models
 coherence-scores
 results
-clean-data
+clean-data 
+# clean-data needs to be ignored because the files in this folder are too large for git to handle
 
 
 gensim.log
