@@ -9,7 +9,7 @@ If run as a script, it takes three arguments:
     1) the file path to the corpus
     2) the file path to the fitted LDA models
     3) the file path to save the results
-Example:  python3 code/04_calculate_coherence.py ./clean-data/fine-scale/UK-USA ./results/fine-scale/lda-models/UK-USA ./results/fine-scale/coherence-scores/UK-USA
+Example:  python3 code/04_calculate_coherence.py ./clean-data/fine-scale/training-data ./results/fine-scale/lda-models/training-model ./results/fine-scale/coherence-scores/training-data
 """
 
 __appname__ = '[04_calculate_coherence.py]'
@@ -53,7 +53,7 @@ class LoadFiles(object):
                 print("Calculating coherences for", fname)
 
                 # UMass
-                cm_umass = CoherenceModel(model=lda, corpus=self.corpus, coherence='u_mass', processes= 24)
+                cm_umass = CoherenceModel(model=lda, corpus=self.corpus, coherence='u_mass', processes= 40)
                 c_umass = cm_umass.get_coherence()
             
                 yield(lda.num_topics, c_umass)

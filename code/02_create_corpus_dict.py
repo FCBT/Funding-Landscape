@@ -7,9 +7,11 @@ the input for the bigram model. Due to the large size of the tokenised files, th
 The first argument should be the path to the processed tokens (tokenised titles and abstracts) and also to save the corpus and dictionary, the second argument should the 
 path to load the frozen bigram model (that was created previously with the helper script 'create_bigram_model.py').
 Example:
+python3 ./code/02_create_corpus_dict.py ./clean-data/fine-scale/training-data ./code/supporting-files/bigram-models/ ./clean-data/fine-scale/training-data/
 
 argv[1]= "./clean-data/fine-scale/UK-USA/"
 argv[2]= "./code/supporting-files/bigram-models/"
+argv[3]= "./clean-data/fine-scale/UK-USA/"
 """
 
 __appname__ = 'create_corpus_dict.py'
@@ -41,8 +43,8 @@ class TokenIterator:
             next(reader, None) # ignores the header
             for row in reader:
                 row_line = ast.literal_eval(row[1])
-                # keep only text with at least 30 words
-                if len(row_line) > 29:
+                # keep only text with at least 20 words
+                if len(row_line) > 19:
                     yield(row_line) # reads lines as lists
 
 def main(argv):

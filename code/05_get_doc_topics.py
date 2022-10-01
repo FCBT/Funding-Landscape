@@ -27,7 +27,7 @@ from gensim.models import CoherenceModel
 def main(argv):
     #read LDA + corpus
     corpus = gensim.corpora.MmCorpus(os.path.join(argv[1],"corpus.mm"))
-    lda = gensim.models.ldamulticore.LdaMulticore.load(argv[2])
+    lda = gensim.models.ldamulticore.LdaMulticore.load(argv[2], "model_topic-number_topics")
     
     lda.minimum_probability = 0.0
 

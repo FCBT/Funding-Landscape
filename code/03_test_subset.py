@@ -12,7 +12,7 @@ If run as a script, it takes 5 arguments:
 4) the final value of topcis to run the model with (this value is not included in the run. i.e if one wants to run 5 to 10 topics, use 11 in this argument)
 5) the step value for topics to run the model (i.e run 10 to 101 but at 10 intervals = 10, 20, 30, ... 80, 90, 100 topics)
 
-Example:  python3 code/03_test_subset.py ~/Funding-Landscape/clean-data/fine-scale/UK-USA ~/Funding-Landscape/results/fine-scale/UK-USA/lda-models/testing_subsets
+Example:  python3 code/03_test_subset.py ~/Funding-Landscape/clean-data/fine-scale/UK-USA ~/Funding-Landscape/results/fine-scale/UK-USA/lda-models/testing-subsets
 """
 
 __appname__ = '[02_topic_tuning.py]'
@@ -38,7 +38,7 @@ def main(argv):
 
     # topics_range = range(int(argv[3]),int(argv[4]),int(argv[5]))
     topics_range = [50, 100, 150, 200, 250, 300, 350, 400]
-    percentage_corpus = [0.01, 0.05, 0.1, 0.15, 0.2, 0.25]
+    proportion_corpus = [0.01, 0.05, 0.1, 0.15, 0.2, 0.25]
     
     print("Loading data")
 
@@ -46,30 +46,30 @@ def main(argv):
     loaded_dict = corpora.Dictionary.load(os.path.join(argv[1], 'dictionary.dict'))
     loaded_corpus = corpora.MmCorpus(os.path.join(argv[1], 'corpus.mm'))
 
-    fitting_times = {"n_topics":[], "percentage_corpus":[], "fitting_time":[]}
+    fitting_times = {"n_topics":[], "proportion_corpus":[], "fitting_time":[]}
 
     print("Fitting")
 
-    for percentage in percentage_corpus:
+    for proportion in proportion_corpus:
 
-        corpus_index = random.sample(range(len(loaded_corpus)), int(len(loaded_corpus) * percentage))
+        corpus_index = random.sample(range(len(loaded_corpus)), int(len(loaded_corpus) * proportion))
 
         for k in topics_range:
             start = datetime.now()
             print(start)
 
-            print("Fitting", k, "topics with", str(percentage*100), "% corpus")
+            print("Fitting", k, "topics with", str(proportion*100), "% corpus")
             lda_model = gensim.models.ldamulticore.LdaMulticore(corpus = loaded_corpus[corpus_index], id2word=loaded_dict, chunksize=3000, passes=10, iterations=100, num_topics=k, workers=40)
 
             # Save model
-            lda_model.save(os.path.join(argv[2], 'perc_'+ str(percentage)+'_model_'+str(k)+'_topics'))
+            lda_model.save(os.path.join(argv[2], 'perc_'+ str(proportion)+'_model_'+str(k)+'_topics'))
             model_time = datetime.now()
             time2fit = model_time-start
-            print("Saved tuning model ", k, "at", model_time, "with ", str(percentage*100), "% corpus")
+            print("Saved tuning model ", k, "at", model_time, "with ", str(proportion*100), "% corpus")
             print("it took ", model_time-start, "to fit")
 
             fitting_times["n_topics"].append(k)
-            fitting_times["percentage_corpus"].append(percentage)
+            fitting_times["proportion_corpus"].append(proportion)
             fitting_times["fitting_time"].append(time2fit)
 
     time_df = pd.DataFrame.from_dict(fitting_times)

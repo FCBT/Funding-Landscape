@@ -1,3 +1,0 @@
-/Users/flavia/Projects/Ongoing/Funding-Landscape/flavia/raw-data/fine-scale/UK/UKRI/titles-abstracts.csv
-/Users/flavia/Projects/Ongoing/Funding-Landscape/flavia/raw-data/fine-scale/USA/NSF/titles-abstracts.csv
-/Users/flavia/Projects/Ongoing/Funding-Landscape/flavia/raw-data/fine-scale/USA/NIH/titles-abstracts.csv

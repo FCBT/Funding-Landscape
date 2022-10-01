@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 
-""" blah blah """
+""" blah blah 
+
+Example:
+python3 ./code/01_tokenize_texts.py ./clean-data/fine-scale/USA/NIH/
+"""
 
 __appname__ = 'TokenizeTexts'
 __author__ = 'Flavia C. Bellotto-Trigo (flaviacbtrigo@gmail.com)'
@@ -13,6 +17,11 @@ from nltk.stem import WordNetLemmatizer
 import TextProcessor
 import sys
 import os
+import nltk
+nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+
 
 class TokenizeTexts:
     def __init__(self, text_processor, dirnames, savefile) -> None:
@@ -48,12 +57,12 @@ def main(argv):
     lemmatizer = WordNetLemmatizer()
 
     # read file with path to directories
-    with open(os.path.join(argv[1], "titles-abstracts-directories.csv"),'r') as f:
+    with open(os.path.join("./code/supporting-files/directories-path/titles-abstracts-directories.txt"),'r') as f:
         dirnames = f.read().splitlines()
 
     text_processor = TextProcessor.TextProcessor(stop_words=stop_words, lemmatizer=lemmatizer)
 
-    tokenize_text = TokenizeTexts(text_processor=text_processor, dirnames=dirnames, savefile=os.path.join(argv[2], "titles-abstracts-tokenized.csv"))
+    tokenize_text = TokenizeTexts(text_processor=text_processor, dirnames=dirnames, savefile=os.path.join(argv[1], "titles-abstracts-tokenized.csv"))
 
     tokenize_text.tokenize_csv()
 
