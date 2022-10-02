@@ -65,7 +65,12 @@ def main(argv):
         print("it took ", time2fit, "to fit")
 
     time_df = pd.DataFrame.from_dict(fitting_times)
-    time_df.to_csv(os.path.join(argv[2], 'fitting_time_lda.csv'), index = False)
+
+    #save df appending if fitting_times already exists in that location
+    if os.path.exists(os.path.join(argv[2], 'fitting_time_lda.csv')):
+        time_df.to_csv(os.path.join(argv[2], 'fitting_time_lda.csv'), index = False, mode='a', header=False)
+    else:
+        time_df.to_csv(os.path.join(argv[2], 'fitting_time_lda.csv'), index = False)
 
     
     end = datetime.now()
