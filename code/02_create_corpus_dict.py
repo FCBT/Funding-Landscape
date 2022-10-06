@@ -7,7 +7,7 @@ the input for the bigram model. Due to the large size of the tokenised files, th
 The first argument should be the path to the processed tokens (tokenised titles and abstracts) and also to save the corpus and dictionary, the second argument should the 
 path to load the frozen bigram model (that was created previously with the helper script 'create_bigram_model.py').
 Example:
-python3 ./code/02_create_corpus_dict.py ./clean-data/fine-scale/training-data ./code/supporting-files/bigram-models/ ./clean-data/fine-scale/training-data/
+python3 ./code/02_create_corpus_dict.py ./clean-data/fine-scale/USA/NIH/ ./code/supporting-files/bigram-models/ ./clean-data/fine-scale/USA/NIH/
 
 argv[1]= "./clean-data/fine-scale/UK-USA/"
 argv[2]= "./code/supporting-files/bigram-models/"
