@@ -4,7 +4,7 @@
 
 # folders to ignore
 flavia
-old
+
 tokens
 lda-models
 coherence-scores
@@ -14,6 +14,7 @@ clean-data
 UK
 USA
 UK-USA
+test
 
 
 gensim.log
