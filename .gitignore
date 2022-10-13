@@ -1,10 +1,10 @@
 .DS_Store
 .Rhistory
 .ipynb_checkpoints
+.vscode/
 
 # folders to ignore
 flavia
-
 tokens
 lda-models
 coherence-scores
