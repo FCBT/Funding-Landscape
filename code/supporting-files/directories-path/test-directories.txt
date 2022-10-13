@@ -1,2 +1,1 @@
-./raw-data/fine-scale/test/funding_bodyA/
-./raw-data/fine-scale/test/funding_bodyB/
+/home/flavia/Projects/Funding-Landscape/raw-data/fine-scale/UK/UKRI/titles-abstracts.csv UKRI
