@@ -32,7 +32,7 @@ for x in files:
     if not x.startswith('.'):
         #open file
         with open(x, 'r') as text:
-            id = os.path.splitext(x)[0]
+            id = str('NSF-') + os.path.splitext(x)[0]
             content = "".join(text.readlines())
 
             data["ProjectId"].append(id)
