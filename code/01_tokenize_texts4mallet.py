@@ -43,9 +43,16 @@ class TokenizeTexts:
                     print("chunk "+ str(i) + "\n")
 
                     chunk['TitleAbstract'] = chunk['TitleAbstract'].map(lambda x: " ".join(self.text_processor.pre_process(x)))
+                    # count number of tokens
+                    chunk['n_tokens'] = chunk['TitleAbstract'].map(lambda x: len(x.split()))
+
                     chunk['Label'] = fname.split()[1]
 
                     chunk = chunk[["ProjectId", "Label", "TitleAbstract"]]
+                    # keep only documents with at least 5 tokens
+                    chunk = chunk.query("n_tokens > 4")
+                    # remove column
+                    chunk = chunk.drop(["n_tokens"], axis=1)
 
                     if i == 0:
                         chunk.to_csv(self.savefile,mode = 'w', index=False, header = False, sep = " ")
@@ -58,7 +65,7 @@ class TokenizeTexts:
 
 def main(argv):
     #read in stop words
-    with open("./code/supporting-files/stop_words.txt","r") as f:
+    with open("./code/supporting-files/stop-words.txt","r") as f:
         stop_words = f.read().splitlines()
 
     # define lemmatizer
@@ -73,12 +80,6 @@ def main(argv):
     text_processor = TextProcessor.TextProcessor(stop_words=stop_words, lemmatizer=lemmatizer)
 
     tokenize_text = TokenizeTexts(text_processor=text_processor, dirnames=dirnames, savefile=os.path.join(argv[2], "titles-abstracts-tokenized.csv"))
-
-    # data_mallet = {"ProjectID":[], "FundingBody":[], "Text":[]}
-    # data_mallet["ProjectID"].append(x)
-    # data_mallet["FundingBody"].append(y)
-    # data_mallet["Text"].append(tokenize_text)
-
 
     tokenize_text.tokenize_csv()
 
