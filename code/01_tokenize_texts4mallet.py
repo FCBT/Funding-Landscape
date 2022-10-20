@@ -48,11 +48,11 @@ class TokenizeTexts:
 
                     chunk['Label'] = fname.split()[1]
 
-                    chunk = chunk[["ProjectId", "Label", "TitleAbstract"]]
                     # keep only documents with at least 5 tokens
                     chunk = chunk.query("n_tokens > 4")
-                    # remove column
-                    chunk = chunk.drop(["n_tokens"], axis=1)
+
+                    chunk = chunk[["ProjectId", "Label", "TitleAbstract"]]
+                    
 
                     if i == 0:
                         chunk.to_csv(self.savefile,mode = 'w', index=False, header = False, sep = " ")
