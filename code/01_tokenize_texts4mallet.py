@@ -1,11 +1,31 @@
 #!/usr/bin/env python3
 
-""" blah blah 
+"""  
+This script reads the raw text files and save them in a format to be used by 
+MALLET (i.e., [TAG] [LABEL] [TEXT]). MALLET is a Java-based program for statistical natural 
+language processing, document classification, clustering, topic modeling, information extraction, 
+and other machine learning applications to text. It has an extremely fast and highly scalable 
+implementation of Gibbs sampling, efficient methods for document-topic hyperparameter optimization, 
+and tools for inferring topics for new documents given trained models.
 
-Example:
-python3 ./code/01_tokenize_texts.py ./clean-data/fine-scale/USA/NIH/
+The TokenizeTexts class reads raw text files in chunks from different directories if given a file listing paths
+to all directories (i.e., [argv1]), and applies the 'TextProcessor' class. The TexProcessor class was defined 
+in the ./code/TextProcessor.py script, this pre-process words for text analysis (i.e. lowercases, 
+tokenizes, remove accents and punctuations, lemmatizes and tags words). The chunking of the data makes 
+it quicker and memory efficient. 
 
-"./code/supporting-files/directories-path/titles-abstracts-directories.txt"
+This script also loads a file with stop_words to be removed from the data. Stop_words are a set of commonly used 
+words in a language with no value in topic allocation (i.e., 'I', 'how', 'and'). This stop_word file also include
+words that we deemed to have no value for the purpose of our analysis (i.e. 'grant', 'professor', 'research')
+
+Here we also lemmatize words, that is, we reduce words to their lemmas (i.e running, runners -> run).
+
+Then we save the tokenized text to a file called "titles-abstracts-tokenized.csv" in a path given 
+by [argv2].
+
+How to run this script from the command line - example:
+python ./code/01_tokenize_texts4mallet.py ./code/supporting-files/directories-path/titles-abstracts-directories.txt ./clean-data/fine-scale/'country'/'fundingBody'/
+
 """
 
 __appname__ = 'TokenizeTexts'
