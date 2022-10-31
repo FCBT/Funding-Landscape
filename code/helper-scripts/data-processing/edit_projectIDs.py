@@ -84,13 +84,13 @@ df = df.drop(['Unnamed: 0'],axis=1)
 df.to_csv('/Users/flavia/Projects/Ongoing/Funding-Landscape/flavia/raw-data/fine-scale/Ireland/GOV/titles-abstracts.csv', index= False)
 
 # 
-df = pd.read_csv('/home/flavia/Projects/Funding-Landscape/raw-data/fine-scale/India/ugc/ugc-raw-text.csv', index_col=False)
+df = pd.read_csv('/home/flavia/Projects/Funding-Landscape/raw-data/fine-scale/India/icmr-med/icmr-raw-text.csv', index_col=False)
 df.head()
 df = df.rename(columns={'AbstractTitle':'TitleAbstract'})
 # df['ProjectId'] = str('HRB-') + df['ProjectId'].astype(str)
 df.columns
 df = df.drop(['Unnamed: 0'],axis=1)
 df.columns
-df.to_csv('/home/flavia/Projects/Funding-Landscape/raw-data/fine-scale/India/ugc/titles-abstracts.csv', index= False)
+df.to_csv('/home/flavia/Projects/Funding-Landscape/raw-data/fine-scale/India/icmr-med/titles-abstracts.csv', index= False)
 
 

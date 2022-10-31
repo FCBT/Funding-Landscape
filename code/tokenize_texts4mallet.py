@@ -24,7 +24,7 @@ Then we save the tokenized text to a file called "titles-abstracts-tokenized.csv
 by [argv2].
 
 How to run this script from the command line - example:
-python ./code/01_tokenize_texts4mallet.py ./code/supporting-files/directories-path/titles-abstracts-directories.txt ./clean-data/fine-scale/'country'/'fundingBody'/
+python ./code/tokenize_texts4mallet.py ./code/supporting-files/directories-path/titles-abstracts-directories.txt ./clean-data/fine-scale/'country'/'fundingBody'/
 
 """
 
@@ -53,14 +53,19 @@ class TokenizeTexts:
         self.savefile = savefile
 
     def tokenize_csv(self):
+        
+        i = 0
+
         for fname in self.dirnames:
             print(fname.split()[0]+"\n")
 
             with pd.read_csv(fname.split()[0], chunksize=1000) as f:
                 # print(len(f))
-                i = 0
+                
                 for chunk in f:
                     print("chunk "+ str(i) + "\n")
+
+                    
 
                     chunk['TitleAbstract'] = chunk['TitleAbstract'].map(lambda x: " ".join(self.text_processor.pre_process(x)))
                     # count number of tokens
@@ -70,6 +75,9 @@ class TokenizeTexts:
 
                     # keep only documents with at least 5 tokens
                     chunk = chunk.query("n_tokens > 4")
+
+                    #sanatise outputs - replacing all spaces with underscores
+                    chunk = chunk.apply(lambda x: x.str.strip()).replace(" ", "_", regex=True)
 
                     chunk = chunk[["ProjectId", "Label", "TitleAbstract"]]
                     
