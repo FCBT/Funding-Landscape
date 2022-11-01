@@ -34,6 +34,8 @@ class TextProcessor:
         tokens = [self.lemmatizer.lemmatize(word) for word in tokens]
         # remove short words (smaller than two characters)
         tokens = [word for word in tokens if len(word) > 2]
+        # remove stop words one more time, in case they were created after other processing (e.g lemmatization)
+        tokens = [word for word in tokens if word not in (self.stop_words)]
         
         return(tokens)
 
