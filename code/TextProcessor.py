@@ -24,16 +24,21 @@ class TextProcessor:
         # tokenise and split
         # lowercases, tokenizes and remove accents and punctuations
         tokens = gensim.utils.simple_preprocess(str(tokens), deacc=True)
+        
         # remove stop-words
         tokens = [word for word in tokens if word not in (self.stop_words)]
+        
         # filter word tags (we are keeping only Nouns (NN) and verbs (VB))
         tags = nltk.pos_tag(tokens)
         tokens = [word[0] for word in tags if word[1].startswith(tuple(["NN", "VB"]))]
+        
         # lemmatize
         # reduce words to their lemmas/basic form
         tokens = [self.lemmatizer.lemmatize(word) for word in tokens]
+        
         # remove short words (smaller than two characters)
         tokens = [word for word in tokens if len(word) > 2]
+        
         # remove stop words one more time, in case they were created after other processing (e.g lemmatization)
         tokens = [word for word in tokens if word not in (self.stop_words)]
         

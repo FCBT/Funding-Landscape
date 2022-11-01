@@ -41,10 +41,11 @@ import sys
 import os
 import nltk
 import csv
-nltk.download('averaged_perceptron_tagger')
-nltk.download('wordnet')
-nltk.download('omw-1.4')
+# nltk.download('averaged_perceptron_tagger')
+# nltk.download('wordnet')
+# nltk.download('omw-1.4')
 
+fname = "/Users/flavia/Projects/Ongoing/Funding-Landscape/flavia/raw-data/fine-scale/UK/UKRI/titles-abstracts.csv UKRI"
 
 class TokenizeTexts:
     def __init__(self, text_processor, dirnames, savefile) -> None:
@@ -65,21 +66,19 @@ class TokenizeTexts:
                 for chunk in f:
                     print("chunk "+ str(i) + "\n")
 
-                    
-
                     chunk['TitleAbstract'] = chunk['TitleAbstract'].map(lambda x: " ".join(self.text_processor.pre_process(x)))
+                    
                     # count number of tokens
                     chunk['n_tokens'] = chunk['TitleAbstract'].map(lambda x: len(x.split()))
-
                     chunk['Label'] = fname.split()[1]
 
                     # keep only documents with at least 5 tokens
                     chunk = chunk.query("n_tokens > 4")
 
-                    #sanatise outputs - replacing all spaces with underscores
-                    chunk = chunk.apply(lambda x: x.str.strip()).replace(" ", "_", regex=True)
-
                     chunk = chunk[["ProjectId", "Label", "TitleAbstract"]]
+
+                    #sanatise outputs - replacing all spaces with underscores
+                    chunk.ProjectId = chunk.ProjectId.apply(lambda x: x.strip()).replace(" ", "-", regex=True)
                     
 
                     if i == 0:
