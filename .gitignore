@@ -7,6 +7,7 @@
 flavia
 tokens
 lda-models
+mallet-models
 coherence-scores
 results/fine-scale/mallet-models
 results/fine-scale/tSNE
