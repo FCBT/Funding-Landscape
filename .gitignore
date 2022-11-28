@@ -8,7 +8,10 @@ flavia
 tokens
 lda-models
 coherence-scores
-results
+results/fine-scale/mallet-models
+results/fine-scale/tSNE
+results/fine-scale/umap
+results/fine-scale/distances
 clean-data 
 # clean-data needs to be ignored because the files in this folder are too large for git to handle
 UK
